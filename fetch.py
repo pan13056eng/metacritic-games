@@ -45,6 +45,9 @@ PLATS = {"pc": "PC", "playstation-5": "PS5", "playstation-4": "PS4", "xbox-serie
 #   gamesradar+「GamesRadar+」· edge-magazine「EDGE」※注意 gamesradar 带加号、edge 是 edge-magazine
 OUTLETS = {"ign": "IGN", "gamespot": "GameSpot", "eurogamer": "Eurogamer",
            "push-square": "Push Square", "nintendo-life": "Nintendo Life"}
+# 手机端 5 家要挤在同一行，全称（PUSH SQUARE / NINTENDO LIFE）放不下会换行，用业内通用简称
+OUTLETS_ABBR = {"ign": "IGN", "gamespot": "GS", "eurogamer": "EG",
+                "push-square": "PS", "nintendo-life": "NL"}
 ROOT = pathlib.Path(__file__).parent
 DATA = ROOT / "data" / "games.json"
 COVERS = ROOT / "data" / "covers.json"     # 封面 base64 缓存，失败时可复用上次
@@ -414,8 +417,10 @@ table{width:100%;border-collapse:separate;border-spacing:0 8px}
 td{background:var(--card);border-top:1px solid var(--line);border-bottom:1px solid var(--line);padding:12px 10px;vertical-align:middle}
 td:first-child{border-left:1px solid var(--line);border-radius:8px 0 0 8px;width:64px;padding:8px 4px 8px 8px}
 td:last-child{border-right:1px solid var(--line);border-radius:0 8px 8px 0}
-.covbox{width:56px;height:78px;background:#1c2128;border-radius:4px;overflow:hidden}
+.covbox{width:56px;height:84px;background:#1c2128;border-radius:4px;overflow:hidden;flex:0 0 auto}
 img.cov{width:100%;height:100%;object-fit:cover;display:block}
+.covph{width:100%;height:100%;display:flex;align-items:center;justify-content:center;
+  background:#21262d;color:#7d8590;font-size:17px;font-weight:600}
 .t{font-weight:600;font-size:15px;text-decoration:none;color:var(--tx)}.t:hover{color:#58a6ff}
 .meta2{color:var(--dim);font-size:11px;margin-top:3px}
 .dev{color:#8b9bb4;font-size:11px;margin-top:2px}
@@ -426,6 +431,7 @@ img.cov{width:100%;height:100%;object-fit:cover;display:block}
 .out{display:flex;gap:6px;flex-wrap:wrap;justify-content:flex-end}
 .o{background:#0d1117;border:1px solid var(--line);border-radius:6px;padding:5px 8px;text-align:center;min-width:66px}
 .o i{display:block;font-style:normal;font-size:9px;color:var(--dim);letter-spacing:.3px}
+.o i .ab{display:none}
 .o b{font-size:15px}
 details{margin:26px 0;background:var(--card);border:1px solid var(--line);border-radius:8px;padding:0 14px}
 .soon{color:#58a6ff}
@@ -433,7 +439,7 @@ summary{cursor:pointer;padding:14px 0;font-weight:600;list-style:none}
 summary::-webkit-details-marker{display:none}summary:before{content:"▸ ";color:var(--dim)}
 details[open] summary:before{content:"▾ "}
 .up{display:flex;align-items:center;gap:12px;padding:10px 0;border-top:1px solid var(--line)}
-.up img{width:38px;height:52px;object-fit:cover;border-radius:4px}
+.up img{width:38px;height:57px;object-fit:cover;border-radius:4px}
 .up .d{margin-left:auto;color:var(--dim);font-size:12px}
 footer{margin-top:28px;color:var(--dim);font-size:11px;text-align:center}
 @media (max-width:720px){
@@ -456,13 +462,17 @@ footer{margin-top:28px;color:var(--dim);font-size:11px;text-align:center}
   tbody tr>td:nth-child(5){grid-area:3/1/4/4}
   .sc{font-size:22px;min-width:0}
   .sc small{font-size:9px}
-  .out{justify-content:flex-start;gap:5px}
-  .o{min-width:56px;padding:4px 6px}
+  .out{display:grid;grid-template-columns:repeat(5,1fr);gap:4px}
+  .o{min-width:0;padding:4px 2px}
+  .o i .fl{display:none}
+  .o i .ab{display:inline}
+  .o i{font-size:9px;letter-spacing:0}
   .o b{font-size:14px}
   .t{font-size:14px}
   .t,.meta2,.dev{overflow-wrap:break-word}
   .up{flex-wrap:wrap;gap:8px 10px;align-items:flex-start}
   .up>div{min-width:0;flex:1 1 auto}
+  .up .covbox{flex:0 0 38px}
   .up .d{margin-left:0;flex:0 0 100%;padding-left:50px;font-size:11px;line-height:1.5}
   details{margin:18px 0;padding:0 12px}
   summary{font-size:13px}
@@ -501,6 +511,13 @@ const col = v => v == null ? 'n' : v >= 8 ? 'g' : v >= 5 ? 'y' : 'r';
 const col100 = v => v == null ? 'n' : v >= 75 ? 'g' : v >= 50 ? 'y' : 'r';
 const fmt = v => v == null ? '—' : (Math.round(v * 10) / 10).toFixed(1);
 const gapOf = g => (g.user != null && g.meta != null) ? g.user * 10 - g.meta : null;
+// 封面统一走这里：没图的（未发售常见）显示游戏名首字占位，不留突兀的灰块
+const covBox = (g, w, h) => {
+  const s = D.covers[g.slug] || g.img || '';
+  return `<div class="covbox" style="width:${w}px;height:${h}px">`
+    + (s ? `<img class="cov" src="${s}" onerror="this.style.display='none'">`
+         : `<div class="covph">${(g.title || '?').trim().charAt(0)}</div>`) + '</div>';
+};
 
 document.getElementById('stats').innerHTML = [
   ['已收录', D.released.length + ' 款'], ['统计区间', D.window[0] + ' ~ ' + D.window[1]]
@@ -516,14 +533,14 @@ function scoreLine(g) {
   return m + ' · ' + u;
 }
 function row(g) {
-  const outs = __OUTLETS__.map(n => {
+  const outs = __OUTLETS__.map(([n, ab]) => {
     const v = g.scores[n];
-    return `<div class="o"><i>${n.toUpperCase()}</i><b class="${col100(v)}">${v == null ? '—' : v}</b></div>`;
+    return `<div class="o" title="${n}"><i><span class="fl">${n.toUpperCase()}</span>`
+      + `<span class="ab">${ab}</span></i><b class="${col100(v)}">${v == null ? '—' : v}</b></div>`;
   }).join('');
   const thin = g.user != null && g.user_count < 10;      // 样本太少，分数仅供参考
   return `<tr>
-    <td><div class="covbox"><img class="cov" src="${D.covers[g.slug] || g.img || ''}"
-      onerror="this.style.display='none'"></div></td>
+    <td>${covBox(g, 56, 84)}</td>
     <td style="min-width:240px"><a class="t" href="${g.url}" target="_blank">${g.title}</a>
       <div class="meta2">${g.date || '待定'} · ${platTags(g)}</div>
       <div class="dev">${g.dev || '—'}${g.pub && g.pub !== g.dev ? ' / ' + g.pub : ''}</div></td>
@@ -541,19 +558,17 @@ function sortBy(k) {
 }
 document.querySelectorAll('.bar button').forEach(b => b.onclick = () => sortBy(b.dataset.k));
 sortBy('user');
-const dead = __OUTLETS__.filter(n => !D.released.some(g => g.scores[n] != null));
+const dead = __OUTLETS__.filter(([n]) => !D.released.some(g => g.scores[n] != null)).map(([n]) => n);
 document.getElementById('ft').textContent = '玩家评分 10 分制 · 媒体评分 100 分制 · 带 * 表示评分人数不足 10 人'
   + (dead.length ? ' · 本期未出数字分：' + dead.join('、') : '');
 document.getElementById('watch').innerHTML = (D.watch || []).map(g => `<div class="up">
-  <div class="covbox" style="width:38px;height:52px"><img class="cov" src="${D.covers[g.slug] || g.img || ''}"
-    onerror="this.style.display='none'"></div>
+  ${covBox(g, 38, 57)}
   <div><a class="t" href="${g.url}" target="_blank">${g.title}</a>
   <div class="meta2">${g.date || '待定'} · ${platTags(g)}</div>
   <div class="dev">${g.dev || '—'}${g.pub && g.pub !== g.dev ? ' / ' + g.pub : ''}</div></div>
   <div class="d">${scoreLine(g)}</div></div>`).join('');
 document.getElementById('ups').innerHTML = D.upcoming.map(g => `<div class="up">
-  <div class="covbox" style="width:38px;height:52px"><img class="cov" src="${D.covers[g.slug] || g.img || ''}"
-    onerror="this.style.display='none'"></div>
+  ${covBox(g, 38, 57)}
   <div><a class="t" href="${g.url}" target="_blank">${g.title}</a>
   <div class="meta2">${g.date || '待定'} · ${platTags(g) || '平台待定'}</div>
   <div class="dev">${g.dev || '—'}${g.pub && g.pub !== g.dev ? ' / ' + g.pub : ''}</div></div>
@@ -561,8 +576,7 @@ document.getElementById('ups').innerHTML = D.upcoming.map(g => `<div class="up">
 document.getElementById('annual').innerHTML = (D.annual || []).map(a => `<details>
   <summary title="全能：媒体 ≥ __YMINM__ 且玩家 ≥ __YMINU__；媒体封神：媒体 ≥ __YTOP__（不看玩家分）">${a.year} 年度精品（${a.games.length} 款）· 媒体 ≥ __YCNT__ 篇、评分人数 ≥ __YN__ 人，全能或媒体封神 · ${a.year < new Date().getFullYear() ? '往年数据已冻结' : '本年度迄今'}</summary>
   <div>${a.games.map(g => `<div class="up">
-    <div class="covbox" style="width:38px;height:52px"><img class="cov" src="${D.covers[g.slug] || g.img || ''}"
-      onerror="this.style.display='none'"></div>
+    ${covBox(g, 38, 57)}
     <div><a class="t" href="${g.url}" target="_blank">${g.title}</a>
     <div class="meta2">${g.date || ''} · ${platTags(g)}</div>
     <div class="dev">${g.dev || '—'}${g.pub && g.pub !== g.dev ? ' / ' + g.pub : ''}</div></div>
@@ -578,7 +592,9 @@ document.getElementById('annual').innerHTML = (D.annual || []).map(a => `<detail
                       .replace("__YMINM__", str(YEAR_MIN_META)) \
                       .replace("__YMINU__", str(YEAR_MIN_USER)) \
                       .replace("__YTOP__", str(YEAR_TOP_META)) \
-                      .replace("__OUTLETS__", json.dumps(list(OUTLETS.values()), ensure_ascii=False)) \
+                      .replace("__OUTLETS__", json.dumps(
+                          [[OUTLETS[k], OUTLETS_ABBR.get(k, OUTLETS[k])] for k in OUTLETS],
+                          ensure_ascii=False)) \
                       .replace("__TOTAL__", str(p.get("total", len(p["released"]))))
 
 if __name__ == "__main__":
