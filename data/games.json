@@ -1,5 +1,5 @@
 {
- "updated": "2026-09-18 10:34",
+ "updated": "2026-09-18 03:00",
  "window": [
   "2026-08-19",
   "2026-09-18"
@@ -520,7 +520,7 @@
    "dev": "Falcom",
    "pub": "GungHo",
    "meta": 92,
-   "meta_count": 14,
+   "meta_count": 15,
    "user": null,
    "user_count": 0,
    "scores": {
@@ -994,30 +994,6 @@
    "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1781631206.jpg"
   },
   {
-   "slug": "gears-of-war-e-day",
-   "title": "Gears of War: E-Day",
-   "date": "2026-10-06",
-   "url": "https://www.metacritic.com/game/gears-of-war-e-day/",
-   "meta": null,
-   "plats": [
-    {
-     "n": "XSX",
-     "s": null,
-     "c": 10,
-     "d": null
-    },
-    {
-     "n": "PC",
-     "s": null,
-     "c": 1,
-     "d": null
-    }
-   ],
-   "dev": "The Coalition",
-   "pub": "Xbox Game Studios",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1788246859.jpg"
-  },
-  {
    "slug": "star-wars-galactic-racer",
    "title": "Star Wars: Galactic Racer",
    "date": "2026-10-06",
@@ -1046,6 +1022,30 @@
    "dev": "Fuse Games",
    "pub": "Secret Mode",
    "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1782239523.jpg"
+  },
+  {
+   "slug": "gears-of-war-e-day",
+   "title": "Gears of War: E-Day",
+   "date": "2026-10-06",
+   "url": "https://www.metacritic.com/game/gears-of-war-e-day/",
+   "meta": null,
+   "plats": [
+    {
+     "n": "XSX",
+     "s": null,
+     "c": 10,
+     "d": null
+    },
+    {
+     "n": "PC",
+     "s": null,
+     "c": 1,
+     "d": null
+    }
+   ],
+   "dev": "The Coalition",
+   "pub": "Xbox Game Studios",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1788246859.jpg"
   },
   {
    "slug": "enshrouded",
@@ -1096,6 +1096,24 @@
    "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1787246452.jpg"
   },
   {
+   "slug": "slap-the-gamer",
+   "title": "Slap the Gamer",
+   "date": "2026-09-19",
+   "url": "https://www.metacritic.com/game/slap-the-gamer/",
+   "meta": null,
+   "plats": [
+    {
+     "n": "PC",
+     "s": null,
+     "c": 0,
+     "d": "2026-09-19"
+    }
+   ],
+   "dev": "Slap The Gamer Interactive Studios",
+   "pub": "Slap The Gamer Interactive Publishing",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1280868-52.jpg"
+  },
+  {
    "slug": "somebodys-tale",
    "title": "Somebody's Tale",
    "date": "2026-09-19",
@@ -1114,10 +1132,10 @@
    "img": ""
   },
   {
-   "slug": "red-hallway-horror",
-   "title": "RED HALLWAY: Horror",
+   "slug": "red-hallways-horror",
+   "title": "RED HALLWAYS: Horror",
    "date": "2026-09-19",
-   "url": "https://www.metacritic.com/game/red-hallway-horror/",
+   "url": "https://www.metacritic.com/game/red-hallways-horror/",
    "meta": null,
    "plats": [
     {
@@ -1129,7 +1147,7 @@
    ],
    "dev": "Downmeadowstreet",
    "pub": "Downmeadowstreet",
-   "img": ""
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1271125-52.jpg"
   },
   {
    "slug": "screw-it",
@@ -1150,28 +1168,10 @@
    "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1271646-52.jpg"
   },
   {
-   "slug": "slap-the-gamer",
-   "title": "Slap the Gamer",
+   "slug": "red-hallway-horror",
+   "title": "RED HALLWAY: Horror",
    "date": "2026-09-19",
-   "url": "https://www.metacritic.com/game/slap-the-gamer/",
-   "meta": null,
-   "plats": [
-    {
-     "n": "PC",
-     "s": null,
-     "c": 0,
-     "d": "2026-09-19"
-    }
-   ],
-   "dev": "Slap The Gamer Interactive Studios",
-   "pub": "Slap The Gamer Interactive Publishing",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1280868-52.jpg"
-  },
-  {
-   "slug": "red-hallways-horror",
-   "title": "RED HALLWAYS: Horror",
-   "date": "2026-09-19",
-   "url": "https://www.metacritic.com/game/red-hallways-horror/",
+   "url": "https://www.metacritic.com/game/red-hallway-horror/",
    "meta": null,
    "plats": [
     {
@@ -1183,7 +1183,7 @@
    ],
    "dev": "Downmeadowstreet",
    "pub": "Downmeadowstreet",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1271125-52.jpg"
+   "img": ""
   }
  ],
  "annual": [
@@ -1548,7 +1548,7 @@
  "sig": {
   "trails-in-the-sky-2nd-chapter": [
    92,
-   14,
+   15,
    null
   ],
   "elden-ring-tarnished-edition": [
