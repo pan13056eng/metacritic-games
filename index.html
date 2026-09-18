@@ -37,6 +37,37 @@ details[open] summary:before{content:"▾ "}
 .up img{width:38px;height:52px;object-fit:cover;border-radius:4px}
 .up .d{margin-left:auto;color:var(--dim);font-size:12px}
 footer{margin-top:28px;color:var(--dim);font-size:11px;text-align:center}
+@media (max-width:720px){
+  .wrap{padding:16px 12px 40px}
+  h1{font-size:19px}
+  .sub{font-size:11px;margin-bottom:14px}
+  .stats{gap:8px}
+  .stat{flex:1 1 44%;padding:8px 12px}
+  .stat b{font-size:17px}
+  .bar{gap:5px}
+  .bar button{padding:6px 9px;font-size:11px}
+  table,tbody,tr,td{display:block}
+  td{width:auto!important;min-width:0!important;padding:0!important;border:none!important;border-radius:0!important;background:none}
+  tbody tr{display:grid;grid-template-columns:56px 1fr 1fr;align-items:center;gap:9px 10px;
+    background:var(--card);border:1px solid var(--line);border-radius:8px;margin-bottom:10px;padding:10px}
+  tbody tr>td:nth-child(1){grid-area:1/1/2/2}
+  tbody tr>td:nth-child(2){grid-area:1/2/2/4}
+  tbody tr>td:nth-child(3){grid-area:2/2/3/3}
+  tbody tr>td:nth-child(4){grid-area:2/3/3/4}
+  tbody tr>td:nth-child(5){grid-area:3/1/4/4}
+  .sc{font-size:22px;min-width:0}
+  .sc small{font-size:9px}
+  .out{justify-content:flex-start;gap:5px}
+  .o{min-width:56px;padding:4px 6px}
+  .o b{font-size:14px}
+  .t{font-size:14px}
+  .t,.meta2,.dev{overflow-wrap:break-word}
+  .up{flex-wrap:wrap;gap:8px 10px;align-items:flex-start}
+  .up>div{min-width:0;flex:1 1 auto}
+  .up .d{margin-left:0;flex:0 0 100%;padding-left:50px;font-size:11px;line-height:1.5}
+  details{margin:18px 0;padding:0 12px}
+  summary{font-size:13px}
+}
 </style></head><body><div class="wrap">
 <h1>新游评分简报</h1>
 <div class="sub">近 30 天共 33 款新游 → 收录 <b id="n"></b> 款：媒体评测 ≥ 30 篇，或玩家分 ≥ 8.0 且评分人数 ≥ 10 人，或 Metascore ≥ 90 · 更新 <span id="upd"></span></div>
