@@ -1,0 +1,62 @@
+name: 每日更新 Metacritic 简报
+
+on:
+  schedule:
+    - cron: '17 2 * * *'        # 每天 UTC 02:17 = 北京时间 10:17（避开整点，GitHub 会延迟排队）
+  workflow_dispatch:            # 允许在 Actions 页面手动点一下立刻跑
+
+permissions:
+  contents: write
+
+concurrency:
+  group: metacritic-update
+  cancel-in-progress: false
+
+jobs:
+  update:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+
+      - name: 装 Pillow（Linux 上没有 macOS 的 sips，用它压封面）
+        run: pip install --quiet Pillow
+
+      - name: 抓取数据并生成页面
+        run: python fetch.py
+
+      - name: 有新数据就提交回仓库（缓存下回复用）
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add -A data index.html
+          if git diff --cached --quiet; then
+            echo "本次无变化，跳过提交"
+          else
+            git commit -m "chore: 更新简报 $(date -u '+%Y-%m-%d')"
+            git push
+          fi
+
+      - name: 发布到 gh-pages 分支
+        run: |
+          set -e
+          REPO="https://x-access-token:${{ secrets.GITHUB_TOKEN }}@github.com/${{ github.repository }}"
+          rm -rf /tmp/pages && mkdir -p /tmp/pages
+          if git clone --depth 1 --branch gh-pages "$REPO" /tmp/pages 2>/dev/null; then
+            echo "已拉取现有 gh-pages"
+          else
+            rm -rf /tmp/pages && mkdir -p /tmp/pages
+            cd /tmp/pages && git init -q
+            git symbolic-ref HEAD refs/heads/gh-pages
+            git remote add origin "$REPO"
+          fi
+          cp "$GITHUB_WORKSPACE/index.html" /tmp/pages/index.html
+          cd /tmp/pages
+          git add index.html
+          git -c user.name="github-actions[bot]" \
+              -c user.email="github-actions[bot]@users.noreply.github.com" \
+              commit -q -m "publish $(date -u '+%Y-%m-%d %H:%M UTC')" || echo "页面无变化"
+          git push -q origin gh-pages

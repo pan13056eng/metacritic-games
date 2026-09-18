@@ -1,0 +1,1715 @@
+{
+ "updated": "2026-09-18 10:34",
+ "window": [
+  "2026-08-19",
+  "2026-09-18"
+ ],
+ "total": 33,
+ "released": [
+  {
+   "slug": "onimusha-way-of-the-sword",
+   "title": "Onimusha: Way of the Sword",
+   "date": "2026-09-04",
+   "url": "https://www.metacritic.com/game/onimusha-way-of-the-sword/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1781631535.jpg",
+   "plats": [
+    {
+     "n": "PS5",
+     "s": 85,
+     "c": 100,
+     "d": null
+    },
+    {
+     "n": "PC",
+     "s": 83,
+     "c": 31,
+     "d": null
+    },
+    {
+     "n": "XSX",
+     "s": 83,
+     "c": 10,
+     "d": null
+    },
+    {
+     "n": "NS2",
+     "s": 90,
+     "c": 15,
+     "d": null
+    }
+   ],
+   "dev": "Capcom",
+   "pub": "Capcom",
+   "meta": 85,
+   "meta_count": 102,
+   "user": 8.6,
+   "user_count": 89,
+   "scores": {
+    "IGN": 100,
+    "Push Square": 90,
+    "Eurogamer": 80
+   }
+  },
+  {
+   "slug": "metal-gear-solid-master-collection-vol-2",
+   "title": "Metal Gear Solid: Master Collection Vol. 2",
+   "date": "2026-08-27",
+   "url": "https://www.metacritic.com/game/metal-gear-solid-master-collection-vol-2/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1787271776.jpg",
+   "plats": [
+    {
+     "n": "PS5",
+     "s": 85,
+     "c": 36,
+     "d": null
+    },
+    {
+     "n": "NS2",
+     "s": null,
+     "c": 3,
+     "d": null
+    },
+    {
+     "n": "XSX",
+     "s": null,
+     "c": 2,
+     "d": null
+    },
+    {
+     "n": "NS",
+     "s": null,
+     "c": 0,
+     "d": null
+    },
+    {
+     "n": "PC",
+     "s": 82,
+     "c": 18,
+     "d": null
+    }
+   ],
+   "dev": "Konami",
+   "pub": "Konami",
+   "meta": 85,
+   "meta_count": 36,
+   "user": 8.6,
+   "user_count": 10,
+   "scores": {
+    "Push Square": 80
+   }
+  },
+  {
+   "slug": "orbitals",
+   "title": "Orbitals",
+   "date": "2026-09-03",
+   "url": "https://www.metacritic.com/game/orbitals/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1787423536.jpg",
+   "plats": [
+    {
+     "n": "NS2",
+     "s": 82,
+     "c": 77,
+     "d": null
+    }
+   ],
+   "dev": "Shapefarm",
+   "pub": "Kepler Interactive",
+   "meta": 82,
+   "meta_count": 81,
+   "user": 8.5,
+   "user_count": 19,
+   "scores": {
+    "Nintendo Life": 90,
+    "IGN": 80,
+    "Eurogamer": 60
+   }
+  },
+  {
+   "slug": "the-blood-of-dawnwalker",
+   "title": "The Blood of Dawnwalker",
+   "date": "2026-09-03",
+   "url": "https://www.metacritic.com/game/the-blood-of-dawnwalker/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1777678175.jpg",
+   "plats": [
+    {
+     "n": "PC",
+     "s": 84,
+     "c": 39,
+     "d": null
+    },
+    {
+     "n": "PS5",
+     "s": 83,
+     "c": 68,
+     "d": null
+    },
+    {
+     "n": "XSX",
+     "s": 86,
+     "c": 8,
+     "d": null
+    }
+   ],
+   "dev": "Rebel Wolves",
+   "pub": "Bandai Namco Games",
+   "meta": 83,
+   "meta_count": 72,
+   "user": 8.3,
+   "user_count": 185,
+   "scores": {
+    "IGN": 90,
+    "GameSpot": 80,
+    "Push Square": 70
+   }
+  },
+  {
+   "slug": "stalker-2-heart-of-chornobyl-cost-of-hope",
+   "title": "S.T.A.L.K.E.R. 2: Heart of Chornobyl - Cost of Hope",
+   "date": "2026-08-20",
+   "url": "https://www.metacritic.com/game/stalker-2-heart-of-chornobyl-cost-of-hope/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1787151432.jpg",
+   "plats": [
+    {
+     "n": "XSX",
+     "s": null,
+     "c": 0,
+     "d": null
+    },
+    {
+     "n": "PC",
+     "s": 84,
+     "c": 18,
+     "d": null
+    },
+    {
+     "n": "PS5",
+     "s": null,
+     "c": 0,
+     "d": null
+    }
+   ],
+   "dev": "GSC Game World",
+   "pub": "GSC Game World",
+   "meta": 84,
+   "meta_count": 18,
+   "user": 8.2,
+   "user_count": 18,
+   "scores": {}
+  },
+  {
+   "slug": "resonance-a-plague-tale-legacy",
+   "title": "Resonance: A Plague Tale Legacy",
+   "date": "2026-08-27",
+   "url": "https://www.metacritic.com/game/resonance-a-plague-tale-legacy/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1781629668.jpg",
+   "plats": [
+    {
+     "n": "PS5",
+     "s": 78,
+     "c": 63,
+     "d": null
+    },
+    {
+     "n": "XSX",
+     "s": 84,
+     "c": 12,
+     "d": null
+    },
+    {
+     "n": "PC",
+     "s": 84,
+     "c": 46,
+     "d": null
+    }
+   ],
+   "dev": "Asobo Studio",
+   "pub": "Focus Entertainment",
+   "meta": 78,
+   "meta_count": 65,
+   "user": 8.2,
+   "user_count": 83,
+   "scores": {
+    "Push Square": 70,
+    "Eurogamer": 60,
+    "IGN": 60,
+    "GameSpot": 60
+   }
+  },
+  {
+   "slug": "elden-ring-tarnished-edition",
+   "title": "Elden Ring: Tarnished Edition",
+   "date": "2026-08-28",
+   "url": "https://www.metacritic.com/game/elden-ring-tarnished-edition/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1787423371.jpg",
+   "plats": [
+    {
+     "n": "NS2",
+     "s": 90,
+     "c": 53,
+     "d": null
+    }
+   ],
+   "dev": "From Software",
+   "pub": "Bandai Namco Games",
+   "meta": 90,
+   "meta_count": 53,
+   "user": 8.1,
+   "user_count": 15,
+   "scores": {
+    "Nintendo Life": 90
+   }
+  },
+  {
+   "slug": "star-wars-zero-company",
+   "title": "Star Wars Zero Company",
+   "date": "2026-08-27",
+   "url": "https://www.metacritic.com/game/star-wars-zero-company/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1781630324.jpg",
+   "plats": [
+    {
+     "n": "PC",
+     "s": 85,
+     "c": 63,
+     "d": null
+    },
+    {
+     "n": "PS5",
+     "s": 84,
+     "c": 26,
+     "d": null
+    },
+    {
+     "n": "XSX",
+     "s": 85,
+     "c": 15,
+     "d": null
+    }
+   ],
+   "dev": "Bit Reactor",
+   "pub": "Electronic Arts",
+   "meta": 85,
+   "meta_count": 66,
+   "user": 8,
+   "user_count": 61,
+   "scores": {
+    "IGN": 90,
+    "GameSpot": 80
+   }
+  },
+  {
+   "slug": "mortal-shell-ii",
+   "title": "Mortal Shell II",
+   "date": "2026-08-20",
+   "url": "https://www.metacritic.com/game/mortal-shell-ii/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1784095259.jpg",
+   "plats": [
+    {
+     "n": "PC",
+     "s": 82,
+     "c": 56,
+     "d": null
+    },
+    {
+     "n": "PS5",
+     "s": 84,
+     "c": 20,
+     "d": null
+    },
+    {
+     "n": "XSX",
+     "s": 83,
+     "c": 4,
+     "d": null
+    }
+   ],
+   "dev": "Cold Symmetry",
+   "pub": "Playstack",
+   "meta": 82,
+   "meta_count": 56,
+   "user": 7.8,
+   "user_count": 74,
+   "scores": {
+    "IGN": 80,
+    "GameSpot": 80,
+    "Eurogamer": 80
+   }
+  },
+  {
+   "slug": "hot-wheels-infinite-rush",
+   "title": "Hot Wheels Infinite Rush",
+   "date": "2026-09-10",
+   "url": "https://www.metacritic.com/game/hot-wheels-infinite-rush/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1781631032.jpg",
+   "plats": [
+    {
+     "n": "PC",
+     "s": 79,
+     "c": 8,
+     "d": null
+    },
+    {
+     "n": "PS5",
+     "s": 75,
+     "c": 27,
+     "d": null
+    },
+    {
+     "n": "XSX",
+     "s": 76,
+     "c": 9,
+     "d": null
+    },
+    {
+     "n": "NS2",
+     "s": 66,
+     "c": 12,
+     "d": null
+    }
+   ],
+   "dev": "Milestone S.r.l",
+   "pub": "Milestone S.r.l",
+   "meta": 74,
+   "meta_count": 31,
+   "user": 7.8,
+   "user_count": 0,
+   "scores": {
+    "Push Square": 60
+   }
+  },
+  {
+   "slug": "marvels-wolverine",
+   "title": "Marvel's Wolverine",
+   "date": "2026-09-15",
+   "url": "https://www.metacritic.com/game/marvels-wolverine/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1780161558.jpg",
+   "plats": [
+    {
+     "n": "PS5",
+     "s": 78,
+     "c": 116,
+     "d": null
+    }
+   ],
+   "dev": "Insomniac Games",
+   "pub": "Sony Interactive Entertainment",
+   "meta": 77,
+   "meta_count": 131,
+   "user": 6.3,
+   "user_count": 0,
+   "scores": {
+    "Push Square": 80,
+    "GameSpot": 60,
+    "IGN": 60,
+    "Eurogamer": 60
+   }
+  },
+  {
+   "slug": "captain-tsubasa-2-world-fighters",
+   "title": "Captain Tsubasa 2: World Fighters",
+   "date": "2026-08-28",
+   "url": "https://www.metacritic.com/game/captain-tsubasa-2-world-fighters/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1787758352.jpg",
+   "plats": [
+    {
+     "n": "NS",
+     "s": null,
+     "c": 1,
+     "d": null
+    },
+    {
+     "n": "PS5",
+     "s": 74,
+     "c": 33,
+     "d": null
+    },
+    {
+     "n": "PC",
+     "s": null,
+     "c": 4,
+     "d": null
+    },
+    {
+     "n": "XSX",
+     "s": null,
+     "c": 1,
+     "d": null
+    }
+   ],
+   "dev": "Tamsoft",
+   "pub": "Bandai Namco Games",
+   "meta": 74,
+   "meta_count": 34,
+   "user": 6.3,
+   "user_count": 16,
+   "scores": {}
+  },
+  {
+   "slug": "nba-2k27",
+   "title": "NBA 2K27",
+   "date": "2026-09-04",
+   "url": "https://www.metacritic.com/game/nba-2k27/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1787423840.jpg",
+   "plats": [
+    {
+     "n": "PC",
+     "s": 73,
+     "c": 11,
+     "d": null
+    },
+    {
+     "n": "PS5",
+     "s": 77,
+     "c": 26,
+     "d": null
+    },
+    {
+     "n": "NS2",
+     "s": null,
+     "c": 0,
+     "d": null
+    },
+    {
+     "n": "XSX",
+     "s": 81,
+     "c": 6,
+     "d": null
+    }
+   ],
+   "dev": "Visual Concepts",
+   "pub": "2K Games",
+   "meta": 77,
+   "meta_count": 30,
+   "user": 4.6,
+   "user_count": 4,
+   "scores": {
+    "GameSpot": 70
+   }
+  },
+  {
+   "slug": "trails-in-the-sky-2nd-chapter",
+   "title": "Trails in the Sky 2nd Chapter",
+   "date": "2026-09-17",
+   "url": "https://www.metacritic.com/game/trails-in-the-sky-2nd-chapter/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1789495679.jpg",
+   "plats": [
+    {
+     "n": "PC",
+     "s": 93,
+     "c": 10,
+     "d": "2026-09-17"
+    },
+    {
+     "n": "NS2",
+     "s": 84,
+     "c": 5,
+     "d": "2026-09-17"
+    },
+    {
+     "n": "NS",
+     "s": null,
+     "c": 0,
+     "d": "2026-09-17"
+    },
+    {
+     "n": "PS5",
+     "s": 92,
+     "c": 14,
+     "d": "2026-09-17"
+    }
+   ],
+   "dev": "Falcom",
+   "pub": "GungHo",
+   "meta": 92,
+   "meta_count": 14,
+   "user": null,
+   "user_count": 0,
+   "scores": {
+    "IGN": 90,
+    "Push Square": 90
+   }
+  },
+  {
+   "slug": "fire-emblem-fortunes-weave",
+   "title": "Fire Emblem: Fortune's Weave",
+   "date": "2026-09-17",
+   "url": "https://www.metacritic.com/game/fire-emblem-fortunes-weave/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1781630867.jpg",
+   "plats": [
+    {
+     "n": "NS2",
+     "s": null,
+     "c": 24,
+     "d": null
+    }
+   ],
+   "dev": "Nintendo",
+   "pub": "Nintendo",
+   "meta": 89,
+   "meta_count": 69,
+   "user": null,
+   "user_count": 0,
+   "scores": {
+    "IGN": 100,
+    "Eurogamer": 100,
+    "GameSpot": 90,
+    "Nintendo Life": 80
+   }
+  }
+ ],
+ "watch": [
+  {
+   "slug": "welcome-to-elderfield",
+   "title": "Welcome to Elderfield",
+   "date": "2026-09-10",
+   "url": "https://www.metacritic.com/game/welcome-to-elderfield/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1788886647.jpg",
+   "plats": [
+    {
+     "n": "PC",
+     "s": 86,
+     "c": 10,
+     "d": null
+    }
+   ],
+   "dev": "Chris Cote",
+   "pub": "Kwalee Ltd",
+   "meta": 86,
+   "meta_count": 10,
+   "user": 8.4,
+   "user_count": 4,
+   "scores": {}
+  },
+  {
+   "slug": "halloween-the-game",
+   "title": "Halloween: The Game",
+   "date": "2026-09-08",
+   "url": "https://www.metacritic.com/game/halloween-the-game/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1776805765.jpg",
+   "plats": [
+    {
+     "n": "PS5",
+     "s": 68,
+     "c": 10,
+     "d": null
+    },
+    {
+     "n": "XSX",
+     "s": 60,
+     "c": 4,
+     "d": null
+    },
+    {
+     "n": "PC",
+     "s": 71,
+     "c": 10,
+     "d": null
+    }
+   ],
+   "dev": "IllFonic",
+   "pub": "Gun Interactive",
+   "meta": 68,
+   "meta_count": 12,
+   "user": 7.8,
+   "user_count": 2,
+   "scores": {}
+  },
+  {
+   "slug": "valheim",
+   "title": "Valheim",
+   "date": "2026-09-09",
+   "url": "https://www.metacritic.com/game/valheim/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1781630474.jpg",
+   "plats": [
+    {
+     "n": "PC",
+     "s": 90,
+     "c": 16,
+     "d": null
+    },
+    {
+     "n": "XSX",
+     "s": null,
+     "c": 0,
+     "d": null
+    },
+    {
+     "n": "XB1",
+     "s": null,
+     "c": 0,
+     "d": null
+    },
+    {
+     "n": "PS5",
+     "s": null,
+     "c": 0,
+     "d": null
+    },
+    {
+     "n": "NS2",
+     "s": null,
+     "c": 1,
+     "d": null
+    }
+   ],
+   "dev": "Iron Gate AB",
+   "pub": "Coffee Stain Publishing",
+   "meta": 89,
+   "meta_count": 17,
+   "user": 7.7,
+   "user_count": 9,
+   "scores": {}
+  },
+  {
+   "slug": "gallipoli",
+   "title": "Gallipoli",
+   "date": "2026-08-20",
+   "url": "https://www.metacritic.com/game/gallipoli/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1787600079.jpg",
+   "plats": [
+    {
+     "n": "PC",
+     "s": 80,
+     "c": 10,
+     "d": "2026-08-20"
+    },
+    {
+     "n": "XSX",
+     "s": null,
+     "c": 1,
+     "d": "2026-08-20"
+    },
+    {
+     "n": "PS5",
+     "s": null,
+     "c": 3,
+     "d": "2026-08-20"
+    }
+   ],
+   "dev": "Blackmill Games",
+   "pub": "Blackmill Games",
+   "meta": 80,
+   "meta_count": 10,
+   "user": 7,
+   "user_count": 2,
+   "scores": {}
+  },
+  {
+   "slug": "aliens-fireteam-elite-2",
+   "title": "Aliens: Fireteam Elite 2",
+   "date": "2026-08-25",
+   "url": "https://www.metacritic.com/game/aliens-fireteam-elite-2/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1787677450.jpg",
+   "plats": [
+    {
+     "n": "PS5",
+     "s": 64,
+     "c": 13,
+     "d": null
+    },
+    {
+     "n": "XSX",
+     "s": null,
+     "c": 2,
+     "d": null
+    },
+    {
+     "n": "PC",
+     "s": 67,
+     "c": 13,
+     "d": null
+    },
+    {
+     "n": "NS2",
+     "s": null,
+     "c": 0,
+     "d": null
+    }
+   ],
+   "dev": "Cold Iron Studios",
+   "pub": "Daybreak Games",
+   "meta": 64,
+   "meta_count": 16,
+   "user": 6.8,
+   "user_count": 6,
+   "scores": {}
+  },
+  {
+   "slug": "brigandine-abyss",
+   "title": "Brigandine Abyss",
+   "date": "2026-08-27",
+   "url": "https://www.metacritic.com/game/brigandine-abyss/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1787241055.jpg",
+   "plats": [
+    {
+     "n": "PS5",
+     "s": 67,
+     "c": 7,
+     "d": null
+    },
+    {
+     "n": "PC",
+     "s": 70,
+     "c": 6,
+     "d": null
+    },
+    {
+     "n": "NS2",
+     "s": 71,
+     "c": 9,
+     "d": null
+    },
+    {
+     "n": "XSX",
+     "s": null,
+     "c": 1,
+     "d": null
+    }
+   ],
+   "dev": "Adglobe",
+   "pub": "NIS America",
+   "meta": 71,
+   "meta_count": 10,
+   "user": 6.7,
+   "user_count": 4,
+   "scores": {}
+  },
+  {
+   "slug": "crimson-moon",
+   "title": "Crimson Moon",
+   "date": "2026-09-01",
+   "url": "https://www.metacritic.com/game/crimson-moon/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1788279891.jpg",
+   "plats": [
+    {
+     "n": "PS5",
+     "s": null,
+     "c": 0,
+     "d": null
+    },
+    {
+     "n": "PC",
+     "s": 72,
+     "c": 9,
+     "d": null
+    },
+    {
+     "n": "XSX",
+     "s": null,
+     "c": 1,
+     "d": null
+    }
+   ],
+   "dev": "ProbablyMonsters",
+   "pub": "ProbablyMonsters",
+   "meta": 73,
+   "meta_count": 10,
+   "user": 6.6,
+   "user_count": 5,
+   "scores": {}
+  },
+  {
+   "slug": "nhl-27",
+   "title": "NHL 27",
+   "date": "2026-09-11",
+   "url": "https://www.metacritic.com/game/nhl-27/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1788247064.jpg",
+   "plats": [
+    {
+     "n": "PS5",
+     "s": 68,
+     "c": 12,
+     "d": null
+    },
+    {
+     "n": "XSX",
+     "s": 62,
+     "c": 5,
+     "d": null
+    }
+   ],
+   "dev": "EA Vancouver",
+   "pub": "Electronic Arts",
+   "meta": 68,
+   "meta_count": 13,
+   "user": 3.2,
+   "user_count": 5,
+   "scores": {}
+  },
+  {
+   "slug": "steinsgate-reboot",
+   "title": "STEINS;GATE RE:BOOT",
+   "date": "2026-08-20",
+   "url": "https://www.metacritic.com/game/steinsgate-reboot/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1786679452.jpg",
+   "plats": [
+    {
+     "n": "PC",
+     "s": 83,
+     "c": 21,
+     "d": null
+    },
+    {
+     "n": "PS4",
+     "s": null,
+     "c": 0,
+     "d": null
+    },
+    {
+     "n": "XSX",
+     "s": null,
+     "c": 0,
+     "d": null
+    },
+    {
+     "n": "PS5",
+     "s": null,
+     "c": 0,
+     "d": null
+    },
+    {
+     "n": "NS2",
+     "s": null,
+     "c": 0,
+     "d": null
+    },
+    {
+     "n": "NS",
+     "s": null,
+     "c": 0,
+     "d": null
+    }
+   ],
+   "dev": "Mages.",
+   "pub": "Spike Chunsoft",
+   "meta": 83,
+   "meta_count": 21,
+   "user": null,
+   "user_count": 0,
+   "scores": {}
+  },
+  {
+   "slug": "blood-dungeon",
+   "title": "Blood Dungeon",
+   "date": "2026-08-25",
+   "url": "https://www.metacritic.com/game/blood-dungeon/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1787679818.jpg",
+   "plats": [
+    {
+     "n": "PS5",
+     "s": null,
+     "c": 3,
+     "d": null
+    },
+    {
+     "n": "XSX",
+     "s": null,
+     "c": 0,
+     "d": null
+    },
+    {
+     "n": "PC",
+     "s": 74,
+     "c": 11,
+     "d": null
+    },
+    {
+     "n": "NS",
+     "s": null,
+     "c": 0,
+     "d": null
+    },
+    {
+     "n": "NS2",
+     "s": null,
+     "c": 1,
+     "d": null
+    }
+   ],
+   "dev": "Messhof",
+   "pub": "Messhof",
+   "meta": 74,
+   "meta_count": 11,
+   "user": null,
+   "user_count": 1,
+   "scores": {}
+  },
+  {
+   "slug": "another-eden-begins",
+   "title": "Another Eden Begins",
+   "date": "2026-09-16",
+   "url": "https://www.metacritic.com/game/another-eden-begins/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1789365702.jpg",
+   "plats": [
+    {
+     "n": "NS",
+     "s": null,
+     "c": 0,
+     "d": "2026-09-17"
+    },
+    {
+     "n": "PC",
+     "s": 75,
+     "c": 9,
+     "d": "2026-09-16"
+    },
+    {
+     "n": "NS2",
+     "s": null,
+     "c": 1,
+     "d": "2026-09-17"
+    }
+   ],
+   "dev": "Wright Flyer Studios",
+   "pub": "Wright Flyer Studios",
+   "meta": 73,
+   "meta_count": 15,
+   "user": null,
+   "user_count": 0,
+   "scores": {}
+  }
+ ],
+ "upcoming": [
+  {
+   "slug": "silent-hill-townfall",
+   "title": "Silent Hill: Townfall",
+   "date": "2026-09-24",
+   "url": "https://www.metacritic.com/game/silent-hill-townfall/",
+   "meta": null,
+   "plats": [
+    {
+     "n": "PS5",
+     "s": null,
+     "c": 12,
+     "d": null
+    },
+    {
+     "n": "PC",
+     "s": null,
+     "c": 0,
+     "d": null
+    }
+   ],
+   "dev": "Screen Burn",
+   "pub": "Konami",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1781631206.jpg"
+  },
+  {
+   "slug": "gears-of-war-e-day",
+   "title": "Gears of War: E-Day",
+   "date": "2026-10-06",
+   "url": "https://www.metacritic.com/game/gears-of-war-e-day/",
+   "meta": null,
+   "plats": [
+    {
+     "n": "XSX",
+     "s": null,
+     "c": 10,
+     "d": null
+    },
+    {
+     "n": "PC",
+     "s": null,
+     "c": 1,
+     "d": null
+    }
+   ],
+   "dev": "The Coalition",
+   "pub": "Xbox Game Studios",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1788246859.jpg"
+  },
+  {
+   "slug": "star-wars-galactic-racer",
+   "title": "Star Wars: Galactic Racer",
+   "date": "2026-10-06",
+   "url": "https://www.metacritic.com/game/star-wars-galactic-racer/",
+   "meta": null,
+   "plats": [
+    {
+     "n": "PC",
+     "s": null,
+     "c": 19,
+     "d": null
+    },
+    {
+     "n": "XSX",
+     "s": null,
+     "c": 0,
+     "d": null
+    },
+    {
+     "n": "PS5",
+     "s": null,
+     "c": 1,
+     "d": null
+    }
+   ],
+   "dev": "Fuse Games",
+   "pub": "Secret Mode",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1782239523.jpg"
+  },
+  {
+   "slug": "enshrouded",
+   "title": "Enshrouded",
+   "date": "2026-10-15",
+   "url": "https://www.metacritic.com/game/enshrouded/",
+   "meta": null,
+   "plats": [
+    {
+     "n": "PC",
+     "s": null,
+     "c": 15,
+     "d": null
+    },
+    {
+     "n": "XSX",
+     "s": null,
+     "c": 0,
+     "d": null
+    },
+    {
+     "n": "PS5",
+     "s": null,
+     "c": 0,
+     "d": null
+    }
+   ],
+   "dev": "Keen Games",
+   "pub": "Keen Games",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-934454-52.jpg"
+  },
+  {
+   "slug": "the-duskbloods",
+   "title": "The Duskbloods",
+   "date": "2026-12-31",
+   "url": "https://www.metacritic.com/game/the-duskbloods/",
+   "meta": null,
+   "plats": [
+    {
+     "n": "NS2",
+     "s": null,
+     "c": 7,
+     "d": null
+    }
+   ],
+   "dev": "From Software",
+   "pub": "Nintendo",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1787246452.jpg"
+  },
+  {
+   "slug": "somebodys-tale",
+   "title": "Somebody's Tale",
+   "date": "2026-09-19",
+   "url": "https://www.metacritic.com/game/somebodys-tale/",
+   "meta": null,
+   "plats": [
+    {
+     "n": "PC",
+     "s": null,
+     "c": 0,
+     "d": "2026-09-19"
+    }
+   ],
+   "dev": "Mattia Fontana",
+   "pub": "Mattia Fontana",
+   "img": ""
+  },
+  {
+   "slug": "red-hallway-horror",
+   "title": "RED HALLWAY: Horror",
+   "date": "2026-09-19",
+   "url": "https://www.metacritic.com/game/red-hallway-horror/",
+   "meta": null,
+   "plats": [
+    {
+     "n": "NS",
+     "s": null,
+     "c": 0,
+     "d": "2026-09-19"
+    }
+   ],
+   "dev": "Downmeadowstreet",
+   "pub": "Downmeadowstreet",
+   "img": ""
+  },
+  {
+   "slug": "screw-it",
+   "title": "Screw IT",
+   "date": "2026-09-19",
+   "url": "https://www.metacritic.com/game/screw-it/",
+   "meta": null,
+   "plats": [
+    {
+     "n": "PC",
+     "s": null,
+     "c": 0,
+     "d": "2026-09-19"
+    }
+   ],
+   "dev": "Kyrel",
+   "pub": "Kyrel",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1271646-52.jpg"
+  },
+  {
+   "slug": "slap-the-gamer",
+   "title": "Slap the Gamer",
+   "date": "2026-09-19",
+   "url": "https://www.metacritic.com/game/slap-the-gamer/",
+   "meta": null,
+   "plats": [
+    {
+     "n": "PC",
+     "s": null,
+     "c": 0,
+     "d": "2026-09-19"
+    }
+   ],
+   "dev": "Slap The Gamer Interactive Studios",
+   "pub": "Slap The Gamer Interactive Publishing",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1280868-52.jpg"
+  },
+  {
+   "slug": "red-hallways-horror",
+   "title": "RED HALLWAYS: Horror",
+   "date": "2026-09-19",
+   "url": "https://www.metacritic.com/game/red-hallways-horror/",
+   "meta": null,
+   "plats": [
+    {
+     "n": "NS",
+     "s": null,
+     "c": 0,
+     "d": "2026-09-19"
+    }
+   ],
+   "dev": "Downmeadowstreet",
+   "pub": "Downmeadowstreet",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1271125-52.jpg"
+  }
+ ],
+ "annual": [
+  {
+   "year": 2026,
+   "games": [
+    {
+     "slug": "forza-horizon-6",
+     "title": "Forza Horizon 6",
+     "date": "2026-05-19",
+     "url": "https://www.metacritic.com/game/forza-horizon-6/",
+     "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1778543348.jpg",
+     "plats": [
+      {
+       "n": "XSX",
+       "s": 90,
+       "c": 83,
+       "d": "2026-05-19"
+      },
+      {
+       "n": "PC",
+       "s": 90,
+       "c": 67,
+       "d": "2026-05-19"
+      },
+      {
+       "n": "PS5",
+       "s": null,
+       "c": 0,
+       "d": null
+      }
+     ],
+     "dev": "Playground Games",
+     "pub": "Xbox Game Studios",
+     "meta": 90,
+     "meta_count": 83,
+     "user": 8.3,
+     "user_count": 205,
+     "scores": {}
+    },
+    {
+     "slug": "mina-the-hollower",
+     "title": "Mina the Hollower",
+     "date": "2026-05-29",
+     "url": "https://www.metacritic.com/game/mina-the-hollower/",
+     "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1778542350.jpg",
+     "plats": [
+      {
+       "n": "PC",
+       "s": 90,
+       "c": 72,
+       "d": "2026-05-29"
+      },
+      {
+       "n": "NS",
+       "s": null,
+       "c": 1,
+       "d": "2026-05-29"
+      },
+      {
+       "n": "XSX",
+       "s": null,
+       "c": 4,
+       "d": "2026-05-29"
+      },
+      {
+       "n": "PS5",
+       "s": 91,
+       "c": 10,
+       "d": "2026-05-29"
+      },
+      {
+       "n": "PS4",
+       "s": null,
+       "c": 0,
+       "d": null
+      },
+      {
+       "n": "NS2",
+       "s": 90,
+       "c": 25,
+       "d": "2026-05-29"
+      }
+     ],
+     "dev": "Yacht Club Games",
+     "pub": "Yacht Club Games",
+     "meta": 90,
+     "meta_count": 72,
+     "user": 8.1,
+     "user_count": 91,
+     "scores": {}
+    },
+    {
+     "slug": "resident-evil-requiem",
+     "title": "Resident Evil Requiem",
+     "date": "2026-02-27",
+     "url": "https://www.metacritic.com/game/resident-evil-requiem/",
+     "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1763427070.jpg",
+     "plats": [
+      {
+       "n": "PS5",
+       "s": 89,
+       "c": 140,
+       "d": "2026-02-27"
+      },
+      {
+       "n": "XSX",
+       "s": 93,
+       "c": 15,
+       "d": "2026-02-27"
+      },
+      {
+       "n": "PC",
+       "s": 92,
+       "c": 25,
+       "d": "2026-02-27"
+      },
+      {
+       "n": "NS2",
+       "s": 90,
+       "c": 21,
+       "d": "2026-02-27"
+      }
+     ],
+     "dev": "Capcom",
+     "pub": "Capcom",
+     "meta": 89,
+     "meta_count": 140,
+     "user": 9.3,
+     "user_count": 4020,
+     "scores": {}
+    },
+    {
+     "slug": "final-fantasy-vii-remake-intergrade",
+     "title": "Final Fantasy VII Remake Intergrade",
+     "date": "2026-01-22",
+     "url": "https://www.metacritic.com/game/final-fantasy-vii-remake-intergrade/",
+     "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1769969065.jpg",
+     "plats": [
+      {
+       "n": "PS5",
+       "s": 89,
+       "c": 56,
+       "d": "2021-06-10"
+      },
+      {
+       "n": "PC",
+       "s": 86,
+       "c": 26,
+       "d": "2021-12-16"
+      },
+      {
+       "n": "NS2",
+       "s": 89,
+       "c": 58,
+       "d": "2026-01-22"
+      },
+      {
+       "n": "XSX",
+       "s": 88,
+       "c": 7,
+       "d": "2026-01-22"
+      }
+     ],
+     "dev": "Square Enix",
+     "pub": "Square Enix",
+     "meta": 89,
+     "meta_count": 58,
+     "user": 8.6,
+     "user_count": 37,
+     "scores": {}
+    },
+    {
+     "slug": "pokemon-pokopia",
+     "title": "Pokemon Pokopia",
+     "date": "2026-03-05",
+     "url": "https://www.metacritic.com/game/pokemon-pokopia/",
+     "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1763427281.jpg",
+     "plats": [
+      {
+       "n": "NS2",
+       "s": 89,
+       "c": 121,
+       "d": "2026-03-05"
+      }
+     ],
+     "dev": "Omega Force",
+     "pub": "Nintendo",
+     "meta": 89,
+     "meta_count": 121,
+     "user": 8.6,
+     "user_count": 587,
+     "scores": {}
+    },
+    {
+     "slug": "mewgenics",
+     "title": "Mewgenics",
+     "date": "2026-02-10",
+     "url": "https://www.metacritic.com/game/mewgenics/",
+     "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1770335233.jpg",
+     "plats": [
+      {
+       "n": "PC",
+       "s": 88,
+       "c": 58,
+       "d": "2026-02-10"
+      },
+      {
+       "n": "XSX",
+       "s": null,
+       "c": 1,
+       "d": "2026-09-08"
+      },
+      {
+       "n": "NS2",
+       "s": null,
+       "c": 3,
+       "d": "2026-09-08"
+      },
+      {
+       "n": "PS5",
+       "s": null,
+       "c": 0,
+       "d": "2026-09-08"
+      }
+     ],
+     "dev": "Edmund McMillen",
+     "pub": "Edmund McMillen",
+     "meta": 88,
+     "meta_count": 58,
+     "user": 8.2,
+     "user_count": 81,
+     "scores": {}
+    },
+    {
+     "slug": "pragmata",
+     "title": "PRAGMATA",
+     "date": "2026-04-17",
+     "url": "https://www.metacritic.com/game/pragmata/",
+     "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1775251434.jpg",
+     "plats": [
+      {
+       "n": "PS5",
+       "s": 85,
+       "c": 109,
+       "d": "2026-04-17"
+      },
+      {
+       "n": "PC",
+       "s": 88,
+       "c": 45,
+       "d": "2026-04-16"
+      },
+      {
+       "n": "XSX",
+       "s": 87,
+       "c": 16,
+       "d": "2026-04-17"
+      },
+      {
+       "n": "NS2",
+       "s": 89,
+       "c": 24,
+       "d": "2026-04-17"
+      }
+     ],
+     "dev": "Capcom",
+     "pub": "Capcom",
+     "meta": 85,
+     "meta_count": 109,
+     "user": 8.7,
+     "user_count": 463,
+     "scores": {}
+    },
+    {
+     "slug": "onimusha-way-of-the-sword",
+     "title": "Onimusha: Way of the Sword",
+     "date": "2026-09-04",
+     "url": "https://www.metacritic.com/game/onimusha-way-of-the-sword/",
+     "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1781631535.jpg",
+     "plats": [
+      {
+       "n": "PS5",
+       "s": 85,
+       "c": 100,
+       "d": null
+      },
+      {
+       "n": "PC",
+       "s": 83,
+       "c": 31,
+       "d": null
+      },
+      {
+       "n": "XSX",
+       "s": 83,
+       "c": 10,
+       "d": null
+      },
+      {
+       "n": "NS2",
+       "s": 90,
+       "c": 15,
+       "d": null
+      }
+     ],
+     "dev": "Capcom",
+     "pub": "Capcom",
+     "meta": 85,
+     "meta_count": 102,
+     "user": 8.6,
+     "user_count": 89,
+     "scores": {}
+    },
+    {
+     "slug": "splatoon-raiders",
+     "title": "Splatoon Raiders",
+     "date": "2026-07-23",
+     "url": "https://www.metacritic.com/game/splatoon-raiders/",
+     "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1776907937.jpg",
+     "plats": [
+      {
+       "n": "NS2",
+       "s": 82,
+       "c": 121,
+       "d": "2026-07-23"
+      }
+     ],
+     "dev": "Nintendo",
+     "pub": "Nintendo",
+     "meta": 82,
+     "meta_count": 122,
+     "user": 9.3,
+     "user_count": 786,
+     "scores": {}
+    },
+    {
+     "slug": "rhythm-heaven-groove",
+     "title": "Rhythm Heaven Groove",
+     "date": "2026-07-02",
+     "url": "https://www.metacritic.com/game/rhythm-heaven-groove/",
+     "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1781234203.jpg",
+     "plats": [
+      {
+       "n": "NS",
+       "s": 82,
+       "c": 104,
+       "d": "2026-07-02"
+      }
+     ],
+     "dev": "TNX",
+     "pub": "Nintendo",
+     "meta": 82,
+     "meta_count": 104,
+     "user": 8.6,
+     "user_count": 48,
+     "scores": {}
+    }
+   ]
+  }
+ ],
+ "sig": {
+  "trails-in-the-sky-2nd-chapter": [
+   92,
+   14,
+   null
+  ],
+  "elden-ring-tarnished-edition": [
+   90,
+   53,
+   8.1
+  ],
+  "valheim": [
+   89,
+   17,
+   7.7
+  ],
+  "fire-emblem-fortunes-weave": [
+   89,
+   69,
+   null
+  ],
+  "welcome-to-elderfield": [
+   86,
+   10,
+   8.4
+  ],
+  "onimusha-way-of-the-sword": [
+   85,
+   102,
+   8.6
+  ],
+  "star-wars-zero-company": [
+   85,
+   66,
+   8
+  ],
+  "metal-gear-solid-master-collection-vol-2": [
+   85,
+   36,
+   8.6
+  ],
+  "stalker-2-heart-of-chornobyl-cost-of-hope": [
+   84,
+   18,
+   8.2
+  ],
+  "steinsgate-reboot": [
+   83,
+   21,
+   null
+  ],
+  "the-blood-of-dawnwalker": [
+   83,
+   72,
+   8.3
+  ],
+  "mortal-shell-ii": [
+   82,
+   56,
+   7.8
+  ],
+  "orbitals": [
+   82,
+   81,
+   8.5
+  ],
+  "marsupilami-2-salsa-palombia": [
+   81,
+   7,
+   8.6
+  ],
+  "gallipoli": [
+   80,
+   10,
+   7
+  ],
+  "moonlighter-2-the-endless-vault": [
+   80,
+   9,
+   8.4
+  ],
+  "resonance-a-plague-tale-legacy": [
+   78,
+   65,
+   8.2
+  ],
+  "nba-2k27": [
+   77,
+   30,
+   4.6
+  ],
+  "marvels-wolverine": [
+   77,
+   131,
+   6.3
+  ],
+  "theropods": [
+   75,
+   9,
+   null
+  ],
+  "sprawl-zero": [
+   75,
+   8,
+   8.1
+  ],
+  "blood-dungeon": [
+   74,
+   11,
+   null
+  ],
+  "hot-wheels-infinite-rush": [
+   74,
+   31,
+   7.8
+  ],
+  "captain-tsubasa-2-world-fighters": [
+   74,
+   34,
+   6.3
+  ],
+  "another-eden-begins": [
+   73,
+   15,
+   null
+  ],
+  "crimson-moon": [
+   73,
+   10,
+   6.6
+  ],
+  "lous-lagoon": [
+   72,
+   9,
+   null
+  ],
+  "mexican-ninja": [
+   71,
+   8,
+   null
+  ],
+  "brigandine-abyss": [
+   71,
+   10,
+   6.7
+  ],
+  "halloween-the-game": [
+   68,
+   12,
+   7.8
+  ],
+  "nhl-27": [
+   68,
+   13,
+   3.2
+  ],
+  "wo-long-fallen-dynasty-complete-edition": [
+   67,
+   9,
+   5.6
+  ],
+  "aliens-fireteam-elite-2": [
+   64,
+   16,
+   6.8
+  ]
+ }
+}
