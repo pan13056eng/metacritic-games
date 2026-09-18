@@ -1,10 +1,10 @@
 {
- "updated": "2026-09-18 03:00",
+ "updated": "2026-09-18 05:42",
  "window": [
   "2026-08-19",
   "2026-09-18"
  ],
- "total": 33,
+ "total": 34,
  "released": [
   {
    "slug": "onimusha-way-of-the-sword",
@@ -252,7 +252,7 @@
    "dev": "From Software",
    "pub": "Bandai Namco Games",
    "meta": 90,
-   "meta_count": 53,
+   "meta_count": 54,
    "user": 8.1,
    "user_count": 15,
    "scores": {
@@ -369,7 +369,7 @@
    "dev": "Milestone S.r.l",
    "pub": "Milestone S.r.l",
    "meta": 74,
-   "meta_count": 31,
+   "meta_count": 32,
    "user": 7.8,
    "user_count": 0,
    "scores": {
@@ -478,7 +478,7 @@
    "dev": "Visual Concepts",
    "pub": "2K Games",
    "meta": 77,
-   "meta_count": 30,
+   "meta_count": 31,
    "user": 4.6,
    "user_count": 4,
    "scores": {
@@ -519,8 +519,8 @@
    ],
    "dev": "Falcom",
    "pub": "GungHo",
-   "meta": 92,
-   "meta_count": 15,
+   "meta": 91,
+   "meta_count": 16,
    "user": null,
    "user_count": 0,
    "scores": {
@@ -545,7 +545,7 @@
    "dev": "Nintendo",
    "pub": "Nintendo",
    "meta": 89,
-   "meta_count": 69,
+   "meta_count": 70,
    "user": null,
    "user_count": 0,
    "scores": {
@@ -654,8 +654,8 @@
    "dev": "Iron Gate AB",
    "pub": "Coffee Stain Publishing",
    "meta": 89,
-   "meta_count": 17,
-   "user": 7.7,
+   "meta_count": 18,
+   "user": 7.5,
    "user_count": 9,
    "scores": {}
   },
@@ -994,6 +994,30 @@
    "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1781631206.jpg"
   },
   {
+   "slug": "gears-of-war-e-day",
+   "title": "Gears of War: E-Day",
+   "date": "2026-10-06",
+   "url": "https://www.metacritic.com/game/gears-of-war-e-day/",
+   "meta": null,
+   "plats": [
+    {
+     "n": "XSX",
+     "s": null,
+     "c": 10,
+     "d": null
+    },
+    {
+     "n": "PC",
+     "s": null,
+     "c": 1,
+     "d": null
+    }
+   ],
+   "dev": "The Coalition",
+   "pub": "Xbox Game Studios",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1788246859.jpg"
+  },
+  {
    "slug": "star-wars-galactic-racer",
    "title": "Star Wars: Galactic Racer",
    "date": "2026-10-06",
@@ -1022,30 +1046,6 @@
    "dev": "Fuse Games",
    "pub": "Secret Mode",
    "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1782239523.jpg"
-  },
-  {
-   "slug": "gears-of-war-e-day",
-   "title": "Gears of War: E-Day",
-   "date": "2026-10-06",
-   "url": "https://www.metacritic.com/game/gears-of-war-e-day/",
-   "meta": null,
-   "plats": [
-    {
-     "n": "XSX",
-     "s": null,
-     "c": 10,
-     "d": null
-    },
-    {
-     "n": "PC",
-     "s": null,
-     "c": 1,
-     "d": null
-    }
-   ],
-   "dev": "The Coalition",
-   "pub": "Xbox Game Studios",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1788246859.jpg"
   },
   {
    "slug": "enshrouded",
@@ -1096,42 +1096,6 @@
    "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1787246452.jpg"
   },
   {
-   "slug": "slap-the-gamer",
-   "title": "Slap the Gamer",
-   "date": "2026-09-19",
-   "url": "https://www.metacritic.com/game/slap-the-gamer/",
-   "meta": null,
-   "plats": [
-    {
-     "n": "PC",
-     "s": null,
-     "c": 0,
-     "d": "2026-09-19"
-    }
-   ],
-   "dev": "Slap The Gamer Interactive Studios",
-   "pub": "Slap The Gamer Interactive Publishing",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1280868-52.jpg"
-  },
-  {
-   "slug": "somebodys-tale",
-   "title": "Somebody's Tale",
-   "date": "2026-09-19",
-   "url": "https://www.metacritic.com/game/somebodys-tale/",
-   "meta": null,
-   "plats": [
-    {
-     "n": "PC",
-     "s": null,
-     "c": 0,
-     "d": "2026-09-19"
-    }
-   ],
-   "dev": "Mattia Fontana",
-   "pub": "Mattia Fontana",
-   "img": ""
-  },
-  {
    "slug": "red-hallways-horror",
    "title": "RED HALLWAYS: Horror",
    "date": "2026-09-19",
@@ -1150,6 +1114,24 @@
    "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1271125-52.jpg"
   },
   {
+   "slug": "slap-the-gamer",
+   "title": "Slap the Gamer",
+   "date": "2026-09-19",
+   "url": "https://www.metacritic.com/game/slap-the-gamer/",
+   "meta": null,
+   "plats": [
+    {
+     "n": "PC",
+     "s": null,
+     "c": 0,
+     "d": "2026-09-19"
+    }
+   ],
+   "dev": "Slap The Gamer Interactive Studios",
+   "pub": "Slap The Gamer Interactive Publishing",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1280868-52.jpg"
+  },
+  {
    "slug": "screw-it",
    "title": "Screw IT",
    "date": "2026-09-19",
@@ -1166,6 +1148,24 @@
    "dev": "Kyrel",
    "pub": "Kyrel",
    "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1271646-52.jpg"
+  },
+  {
+   "slug": "somebodys-tale",
+   "title": "Somebody's Tale",
+   "date": "2026-09-19",
+   "url": "https://www.metacritic.com/game/somebodys-tale/",
+   "meta": null,
+   "plats": [
+    {
+     "n": "PC",
+     "s": null,
+     "c": 0,
+     "d": "2026-09-19"
+    }
+   ],
+   "dev": "Mattia Fontana",
+   "pub": "Mattia Fontana",
+   "img": ""
   },
   {
    "slug": "red-hallway-horror",
@@ -1547,23 +1547,23 @@
  ],
  "sig": {
   "trails-in-the-sky-2nd-chapter": [
-   92,
-   15,
+   91,
+   16,
    null
   ],
   "elden-ring-tarnished-edition": [
    90,
-   53,
+   54,
    8.1
   ],
   "valheim": [
    89,
-   17,
-   7.7
+   18,
+   7.5
   ],
   "fire-emblem-fortunes-weave": [
    89,
-   69,
+   70,
    null
   ],
   "welcome-to-elderfield": [
@@ -1631,9 +1631,14 @@
    65,
    8.2
   ],
+  "aniimo": [
+   78,
+   8,
+   6.1
+  ],
   "nba-2k27": [
    77,
-   30,
+   31,
    4.6
   ],
   "marvels-wolverine": [
@@ -1658,7 +1663,7 @@
   ],
   "hot-wheels-infinite-rush": [
    74,
-   31,
+   32,
    7.8
   ],
   "captain-tsubasa-2-world-fighters": [
