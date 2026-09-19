@@ -1,10 +1,10 @@
 {
- "updated": "2026-09-18 05:42",
+ "updated": "2026-09-19 07:21",
  "window": [
-  "2026-08-19",
-  "2026-09-18"
+  "2026-08-20",
+  "2026-09-19"
  ],
- "total": 34,
+ "total": 35,
  "released": [
   {
    "slug": "onimusha-way-of-the-sword",
@@ -41,7 +41,7 @@
    "dev": "Capcom",
    "pub": "Capcom",
    "meta": 85,
-   "meta_count": 102,
+   "meta_count": 103,
    "user": 8.6,
    "user_count": 89,
    "scores": {
@@ -115,7 +115,7 @@
    "dev": "Shapefarm",
    "pub": "Kepler Interactive",
    "meta": 82,
-   "meta_count": 81,
+   "meta_count": 82,
    "user": 8.5,
    "user_count": 19,
    "scores": {
@@ -288,7 +288,7 @@
    "dev": "Bit Reactor",
    "pub": "Electronic Arts",
    "meta": 85,
-   "meta_count": 66,
+   "meta_count": 67,
    "user": 8,
    "user_count": 61,
    "scores": {
@@ -368,8 +368,8 @@
    ],
    "dev": "Milestone S.r.l",
    "pub": "Milestone S.r.l",
-   "meta": 74,
-   "meta_count": 32,
+   "meta": 73,
+   "meta_count": 33,
    "user": 7.8,
    "user_count": 0,
    "scores": {
@@ -393,8 +393,8 @@
    "dev": "Insomniac Games",
    "pub": "Sony Interactive Entertainment",
    "meta": 77,
-   "meta_count": 131,
-   "user": 6.3,
+   "meta_count": 132,
+   "user": 6.4,
    "user_count": 0,
    "scores": {
     "Push Square": 80,
@@ -520,7 +520,7 @@
    "dev": "Falcom",
    "pub": "GungHo",
    "meta": 91,
-   "meta_count": 16,
+   "meta_count": 17,
    "user": null,
    "user_count": 0,
    "scores": {
@@ -607,8 +607,8 @@
    ],
    "dev": "IllFonic",
    "pub": "Gun Interactive",
-   "meta": 68,
-   "meta_count": 12,
+   "meta": 69,
+   "meta_count": 13,
    "user": 7.8,
    "user_count": 2,
    "scores": {}
@@ -808,6 +808,46 @@
    "scores": {}
   },
   {
+   "slug": "aniimo",
+   "title": "Aniimo",
+   "date": "2026-09-16",
+   "url": "https://www.metacritic.com/game/aniimo/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1789446769.jpg",
+   "plats": [
+    {
+     "n": "PC",
+     "s": 78,
+     "c": 8,
+     "d": "2026-09-16"
+    },
+    {
+     "n": "XSX",
+     "s": null,
+     "c": 0,
+     "d": "2026-09-16"
+    },
+    {
+     "n": "iOS",
+     "s": null,
+     "c": 0,
+     "d": "2026-09-16"
+    },
+    {
+     "n": "PS5",
+     "s": null,
+     "c": 0,
+     "d": "2026-09-16"
+    }
+   ],
+   "dev": "Pawprint Studio",
+   "pub": "Pawprint Studio",
+   "meta": 78,
+   "meta_count": 8,
+   "user": 6.1,
+   "user_count": 5,
+   "scores": {}
+  },
+  {
    "slug": "nhl-27",
    "title": "NHL 27",
    "date": "2026-09-11",
@@ -970,6 +1010,90 @@
  ],
  "upcoming": [
   {
+   "slug": "graveyard-keeper-2",
+   "title": "Graveyard Keeper 2",
+   "date": "2026-09-22",
+   "url": "https://www.metacritic.com/game/graveyard-keeper-2/",
+   "meta": 71,
+   "plats": [
+    {
+     "n": "PS5",
+     "s": null,
+     "c": 0,
+     "d": "2026-09-22"
+    },
+    {
+     "n": "PC",
+     "s": 71,
+     "c": 7,
+     "d": "2026-09-22"
+    },
+    {
+     "n": "XSX",
+     "s": null,
+     "c": 0,
+     "d": "2026-09-22"
+    },
+    {
+     "n": "NS2",
+     "s": null,
+     "c": 0,
+     "d": "2026-09-22"
+    },
+    {
+     "n": "NS",
+     "s": null,
+     "c": 0,
+     "d": "2026-09-22"
+    },
+    {
+     "n": "PS4",
+     "s": null,
+     "c": 0,
+     "d": "2026-09-22"
+    },
+    {
+     "n": "XB1",
+     "s": null,
+     "c": 0,
+     "d": "2026-09-22"
+    }
+   ],
+   "dev": "Lazy Bear Games",
+   "pub": "tinyBuild",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1789402486.jpg"
+  },
+  {
+   "slug": "control-resonant",
+   "title": "CONTROL Resonant",
+   "date": "2026-09-24",
+   "url": "https://www.metacritic.com/game/control-resonant/",
+   "meta": 84,
+   "plats": [
+    {
+     "n": "PC",
+     "s": 83,
+     "c": 34,
+     "d": "2026-09-24"
+    },
+    {
+     "n": "PS5",
+     "s": 84,
+     "c": 63,
+     "d": "2026-09-24"
+    },
+    {
+     "n": "XSX",
+     "s": 81,
+     "c": 10,
+     "d": "2026-09-24"
+    }
+   ],
+   "dev": "Remedy Entertainment",
+   "pub": "Remedy Entertainment",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1781551532.jpg"
+  },
+  {
    "slug": "silent-hill-townfall",
    "title": "Silent Hill: Townfall",
    "date": "2026-09-24",
@@ -994,28 +1118,58 @@
    "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1781631206.jpg"
   },
   {
-   "slug": "gears-of-war-e-day",
-   "title": "Gears of War: E-Day",
-   "date": "2026-10-06",
-   "url": "https://www.metacritic.com/game/gears-of-war-e-day/",
-   "meta": null,
+   "slug": "ea-sports-fc-27",
+   "title": "EA Sports FC 27",
+   "date": "2026-09-25",
+   "url": "https://www.metacritic.com/game/ea-sports-fc-27/",
+   "meta": 75,
    "plats": [
-    {
-     "n": "XSX",
-     "s": null,
-     "c": 10,
-     "d": null
-    },
     {
      "n": "PC",
      "s": null,
-     "c": 1,
-     "d": null
+     "c": 2,
+     "d": "2026-09-25"
+    },
+    {
+     "n": "NS",
+     "s": null,
+     "c": 0,
+     "d": "2026-09-25"
+    },
+    {
+     "n": "XSX",
+     "s": null,
+     "c": 2,
+     "d": "2026-09-25"
+    },
+    {
+     "n": "PS5",
+     "s": 75,
+     "c": 10,
+     "d": "2026-09-25"
+    },
+    {
+     "n": "NS2",
+     "s": null,
+     "c": 0,
+     "d": "2026-09-25"
+    },
+    {
+     "n": "PS4",
+     "s": null,
+     "c": 0,
+     "d": "2026-09-25"
+    },
+    {
+     "n": "XB1",
+     "s": null,
+     "c": 0,
+     "d": "2026-09-25"
     }
    ],
-   "dev": "The Coalition",
-   "pub": "Xbox Game Studios",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1788246859.jpg"
+   "dev": "EA Canada",
+   "pub": "Electronic Arts",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1789745465.jpg"
   },
   {
    "slug": "star-wars-galactic-racer",
@@ -1046,6 +1200,30 @@
    "dev": "Fuse Games",
    "pub": "Secret Mode",
    "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1782239523.jpg"
+  },
+  {
+   "slug": "gears-of-war-e-day",
+   "title": "Gears of War: E-Day",
+   "date": "2026-10-06",
+   "url": "https://www.metacritic.com/game/gears-of-war-e-day/",
+   "meta": null,
+   "plats": [
+    {
+     "n": "XSX",
+     "s": null,
+     "c": 10,
+     "d": null
+    },
+    {
+     "n": "PC",
+     "s": null,
+     "c": 1,
+     "d": null
+    }
+   ],
+   "dev": "The Coalition",
+   "pub": "Xbox Game Studios",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1788246859.jpg"
   },
   {
    "slug": "enshrouded",
@@ -1096,94 +1274,40 @@
    "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1787246452.jpg"
   },
   {
-   "slug": "red-hallways-horror",
-   "title": "RED HALLWAYS: Horror",
-   "date": "2026-09-19",
-   "url": "https://www.metacritic.com/game/red-hallways-horror/",
-   "meta": null,
-   "plats": [
-    {
-     "n": "NS",
-     "s": null,
-     "c": 0,
-     "d": "2026-09-19"
-    }
-   ],
-   "dev": "Downmeadowstreet",
-   "pub": "Downmeadowstreet",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1271125-52.jpg"
-  },
-  {
-   "slug": "slap-the-gamer",
-   "title": "Slap the Gamer",
-   "date": "2026-09-19",
-   "url": "https://www.metacritic.com/game/slap-the-gamer/",
+   "slug": "dicebinder",
+   "title": "Dicebinder",
+   "date": "2026-09-20",
+   "url": "https://www.metacritic.com/game/dicebinder/",
    "meta": null,
    "plats": [
     {
      "n": "PC",
      "s": null,
      "c": 0,
-     "d": "2026-09-19"
+     "d": "2026-09-20"
     }
    ],
-   "dev": "Slap The Gamer Interactive Studios",
-   "pub": "Slap The Gamer Interactive Publishing",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1280868-52.jpg"
+   "dev": "Papermoon",
+   "pub": "Papermoon",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1218140-52.jpg"
   },
   {
-   "slug": "screw-it",
-   "title": "Screw IT",
-   "date": "2026-09-19",
-   "url": "https://www.metacritic.com/game/screw-it/",
+   "slug": "cyberpunk-survivor",
+   "title": "Cyberpunk Survivor",
+   "date": "2026-09-20",
+   "url": "https://www.metacritic.com/game/cyberpunk-survivor/",
    "meta": null,
    "plats": [
     {
      "n": "PC",
      "s": null,
      "c": 0,
-     "d": "2026-09-19"
+     "d": "2026-09-20"
     }
    ],
-   "dev": "Kyrel",
-   "pub": "Kyrel",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1271646-52.jpg"
-  },
-  {
-   "slug": "somebodys-tale",
-   "title": "Somebody's Tale",
-   "date": "2026-09-19",
-   "url": "https://www.metacritic.com/game/somebodys-tale/",
-   "meta": null,
-   "plats": [
-    {
-     "n": "PC",
-     "s": null,
-     "c": 0,
-     "d": "2026-09-19"
-    }
-   ],
-   "dev": "Mattia Fontana",
-   "pub": "Mattia Fontana",
-   "img": ""
-  },
-  {
-   "slug": "red-hallway-horror",
-   "title": "RED HALLWAY: Horror",
-   "date": "2026-09-19",
-   "url": "https://www.metacritic.com/game/red-hallway-horror/",
-   "meta": null,
-   "plats": [
-    {
-     "n": "NS",
-     "s": null,
-     "c": 0,
-     "d": "2026-09-19"
-    }
-   ],
-   "dev": "Downmeadowstreet",
-   "pub": "Downmeadowstreet",
-   "img": ""
+   "dev": "mrtcnbykl",
+   "pub": "mrtcnbykl",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1259962-52.jpg"
   }
  ],
  "annual": [
@@ -1493,7 +1617,7 @@
      "dev": "Capcom",
      "pub": "Capcom",
      "meta": 85,
-     "meta_count": 102,
+     "meta_count": 103,
      "user": 8.6,
      "user_count": 89,
      "scores": {}
@@ -1548,7 +1672,7 @@
  "sig": {
   "trails-in-the-sky-2nd-chapter": [
    91,
-   16,
+   17,
    null
   ],
   "elden-ring-tarnished-edition": [
@@ -1573,12 +1697,12 @@
   ],
   "onimusha-way-of-the-sword": [
    85,
-   102,
+   103,
    8.6
   ],
   "star-wars-zero-company": [
    85,
-   66,
+   67,
    8
   ],
   "metal-gear-solid-master-collection-vol-2": [
@@ -1608,7 +1732,7 @@
   ],
   "orbitals": [
    82,
-   81,
+   82,
    8.5
   ],
   "marsupilami-2-salsa-palombia": [
@@ -1643,8 +1767,8 @@
   ],
   "marvels-wolverine": [
    77,
-   131,
-   6.3
+   132,
+   6.4
   ],
   "theropods": [
    75,
@@ -1661,15 +1785,15 @@
    11,
    null
   ],
-  "hot-wheels-infinite-rush": [
-   74,
-   32,
-   7.8
-  ],
   "captain-tsubasa-2-world-fighters": [
    74,
    34,
    6.3
+  ],
+  "hot-wheels-infinite-rush": [
+   73,
+   33,
+   7.8
   ],
   "another-eden-begins": [
    73,
@@ -1686,6 +1810,11 @@
    9,
    null
   ],
+  "dragon-quest-heroes-tornekos-mystery-dungeon": [
+   71,
+   7,
+   null
+  ],
   "mexican-ninja": [
    71,
    8,
@@ -1697,8 +1826,8 @@
    6.7
   ],
   "halloween-the-game": [
-   68,
-   12,
+   69,
+   13,
    7.8
   ],
   "nhl-27": [
