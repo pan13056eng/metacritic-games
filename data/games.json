@@ -1,10 +1,10 @@
 {
- "updated": "2026-09-20 07:45",
+ "updated": "2026-09-22 07:44",
  "window": [
-  "2026-08-21",
-  "2026-09-20"
+  "2026-08-23",
+  "2026-09-22"
  ],
- "total": 29,
+ "total": 32,
  "released": [
   {
    "slug": "fire-emblem-fortunes-weave",
@@ -76,7 +76,7 @@
    "meta": 85,
    "meta_count": 36,
    "user": 8.8,
-   "user_count": 10,
+   "user_count": 12,
    "scores": {
     "Push Square": 80
    }
@@ -117,7 +117,7 @@
    "pub": "GungHo",
    "meta": 91,
    "meta_count": 17,
-   "user": 8.7,
+   "user": 8.6,
    "user_count": 0,
    "scores": {
     "IGN": 90,
@@ -161,7 +161,7 @@
    "meta": 85,
    "meta_count": 103,
    "user": 8.6,
-   "user_count": 89,
+   "user_count": 144,
    "scores": {
     "IGN": 100,
     "Push Square": 90,
@@ -187,7 +187,7 @@
    "meta": 82,
    "meta_count": 82,
    "user": 8.4,
-   "user_count": 19,
+   "user_count": 28,
    "scores": {
     "Nintendo Life": 90,
     "IGN": 80,
@@ -225,7 +225,7 @@
    "meta": 83,
    "meta_count": 72,
    "user": 8.3,
-   "user_count": 185,
+   "user_count": 263,
    "scores": {
     "IGN": 90,
     "GameSpot": 80,
@@ -251,7 +251,7 @@
    "meta": 90,
    "meta_count": 54,
    "user": 8.2,
-   "user_count": 15,
+   "user_count": 18,
    "scores": {
     "Nintendo Life": 90
    }
@@ -287,7 +287,7 @@
    "meta": 78,
    "meta_count": 65,
    "user": 8.2,
-   "user_count": 83,
+   "user_count": 103,
    "scores": {
     "Push Square": 70,
     "Eurogamer": 60,
@@ -326,10 +326,37 @@
    "meta": 85,
    "meta_count": 67,
    "user": 8,
-   "user_count": 61,
+   "user_count": 67,
    "scores": {
     "IGN": 90,
     "GameSpot": 80
+   }
+  },
+  {
+   "slug": "marvels-wolverine",
+   "title": "Marvel's Wolverine",
+   "date": "2026-09-15",
+   "url": "https://www.metacritic.com/game/marvels-wolverine/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1780161558.jpg",
+   "plats": [
+    {
+     "n": "PS5",
+     "s": 78,
+     "c": 116,
+     "d": null
+    }
+   ],
+   "dev": "Insomniac Games",
+   "pub": "Sony Interactive Entertainment",
+   "meta": 77,
+   "meta_count": 134,
+   "user": 7,
+   "user_count": 2510,
+   "scores": {
+    "Push Square": 80,
+    "GameSpot": 60,
+    "IGN": 60,
+    "Eurogamer": 60
    }
   },
   {
@@ -367,38 +394,11 @@
    "dev": "Milestone S.r.l",
    "pub": "Milestone S.r.l",
    "meta": 73,
-   "meta_count": 33,
-   "user": 7.1,
-   "user_count": 0,
+   "meta_count": 34,
+   "user": 6.9,
+   "user_count": 3,
    "scores": {
     "Push Square": 60
-   }
-  },
-  {
-   "slug": "marvels-wolverine",
-   "title": "Marvel's Wolverine",
-   "date": "2026-09-15",
-   "url": "https://www.metacritic.com/game/marvels-wolverine/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1780161558.jpg",
-   "plats": [
-    {
-     "n": "PS5",
-     "s": 78,
-     "c": 116,
-     "d": null
-    }
-   ],
-   "dev": "Insomniac Games",
-   "pub": "Sony Interactive Entertainment",
-   "meta": 77,
-   "meta_count": 132,
-   "user": 6.8,
-   "user_count": 0,
-   "scores": {
-    "Push Square": 80,
-    "GameSpot": 60,
-    "IGN": 60,
-    "Eurogamer": 60
    }
   },
   {
@@ -438,7 +438,7 @@
    "meta": 74,
    "meta_count": 34,
    "user": 6.3,
-   "user_count": 16,
+   "user_count": 18,
    "scores": {}
   },
   {
@@ -476,12 +476,58 @@
    "dev": "Visual Concepts",
    "pub": "2K Games",
    "meta": 77,
-   "meta_count": 31,
+   "meta_count": 32,
    "user": 4,
-   "user_count": 4,
+   "user_count": 6,
    "scores": {
     "GameSpot": 70
    }
+  },
+  {
+   "slug": "well-dweller",
+   "title": "Well Dweller",
+   "date": "2026-09-22",
+   "url": "https://www.metacritic.com/game/well-dweller/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1790005007.jpg",
+   "plats": [
+    {
+     "n": "NS2",
+     "s": null,
+     "c": 0,
+     "d": "2026-09-22"
+    },
+    {
+     "n": "PC",
+     "s": 91,
+     "c": 5,
+     "d": "2026-09-22"
+    },
+    {
+     "n": "XSX",
+     "s": 84,
+     "c": 4,
+     "d": "2026-09-22"
+    },
+    {
+     "n": "PS5",
+     "s": null,
+     "c": 3,
+     "d": "2026-09-22"
+    },
+    {
+     "n": "NS",
+     "s": null,
+     "c": 3,
+     "d": "2026-09-22"
+    }
+   ],
+   "dev": "Kyle Thompson",
+   "pub": "Kyle Thompson",
+   "meta": 91,
+   "meta_count": 5,
+   "user": null,
+   "user_count": 0,
+   "scores": {}
   }
  ],
  "watch": [
@@ -504,7 +550,47 @@
    "meta": 86,
    "meta_count": 10,
    "user": 8.5,
-   "user_count": 4,
+   "user_count": 7,
+   "scores": {}
+  },
+  {
+   "slug": "runescape-dragonwilds",
+   "title": "RuneScape: Dragonwilds",
+   "date": "2026-09-15",
+   "url": "https://www.metacritic.com/game/runescape-dragonwilds/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1781630650.jpg",
+   "plats": [
+    {
+     "n": "PC",
+     "s": null,
+     "c": 7,
+     "d": "2026-09-15"
+    },
+    {
+     "n": "PS5",
+     "s": null,
+     "c": 0,
+     "d": "2026-09-15"
+    },
+    {
+     "n": "XSX",
+     "s": null,
+     "c": 1,
+     "d": "2026-09-15"
+    },
+    {
+     "n": "NS2",
+     "s": null,
+     "c": 1,
+     "d": "2026-09-15"
+    }
+   ],
+   "dev": "Jagex",
+   "pub": "Jagex",
+   "meta": null,
+   "meta_count": 7,
+   "user": 8.5,
+   "user_count": 5,
    "scores": {}
   },
   {
@@ -535,10 +621,10 @@
    ],
    "dev": "IllFonic",
    "pub": "Gun Interactive",
-   "meta": 69,
-   "meta_count": 13,
-   "user": 7.9,
-   "user_count": 2,
+   "meta": 65,
+   "meta_count": 14,
+   "user": 7.7,
+   "user_count": 10,
    "scores": {}
   },
   {
@@ -622,9 +708,9 @@
    "dev": "Iron Gate AB",
    "pub": "Coffee Stain Publishing",
    "meta": 89,
-   "meta_count": 18,
-   "user": 7.5,
-   "user_count": 9,
+   "meta_count": 21,
+   "user": 7.4,
+   "user_count": 18,
    "scores": {}
   },
   {
@@ -800,7 +886,7 @@
    "meta": 68,
    "meta_count": 13,
    "user": 3.3,
-   "user_count": 5,
+   "user_count": 8,
    "scores": {}
   },
   {
@@ -852,60 +938,6 @@
  ],
  "upcoming": [
   {
-   "slug": "graveyard-keeper-2",
-   "title": "Graveyard Keeper 2",
-   "date": "2026-09-22",
-   "url": "https://www.metacritic.com/game/graveyard-keeper-2/",
-   "meta": 71,
-   "plats": [
-    {
-     "n": "PS5",
-     "s": null,
-     "c": 0,
-     "d": "2026-09-22"
-    },
-    {
-     "n": "PC",
-     "s": 71,
-     "c": 7,
-     "d": "2026-09-22"
-    },
-    {
-     "n": "XSX",
-     "s": null,
-     "c": 0,
-     "d": "2026-09-22"
-    },
-    {
-     "n": "NS2",
-     "s": null,
-     "c": 0,
-     "d": "2026-09-22"
-    },
-    {
-     "n": "NS",
-     "s": null,
-     "c": 0,
-     "d": "2026-09-22"
-    },
-    {
-     "n": "PS4",
-     "s": null,
-     "c": 0,
-     "d": "2026-09-22"
-    },
-    {
-     "n": "XB1",
-     "s": null,
-     "c": 0,
-     "d": "2026-09-22"
-    }
-   ],
-   "dev": "Lazy Bear Games",
-   "pub": "tinyBuild",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1789402486.jpg"
-  },
-  {
    "slug": "control-resonant",
    "title": "CONTROL Resonant",
    "date": "2026-09-24",
@@ -940,7 +972,7 @@
    "title": "Silent Hill: Townfall",
    "date": "2026-09-24",
    "url": "https://www.metacritic.com/game/silent-hill-townfall/",
-   "meta": null,
+   "meta": 81,
    "plats": [
     {
      "n": "PS5",
@@ -964,7 +996,7 @@
    "title": "EA Sports FC 27",
    "date": "2026-09-25",
    "url": "https://www.metacritic.com/game/ea-sports-fc-27/",
-   "meta": 75,
+   "meta": 77,
    "plats": [
     {
      "n": "PC",
@@ -1095,7 +1127,7 @@
    ],
    "dev": "Keen Games",
    "pub": "Keen Games",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-934454-52.jpg"
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1790044020.jpg"
   },
   {
    "slug": "the-duskbloods",
@@ -1116,40 +1148,70 @@
    "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1787246452.jpg"
   },
   {
-   "slug": "the-rabbit-haul",
-   "title": "The Rabbit Haul",
-   "date": "2026-09-21",
-   "url": "https://www.metacritic.com/game/the-rabbit-haul/",
+   "slug": "nomori",
+   "title": "Nomori",
+   "date": "2026-09-23",
+   "url": "https://www.metacritic.com/game/nomori/",
    "meta": null,
    "plats": [
     {
      "n": "PC",
      "s": null,
      "c": 0,
-     "d": "2026-09-21"
+     "d": "2026-09-23"
+    },
+    {
+     "n": "XSX",
+     "s": null,
+     "c": 0,
+     "d": "2026-09-23"
+    },
+    {
+     "n": "XB1",
+     "s": null,
+     "c": 0,
+     "d": "2026-09-23"
     }
    ],
-   "dev": "Caldera Interactive",
-   "pub": "Fandom",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1789573735.jpg"
+   "dev": "Enchanted Works",
+   "pub": "Enchanted Works",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1024912-52.jpg"
   },
   {
-   "slug": "soggy-beans",
-   "title": "Soggy Beans",
-   "date": "2026-09-21",
-   "url": "https://www.metacritic.com/game/soggy-beans/",
+   "slug": "fusty-dungeon",
+   "title": "Fusty Dungeon",
+   "date": "2026-09-23",
+   "url": "https://www.metacritic.com/game/fusty-dungeon/",
    "meta": null,
    "plats": [
     {
      "n": "PC",
      "s": null,
      "c": 0,
-     "d": "2026-09-21"
+     "d": "2026-09-23"
     }
    ],
-   "dev": "RATMODE",
-   "pub": "RATMODE",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-973707-52.jpg"
+   "dev": "Vitamin Gohan",
+   "pub": "Shiravune",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1098387-52.jpg"
+  },
+  {
+   "slug": "monitor-state",
+   "title": "Monitor State",
+   "date": "2026-09-23",
+   "url": "https://www.metacritic.com/game/monitor-state/",
+   "meta": null,
+   "plats": [
+    {
+     "n": "PC",
+     "s": null,
+     "c": 0,
+     "d": "2026-09-23"
+    }
+   ],
+   "dev": "Artur Pukhavoi",
+   "pub": "Artur Pukhavoi",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1106513-52.jpg"
   }
  ],
  "annual": [
@@ -1187,7 +1249,7 @@
      "meta": 90,
      "meta_count": 83,
      "user": 8.2,
-     "user_count": 205,
+     "user_count": 212,
      "scores": {}
     },
     {
@@ -1239,7 +1301,7 @@
      "meta": 90,
      "meta_count": 72,
      "user": 8.1,
-     "user_count": 91,
+     "user_count": 93,
      "scores": {}
     },
     {
@@ -1279,7 +1341,7 @@
      "meta": 89,
      "meta_count": 140,
      "user": 9.3,
-     "user_count": 4020,
+     "user_count": 4041,
      "scores": {}
     },
     {
@@ -1341,7 +1403,7 @@
      "meta": 89,
      "meta_count": 121,
      "user": 8.6,
-     "user_count": 587,
+     "user_count": 591,
      "scores": {}
     },
     {
@@ -1381,7 +1443,7 @@
      "meta": 88,
      "meta_count": 58,
      "user": 8.1,
-     "user_count": 81,
+     "user_count": 82,
      "scores": {}
     },
     {
@@ -1421,7 +1483,7 @@
      "meta": 85,
      "meta_count": 109,
      "user": 8.7,
-     "user_count": 463,
+     "user_count": 468,
      "scores": {}
     },
     {
@@ -1461,7 +1523,7 @@
      "meta": 85,
      "meta_count": 103,
      "user": 8.6,
-     "user_count": 89,
+     "user_count": 144,
      "scores": {}
     },
     {
@@ -1483,7 +1545,7 @@
      "meta": 82,
      "meta_count": 122,
      "user": 9.3,
-     "user_count": 786,
+     "user_count": 792,
      "scores": {}
     },
     {
@@ -1505,7 +1567,7 @@
      "meta": 82,
      "meta_count": 104,
      "user": 8.6,
-     "user_count": 48,
+     "user_count": 49,
      "scores": {}
     }
    ]
@@ -1515,7 +1577,7 @@
   "trails-in-the-sky-2nd-chapter": [
    91,
    17,
-   8.7
+   8.6
   ],
   "elden-ring-tarnished-edition": [
    90,
@@ -1524,8 +1586,8 @@
   ],
   "valheim": [
    89,
-   18,
-   7.5
+   21,
+   7.4
   ],
   "fire-emblem-fortunes-weave": [
    89,
@@ -1584,17 +1646,17 @@
   ],
   "nba-2k27": [
    77,
-   31,
+   32,
    4
   ],
   "marvels-wolverine": [
    77,
-   132,
-   6.8
+   134,
+   7
   ],
   "sprawl-zero": [
    75,
-   8,
+   9,
    8.3
   ],
   "blood-dungeon": [
@@ -1609,8 +1671,13 @@
   ],
   "hot-wheels-infinite-rush": [
    73,
-   33,
-   7.1
+   34,
+   6.9
+  ],
+  "graveyard-keeper-2": [
+   73,
+   8,
+   null
   ],
   "another-eden-begins": [
    73,
@@ -1629,18 +1696,13 @@
   ],
   "dragon-quest-heroes-tornekos-mystery-dungeon": [
    71,
-   7,
+   8,
    null
   ],
   "brigandine-abyss": [
    71,
    10,
    6.7
-  ],
-  "halloween-the-game": [
-   69,
-   13,
-   7.9
   ],
   "nhl-27": [
    68,
@@ -1652,10 +1714,25 @@
    9,
    6.5
   ],
+  "halloween-the-game": [
+   65,
+   14,
+   7.7
+  ],
   "aliens-fireteam-elite-2": [
    64,
    16,
    6.8
+  ],
+  "runescape-dragonwilds": [
+   null,
+   7,
+   8.5
+  ],
+  "well-dweller": [
+   91,
+   5,
+   null
   ]
  }
 }
