@@ -1,10 +1,10 @@
 {
- "updated": "2026-09-22 07:44",
+ "updated": "2026-09-23 07:47",
  "window": [
-  "2026-08-23",
-  "2026-09-22"
+  "2026-08-24",
+  "2026-09-23"
  ],
- "total": 32,
+ "total": 33,
  "released": [
   {
    "slug": "fire-emblem-fortunes-weave",
@@ -23,8 +23,8 @@
    "dev": "Nintendo",
    "pub": "Nintendo",
    "meta": 89,
-   "meta_count": 70,
-   "user": 9.1,
+   "meta_count": 71,
+   "user": 9,
    "user_count": 0,
    "scores": {
     "IGN": 100,
@@ -185,7 +185,7 @@
    "dev": "Shapefarm",
    "pub": "Kepler Interactive",
    "meta": 82,
-   "meta_count": 82,
+   "meta_count": 83,
    "user": 8.4,
    "user_count": 28,
    "scores": {
@@ -348,9 +348,9 @@
    ],
    "dev": "Insomniac Games",
    "pub": "Sony Interactive Entertainment",
-   "meta": 77,
-   "meta_count": 134,
-   "user": 7,
+   "meta": 76,
+   "meta_count": 135,
+   "user": 7.1,
    "user_count": 2510,
    "scores": {
     "Push Square": 80,
@@ -524,7 +524,7 @@
    "dev": "Kyle Thompson",
    "pub": "Kyle Thompson",
    "meta": 91,
-   "meta_count": 5,
+   "meta_count": 7,
    "user": null,
    "user_count": 0,
    "scores": {}
@@ -628,46 +628,6 @@
    "scores": {}
   },
   {
-   "slug": "aniimo",
-   "title": "Aniimo",
-   "date": "2026-09-16",
-   "url": "https://www.metacritic.com/game/aniimo/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1789446769.jpg",
-   "plats": [
-    {
-     "n": "PC",
-     "s": 78,
-     "c": 8,
-     "d": "2026-09-16"
-    },
-    {
-     "n": "XSX",
-     "s": null,
-     "c": 0,
-     "d": "2026-09-16"
-    },
-    {
-     "n": "iOS",
-     "s": null,
-     "c": 0,
-     "d": "2026-09-16"
-    },
-    {
-     "n": "PS5",
-     "s": null,
-     "c": 0,
-     "d": "2026-09-16"
-    }
-   ],
-   "dev": "Pawprint Studio",
-   "pub": "Pawprint Studio",
-   "meta": 78,
-   "meta_count": 8,
-   "user": 7.6,
-   "user_count": 5,
-   "scores": {}
-  },
-  {
    "slug": "valheim",
    "title": "Valheim",
    "date": "2026-09-09",
@@ -711,6 +671,46 @@
    "meta_count": 21,
    "user": 7.4,
    "user_count": 18,
+   "scores": {}
+  },
+  {
+   "slug": "aniimo",
+   "title": "Aniimo",
+   "date": "2026-09-16",
+   "url": "https://www.metacritic.com/game/aniimo/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1789446769.jpg",
+   "plats": [
+    {
+     "n": "PC",
+     "s": 78,
+     "c": 8,
+     "d": "2026-09-16"
+    },
+    {
+     "n": "XSX",
+     "s": null,
+     "c": 0,
+     "d": "2026-09-16"
+    },
+    {
+     "n": "iOS",
+     "s": null,
+     "c": 0,
+     "d": "2026-09-16"
+    },
+    {
+     "n": "PS5",
+     "s": null,
+     "c": 0,
+     "d": "2026-09-16"
+    }
+   ],
+   "dev": "Pawprint Studio",
+   "pub": "Pawprint Studio",
+   "meta": 78,
+   "meta_count": 9,
+   "user": 7.2,
+   "user_count": 5,
    "scores": {}
   },
   {
@@ -884,8 +884,8 @@
    "dev": "EA Vancouver",
    "pub": "Electronic Arts",
    "meta": 68,
-   "meta_count": 13,
-   "user": 3.3,
+   "meta_count": 14,
+   "user": 3,
    "user_count": 8,
    "scores": {}
   },
@@ -933,6 +933,52 @@
    "meta_count": 11,
    "user": null,
    "user_count": 1,
+   "scores": {}
+  },
+  {
+   "slug": "lous-lagoon",
+   "title": "Lou's Lagoon",
+   "date": "2026-08-27",
+   "url": "https://www.metacritic.com/game/lous-lagoon/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1787586365.jpg",
+   "plats": [
+    {
+     "n": "PC",
+     "s": 72,
+     "c": 10,
+     "d": "2026-08-27"
+    },
+    {
+     "n": "NS",
+     "s": null,
+     "c": 0,
+     "d": "2026-08-27"
+    },
+    {
+     "n": "XSX",
+     "s": 72,
+     "c": 4,
+     "d": "2026-08-27"
+    },
+    {
+     "n": "PS5",
+     "s": 74,
+     "c": 4,
+     "d": "2026-08-27"
+    },
+    {
+     "n": "NS2",
+     "s": 65,
+     "c": 4,
+     "d": "2026-08-27"
+    }
+   ],
+   "dev": "Tiny Roar",
+   "pub": "rokaplay",
+   "meta": 72,
+   "meta_count": 10,
+   "user": null,
+   "user_count": 0,
    "scores": {}
   }
  ],
@@ -996,7 +1042,7 @@
    "title": "EA Sports FC 27",
    "date": "2026-09-25",
    "url": "https://www.metacritic.com/game/ea-sports-fc-27/",
-   "meta": 77,
+   "meta": 78,
    "plats": [
     {
      "n": "PC",
@@ -1148,70 +1194,94 @@
    "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1787246452.jpg"
   },
   {
-   "slug": "nomori",
-   "title": "Nomori",
-   "date": "2026-09-23",
-   "url": "https://www.metacritic.com/game/nomori/",
+   "slug": "sin-reloaded",
+   "title": "SiN: Reloaded",
+   "date": "2026-09-24",
+   "url": "https://www.metacritic.com/game/sin-reloaded/",
    "meta": null,
    "plats": [
     {
      "n": "PC",
      "s": null,
      "c": 0,
-     "d": "2026-09-23"
+     "d": "2026-09-24"
+    },
+    {
+     "n": "NS",
+     "s": null,
+     "c": 0,
+     "d": "2026-09-24"
+    },
+    {
+     "n": "PS5",
+     "s": null,
+     "c": 0,
+     "d": "2026-09-24"
     },
     {
      "n": "XSX",
      "s": null,
      "c": 0,
-     "d": "2026-09-23"
+     "d": "2026-09-24"
     },
     {
      "n": "XB1",
      "s": null,
      "c": 0,
-     "d": "2026-09-23"
+     "d": "2026-09-24"
+    },
+    {
+     "n": "PS4",
+     "s": null,
+     "c": 0,
+     "d": "2026-09-24"
+    },
+    {
+     "n": "NS2",
+     "s": null,
+     "c": 0,
+     "d": "2026-09-24"
     }
    ],
-   "dev": "Enchanted Works",
-   "pub": "Enchanted Works",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1024912-52.jpg"
+   "dev": "Nightdive Studios",
+   "pub": "Nightdive Studios",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-766393-52.jpg"
   },
   {
-   "slug": "fusty-dungeon",
-   "title": "Fusty Dungeon",
-   "date": "2026-09-23",
-   "url": "https://www.metacritic.com/game/fusty-dungeon/",
+   "slug": "the-magus-circle",
+   "title": "The Magus Circle",
+   "date": "2026-09-24",
+   "url": "https://www.metacritic.com/game/the-magus-circle/",
    "meta": null,
    "plats": [
     {
      "n": "PC",
      "s": null,
      "c": 0,
-     "d": "2026-09-23"
+     "d": "2026-09-24"
     }
    ],
-   "dev": "Vitamin Gohan",
-   "pub": "Shiravune",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1098387-52.jpg"
+   "dev": "By Witchlight",
+   "pub": "By Witchlight",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1011792-52.jpg"
   },
   {
-   "slug": "monitor-state",
-   "title": "Monitor State",
-   "date": "2026-09-23",
-   "url": "https://www.metacritic.com/game/monitor-state/",
+   "slug": "dragon-shelter",
+   "title": "Dragon Shelter",
+   "date": "2026-09-24",
+   "url": "https://www.metacritic.com/game/dragon-shelter/",
    "meta": null,
    "plats": [
     {
      "n": "PC",
      "s": null,
      "c": 0,
-     "d": "2026-09-23"
+     "d": "2026-09-24"
     }
    ],
-   "dev": "Artur Pukhavoi",
-   "pub": "Artur Pukhavoi",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1106513-52.jpg"
+   "dev": "Wild Forest Studio",
+   "pub": "Curve Games",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-988410-52.jpg"
   }
  ],
  "annual": [
@@ -1579,6 +1649,11 @@
    17,
    8.6
   ],
+  "well-dweller": [
+   91,
+   7,
+   null
+  ],
   "elden-ring-tarnished-edition": [
    90,
    54,
@@ -1591,8 +1666,8 @@
   ],
   "fire-emblem-fortunes-weave": [
    89,
-   70,
-   9.1
+   71,
+   9
   ],
   "welcome-to-elderfield": [
    86,
@@ -1621,7 +1696,7 @@
   ],
   "orbitals": [
    82,
-   82,
+   83,
    8.4
   ],
   "marsupilami-2-salsa-palombia": [
@@ -1641,8 +1716,8 @@
   ],
   "aniimo": [
    78,
-   8,
-   7.6
+   9,
+   7.2
   ],
   "nba-2k27": [
    77,
@@ -1650,9 +1725,9 @@
    4
   ],
   "marvels-wolverine": [
-   77,
-   134,
-   7
+   76,
+   135,
+   7.1
   ],
   "sprawl-zero": [
    75,
@@ -1691,7 +1766,7 @@
   ],
   "lous-lagoon": [
    72,
-   9,
+   10,
    null
   ],
   "dragon-quest-heroes-tornekos-mystery-dungeon": [
@@ -1706,8 +1781,8 @@
   ],
   "nhl-27": [
    68,
-   13,
-   3.3
+   14,
+   3
   ],
   "wo-long-fallen-dynasty-complete-edition": [
    67,
@@ -1729,8 +1804,8 @@
    7,
    8.5
   ],
-  "well-dweller": [
-   91,
+  "rivage": [
+   62,
    5,
    null
   ]
