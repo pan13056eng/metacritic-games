@@ -1,10 +1,10 @@
 {
- "updated": "2026-09-24 07:36",
+ "updated": "2026-09-25 07:49",
  "window": [
-  "2026-08-25",
-  "2026-09-24"
+  "2026-08-26",
+  "2026-09-25"
  ],
- "total": 37,
+ "total": 35,
  "released": [
   {
    "slug": "fire-emblem-fortunes-weave",
@@ -23,8 +23,8 @@
    "dev": "Nintendo",
    "pub": "Nintendo",
    "meta": 89,
-   "meta_count": 71,
-   "user": 9,
+   "meta_count": 73,
+   "user": 8.9,
    "user_count": 167,
    "scores": {
     "IGN": 100,
@@ -324,7 +324,7 @@
    "dev": "Bit Reactor",
    "pub": "Electronic Arts",
    "meta": 85,
-   "meta_count": 67,
+   "meta_count": 68,
    "user": 8,
    "user_count": 67,
    "scores": {
@@ -439,8 +439,8 @@
    "dev": "Insomniac Games",
    "pub": "Sony Interactive Entertainment",
    "meta": 76,
-   "meta_count": 136,
-   "user": 6.7,
+   "meta_count": 138,
+   "user": 6.8,
    "user_count": 2510,
    "scores": {
     "Push Square": 80,
@@ -524,8 +524,8 @@
    "dev": "Visual Concepts",
    "pub": "2K Games",
    "meta": 77,
-   "meta_count": 32,
-   "user": 4,
+   "meta_count": 33,
+   "user": 3.9,
    "user_count": 6,
    "scores": {
     "GameSpot": 70
@@ -605,8 +605,8 @@
    ],
    "dev": "Remedy Entertainment",
    "pub": "Remedy Entertainment",
-   "meta": 84,
-   "meta_count": 74,
+   "meta": 83,
+   "meta_count": 75,
    "user": null,
    "user_count": 0,
    "scores": {
@@ -637,13 +637,71 @@
    "dev": "Screen Burn",
    "pub": "Konami",
    "meta": 81,
-   "meta_count": 71,
+   "meta_count": 75,
    "user": null,
    "user_count": 0,
    "scores": {
     "IGN": 80,
     "Push Square": 70
    }
+  },
+  {
+   "slug": "ea-sports-fc-27",
+   "title": "EA Sports FC 27",
+   "date": "2026-09-25",
+   "url": "https://www.metacritic.com/game/ea-sports-fc-27/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1789745465.jpg",
+   "plats": [
+    {
+     "n": "PC",
+     "s": null,
+     "c": 2,
+     "d": "2026-09-25"
+    },
+    {
+     "n": "NS",
+     "s": null,
+     "c": 0,
+     "d": "2026-09-25"
+    },
+    {
+     "n": "XSX",
+     "s": null,
+     "c": 2,
+     "d": "2026-09-25"
+    },
+    {
+     "n": "PS5",
+     "s": 75,
+     "c": 10,
+     "d": "2026-09-25"
+    },
+    {
+     "n": "NS2",
+     "s": null,
+     "c": 0,
+     "d": "2026-09-25"
+    },
+    {
+     "n": "PS4",
+     "s": null,
+     "c": 0,
+     "d": "2026-09-25"
+    },
+    {
+     "n": "XB1",
+     "s": null,
+     "c": 0,
+     "d": "2026-09-25"
+    }
+   ],
+   "dev": "EA Canada",
+   "pub": "Electronic Arts",
+   "meta": 78,
+   "meta_count": 33,
+   "user": null,
+   "user_count": 0,
+   "scores": {}
   }
  ],
  "watch": [
@@ -818,49 +876,9 @@
    "dev": "Pawprint Studio",
    "pub": "Pawprint Studio",
    "meta": 78,
-   "meta_count": 11,
-   "user": 7.3,
+   "meta_count": 12,
+   "user": 7.2,
    "user_count": 5,
-   "scores": {}
-  },
-  {
-   "slug": "aliens-fireteam-elite-2",
-   "title": "Aliens: Fireteam Elite 2",
-   "date": "2026-08-25",
-   "url": "https://www.metacritic.com/game/aliens-fireteam-elite-2/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1787677450.jpg",
-   "plats": [
-    {
-     "n": "PS5",
-     "s": 64,
-     "c": 13,
-     "d": null
-    },
-    {
-     "n": "XSX",
-     "s": null,
-     "c": 2,
-     "d": null
-    },
-    {
-     "n": "PC",
-     "s": 67,
-     "c": 13,
-     "d": null
-    },
-    {
-     "n": "NS2",
-     "s": null,
-     "c": 0,
-     "d": null
-    }
-   ],
-   "dev": "Cold Iron Studios",
-   "pub": "Daybreak Games",
-   "meta": 64,
-   "meta_count": 16,
-   "user": 6.8,
-   "user_count": 6,
    "scores": {}
   },
   {
@@ -1000,52 +1018,6 @@
    "scores": {}
   },
   {
-   "slug": "blood-dungeon",
-   "title": "Blood Dungeon",
-   "date": "2026-08-25",
-   "url": "https://www.metacritic.com/game/blood-dungeon/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1787679818.jpg",
-   "plats": [
-    {
-     "n": "PS5",
-     "s": null,
-     "c": 3,
-     "d": null
-    },
-    {
-     "n": "XSX",
-     "s": null,
-     "c": 0,
-     "d": null
-    },
-    {
-     "n": "PC",
-     "s": 74,
-     "c": 11,
-     "d": null
-    },
-    {
-     "n": "NS",
-     "s": null,
-     "c": 0,
-     "d": null
-    },
-    {
-     "n": "NS2",
-     "s": null,
-     "c": 1,
-     "d": null
-    }
-   ],
-   "dev": "Messhof",
-   "pub": "Messhof",
-   "meta": 74,
-   "meta_count": 11,
-   "user": null,
-   "user_count": 1,
-   "scores": {}
-  },
-  {
    "slug": "lous-lagoon",
    "title": "Lou's Lagoon",
    "date": "2026-08-27",
@@ -1093,60 +1065,6 @@
   }
  ],
  "upcoming": [
-  {
-   "slug": "ea-sports-fc-27",
-   "title": "EA Sports FC 27",
-   "date": "2026-09-25",
-   "url": "https://www.metacritic.com/game/ea-sports-fc-27/",
-   "meta": 78,
-   "plats": [
-    {
-     "n": "PC",
-     "s": null,
-     "c": 2,
-     "d": "2026-09-25"
-    },
-    {
-     "n": "NS",
-     "s": null,
-     "c": 0,
-     "d": "2026-09-25"
-    },
-    {
-     "n": "XSX",
-     "s": null,
-     "c": 2,
-     "d": "2026-09-25"
-    },
-    {
-     "n": "PS5",
-     "s": 75,
-     "c": 10,
-     "d": "2026-09-25"
-    },
-    {
-     "n": "NS2",
-     "s": null,
-     "c": 0,
-     "d": "2026-09-25"
-    },
-    {
-     "n": "PS4",
-     "s": null,
-     "c": 0,
-     "d": "2026-09-25"
-    },
-    {
-     "n": "XB1",
-     "s": null,
-     "c": 0,
-     "d": "2026-09-25"
-    }
-   ],
-   "dev": "EA Canada",
-   "pub": "Electronic Arts",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1789745465.jpg"
-  },
   {
    "slug": "gears-of-war-e-day",
    "title": "Gears of War: E-Day",
@@ -1250,94 +1168,112 @@
    "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1787246452.jpg"
   },
   {
-   "slug": "midnight-queue",
-   "title": "Midnight Queue",
-   "date": "2026-09-25",
-   "url": "https://www.metacritic.com/game/midnight-queue/",
+   "slug": "missed-class-horror",
+   "title": "Missed Class: Horror",
+   "date": "2026-09-26",
+   "url": "https://www.metacritic.com/game/missed-class-horror/",
    "meta": null,
    "plats": [
     {
-     "n": "PC",
+     "n": "NS",
      "s": null,
      "c": 0,
-     "d": "2026-09-25"
+     "d": "2026-09-26"
     }
    ],
-   "dev": "Corisco Studio",
-   "pub": "Corisco Studio",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1218648-52.jpg"
+   "dev": "Downmeadowstreet",
+   "pub": "Downmeadowstreet",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1272993-52.jpg"
   },
   {
-   "slug": "soul-reaper-endless-harvest",
-   "title": "Soul Reaper: Endless Harvest",
-   "date": "2026-09-25",
-   "url": "https://www.metacritic.com/game/soul-reaper-endless-harvest/",
+   "slug": "parkour-obby-ice-escape",
+   "title": "Parkour Obby: Ice Escape",
+   "date": "2026-09-26",
+   "url": "https://www.metacritic.com/game/parkour-obby-ice-escape/",
    "meta": null,
    "plats": [
     {
-     "n": "PC",
+     "n": "NS",
      "s": null,
      "c": 0,
-     "d": "2026-09-25"
+     "d": "2026-09-26"
     }
    ],
-   "dev": "Drac Blau Studio",
-   "pub": "Drac Blau Studio",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1215295-52.jpg"
+   "dev": "Downmeadowstreet",
+   "pub": "Downmeadowstreet",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1277086-52.jpg"
   },
   {
-   "slug": "the-only-droid",
-   "title": "The Only Droid",
-   "date": "2026-09-25",
-   "url": "https://www.metacritic.com/game/the-only-droid/",
+   "slug": "florana-defense",
+   "title": "Florana Defense",
+   "date": "2026-09-27",
+   "url": "https://www.metacritic.com/game/florana-defense/",
    "meta": null,
    "plats": [
     {
      "n": "PC",
      "s": null,
      "c": 0,
-     "d": "2026-09-25"
+     "d": "2026-09-27"
     }
    ],
-   "dev": "Musab.dev",
-   "pub": "Musab.dev",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1215920-52.jpg"
+   "dev": "Petr \"Glubo\" Sykora",
+   "pub": "Petr \"Glubo\" Sykora",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1261475-52.jpg"
   },
   {
-   "slug": "sandwich-plus-1",
-   "title": "Sandwich +1",
-   "date": "2026-09-25",
-   "url": "https://www.metacritic.com/game/sandwich-plus-1/",
+   "slug": "love-nest-v0098",
+   "title": "Love Nest ~V0.098~",
+   "date": "2026-09-27",
+   "url": "https://www.metacritic.com/game/love-nest-v0098/",
    "meta": null,
    "plats": [
     {
      "n": "PC",
      "s": null,
      "c": 0,
-     "d": "2026-09-25"
+     "d": "2026-09-27"
     }
    ],
-   "dev": "Apelsinka Games",
-   "pub": "Apelsinka Games",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1222061-52.jpg"
+   "dev": "Pond",
+   "pub": "Chichi",
+   "img": ""
   },
   {
-   "slug": "lucid-cats",
-   "title": "Lucid Cats",
-   "date": "2026-09-25",
-   "url": "https://www.metacritic.com/game/lucid-cats/",
+   "slug": "bomberparty",
+   "title": "BomberParty",
+   "date": "2026-09-27",
+   "url": "https://www.metacritic.com/game/bomberparty/",
    "meta": null,
    "plats": [
     {
      "n": "PC",
      "s": null,
      "c": 0,
-     "d": "2026-09-25"
+     "d": "2026-09-27"
     }
    ],
-   "dev": "Kolide Studio",
-   "pub": "Kolide Studio",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1245244-52.jpg"
+   "dev": "BlueBoxGaming",
+   "pub": "BlueBoxGaming",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1284415-52.jpg"
+  },
+  {
+   "slug": "speed-8x",
+   "title": "SPEED: 8.X",
+   "date": "2026-09-27",
+   "url": "https://www.metacritic.com/game/speed-8x/",
+   "meta": null,
+   "plats": [
+    {
+     "n": "PC",
+     "s": null,
+     "c": 0,
+     "d": "2026-09-27"
+    }
+   ],
+   "dev": "petitmonte",
+   "pub": "petitmonte",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1281178-52.jpg"
   }
  ],
  "annual": [
@@ -1487,8 +1423,8 @@
      "dev": "Nintendo",
      "pub": "Nintendo",
      "meta": 89,
-     "meta_count": 71,
-     "user": 9,
+     "meta_count": 73,
+     "user": 8.9,
      "user_count": 167,
      "scores": {}
     },
@@ -1744,8 +1680,8 @@
   ],
   "fire-emblem-fortunes-weave": [
    89,
-   71,
-   9
+   73,
+   8.9
   ],
   "welcome-to-elderfield": [
    86,
@@ -1759,7 +1695,7 @@
   ],
   "star-wars-zero-company": [
    85,
-   67,
+   68,
    8
   ],
   "metal-gear-solid-master-collection-vol-2": [
@@ -1767,15 +1703,15 @@
    36,
    8.8
   ],
-  "control-resonant": [
-   84,
-   74,
-   null
-  ],
   "the-blood-of-dawnwalker": [
    83,
    72,
    8.3
+  ],
+  "control-resonant": [
+   83,
+   75,
+   null
   ],
   "orbitals": [
    81,
@@ -1784,7 +1720,7 @@
   ],
   "silent-hill-townfall": [
    81,
-   71,
+   75,
    null
   ],
   "marsupilami-2-salsa-palombia": [
@@ -1804,28 +1740,28 @@
   ],
   "aniimo": [
    78,
-   11,
-   7.3
+   12,
+   7.2
+  ],
+  "ea-sports-fc-27": [
+   78,
+   33,
+   null
   ],
   "nba-2k27": [
    77,
-   32,
-   4
-  ],
-  "marvels-wolverine": [
-   76,
-   136,
-   6.7
+   33,
+   3.9
   ],
   "sprawl-zero": [
    76,
    10,
    8.3
   ],
-  "blood-dungeon": [
-   74,
-   11,
-   null
+  "marvels-wolverine": [
+   76,
+   138,
+   6.8
   ],
   "captain-tsubasa-2-world-fighters": [
    74,
@@ -1867,6 +1803,11 @@
    10,
    6.7
   ],
+  "garfield-escape-from-monday": [
+   68,
+   7,
+   null
+  ],
   "nhl-27": [
    68,
    14,
@@ -1882,11 +1823,6 @@
    14,
    7.6
   ],
-  "aliens-fireteam-elite-2": [
-   64,
-   16,
-   6.8
-  ],
   "the-walking-dead-streets-of-survival": [
    64,
    7,
@@ -1896,16 +1832,6 @@
    null,
    7,
    8.5
-  ],
-  "doggy-dont-care": [
-   68,
-   4,
-   null
-  ],
-  "garfield-escape-from-monday": [
-   67,
-   6,
-   null
   ]
  }
 }
