@@ -1,10 +1,10 @@
 {
- "updated": "2026-09-25 07:49",
+ "updated": "2026-09-26 07:42",
  "window": [
-  "2026-08-26",
-  "2026-09-25"
+  "2026-08-27",
+  "2026-09-26"
  ],
- "total": 35,
+ "total": 37,
  "released": [
   {
    "slug": "fire-emblem-fortunes-weave",
@@ -23,7 +23,7 @@
    "dev": "Nintendo",
    "pub": "Nintendo",
    "meta": 89,
-   "meta_count": 73,
+   "meta_count": 75,
    "user": 8.9,
    "user_count": 167,
    "scores": {
@@ -31,6 +31,49 @@
     "Eurogamer": 100,
     "GameSpot": 90,
     "Nintendo Life": 80
+   }
+  },
+  {
+   "slug": "trails-in-the-sky-2nd-chapter",
+   "title": "Trails in the Sky 2nd Chapter",
+   "date": "2026-09-17",
+   "url": "https://www.metacritic.com/game/trails-in-the-sky-2nd-chapter/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1789495679.jpg",
+   "plats": [
+    {
+     "n": "PC",
+     "s": 93,
+     "c": 10,
+     "d": "2026-09-17"
+    },
+    {
+     "n": "NS2",
+     "s": 84,
+     "c": 5,
+     "d": "2026-09-17"
+    },
+    {
+     "n": "NS",
+     "s": null,
+     "c": 0,
+     "d": "2026-09-17"
+    },
+    {
+     "n": "PS5",
+     "s": 92,
+     "c": 14,
+     "d": "2026-09-17"
+    }
+   ],
+   "dev": "Falcom",
+   "pub": "GungHo",
+   "meta": 91,
+   "meta_count": 19,
+   "user": 8.8,
+   "user_count": 27,
+   "scores": {
+    "IGN": 90,
+    "Push Square": 90
    }
   },
   {
@@ -82,49 +125,6 @@
    }
   },
   {
-   "slug": "trails-in-the-sky-2nd-chapter",
-   "title": "Trails in the Sky 2nd Chapter",
-   "date": "2026-09-17",
-   "url": "https://www.metacritic.com/game/trails-in-the-sky-2nd-chapter/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1789495679.jpg",
-   "plats": [
-    {
-     "n": "PC",
-     "s": 93,
-     "c": 10,
-     "d": "2026-09-17"
-    },
-    {
-     "n": "NS2",
-     "s": 84,
-     "c": 5,
-     "d": "2026-09-17"
-    },
-    {
-     "n": "NS",
-     "s": null,
-     "c": 0,
-     "d": "2026-09-17"
-    },
-    {
-     "n": "PS5",
-     "s": 92,
-     "c": 14,
-     "d": "2026-09-17"
-    }
-   ],
-   "dev": "Falcom",
-   "pub": "GungHo",
-   "meta": 91,
-   "meta_count": 17,
-   "user": 8.7,
-   "user_count": 27,
-   "scores": {
-    "IGN": 90,
-    "Push Square": 90
-   }
-  },
-  {
    "slug": "onimusha-way-of-the-sword",
    "title": "Onimusha: Way of the Sword",
    "date": "2026-09-04",
@@ -160,7 +160,7 @@
    "pub": "Capcom",
    "meta": 85,
    "meta_count": 104,
-   "user": 8.5,
+   "user": 8.6,
    "user_count": 144,
    "scores": {
     "IGN": 100,
@@ -439,7 +439,7 @@
    "dev": "Insomniac Games",
    "pub": "Sony Interactive Entertainment",
    "meta": 76,
-   "meta_count": 138,
+   "meta_count": 142,
    "user": 6.8,
    "user_count": 2510,
    "scores": {
@@ -608,7 +608,7 @@
    "meta": 83,
    "meta_count": 75,
    "user": null,
-   "user_count": 0,
+   "user_count": 42,
    "scores": {
     "Push Square": 80,
     "IGN": 80
@@ -697,8 +697,8 @@
    ],
    "dev": "EA Canada",
    "pub": "Electronic Arts",
-   "meta": 78,
-   "meta_count": 33,
+   "meta": 77,
+   "meta_count": 37,
    "user": null,
    "user_count": 0,
    "scores": {}
@@ -878,7 +878,7 @@
    "meta": 78,
    "meta_count": 12,
    "user": 7.2,
-   "user_count": 5,
+   "user_count": 14,
    "scores": {}
   },
   {
@@ -1066,6 +1066,66 @@
  ],
  "upcoming": [
   {
+   "slug": "transport-fever-3",
+   "title": "Transport Fever 3",
+   "date": "2026-09-29",
+   "url": "https://www.metacritic.com/game/transport-fever-3/",
+   "meta": 83,
+   "plats": [
+    {
+     "n": "XSX",
+     "s": null,
+     "c": 0,
+     "d": "2026-09-29"
+    },
+    {
+     "n": "PS5",
+     "s": 77,
+     "c": 4,
+     "d": "2026-09-29"
+    },
+    {
+     "n": "PC",
+     "s": 83,
+     "c": 7,
+     "d": "2026-09-29"
+    }
+   ],
+   "dev": "Urban Games",
+   "pub": "Paradox Interactive",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1790317355.jpg"
+  },
+  {
+   "slug": "ace-combat-8-wings-of-theve",
+   "title": "Ace Combat 8: Wings of Theve",
+   "date": "2026-10-02",
+   "url": "https://www.metacritic.com/game/ace-combat-8-wings-of-theve/",
+   "meta": 87,
+   "plats": [
+    {
+     "n": "PC",
+     "s": 86,
+     "c": 28,
+     "d": "2026-10-02"
+    },
+    {
+     "n": "XSX",
+     "s": 90,
+     "c": 4,
+     "d": "2026-10-02"
+    },
+    {
+     "n": "PS5",
+     "s": 87,
+     "c": 55,
+     "d": "2026-10-02"
+    }
+   ],
+   "dev": "Bandai Namco Aces Inc.",
+   "pub": "Bandai Namco Games",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1788987138.jpg"
+  },
+  {
    "slug": "gears-of-war-e-day",
    "title": "Gears of War: E-Day",
    "date": "2026-10-06",
@@ -1166,42 +1226,6 @@
    "dev": "From Software",
    "pub": "Nintendo",
    "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1787246452.jpg"
-  },
-  {
-   "slug": "missed-class-horror",
-   "title": "Missed Class: Horror",
-   "date": "2026-09-26",
-   "url": "https://www.metacritic.com/game/missed-class-horror/",
-   "meta": null,
-   "plats": [
-    {
-     "n": "NS",
-     "s": null,
-     "c": 0,
-     "d": "2026-09-26"
-    }
-   ],
-   "dev": "Downmeadowstreet",
-   "pub": "Downmeadowstreet",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1272993-52.jpg"
-  },
-  {
-   "slug": "parkour-obby-ice-escape",
-   "title": "Parkour Obby: Ice Escape",
-   "date": "2026-09-26",
-   "url": "https://www.metacritic.com/game/parkour-obby-ice-escape/",
-   "meta": null,
-   "plats": [
-    {
-     "n": "NS",
-     "s": null,
-     "c": 0,
-     "d": "2026-09-26"
-    }
-   ],
-   "dev": "Downmeadowstreet",
-   "pub": "Downmeadowstreet",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1277086-52.jpg"
   },
   {
    "slug": "florana-defense",
@@ -1423,7 +1447,7 @@
      "dev": "Nintendo",
      "pub": "Nintendo",
      "meta": 89,
-     "meta_count": 73,
+     "meta_count": 75,
      "user": 8.9,
      "user_count": 167,
      "scores": {}
@@ -1606,7 +1630,7 @@
      "pub": "Capcom",
      "meta": 85,
      "meta_count": 104,
-     "user": 8.5,
+     "user": 8.6,
      "user_count": 144,
      "scores": {}
     },
@@ -1660,8 +1684,8 @@
  "sig": {
   "trails-in-the-sky-2nd-chapter": [
    91,
-   17,
-   8.7
+   19,
+   8.8
   ],
   "well-dweller": [
    91,
@@ -1680,7 +1704,7 @@
   ],
   "fire-emblem-fortunes-weave": [
    89,
-   73,
+   75,
    8.9
   ],
   "welcome-to-elderfield": [
@@ -1691,7 +1715,7 @@
   "onimusha-way-of-the-sword": [
    85,
    104,
-   8.5
+   8.6
   ],
   "star-wars-zero-company": [
    85,
@@ -1702,6 +1726,11 @@
    85,
    36,
    8.8
+  ],
+  "diablo-iv-age-of-hatred-collection": [
+   84,
+   7,
+   8.6
   ],
   "the-blood-of-dawnwalker": [
    83,
@@ -1728,6 +1757,11 @@
    7,
    8
   ],
+  "endless-legend-2": [
+   81,
+   7,
+   5.6
+  ],
   "moonlighter-2-the-endless-vault": [
    80,
    9,
@@ -1743,15 +1777,15 @@
    12,
    7.2
   ],
-  "ea-sports-fc-27": [
-   78,
-   33,
-   null
-  ],
   "nba-2k27": [
    77,
    33,
    3.9
+  ],
+  "ea-sports-fc-27": [
+   77,
+   37,
+   null
   ],
   "sprawl-zero": [
    76,
@@ -1760,7 +1794,7 @@
   ],
   "marvels-wolverine": [
    76,
-   138,
+   142,
    6.8
   ],
   "captain-tsubasa-2-world-fighters": [
