@@ -1,38 +1,11 @@
 {
- "updated": "2026-09-26 07:42",
+ "updated": "2026-09-27 08:11",
  "window": [
-  "2026-08-27",
-  "2026-09-26"
+  "2026-08-28",
+  "2026-09-27"
  ],
- "total": 37,
+ "total": 33,
  "released": [
-  {
-   "slug": "fire-emblem-fortunes-weave",
-   "title": "Fire Emblem: Fortune's Weave",
-   "date": "2026-09-17",
-   "url": "https://www.metacritic.com/game/fire-emblem-fortunes-weave/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1781630867.jpg",
-   "plats": [
-    {
-     "n": "NS2",
-     "s": null,
-     "c": 24,
-     "d": null
-    }
-   ],
-   "dev": "Nintendo",
-   "pub": "Nintendo",
-   "meta": 89,
-   "meta_count": 75,
-   "user": 8.9,
-   "user_count": 167,
-   "scores": {
-    "IGN": 100,
-    "Eurogamer": 100,
-    "GameSpot": 90,
-    "Nintendo Life": 80
-   }
-  },
   {
    "slug": "trails-in-the-sky-2nd-chapter",
    "title": "Trails in the Sky 2nd Chapter",
@@ -69,7 +42,7 @@
    "pub": "GungHo",
    "meta": 91,
    "meta_count": 19,
-   "user": 8.8,
+   "user": 8.9,
    "user_count": 27,
    "scores": {
     "IGN": 90,
@@ -77,52 +50,114 @@
    }
   },
   {
-   "slug": "metal-gear-solid-master-collection-vol-2",
-   "title": "Metal Gear Solid: Master Collection Vol. 2",
-   "date": "2026-08-27",
-   "url": "https://www.metacritic.com/game/metal-gear-solid-master-collection-vol-2/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1787271776.jpg",
+   "slug": "fire-emblem-fortunes-weave",
+   "title": "Fire Emblem: Fortune's Weave",
+   "date": "2026-09-17",
+   "url": "https://www.metacritic.com/game/fire-emblem-fortunes-weave/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1781630867.jpg",
    "plats": [
-    {
-     "n": "PS5",
-     "s": 85,
-     "c": 36,
-     "d": null
-    },
     {
      "n": "NS2",
      "s": null,
-     "c": 3,
+     "c": 24,
      "d": null
+    }
+   ],
+   "dev": "Nintendo",
+   "pub": "Nintendo",
+   "meta": 89,
+   "meta_count": 75,
+   "user": 8.9,
+   "user_count": 167,
+   "scores": {
+    "IGN": 100,
+    "Eurogamer": 100,
+    "GameSpot": 90,
+    "Nintendo Life": 80
+   }
+  },
+  {
+   "slug": "control-resonant",
+   "title": "CONTROL Resonant",
+   "date": "2026-09-24",
+   "url": "https://www.metacritic.com/game/control-resonant/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1781551532.jpg",
+   "plats": [
+    {
+     "n": "PC",
+     "s": 83,
+     "c": 34,
+     "d": "2026-09-24"
+    },
+    {
+     "n": "PS5",
+     "s": 84,
+     "c": 63,
+     "d": "2026-09-24"
     },
     {
      "n": "XSX",
+     "s": 81,
+     "c": 10,
+     "d": "2026-09-24"
+    }
+   ],
+   "dev": "Remedy Entertainment",
+   "pub": "Remedy Entertainment",
+   "meta": 83,
+   "meta_count": 75,
+   "user": 8.8,
+   "user_count": 42,
+   "scores": {
+    "Push Square": 80,
+    "IGN": 80
+   }
+  },
+  {
+   "slug": "well-dweller",
+   "title": "Well Dweller",
+   "date": "2026-09-22",
+   "url": "https://www.metacritic.com/game/well-dweller/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1790005007.jpg",
+   "plats": [
+    {
+     "n": "NS2",
      "s": null,
-     "c": 2,
-     "d": null
+     "c": 0,
+     "d": "2026-09-22"
+    },
+    {
+     "n": "PC",
+     "s": 91,
+     "c": 5,
+     "d": "2026-09-22"
+    },
+    {
+     "n": "XSX",
+     "s": 84,
+     "c": 4,
+     "d": "2026-09-22"
+    },
+    {
+     "n": "PS5",
+     "s": null,
+     "c": 3,
+     "d": "2026-09-22"
     },
     {
      "n": "NS",
      "s": null,
-     "c": 0,
-     "d": null
-    },
-    {
-     "n": "PC",
-     "s": 82,
-     "c": 18,
-     "d": null
+     "c": 3,
+     "d": "2026-09-22"
     }
    ],
-   "dev": "Konami",
-   "pub": "Konami",
-   "meta": 85,
-   "meta_count": 36,
-   "user": 8.8,
-   "user_count": 12,
-   "scores": {
-    "Push Square": 80
-   }
+   "dev": "Kyle Thompson",
+   "pub": "Kyle Thompson",
+   "meta": 91,
+   "meta_count": 7,
+   "user": 8.6,
+   "user_count": 0,
+   "scores": {}
   },
   {
    "slug": "onimusha-way-of-the-sword",
@@ -250,86 +285,10 @@
    "pub": "Bandai Namco Games",
    "meta": 90,
    "meta_count": 54,
-   "user": 8.2,
+   "user": 8.1,
    "user_count": 18,
    "scores": {
     "Nintendo Life": 90
-   }
-  },
-  {
-   "slug": "resonance-a-plague-tale-legacy",
-   "title": "Resonance: A Plague Tale Legacy",
-   "date": "2026-08-27",
-   "url": "https://www.metacritic.com/game/resonance-a-plague-tale-legacy/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1781629668.jpg",
-   "plats": [
-    {
-     "n": "PS5",
-     "s": 78,
-     "c": 63,
-     "d": null
-    },
-    {
-     "n": "XSX",
-     "s": 84,
-     "c": 12,
-     "d": null
-    },
-    {
-     "n": "PC",
-     "s": 84,
-     "c": 46,
-     "d": null
-    }
-   ],
-   "dev": "Asobo Studio",
-   "pub": "Focus Entertainment",
-   "meta": 78,
-   "meta_count": 65,
-   "user": 8.2,
-   "user_count": 103,
-   "scores": {
-    "Push Square": 70,
-    "Eurogamer": 60,
-    "IGN": 60,
-    "GameSpot": 60
-   }
-  },
-  {
-   "slug": "star-wars-zero-company",
-   "title": "Star Wars Zero Company",
-   "date": "2026-08-27",
-   "url": "https://www.metacritic.com/game/star-wars-zero-company/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1781630324.jpg",
-   "plats": [
-    {
-     "n": "PC",
-     "s": 85,
-     "c": 63,
-     "d": null
-    },
-    {
-     "n": "PS5",
-     "s": 84,
-     "c": 26,
-     "d": null
-    },
-    {
-     "n": "XSX",
-     "s": 85,
-     "c": 15,
-     "d": null
-    }
-   ],
-   "dev": "Bit Reactor",
-   "pub": "Electronic Arts",
-   "meta": 85,
-   "meta_count": 68,
-   "user": 8,
-   "user_count": 67,
-   "scores": {
-    "IGN": 90,
-    "GameSpot": 80
    }
   },
   {
@@ -378,6 +337,37 @@
    "user_count": 18,
    "scores": {
     "IGN": 100
+   }
+  },
+  {
+   "slug": "silent-hill-townfall",
+   "title": "Silent Hill: Townfall",
+   "date": "2026-09-24",
+   "url": "https://www.metacritic.com/game/silent-hill-townfall/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1781631206.jpg",
+   "plats": [
+    {
+     "n": "PS5",
+     "s": null,
+     "c": 12,
+     "d": null
+    },
+    {
+     "n": "PC",
+     "s": null,
+     "c": 0,
+     "d": null
+    }
+   ],
+   "dev": "Screen Burn",
+   "pub": "Konami",
+   "meta": 81,
+   "meta_count": 75,
+   "user": 7.3,
+   "user_count": 0,
+   "scores": {
+    "IGN": 80,
+    "Push Square": 70
    }
   },
   {
@@ -490,162 +480,6 @@
    "scores": {}
   },
   {
-   "slug": "nba-2k27",
-   "title": "NBA 2K27",
-   "date": "2026-09-04",
-   "url": "https://www.metacritic.com/game/nba-2k27/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1787423840.jpg",
-   "plats": [
-    {
-     "n": "PC",
-     "s": 73,
-     "c": 11,
-     "d": null
-    },
-    {
-     "n": "PS5",
-     "s": 77,
-     "c": 26,
-     "d": null
-    },
-    {
-     "n": "NS2",
-     "s": null,
-     "c": 0,
-     "d": null
-    },
-    {
-     "n": "XSX",
-     "s": 81,
-     "c": 6,
-     "d": null
-    }
-   ],
-   "dev": "Visual Concepts",
-   "pub": "2K Games",
-   "meta": 77,
-   "meta_count": 33,
-   "user": 3.9,
-   "user_count": 6,
-   "scores": {
-    "GameSpot": 70
-   }
-  },
-  {
-   "slug": "well-dweller",
-   "title": "Well Dweller",
-   "date": "2026-09-22",
-   "url": "https://www.metacritic.com/game/well-dweller/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1790005007.jpg",
-   "plats": [
-    {
-     "n": "NS2",
-     "s": null,
-     "c": 0,
-     "d": "2026-09-22"
-    },
-    {
-     "n": "PC",
-     "s": 91,
-     "c": 5,
-     "d": "2026-09-22"
-    },
-    {
-     "n": "XSX",
-     "s": 84,
-     "c": 4,
-     "d": "2026-09-22"
-    },
-    {
-     "n": "PS5",
-     "s": null,
-     "c": 3,
-     "d": "2026-09-22"
-    },
-    {
-     "n": "NS",
-     "s": null,
-     "c": 3,
-     "d": "2026-09-22"
-    }
-   ],
-   "dev": "Kyle Thompson",
-   "pub": "Kyle Thompson",
-   "meta": 91,
-   "meta_count": 7,
-   "user": null,
-   "user_count": 0,
-   "scores": {}
-  },
-  {
-   "slug": "control-resonant",
-   "title": "CONTROL Resonant",
-   "date": "2026-09-24",
-   "url": "https://www.metacritic.com/game/control-resonant/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1781551532.jpg",
-   "plats": [
-    {
-     "n": "PC",
-     "s": 83,
-     "c": 34,
-     "d": "2026-09-24"
-    },
-    {
-     "n": "PS5",
-     "s": 84,
-     "c": 63,
-     "d": "2026-09-24"
-    },
-    {
-     "n": "XSX",
-     "s": 81,
-     "c": 10,
-     "d": "2026-09-24"
-    }
-   ],
-   "dev": "Remedy Entertainment",
-   "pub": "Remedy Entertainment",
-   "meta": 83,
-   "meta_count": 75,
-   "user": null,
-   "user_count": 42,
-   "scores": {
-    "Push Square": 80,
-    "IGN": 80
-   }
-  },
-  {
-   "slug": "silent-hill-townfall",
-   "title": "Silent Hill: Townfall",
-   "date": "2026-09-24",
-   "url": "https://www.metacritic.com/game/silent-hill-townfall/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1781631206.jpg",
-   "plats": [
-    {
-     "n": "PS5",
-     "s": null,
-     "c": 12,
-     "d": null
-    },
-    {
-     "n": "PC",
-     "s": null,
-     "c": 0,
-     "d": null
-    }
-   ],
-   "dev": "Screen Burn",
-   "pub": "Konami",
-   "meta": 81,
-   "meta_count": 75,
-   "user": null,
-   "user_count": 0,
-   "scores": {
-    "IGN": 80,
-    "Push Square": 70
-   }
-  },
-  {
    "slug": "ea-sports-fc-27",
    "title": "EA Sports FC 27",
    "date": "2026-09-25",
@@ -699,9 +533,51 @@
    "pub": "Electronic Arts",
    "meta": 77,
    "meta_count": 37,
-   "user": null,
+   "user": 5.6,
    "user_count": 0,
    "scores": {}
+  },
+  {
+   "slug": "nba-2k27",
+   "title": "NBA 2K27",
+   "date": "2026-09-04",
+   "url": "https://www.metacritic.com/game/nba-2k27/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1787423840.jpg",
+   "plats": [
+    {
+     "n": "PC",
+     "s": 73,
+     "c": 11,
+     "d": null
+    },
+    {
+     "n": "PS5",
+     "s": 77,
+     "c": 26,
+     "d": null
+    },
+    {
+     "n": "NS2",
+     "s": null,
+     "c": 0,
+     "d": null
+    },
+    {
+     "n": "XSX",
+     "s": 81,
+     "c": 6,
+     "d": null
+    }
+   ],
+   "dev": "Visual Concepts",
+   "pub": "2K Games",
+   "meta": 77,
+   "meta_count": 33,
+   "user": 4,
+   "user_count": 6,
+   "scores": {
+    "GameSpot": 70
+   }
   }
  ],
  "watch": [
@@ -763,7 +639,7 @@
    "pub": "Jagex",
    "meta": null,
    "meta_count": 7,
-   "user": 8.5,
+   "user": 8.4,
    "user_count": 5,
    "scores": {}
   },
@@ -837,7 +713,7 @@
    "pub": "Gun Interactive",
    "meta": 65,
    "meta_count": 14,
-   "user": 7.6,
+   "user": 7.7,
    "user_count": 10,
    "scores": {}
   },
@@ -877,48 +753,8 @@
    "pub": "Pawprint Studio",
    "meta": 78,
    "meta_count": 12,
-   "user": 7.2,
+   "user": 7,
    "user_count": 14,
-   "scores": {}
-  },
-  {
-   "slug": "brigandine-abyss",
-   "title": "Brigandine Abyss",
-   "date": "2026-08-27",
-   "url": "https://www.metacritic.com/game/brigandine-abyss/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1787241055.jpg",
-   "plats": [
-    {
-     "n": "PS5",
-     "s": 67,
-     "c": 7,
-     "d": null
-    },
-    {
-     "n": "PC",
-     "s": 70,
-     "c": 6,
-     "d": null
-    },
-    {
-     "n": "NS2",
-     "s": 71,
-     "c": 9,
-     "d": null
-    },
-    {
-     "n": "XSX",
-     "s": null,
-     "c": 1,
-     "d": null
-    }
-   ],
-   "dev": "Adglobe",
-   "pub": "NIS America",
-   "meta": 71,
-   "meta_count": 10,
-   "user": 6.7,
-   "user_count": 4,
    "scores": {}
   },
   {
@@ -985,7 +821,7 @@
    "pub": "Wright Flyer Studios",
    "meta": 73,
    "meta_count": 15,
-   "user": 3.5,
+   "user": 4.6,
    "user_count": 2,
    "scores": {}
   },
@@ -1015,52 +851,6 @@
    "meta_count": 14,
    "user": 3,
    "user_count": 8,
-   "scores": {}
-  },
-  {
-   "slug": "lous-lagoon",
-   "title": "Lou's Lagoon",
-   "date": "2026-08-27",
-   "url": "https://www.metacritic.com/game/lous-lagoon/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1787586365.jpg",
-   "plats": [
-    {
-     "n": "PC",
-     "s": 72,
-     "c": 10,
-     "d": "2026-08-27"
-    },
-    {
-     "n": "NS",
-     "s": null,
-     "c": 0,
-     "d": "2026-08-27"
-    },
-    {
-     "n": "XSX",
-     "s": 72,
-     "c": 4,
-     "d": "2026-08-27"
-    },
-    {
-     "n": "PS5",
-     "s": 74,
-     "c": 4,
-     "d": "2026-08-27"
-    },
-    {
-     "n": "NS2",
-     "s": 65,
-     "c": 4,
-     "d": "2026-08-27"
-    }
-   ],
-   "dev": "Tiny Roar",
-   "pub": "rokaplay",
-   "meta": 72,
-   "meta_count": 10,
-   "user": null,
-   "user_count": 0,
    "scores": {}
   }
  ],
@@ -1228,76 +1018,76 @@
    "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1787246452.jpg"
   },
   {
-   "slug": "florana-defense",
-   "title": "Florana Defense",
-   "date": "2026-09-27",
-   "url": "https://www.metacritic.com/game/florana-defense/",
+   "slug": "sauna-simulator",
+   "title": "Sauna Simulator",
+   "date": "2026-09-28",
+   "url": "https://www.metacritic.com/game/sauna-simulator/",
    "meta": null,
    "plats": [
     {
      "n": "PC",
      "s": null,
      "c": 0,
-     "d": "2026-09-27"
+     "d": "2026-09-28"
     }
    ],
-   "dev": "Petr \"Glubo\" Sykora",
-   "pub": "Petr \"Glubo\" Sykora",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1261475-52.jpg"
+   "dev": "S1NGLE",
+   "pub": "S1NGLE",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1022984-52.jpg"
   },
   {
-   "slug": "love-nest-v0098",
-   "title": "Love Nest ~V0.098~",
-   "date": "2026-09-27",
-   "url": "https://www.metacritic.com/game/love-nest-v0098/",
+   "slug": "ammossum",
+   "title": "Ammossum",
+   "date": "2026-09-28",
+   "url": "https://www.metacritic.com/game/ammossum/",
    "meta": null,
    "plats": [
     {
      "n": "PC",
      "s": null,
      "c": 0,
-     "d": "2026-09-27"
+     "d": "2026-09-28"
     }
    ],
-   "dev": "Pond",
-   "pub": "Chichi",
-   "img": ""
+   "dev": "West Glade",
+   "pub": "Yahaha Games",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-981138-52.jpg"
   },
   {
-   "slug": "bomberparty",
-   "title": "BomberParty",
-   "date": "2026-09-27",
-   "url": "https://www.metacritic.com/game/bomberparty/",
+   "slug": "drop-command",
+   "title": "Drop Command",
+   "date": "2026-09-28",
+   "url": "https://www.metacritic.com/game/drop-command/",
    "meta": null,
    "plats": [
     {
      "n": "PC",
      "s": null,
      "c": 0,
-     "d": "2026-09-27"
+     "d": "2026-09-28"
     }
    ],
-   "dev": "BlueBoxGaming",
-   "pub": "BlueBoxGaming",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1284415-52.jpg"
+   "dev": "PillBugGames",
+   "pub": "PillBugGames",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-987023-52.jpg"
   },
   {
-   "slug": "speed-8x",
-   "title": "SPEED: 8.X",
-   "date": "2026-09-27",
-   "url": "https://www.metacritic.com/game/speed-8x/",
+   "slug": "space-cat-solitaire",
+   "title": "Space Cat Solitaire",
+   "date": "2026-09-28",
+   "url": "https://www.metacritic.com/game/space-cat-solitaire/",
    "meta": null,
    "plats": [
     {
      "n": "PC",
      "s": null,
      "c": 0,
-     "d": "2026-09-27"
+     "d": "2026-09-28"
     }
    ],
-   "dev": "petitmonte",
-   "pub": "petitmonte",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1281178-52.jpg"
+   "dev": "Gray Duck Games",
+   "pub": "Gray Duck Games",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1128812-52.jpg"
   }
  ],
  "annual": [
@@ -1550,7 +1340,7 @@
      "pub": "Edmund McMillen",
      "meta": 88,
      "meta_count": 58,
-     "user": 8.1,
+     "user": 8.2,
      "user_count": 82,
      "scores": {}
     },
@@ -1635,6 +1425,40 @@
      "scores": {}
     },
     {
+     "slug": "control-resonant",
+     "title": "CONTROL Resonant",
+     "date": "2026-09-24",
+     "url": "https://www.metacritic.com/game/control-resonant/",
+     "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1781551532.jpg",
+     "plats": [
+      {
+       "n": "PC",
+       "s": 83,
+       "c": 34,
+       "d": "2026-09-24"
+      },
+      {
+       "n": "PS5",
+       "s": 84,
+       "c": 63,
+       "d": "2026-09-24"
+      },
+      {
+       "n": "XSX",
+       "s": 81,
+       "c": 10,
+       "d": "2026-09-24"
+      }
+     ],
+     "dev": "Remedy Entertainment",
+     "pub": "Remedy Entertainment",
+     "meta": 83,
+     "meta_count": 75,
+     "user": 8.8,
+     "user_count": 42,
+     "scores": {}
+    },
+    {
      "slug": "splatoon-raiders",
      "title": "Splatoon Raiders",
      "date": "2026-07-23",
@@ -1685,12 +1509,12 @@
   "trails-in-the-sky-2nd-chapter": [
    91,
    19,
-   8.8
+   8.9
   ],
   "well-dweller": [
    91,
    7,
-   null
+   8.6
   ],
   "valheim": [
    90,
@@ -1700,7 +1524,7 @@
   "elden-ring-tarnished-edition": [
    90,
    54,
-   8.2
+   8.1
   ],
   "fire-emblem-fortunes-weave": [
    89,
@@ -1717,20 +1541,10 @@
    104,
    8.6
   ],
-  "star-wars-zero-company": [
-   85,
-   68,
-   8
-  ],
-  "metal-gear-solid-master-collection-vol-2": [
-   85,
-   36,
-   8.8
-  ],
   "diablo-iv-age-of-hatred-collection": [
    84,
    7,
-   8.6
+   7.3
   ],
   "the-blood-of-dawnwalker": [
    83,
@@ -1740,7 +1554,7 @@
   "control-resonant": [
    83,
    75,
-   null
+   8.8
   ],
   "orbitals": [
    81,
@@ -1750,7 +1564,7 @@
   "silent-hill-townfall": [
    81,
    75,
-   null
+   7.3
   ],
   "marsupilami-2-salsa-palombia": [
    81,
@@ -1767,25 +1581,20 @@
    9,
    7.7
   ],
-  "resonance-a-plague-tale-legacy": [
-   78,
-   65,
-   8.2
-  ],
   "aniimo": [
    78,
    12,
-   7.2
+   7
   ],
   "nba-2k27": [
    77,
    33,
-   3.9
+   4
   ],
   "ea-sports-fc-27": [
    77,
    37,
-   null
+   5.6
   ],
   "sprawl-zero": [
    76,
@@ -1810,32 +1619,22 @@
   "graveyard-keeper-2": [
    73,
    8,
-   null
+   8.3
   ],
   "another-eden-begins": [
    73,
    15,
-   3.5
+   4.6
   ],
   "crimson-moon": [
    73,
    10,
    6.6
   ],
-  "lous-lagoon": [
-   72,
-   10,
-   null
-  ],
   "dragon-quest-heroes-tornekos-mystery-dungeon": [
    71,
    8,
    null
-  ],
-  "brigandine-abyss": [
-   71,
-   10,
-   6.7
   ],
   "garfield-escape-from-monday": [
    68,
@@ -1850,22 +1649,27 @@
   "wo-long-fallen-dynasty-complete-edition": [
    67,
    9,
-   6.5
+   5.9
   ],
   "halloween-the-game": [
    65,
    14,
-   7.6
+   7.7
   ],
   "the-walking-dead-streets-of-survival": [
    64,
    7,
-   7.8
+   7.4
   ],
   "runescape-dragonwilds": [
    null,
    7,
-   8.5
+   8.4
+  ],
+  "doggy-dont-care": [
+   67,
+   5,
+   null
   ]
  }
 }
