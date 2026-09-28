@@ -1,10 +1,10 @@
 {
- "updated": "2026-09-27 08:11",
+ "updated": "2026-09-28 08:42",
  "window": [
-  "2026-08-28",
-  "2026-09-27"
+  "2026-08-29",
+  "2026-09-28"
  ],
- "total": 33,
+ "total": 30,
  "released": [
   {
    "slug": "trails-in-the-sky-2nd-chapter",
@@ -105,7 +105,7 @@
    "dev": "Remedy Entertainment",
    "pub": "Remedy Entertainment",
    "meta": 83,
-   "meta_count": 75,
+   "meta_count": 76,
    "user": 8.8,
    "user_count": 42,
    "scores": {
@@ -154,8 +154,8 @@
    "dev": "Kyle Thompson",
    "pub": "Kyle Thompson",
    "meta": 91,
-   "meta_count": 7,
-   "user": 8.6,
+   "meta_count": 8,
+   "user": 8.7,
    "user_count": 0,
    "scores": {}
   },
@@ -194,7 +194,7 @@
    "dev": "Capcom",
    "pub": "Capcom",
    "meta": 85,
-   "meta_count": 104,
+   "meta_count": 105,
    "user": 8.6,
    "user_count": 144,
    "scores": {
@@ -220,7 +220,7 @@
    "dev": "Shapefarm",
    "pub": "Kepler Interactive",
    "meta": 81,
-   "meta_count": 84,
+   "meta_count": 85,
    "user": 8.4,
    "user_count": 28,
    "scores": {
@@ -265,30 +265,6 @@
     "IGN": 90,
     "GameSpot": 80,
     "Push Square": 70
-   }
-  },
-  {
-   "slug": "elden-ring-tarnished-edition",
-   "title": "Elden Ring: Tarnished Edition",
-   "date": "2026-08-28",
-   "url": "https://www.metacritic.com/game/elden-ring-tarnished-edition/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1787423371.jpg",
-   "plats": [
-    {
-     "n": "NS2",
-     "s": 90,
-     "c": 53,
-     "d": null
-    }
-   ],
-   "dev": "From Software",
-   "pub": "Bandai Namco Games",
-   "meta": 90,
-   "meta_count": 54,
-   "user": 8.1,
-   "user_count": 18,
-   "scores": {
-    "Nintendo Life": 90
    }
   },
   {
@@ -362,8 +338,8 @@
    "dev": "Screen Burn",
    "pub": "Konami",
    "meta": 81,
-   "meta_count": 75,
-   "user": 7.3,
+   "meta_count": 76,
+   "user": 7.4,
    "user_count": 0,
    "scores": {
     "IGN": 80,
@@ -429,7 +405,7 @@
    "dev": "Insomniac Games",
    "pub": "Sony Interactive Entertainment",
    "meta": 76,
-   "meta_count": 142,
+   "meta_count": 143,
    "user": 6.8,
    "user_count": 2510,
    "scores": {
@@ -440,44 +416,46 @@
    }
   },
   {
-   "slug": "captain-tsubasa-2-world-fighters",
-   "title": "Captain Tsubasa 2: World Fighters",
-   "date": "2026-08-28",
-   "url": "https://www.metacritic.com/game/captain-tsubasa-2-world-fighters/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1787758352.jpg",
+   "slug": "nba-2k27",
+   "title": "NBA 2K27",
+   "date": "2026-09-04",
+   "url": "https://www.metacritic.com/game/nba-2k27/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1787423840.jpg",
    "plats": [
     {
-     "n": "NS",
-     "s": null,
-     "c": 1,
+     "n": "PC",
+     "s": 73,
+     "c": 11,
      "d": null
     },
     {
      "n": "PS5",
-     "s": 74,
-     "c": 33,
+     "s": 77,
+     "c": 26,
      "d": null
     },
     {
-     "n": "PC",
+     "n": "NS2",
      "s": null,
-     "c": 4,
+     "c": 0,
      "d": null
     },
     {
      "n": "XSX",
-     "s": null,
-     "c": 1,
+     "s": 81,
+     "c": 6,
      "d": null
     }
    ],
-   "dev": "Tamsoft",
-   "pub": "Bandai Namco Games",
-   "meta": 74,
-   "meta_count": 35,
-   "user": 6.3,
-   "user_count": 18,
-   "scores": {}
+   "dev": "Visual Concepts",
+   "pub": "2K Games",
+   "meta": 77,
+   "meta_count": 33,
+   "user": 4,
+   "user_count": 6,
+   "scores": {
+    "GameSpot": 70
+   }
   },
   {
    "slug": "ea-sports-fc-27",
@@ -531,53 +509,11 @@
    ],
    "dev": "EA Canada",
    "pub": "Electronic Arts",
-   "meta": 77,
-   "meta_count": 37,
-   "user": 5.6,
+   "meta": 76,
+   "meta_count": 40,
+   "user": 3,
    "user_count": 0,
    "scores": {}
-  },
-  {
-   "slug": "nba-2k27",
-   "title": "NBA 2K27",
-   "date": "2026-09-04",
-   "url": "https://www.metacritic.com/game/nba-2k27/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1787423840.jpg",
-   "plats": [
-    {
-     "n": "PC",
-     "s": 73,
-     "c": 11,
-     "d": null
-    },
-    {
-     "n": "PS5",
-     "s": 77,
-     "c": 26,
-     "d": null
-    },
-    {
-     "n": "NS2",
-     "s": null,
-     "c": 0,
-     "d": null
-    },
-    {
-     "n": "XSX",
-     "s": 81,
-     "c": 6,
-     "d": null
-    }
-   ],
-   "dev": "Visual Concepts",
-   "pub": "2K Games",
-   "meta": 77,
-   "meta_count": 33,
-   "user": 4,
-   "user_count": 6,
-   "scores": {
-    "GameSpot": 70
-   }
   }
  ],
  "watch": [
@@ -792,6 +728,28 @@
    "scores": {}
   },
   {
+   "slug": "wo-long-fallen-dynasty-complete-edition",
+   "title": "Wo Long: Fallen Dynasty - Complete Edition",
+   "date": "2026-09-03",
+   "url": "https://www.metacritic.com/game/wo-long-fallen-dynasty-complete-edition/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1274889-17.jpg",
+   "plats": [
+    {
+     "n": "NS2",
+     "s": 67,
+     "c": 10,
+     "d": "2026-09-03"
+    }
+   ],
+   "dev": "Team Ninja",
+   "pub": "Koei Tecmo Games",
+   "meta": 67,
+   "meta_count": 10,
+   "user": 5.9,
+   "user_count": 0,
+   "scores": {}
+  },
+  {
    "slug": "another-eden-begins",
    "title": "Another Eden Begins",
    "date": "2026-09-16",
@@ -860,7 +818,7 @@
    "title": "Transport Fever 3",
    "date": "2026-09-29",
    "url": "https://www.metacritic.com/game/transport-fever-3/",
-   "meta": 83,
+   "meta": 84,
    "plats": [
     {
      "n": "XSX",
@@ -1018,76 +976,94 @@
    "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1787246452.jpg"
   },
   {
-   "slug": "sauna-simulator",
-   "title": "Sauna Simulator",
-   "date": "2026-09-28",
-   "url": "https://www.metacritic.com/game/sauna-simulator/",
+   "slug": "toem-2",
+   "title": "TOEM 2",
+   "date": "2026-09-29",
+   "url": "https://www.metacritic.com/game/toem-2/",
    "meta": null,
    "plats": [
     {
      "n": "PC",
      "s": null,
      "c": 0,
-     "d": "2026-09-28"
+     "d": "2026-09-29"
+    },
+    {
+     "n": "PS5",
+     "s": null,
+     "c": 0,
+     "d": "2026-09-29"
+    },
+    {
+     "n": "NS",
+     "s": null,
+     "c": 0,
+     "d": "2026-09-29"
+    },
+    {
+     "n": "NS2",
+     "s": null,
+     "c": 0,
+     "d": "2026-09-29"
     }
    ],
-   "dev": "S1NGLE",
-   "pub": "S1NGLE",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1022984-52.jpg"
+   "dev": "Something We Made",
+   "pub": "Something We Made",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1077821-52.jpg"
   },
   {
-   "slug": "ammossum",
-   "title": "Ammossum",
-   "date": "2026-09-28",
-   "url": "https://www.metacritic.com/game/ammossum/",
+   "slug": "shinjuku-anomaly",
+   "title": "Shinjuku Anomaly",
+   "date": "2026-09-29",
+   "url": "https://www.metacritic.com/game/shinjuku-anomaly/",
    "meta": null,
    "plats": [
     {
      "n": "PC",
      "s": null,
      "c": 0,
-     "d": "2026-09-28"
+     "d": "2026-09-29"
     }
    ],
-   "dev": "West Glade",
-   "pub": "Yahaha Games",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-981138-52.jpg"
+   "dev": "Amata Games",
+   "pub": "Amata Games",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1080634-52.jpg"
   },
   {
-   "slug": "drop-command",
-   "title": "Drop Command",
-   "date": "2026-09-28",
-   "url": "https://www.metacritic.com/game/drop-command/",
+   "slug": "wizzo-popout",
+   "title": "Wizzo PopOut",
+   "date": "2026-09-29",
+   "url": "https://www.metacritic.com/game/wizzo-popout/",
    "meta": null,
    "plats": [
     {
      "n": "PC",
      "s": null,
      "c": 0,
-     "d": "2026-09-28"
+     "d": "2026-09-29"
     }
    ],
-   "dev": "PillBugGames",
-   "pub": "PillBugGames",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-987023-52.jpg"
+   "dev": "Die Wizzos",
+   "pub": "NebulaNookGames",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1127745-52.jpg"
   },
   {
-   "slug": "space-cat-solitaire",
-   "title": "Space Cat Solitaire",
-   "date": "2026-09-28",
-   "url": "https://www.metacritic.com/game/space-cat-solitaire/",
+   "slug": "cohen-1939",
+   "title": "Cohen 1939",
+   "date": "2026-09-29",
+   "url": "https://www.metacritic.com/game/cohen-1939/",
    "meta": null,
    "plats": [
     {
      "n": "PC",
      "s": null,
      "c": 0,
-     "d": "2026-09-28"
+     "d": "2026-09-29"
     }
    ],
-   "dev": "Gray Duck Games",
-   "pub": "Gray Duck Games",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1128812-52.jpg"
+   "dev": "Cube of Cube",
+   "pub": "2P Games",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1117997-52.jpg"
   }
  ],
  "annual": [
@@ -1419,7 +1395,7 @@
      "dev": "Capcom",
      "pub": "Capcom",
      "meta": 85,
-     "meta_count": 104,
+     "meta_count": 105,
      "user": 8.6,
      "user_count": 144,
      "scores": {}
@@ -1453,7 +1429,7 @@
      "dev": "Remedy Entertainment",
      "pub": "Remedy Entertainment",
      "meta": 83,
-     "meta_count": 75,
+     "meta_count": 76,
      "user": 8.8,
      "user_count": 42,
      "scores": {}
@@ -1513,18 +1489,13 @@
   ],
   "well-dweller": [
    91,
-   7,
-   8.6
+   8,
+   8.7
   ],
   "valheim": [
    90,
    23,
    7.5
-  ],
-  "elden-ring-tarnished-edition": [
-   90,
-   54,
-   8.1
   ],
   "fire-emblem-fortunes-weave": [
    89,
@@ -1538,7 +1509,7 @@
   ],
   "onimusha-way-of-the-sword": [
    85,
-   104,
+   105,
    8.6
   ],
   "diablo-iv-age-of-hatred-collection": [
@@ -1553,18 +1524,18 @@
   ],
   "control-resonant": [
    83,
-   75,
+   76,
    8.8
   ],
   "orbitals": [
    81,
-   84,
+   85,
    8.4
   ],
   "silent-hill-townfall": [
    81,
-   75,
-   7.3
+   76,
+   7.4
   ],
   "marsupilami-2-salsa-palombia": [
    81,
@@ -1591,25 +1562,20 @@
    33,
    4
   ],
-  "ea-sports-fc-27": [
-   77,
-   37,
-   5.6
-  ],
   "sprawl-zero": [
    76,
    10,
    8.3
   ],
+  "ea-sports-fc-27": [
+   76,
+   40,
+   3
+  ],
   "marvels-wolverine": [
    76,
-   142,
+   143,
    6.8
-  ],
-  "captain-tsubasa-2-world-fighters": [
-   74,
-   35,
-   6.3
   ],
   "hot-wheels-infinite-rush": [
    73,
@@ -1632,8 +1598,8 @@
    6.6
   ],
   "dragon-quest-heroes-tornekos-mystery-dungeon": [
-   71,
-   8,
+   70,
+   9,
    null
   ],
   "garfield-escape-from-monday": [
@@ -1648,7 +1614,7 @@
   ],
   "wo-long-fallen-dynasty-complete-edition": [
    67,
-   9,
+   10,
    5.9
   ],
   "halloween-the-game": [
@@ -1665,11 +1631,6 @@
    null,
    7,
    8.4
-  ],
-  "doggy-dont-care": [
-   67,
-   5,
-   null
   ]
  }
 }
