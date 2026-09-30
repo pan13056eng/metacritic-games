@@ -1,11 +1,48 @@
 {
- "updated": "2026-09-29 08:31",
+ "updated": "2026-09-30 08:36",
  "window": [
-  "2026-08-30",
-  "2026-09-29"
+  "2026-08-31",
+  "2026-09-30"
  ],
- "total": 34,
+ "total": 35,
  "released": [
+  {
+   "slug": "control-resonant",
+   "title": "CONTROL Resonant",
+   "date": "2026-09-24",
+   "url": "https://www.metacritic.com/game/control-resonant/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1781551532.jpg",
+   "plats": [
+    {
+     "n": "PC",
+     "s": 83,
+     "c": 34,
+     "d": "2026-09-24"
+    },
+    {
+     "n": "PS5",
+     "s": 84,
+     "c": 63,
+     "d": "2026-09-24"
+    },
+    {
+     "n": "XSX",
+     "s": 81,
+     "c": 10,
+     "d": "2026-09-24"
+    }
+   ],
+   "dev": "Remedy Entertainment",
+   "pub": "Remedy Entertainment",
+   "meta": 83,
+   "meta_count": 78,
+   "user": 9,
+   "user_count": 42,
+   "scores": {
+    "Push Square": 80,
+    "IGN": 80
+   }
+  },
   {
    "slug": "trails-in-the-sky-2nd-chapter",
    "title": "Trails in the Sky 2nd Chapter",
@@ -66,7 +103,7 @@
    "dev": "Nintendo",
    "pub": "Nintendo",
    "meta": 89,
-   "meta_count": 80,
+   "meta_count": 81,
    "user": 8.9,
    "user_count": 167,
    "scores": {
@@ -74,43 +111,6 @@
     "Eurogamer": 100,
     "GameSpot": 90,
     "Nintendo Life": 80
-   }
-  },
-  {
-   "slug": "control-resonant",
-   "title": "CONTROL Resonant",
-   "date": "2026-09-24",
-   "url": "https://www.metacritic.com/game/control-resonant/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1781551532.jpg",
-   "plats": [
-    {
-     "n": "PC",
-     "s": 83,
-     "c": 34,
-     "d": "2026-09-24"
-    },
-    {
-     "n": "PS5",
-     "s": 84,
-     "c": 63,
-     "d": "2026-09-24"
-    },
-    {
-     "n": "XSX",
-     "s": 81,
-     "c": 10,
-     "d": "2026-09-24"
-    }
-   ],
-   "dev": "Remedy Entertainment",
-   "pub": "Remedy Entertainment",
-   "meta": 83,
-   "meta_count": 77,
-   "user": 8.9,
-   "user_count": 42,
-   "scores": {
-    "Push Square": 80,
-    "IGN": 80
    }
   },
   {
@@ -153,9 +153,9 @@
    ],
    "dev": "Kyle Thompson",
    "pub": "Kyle Thompson",
-   "meta": 90,
-   "meta_count": 9,
-   "user": 8.7,
+   "meta": 89,
+   "meta_count": 10,
+   "user": 8.6,
    "user_count": 10,
    "scores": {}
   },
@@ -338,8 +338,8 @@
    "dev": "Screen Burn",
    "pub": "Konami",
    "meta": 81,
-   "meta_count": 78,
-   "user": 7.3,
+   "meta_count": 83,
+   "user": 7.2,
    "user_count": 83,
    "scores": {
     "IGN": 80,
@@ -405,7 +405,7 @@
    "dev": "Insomniac Games",
    "pub": "Sony Interactive Entertainment",
    "meta": 76,
-   "meta_count": 144,
+   "meta_count": 146,
    "user": 6.8,
    "user_count": 2224,
    "scores": {
@@ -450,7 +450,7 @@
    "dev": "Visual Concepts",
    "pub": "2K Games",
    "meta": 77,
-   "meta_count": 33,
+   "meta_count": 34,
    "user": 4,
    "user_count": 9,
    "scores": {
@@ -510,8 +510,8 @@
    "dev": "EA Canada",
    "pub": "Electronic Arts",
    "meta": 76,
-   "meta_count": 43,
-   "user": 3,
+   "meta_count": 48,
+   "user": 2.7,
    "user_count": 0,
    "scores": {}
   },
@@ -550,7 +550,7 @@
    "dev": "CD Projekt Red Studio",
    "pub": "CD Projekt Red Studio",
    "meta": 94,
-   "meta_count": 8,
+   "meta_count": 10,
    "user": null,
    "user_count": 0,
    "scores": {}
@@ -688,7 +688,7 @@
    "dev": "Pawprint Studio",
    "pub": "Pawprint Studio",
    "meta": 78,
-   "meta_count": 13,
+   "meta_count": 15,
    "user": 7.2,
    "user_count": 14,
    "scores": {}
@@ -845,8 +845,8 @@
    ],
    "dev": "Something We Made",
    "pub": "Something We Made",
-   "meta": 85,
-   "meta_count": 10,
+   "meta": 84,
+   "meta_count": 12,
    "user": null,
    "user_count": 0,
    "scores": {}
@@ -891,8 +891,8 @@
    ],
    "dev": "Mojang AB",
    "pub": "Xbox Game Studios",
-   "meta": 76,
-   "meta_count": 26,
+   "meta": 75,
+   "meta_count": 29,
    "user": null,
    "user_count": 0,
    "scores": {}
@@ -904,7 +904,7 @@
    "title": "Ace Combat 8: Wings of Theve",
    "date": "2026-10-02",
    "url": "https://www.metacritic.com/game/ace-combat-8-wings-of-theve/",
-   "meta": 87,
+   "meta": 88,
    "plats": [
     {
      "n": "PC",
@@ -1032,94 +1032,112 @@
    "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1787246452.jpg"
   },
   {
-   "slug": "dune-mechanic-survive-the-steampunk-era",
-   "title": "Dune Mechanic : Survive The Steampunk Era",
-   "date": "2026-09-30",
-   "url": "https://www.metacritic.com/game/dune-mechanic-survive-the-steampunk-era/",
+   "slug": "the-depths-of-despair",
+   "title": "The Depths of Despair",
+   "date": "2026-10-01",
+   "url": "https://www.metacritic.com/game/the-depths-of-despair/",
    "meta": null,
    "plats": [
     {
      "n": "PC",
+     "s": null,
+     "c": 0,
+     "d": "2026-10-01"
+    }
+   ],
+   "dev": "herbeni",
+   "pub": "herbeni",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1024666-52.jpg"
+  },
+  {
+   "slug": "retrospace",
+   "title": "Retrospace",
+   "date": "2026-10-01",
+   "url": "https://www.metacritic.com/game/retrospace/",
+   "meta": null,
+   "plats": [
+    {
+     "n": "PC",
+     "s": null,
+     "c": 0,
+     "d": "2026-10-01"
+    },
+    {
+     "n": "PS5",
      "s": null,
      "c": 0,
      "d": null
-    }
-   ],
-   "dev": "Heaven Brotherhood",
-   "pub": "TheGamesFortress",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-768950-52.jpg"
-  },
-  {
-   "slug": "synthalgia-retro-arcade-racing",
-   "title": "SYNTHALGIA: Retro Arcade Racing",
-   "date": "2026-09-30",
-   "url": "https://www.metacritic.com/game/synthalgia-retro-arcade-racing/",
-   "meta": null,
-   "plats": [
+    },
     {
-     "n": "PC",
+     "n": "XSX",
      "s": null,
      "c": 0,
      "d": null
+    },
+    {
+     "n": "NS2",
+     "s": null,
+     "c": 0,
+     "d": "2026-10-01"
     }
    ],
-   "dev": "CASPIAN SKY",
-   "pub": "CASPIAN SKY",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-801912-52.jpg"
+   "dev": "The Wild Gentlemen",
+   "pub": "Kwalee Ltd",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1788548022.jpg"
   },
   {
-   "slug": "behind-the-beyond",
-   "title": "Behind the Beyond",
-   "date": "2026-09-30",
-   "url": "https://www.metacritic.com/game/behind-the-beyond/",
+   "slug": "c4-classical-caliber-combat-contest",
+   "title": "C4: Classical Caliber Combat Contest",
+   "date": "2026-10-01",
+   "url": "https://www.metacritic.com/game/c4-classical-caliber-combat-contest/",
    "meta": null,
    "plats": [
     {
      "n": "PC",
      "s": null,
      "c": 0,
-     "d": "2026-09-30"
+     "d": "2026-10-01"
     }
    ],
-   "dev": "Sugarpunch Games",
-   "pub": "Sugarpunch Games",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-806403-52.jpg"
+   "dev": "Secret Handshake Interactive",
+   "pub": "Secret Handshake Interactive",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1119234-52.jpg"
   },
   {
-   "slug": "unrivaled-heroes-25d-brawler",
-   "title": "Unrivaled Heroes: 2.5D Brawler",
-   "date": "2026-09-30",
-   "url": "https://www.metacritic.com/game/unrivaled-heroes-25d-brawler/",
+   "slug": "four-directions",
+   "title": "Four Directions",
+   "date": "2026-10-01",
+   "url": "https://www.metacritic.com/game/four-directions/",
    "meta": null,
    "plats": [
     {
      "n": "PC",
      "s": null,
      "c": 0,
-     "d": null
+     "d": "2026-10-01"
     }
    ],
-   "dev": "GingerSun Games",
-   "pub": "Soft Source Pte Ltd",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-986191-52.jpg"
+   "dev": "LHStudio",
+   "pub": "LHStudio",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1129728-52.jpg"
   },
   {
-   "slug": "radiosol",
-   "title": "RADIOSOL",
-   "date": "2026-09-30",
-   "url": "https://www.metacritic.com/game/radiosol/",
+   "slug": "gus-game",
+   "title": "Gus Game",
+   "date": "2026-10-01",
+   "url": "https://www.metacritic.com/game/gus-game/",
    "meta": null,
    "plats": [
     {
      "n": "PC",
      "s": null,
      "c": 0,
-     "d": "2026-09-30"
+     "d": "2026-10-01"
     }
    ],
-   "dev": "TripletConcept",
-   "pub": "TripletConcept",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1018504-52.jpg"
+   "dev": "Gus",
+   "pub": "Gus",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1028451-52.jpg"
   }
  ],
  "annual": [
@@ -1269,7 +1287,7 @@
      "dev": "Nintendo",
      "pub": "Nintendo",
      "meta": 89,
-     "meta_count": 80,
+     "meta_count": 81,
      "user": 8.9,
      "user_count": 167,
      "scores": {}
@@ -1485,8 +1503,8 @@
      "dev": "Remedy Entertainment",
      "pub": "Remedy Entertainment",
      "meta": 83,
-     "meta_count": 77,
-     "user": 8.9,
+     "meta_count": 78,
+     "user": 9,
      "user_count": 42,
      "scores": {}
     },
@@ -1540,7 +1558,7 @@
  "sig": {
   "the-witcher-3-wild-hunt-remastered": [
    94,
-   8,
+   10,
    null
   ],
   "trails-in-the-sky-2nd-chapter": [
@@ -1548,19 +1566,19 @@
    19,
    8.9
   ],
-  "well-dweller": [
-   90,
-   9,
-   8.7
-  ],
   "valheim": [
    90,
    23,
    7.5
   ],
+  "well-dweller": [
+   89,
+   10,
+   8.6
+  ],
   "fire-emblem-fortunes-weave": [
    89,
-   80,
+   81,
    8.9
   ],
   "welcome-to-elderfield": [
@@ -1573,14 +1591,14 @@
    105,
    8.6
   ],
-  "toem-2": [
-   85,
-   10,
-   null
-  ],
   "transport-fever-3": [
    84,
-   8,
+   9,
+   null
+  ],
+  "toem-2": [
+   84,
+   12,
    null
   ],
   "the-blood-of-dawnwalker": [
@@ -1590,8 +1608,8 @@
   ],
   "control-resonant": [
    83,
-   77,
-   8.9
+   78,
+   9
   ],
   "diablo-iv-age-of-hatred-collection": [
    83,
@@ -1605,38 +1623,33 @@
   ],
   "silent-hill-townfall": [
    81,
-   78,
-   7.3
+   83,
+   7.2
   ],
   "marsupilami-2-salsa-palombia": [
    81,
    7,
    8
   ],
-  "endless-legend-2": [
-   81,
-   7,
-   5.6
-  ],
   "moonlighter-2-the-endless-vault": [
    80,
    9,
    7.7
   ],
+  "endless-legend-2": [
+   79,
+   8,
+   7.4
+  ],
   "aniimo": [
    78,
-   13,
+   15,
    7.2
   ],
   "nba-2k27": [
    77,
-   33,
+   34,
    4
-  ],
-  "ea-sports-fc-27": [
-   76,
-   43,
-   3
   ],
   "sprawl-zero": [
    76,
@@ -1645,23 +1658,23 @@
   ],
   "marvels-wolverine": [
    76,
-   144,
+   146,
    6.8
   ],
-  "minecraft-dungeons-ii": [
+  "ea-sports-fc-27": [
    76,
-   26,
+   48,
+   2.7
+  ],
+  "minecraft-dungeons-ii": [
+   75,
+   29,
    null
   ],
   "hot-wheels-infinite-rush": [
    73,
    35,
    6.9
-  ],
-  "graveyard-keeper-2": [
-   73,
-   8,
-   8.3
   ],
   "another-eden-begins": [
    73,
@@ -1672,6 +1685,11 @@
    73,
    10,
    6.6
+  ],
+  "graveyard-keeper-2": [
+   72,
+   9,
+   7.2
   ],
   "dragon-quest-heroes-tornekos-mystery-dungeon": [
    68,
@@ -1707,6 +1725,11 @@
    64,
    7,
    7.4
+  ],
+  "qliphah-in-providences-shadow": [
+   61,
+   7,
+   null
   ]
  }
 }
