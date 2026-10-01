@@ -1,10 +1,10 @@
 {
- "updated": "2026-09-30 08:36",
+ "updated": "2026-10-01 08:57",
  "window": [
-  "2026-08-31",
-  "2026-09-30"
+  "2026-09-01",
+  "2026-10-01"
  ],
- "total": 35,
+ "total": 37,
  "released": [
   {
    "slug": "control-resonant",
@@ -35,7 +35,7 @@
    "dev": "Remedy Entertainment",
    "pub": "Remedy Entertainment",
    "meta": 83,
-   "meta_count": 78,
+   "meta_count": 79,
    "user": 9,
    "user_count": 42,
    "scores": {
@@ -78,9 +78,9 @@
    "dev": "Falcom",
    "pub": "GungHo",
    "meta": 91,
-   "meta_count": 19,
+   "meta_count": 20,
    "user": 8.9,
-   "user_count": 27,
+   "user_count": 35,
    "scores": {
     "IGN": 90,
     "Push Square": 90
@@ -103,9 +103,9 @@
    "dev": "Nintendo",
    "pub": "Nintendo",
    "meta": 89,
-   "meta_count": 81,
+   "meta_count": 82,
    "user": 8.9,
-   "user_count": 167,
+   "user_count": 213,
    "scores": {
     "IGN": 100,
     "Eurogamer": 100,
@@ -258,7 +258,7 @@
    "dev": "Rebel Wolves",
    "pub": "Bandai Namco Games",
    "meta": 83,
-   "meta_count": 73,
+   "meta_count": 74,
    "user": 8.3,
    "user_count": 281,
    "scores": {
@@ -308,7 +308,7 @@
    "dev": "Iron Gate AB",
    "pub": "Coffee Stain Publishing",
    "meta": 90,
-   "meta_count": 23,
+   "meta_count": 24,
    "user": 7.5,
    "user_count": 21,
    "scores": {
@@ -338,8 +338,8 @@
    "dev": "Screen Burn",
    "pub": "Konami",
    "meta": 81,
-   "meta_count": 83,
-   "user": 7.2,
+   "meta_count": 88,
+   "user": 7.3,
    "user_count": 83,
    "scores": {
     "IGN": 80,
@@ -510,8 +510,8 @@
    "dev": "EA Canada",
    "pub": "Electronic Arts",
    "meta": 76,
-   "meta_count": 48,
-   "user": 2.7,
+   "meta_count": 49,
+   "user": 2.6,
    "user_count": 0,
    "scores": {}
   },
@@ -554,6 +554,55 @@
    "user": null,
    "user_count": 0,
    "scores": {}
+  },
+  {
+   "slug": "minecraft-dungeons-ii",
+   "title": "Minecraft Dungeons II",
+   "date": "2026-09-29",
+   "url": "https://www.metacritic.com/game/minecraft-dungeons-ii/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1781632154.jpg",
+   "plats": [
+    {
+     "n": "PS5",
+     "s": null,
+     "c": 2,
+     "d": "2026-09-29"
+    },
+    {
+     "n": "NS2",
+     "s": null,
+     "c": 1,
+     "d": "2026-09-29"
+    },
+    {
+     "n": "XSX",
+     "s": 76,
+     "c": 26,
+     "d": "2026-09-29"
+    },
+    {
+     "n": "NS",
+     "s": null,
+     "c": 0,
+     "d": "2026-09-29"
+    },
+    {
+     "n": "PC",
+     "s": 73,
+     "c": 15,
+     "d": "2026-09-29"
+    }
+   ],
+   "dev": "Mojang AB",
+   "pub": "Xbox Game Studios",
+   "meta": 76,
+   "meta_count": 30,
+   "user": null,
+   "user_count": 0,
+   "scores": {
+    "GameSpot": 70,
+    "IGN": 60
+   }
   }
  ],
  "watch": [
@@ -812,6 +861,40 @@
    "scores": {}
   },
   {
+   "slug": "transport-fever-3",
+   "title": "Transport Fever 3",
+   "date": "2026-09-29",
+   "url": "https://www.metacritic.com/game/transport-fever-3/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1790317355.jpg",
+   "plats": [
+    {
+     "n": "XSX",
+     "s": null,
+     "c": 0,
+     "d": "2026-09-29"
+    },
+    {
+     "n": "PS5",
+     "s": 77,
+     "c": 5,
+     "d": "2026-09-29"
+    },
+    {
+     "n": "PC",
+     "s": 84,
+     "c": 10,
+     "d": "2026-09-29"
+    }
+   ],
+   "dev": "Urban Games",
+   "pub": "Paradox Interactive",
+   "meta": 84,
+   "meta_count": 10,
+   "user": null,
+   "user_count": 3,
+   "scores": {}
+  },
+  {
    "slug": "toem-2",
    "title": "TOEM 2",
    "date": "2026-09-29",
@@ -845,54 +928,88 @@
    ],
    "dev": "Something We Made",
    "pub": "Something We Made",
-   "meta": 84,
-   "meta_count": 12,
+   "meta": 82,
+   "meta_count": 13,
    "user": null,
    "user_count": 0,
    "scores": {}
   },
   {
-   "slug": "minecraft-dungeons-ii",
-   "title": "Minecraft Dungeons II",
-   "date": "2026-09-29",
-   "url": "https://www.metacritic.com/game/minecraft-dungeons-ii/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1781632154.jpg",
+   "slug": "end-of-abyss",
+   "title": "End of Abyss",
+   "date": "2026-10-01",
+   "url": "https://www.metacritic.com/game/end-of-abyss/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1790725727.jpg",
    "plats": [
     {
-     "n": "PS5",
-     "s": null,
-     "c": 2,
-     "d": "2026-09-29"
+     "n": "PC",
+     "s": 66,
+     "c": 5,
+     "d": "2026-10-01"
     },
     {
-     "n": "NS2",
-     "s": null,
-     "c": 1,
-     "d": "2026-09-29"
+     "n": "PS5",
+     "s": 78,
+     "c": 10,
+     "d": "2026-10-01"
     },
     {
      "n": "XSX",
-     "s": 76,
-     "c": 26,
-     "d": "2026-09-29"
+     "s": null,
+     "c": 1,
+     "d": "2026-10-01"
+    }
+   ],
+   "dev": "Section 9 Interactive",
+   "pub": "Epic Games",
+   "meta": 78,
+   "meta_count": 10,
+   "user": null,
+   "user_count": 0,
+   "scores": {}
+  },
+  {
+   "slug": "dragon-quest-heroes-tornekos-mystery-dungeon",
+   "title": "Dragon Quest Heroes: Torneko's Mystery Dungeon -Classic HD-",
+   "date": "2026-09-09",
+   "url": "https://www.metacritic.com/game/dragon-quest-heroes-tornekos-mystery-dungeon/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1282330-52.jpg",
+   "plats": [
+    {
+     "n": "NS2",
+     "s": 68,
+     "c": 11,
+     "d": "2026-09-09"
     },
     {
      "n": "NS",
      "s": null,
      "c": 0,
-     "d": "2026-09-29"
+     "d": "2026-09-09"
+    },
+    {
+     "n": "XSX",
+     "s": null,
+     "c": 0,
+     "d": "2026-09-09"
+    },
+    {
+     "n": "PS5",
+     "s": 70,
+     "c": 9,
+     "d": "2026-09-09"
     },
     {
      "n": "PC",
-     "s": 73,
-     "c": 15,
-     "d": "2026-09-29"
+     "s": null,
+     "c": 3,
+     "d": "2026-09-09"
     }
    ],
-   "dev": "Mojang AB",
-   "pub": "Xbox Game Studios",
-   "meta": 75,
-   "meta_count": 29,
+   "dev": "Square Enix",
+   "pub": "Square Enix",
+   "meta": 68,
+   "meta_count": 11,
    "user": null,
    "user_count": 0,
    "scores": {}
@@ -928,30 +1045,6 @@
    "dev": "Bandai Namco Aces Inc.",
    "pub": "Bandai Namco Games",
    "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1788987138.jpg"
-  },
-  {
-   "slug": "gears-of-war-e-day",
-   "title": "Gears of War: E-Day",
-   "date": "2026-10-06",
-   "url": "https://www.metacritic.com/game/gears-of-war-e-day/",
-   "meta": null,
-   "plats": [
-    {
-     "n": "XSX",
-     "s": null,
-     "c": 10,
-     "d": null
-    },
-    {
-     "n": "PC",
-     "s": null,
-     "c": 1,
-     "d": null
-    }
-   ],
-   "dev": "The Coalition",
-   "pub": "Xbox Game Studios",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1788246859.jpg"
   },
   {
    "slug": "star-wars-galactic-racer",
@@ -1032,112 +1125,112 @@
    "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1787246452.jpg"
   },
   {
-   "slug": "the-depths-of-despair",
-   "title": "The Depths of Despair",
-   "date": "2026-10-01",
-   "url": "https://www.metacritic.com/game/the-depths-of-despair/",
+   "slug": "gym-mop-tycoon",
+   "title": "Gym Mop Tycoon",
+   "date": "2026-10-02",
+   "url": "https://www.metacritic.com/game/gym-mop-tycoon/",
    "meta": null,
    "plats": [
     {
      "n": "PC",
      "s": null,
      "c": 0,
-     "d": "2026-10-01"
+     "d": "2026-10-02"
     }
    ],
-   "dev": "herbeni",
-   "pub": "herbeni",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1024666-52.jpg"
+   "dev": "JuTiMa Games",
+   "pub": "JuTiMa Games",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1286102-52.jpg"
   },
   {
-   "slug": "retrospace",
-   "title": "Retrospace",
-   "date": "2026-10-01",
-   "url": "https://www.metacritic.com/game/retrospace/",
+   "slug": "godspeed-kyrie",
+   "title": "GODSPEED (Kyrie)",
+   "date": "2026-10-02",
+   "url": "https://www.metacritic.com/game/godspeed-kyrie/",
    "meta": null,
    "plats": [
     {
      "n": "PC",
      "s": null,
      "c": 0,
-     "d": "2026-10-01"
-    },
-    {
-     "n": "PS5",
-     "s": null,
-     "c": 0,
-     "d": null
-    },
-    {
-     "n": "XSX",
-     "s": null,
-     "c": 0,
-     "d": null
-    },
-    {
-     "n": "NS2",
-     "s": null,
-     "c": 0,
-     "d": "2026-10-01"
+     "d": "2026-10-02"
     }
    ],
-   "dev": "The Wild Gentlemen",
-   "pub": "Kwalee Ltd",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1788548022.jpg"
+   "dev": "Kyrie",
+   "pub": "Kyrie",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1277521-52.jpg"
   },
   {
-   "slug": "c4-classical-caliber-combat-contest",
-   "title": "C4: Classical Caliber Combat Contest",
-   "date": "2026-10-01",
-   "url": "https://www.metacritic.com/game/c4-classical-caliber-combat-contest/",
+   "slug": "lets-tidy-up-treasure",
+   "title": "Let's Tidy Up! : Treasure",
+   "date": "2026-10-02",
+   "url": "https://www.metacritic.com/game/lets-tidy-up-treasure/",
    "meta": null,
    "plats": [
     {
      "n": "PC",
      "s": null,
      "c": 0,
-     "d": "2026-10-01"
+     "d": "2026-10-02"
     }
    ],
-   "dev": "Secret Handshake Interactive",
-   "pub": "Secret Handshake Interactive",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1119234-52.jpg"
+   "dev": "Tidy Up Team",
+   "pub": "Tidy Up Team",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1267021-52.jpg"
   },
   {
-   "slug": "four-directions",
-   "title": "Four Directions",
-   "date": "2026-10-01",
-   "url": "https://www.metacritic.com/game/four-directions/",
+   "slug": "a-challenge-from-a-mystery-loving-santa",
+   "title": "A Challenge from a Mystery-Loving Santa",
+   "date": "2026-10-02",
+   "url": "https://www.metacritic.com/game/a-challenge-from-a-mystery-loving-santa/",
    "meta": null,
    "plats": [
     {
      "n": "PC",
      "s": null,
      "c": 0,
-     "d": "2026-10-01"
+     "d": "2026-10-02"
     }
    ],
-   "dev": "LHStudio",
-   "pub": "LHStudio",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1129728-52.jpg"
+   "dev": "P.E.G",
+   "pub": "P.E.G",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1266404-52.jpg"
   },
   {
-   "slug": "gus-game",
-   "title": "Gus Game",
-   "date": "2026-10-01",
-   "url": "https://www.metacritic.com/game/gus-game/",
+   "slug": "long-march",
+   "title": "Long March",
+   "date": "2026-10-02",
+   "url": "https://www.metacritic.com/game/long-march/",
    "meta": null,
    "plats": [
     {
      "n": "PC",
      "s": null,
      "c": 0,
-     "d": "2026-10-01"
+     "d": "2026-10-02"
     }
    ],
-   "dev": "Gus",
-   "pub": "Gus",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1028451-52.jpg"
+   "dev": "Dead Broke",
+   "pub": "DigiPen Institute of Technology",
+   "img": ""
+  },
+  {
+   "slug": "carbon-copy",
+   "title": "Carbon Copy",
+   "date": "2026-10-02",
+   "url": "https://www.metacritic.com/game/carbon-copy/",
+   "meta": null,
+   "plats": [
+    {
+     "n": "PC",
+     "s": null,
+     "c": 0,
+     "d": "2026-10-02"
+    }
+   ],
+   "dev": "Baker Toasty",
+   "pub": "Baker Toasty",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1282250-52.jpg"
   }
  ],
  "annual": [
@@ -1287,9 +1380,9 @@
      "dev": "Nintendo",
      "pub": "Nintendo",
      "meta": 89,
-     "meta_count": 81,
+     "meta_count": 82,
      "user": 8.9,
-     "user_count": 167,
+     "user_count": 213,
      "scores": {}
     },
     {
@@ -1503,7 +1596,7 @@
      "dev": "Remedy Entertainment",
      "pub": "Remedy Entertainment",
      "meta": 83,
-     "meta_count": 78,
+     "meta_count": 79,
      "user": 9,
      "user_count": 42,
      "scores": {}
@@ -1563,12 +1656,12 @@
   ],
   "trails-in-the-sky-2nd-chapter": [
    91,
-   19,
+   20,
    8.9
   ],
   "valheim": [
    90,
-   23,
+   24,
    7.5
   ],
   "well-dweller": [
@@ -1578,7 +1671,7 @@
   ],
   "fire-emblem-fortunes-weave": [
    89,
-   81,
+   82,
    8.9
   ],
   "welcome-to-elderfield": [
@@ -1593,28 +1686,28 @@
   ],
   "transport-fever-3": [
    84,
-   9,
-   null
-  ],
-  "toem-2": [
-   84,
-   12,
+   10,
    null
   ],
   "the-blood-of-dawnwalker": [
    83,
-   73,
+   74,
    8.3
   ],
   "control-resonant": [
    83,
-   78,
+   79,
    9
   ],
   "diablo-iv-age-of-hatred-collection": [
-   83,
-   8,
-   6.6
+   82,
+   9,
+   6.7
+  ],
+  "toem-2": [
+   82,
+   13,
+   null
   ],
   "orbitals": [
    82,
@@ -1623,8 +1716,8 @@
   ],
   "silent-hill-townfall": [
    81,
-   83,
-   7.2
+   88,
+   7.3
   ],
   "marsupilami-2-salsa-palombia": [
    81,
@@ -1636,6 +1729,11 @@
    9,
    7.7
   ],
+  "dynasty-warriors-3-complete-edition-remastered": [
+   79,
+   7,
+   null
+  ],
   "endless-legend-2": [
    79,
    8,
@@ -1645,6 +1743,11 @@
    78,
    15,
    7.2
+  ],
+  "end-of-abyss": [
+   78,
+   10,
+   null
   ],
   "nba-2k27": [
    77,
@@ -1663,12 +1766,12 @@
   ],
   "ea-sports-fc-27": [
    76,
-   48,
-   2.7
+   49,
+   2.6
   ],
   "minecraft-dungeons-ii": [
-   75,
-   29,
+   76,
+   30,
    null
   ],
   "hot-wheels-infinite-rush": [
@@ -1691,14 +1794,14 @@
    9,
    7.2
   ],
-  "dragon-quest-heroes-tornekos-mystery-dungeon": [
-   68,
-   9,
-   null
-  ],
   "garfield-escape-from-monday": [
    68,
    7,
+   null
+  ],
+  "dragon-quest-heroes-tornekos-mystery-dungeon": [
+   68,
+   11,
    null
   ],
   "nhl-27": [
