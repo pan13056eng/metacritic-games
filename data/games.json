@@ -1,48 +1,11 @@
 {
- "updated": "2026-10-01 08:57",
+ "updated": "2026-10-02 08:32",
  "window": [
-  "2026-09-01",
-  "2026-10-01"
+  "2026-09-02",
+  "2026-10-02"
  ],
- "total": 37,
+ "total": 38,
  "released": [
-  {
-   "slug": "control-resonant",
-   "title": "CONTROL Resonant",
-   "date": "2026-09-24",
-   "url": "https://www.metacritic.com/game/control-resonant/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1781551532.jpg",
-   "plats": [
-    {
-     "n": "PC",
-     "s": 83,
-     "c": 34,
-     "d": "2026-09-24"
-    },
-    {
-     "n": "PS5",
-     "s": 84,
-     "c": 63,
-     "d": "2026-09-24"
-    },
-    {
-     "n": "XSX",
-     "s": 81,
-     "c": 10,
-     "d": "2026-09-24"
-    }
-   ],
-   "dev": "Remedy Entertainment",
-   "pub": "Remedy Entertainment",
-   "meta": 83,
-   "meta_count": 79,
-   "user": 9,
-   "user_count": 42,
-   "scores": {
-    "Push Square": 80,
-    "IGN": 80
-   }
-  },
   {
    "slug": "trails-in-the-sky-2nd-chapter",
    "title": "Trails in the Sky 2nd Chapter",
@@ -77,13 +40,50 @@
    ],
    "dev": "Falcom",
    "pub": "GungHo",
-   "meta": 91,
-   "meta_count": 20,
+   "meta": 90,
+   "meta_count": 22,
    "user": 8.9,
    "user_count": 35,
    "scores": {
     "IGN": 90,
     "Push Square": 90
+   }
+  },
+  {
+   "slug": "control-resonant",
+   "title": "CONTROL Resonant",
+   "date": "2026-09-24",
+   "url": "https://www.metacritic.com/game/control-resonant/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1781551532.jpg",
+   "plats": [
+    {
+     "n": "PC",
+     "s": 83,
+     "c": 34,
+     "d": "2026-09-24"
+    },
+    {
+     "n": "PS5",
+     "s": 84,
+     "c": 63,
+     "d": "2026-09-24"
+    },
+    {
+     "n": "XSX",
+     "s": 81,
+     "c": 10,
+     "d": "2026-09-24"
+    }
+   ],
+   "dev": "Remedy Entertainment",
+   "pub": "Remedy Entertainment",
+   "meta": 83,
+   "meta_count": 79,
+   "user": 8.9,
+   "user_count": 42,
+   "scores": {
+    "Push Square": 80,
+    "IGN": 80
    }
   },
   {
@@ -103,8 +103,8 @@
    "dev": "Nintendo",
    "pub": "Nintendo",
    "meta": 89,
-   "meta_count": 82,
-   "user": 8.9,
+   "meta_count": 84,
+   "user": 8.8,
    "user_count": 213,
    "scores": {
     "IGN": 100,
@@ -112,6 +112,46 @@
     "GameSpot": 90,
     "Nintendo Life": 80
    }
+  },
+  {
+   "slug": "the-witcher-3-wild-hunt-remastered",
+   "title": "The Witcher 3: Wild Hunt - Remastered",
+   "date": "2026-09-29",
+   "url": "https://www.metacritic.com/game/the-witcher-3-wild-hunt-remastered/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1788246748.jpg",
+   "plats": [
+    {
+     "n": "NS2",
+     "s": null,
+     "c": 3,
+     "d": "2026-09-29"
+    },
+    {
+     "n": "PS5",
+     "s": null,
+     "c": 2,
+     "d": "2026-09-29"
+    },
+    {
+     "n": "PC",
+     "s": 94,
+     "c": 8,
+     "d": "2026-09-29"
+    },
+    {
+     "n": "XSX",
+     "s": null,
+     "c": 2,
+     "d": "2026-09-29"
+    }
+   ],
+   "dev": "CD Projekt Red Studio",
+   "pub": "CD Projekt Red Studio",
+   "meta": 93,
+   "meta_count": 11,
+   "user": 8.6,
+   "user_count": 0,
+   "scores": {}
   },
   {
    "slug": "well-dweller",
@@ -194,7 +234,7 @@
    "dev": "Capcom",
    "pub": "Capcom",
    "meta": 85,
-   "meta_count": 105,
+   "meta_count": 106,
    "user": 8.6,
    "user_count": 162,
    "scores": {
@@ -219,8 +259,8 @@
    ],
    "dev": "Shapefarm",
    "pub": "Kepler Interactive",
-   "meta": 82,
-   "meta_count": 87,
+   "meta": 81,
+   "meta_count": 88,
    "user": 8.4,
    "user_count": 29,
    "scores": {
@@ -258,7 +298,7 @@
    "dev": "Rebel Wolves",
    "pub": "Bandai Namco Games",
    "meta": 83,
-   "meta_count": 74,
+   "meta_count": 75,
    "user": 8.3,
    "user_count": 281,
    "scores": {
@@ -268,51 +308,52 @@
    }
   },
   {
-   "slug": "valheim",
-   "title": "Valheim",
-   "date": "2026-09-09",
-   "url": "https://www.metacritic.com/game/valheim/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1781630474.jpg",
+   "slug": "minecraft-dungeons-ii",
+   "title": "Minecraft Dungeons II",
+   "date": "2026-09-29",
+   "url": "https://www.metacritic.com/game/minecraft-dungeons-ii/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1781632154.jpg",
    "plats": [
-    {
-     "n": "PC",
-     "s": 90,
-     "c": 16,
-     "d": null
-    },
-    {
-     "n": "XSX",
-     "s": null,
-     "c": 0,
-     "d": null
-    },
-    {
-     "n": "XB1",
-     "s": null,
-     "c": 0,
-     "d": null
-    },
     {
      "n": "PS5",
      "s": null,
-     "c": 0,
-     "d": null
+     "c": 2,
+     "d": "2026-09-29"
     },
     {
      "n": "NS2",
      "s": null,
      "c": 1,
-     "d": null
+     "d": "2026-09-29"
+    },
+    {
+     "n": "XSX",
+     "s": 76,
+     "c": 26,
+     "d": "2026-09-29"
+    },
+    {
+     "n": "NS",
+     "s": null,
+     "c": 0,
+     "d": "2026-09-29"
+    },
+    {
+     "n": "PC",
+     "s": 73,
+     "c": 15,
+     "d": "2026-09-29"
     }
    ],
-   "dev": "Iron Gate AB",
-   "pub": "Coffee Stain Publishing",
-   "meta": 90,
-   "meta_count": 24,
-   "user": 7.5,
-   "user_count": 21,
+   "dev": "Mojang AB",
+   "pub": "Xbox Game Studios",
+   "meta": 75,
+   "meta_count": 31,
+   "user": 8.2,
+   "user_count": 0,
    "scores": {
-    "IGN": 100
+    "GameSpot": 70,
+    "IGN": 60
    }
   },
   {
@@ -339,7 +380,7 @@
    "pub": "Konami",
    "meta": 81,
    "meta_count": 88,
-   "user": 7.3,
+   "user": 7.2,
    "user_count": 83,
    "scores": {
     "IGN": 80,
@@ -404,9 +445,9 @@
    ],
    "dev": "Insomniac Games",
    "pub": "Sony Interactive Entertainment",
-   "meta": 76,
-   "meta_count": 146,
-   "user": 6.8,
+   "meta": 75,
+   "meta_count": 147,
+   "user": 6.7,
    "user_count": 2224,
    "scores": {
     "Push Square": 80,
@@ -449,9 +490,9 @@
    ],
    "dev": "Visual Concepts",
    "pub": "2K Games",
-   "meta": 77,
-   "meta_count": 34,
-   "user": 4,
+   "meta": 78,
+   "meta_count": 35,
+   "user": 3.8,
    "user_count": 9,
    "scores": {
     "GameSpot": 70
@@ -510,98 +551,45 @@
    "dev": "EA Canada",
    "pub": "Electronic Arts",
    "meta": 76,
-   "meta_count": 49,
-   "user": 2.6,
-   "user_count": 0,
+   "meta_count": 52,
+   "user": 2.7,
+   "user_count": 32,
    "scores": {}
   },
   {
-   "slug": "the-witcher-3-wild-hunt-remastered",
-   "title": "The Witcher 3: Wild Hunt - Remastered",
-   "date": "2026-09-29",
-   "url": "https://www.metacritic.com/game/the-witcher-3-wild-hunt-remastered/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1788246748.jpg",
+   "slug": "ace-combat-8-wings-of-theve",
+   "title": "Ace Combat 8: Wings of Theve",
+   "date": "2026-10-02",
+   "url": "https://www.metacritic.com/game/ace-combat-8-wings-of-theve/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1788987138.jpg",
    "plats": [
     {
-     "n": "NS2",
-     "s": null,
-     "c": 3,
-     "d": "2026-09-29"
-    },
-    {
-     "n": "PS5",
-     "s": null,
-     "c": 2,
-     "d": "2026-09-29"
-    },
-    {
      "n": "PC",
-     "s": 94,
-     "c": 8,
-     "d": "2026-09-29"
+     "s": 86,
+     "c": 28,
+     "d": "2026-10-02"
     },
     {
      "n": "XSX",
-     "s": null,
-     "c": 2,
-     "d": "2026-09-29"
-    }
-   ],
-   "dev": "CD Projekt Red Studio",
-   "pub": "CD Projekt Red Studio",
-   "meta": 94,
-   "meta_count": 10,
-   "user": null,
-   "user_count": 0,
-   "scores": {}
-  },
-  {
-   "slug": "minecraft-dungeons-ii",
-   "title": "Minecraft Dungeons II",
-   "date": "2026-09-29",
-   "url": "https://www.metacritic.com/game/minecraft-dungeons-ii/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1781632154.jpg",
-   "plats": [
+     "s": 90,
+     "c": 4,
+     "d": "2026-10-02"
+    },
     {
      "n": "PS5",
-     "s": null,
-     "c": 2,
-     "d": "2026-09-29"
-    },
-    {
-     "n": "NS2",
-     "s": null,
-     "c": 1,
-     "d": "2026-09-29"
-    },
-    {
-     "n": "XSX",
-     "s": 76,
-     "c": 26,
-     "d": "2026-09-29"
-    },
-    {
-     "n": "NS",
-     "s": null,
-     "c": 0,
-     "d": "2026-09-29"
-    },
-    {
-     "n": "PC",
-     "s": 73,
-     "c": 15,
-     "d": "2026-09-29"
+     "s": 87,
+     "c": 55,
+     "d": "2026-10-02"
     }
    ],
-   "dev": "Mojang AB",
-   "pub": "Xbox Game Studios",
-   "meta": 76,
-   "meta_count": 30,
+   "dev": "Bandai Namco Aces Inc.",
+   "pub": "Bandai Namco Games",
+   "meta": 88,
+   "meta_count": 60,
    "user": null,
    "user_count": 0,
    "scores": {
-    "GameSpot": 70,
-    "IGN": 60
+    "Push Square": 80
    }
   }
  ],
@@ -669,6 +657,46 @@
    "scores": {}
   },
   {
+   "slug": "moonlighter-2-the-endless-vault",
+   "title": "Moonlighter 2: The Endless Vault",
+   "date": "2026-09-02",
+   "url": "https://www.metacritic.com/game/moonlighter-2-the-endless-vault/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1788147585.jpg",
+   "plats": [
+    {
+     "n": "PC",
+     "s": 72,
+     "c": 11,
+     "d": "2026-09-02"
+    },
+    {
+     "n": "PS5",
+     "s": 77,
+     "c": 6,
+     "d": "2026-09-02"
+    },
+    {
+     "n": "XSX",
+     "s": null,
+     "c": 1,
+     "d": "2026-09-02"
+    },
+    {
+     "n": "NS2",
+     "s": 80,
+     "c": 8,
+     "d": "2026-09-02"
+    }
+   ],
+   "dev": "Digital Sun",
+   "pub": "11 bit studios",
+   "meta": 72,
+   "meta_count": 11,
+   "user": 7.7,
+   "user_count": 2,
+   "scores": {}
+  },
+  {
    "slug": "halloween-the-game",
    "title": "Halloween: The Game",
    "date": "2026-09-08",
@@ -700,6 +728,52 @@
    "meta_count": 14,
    "user": 7.7,
    "user_count": 12,
+   "scores": {}
+  },
+  {
+   "slug": "valheim",
+   "title": "Valheim",
+   "date": "2026-09-09",
+   "url": "https://www.metacritic.com/game/valheim/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1781630474.jpg",
+   "plats": [
+    {
+     "n": "PC",
+     "s": 90,
+     "c": 16,
+     "d": null
+    },
+    {
+     "n": "XSX",
+     "s": null,
+     "c": 0,
+     "d": null
+    },
+    {
+     "n": "XB1",
+     "s": null,
+     "c": 0,
+     "d": null
+    },
+    {
+     "n": "PS5",
+     "s": null,
+     "c": 0,
+     "d": null
+    },
+    {
+     "n": "NS2",
+     "s": null,
+     "c": 1,
+     "d": null
+    }
+   ],
+   "dev": "Iron Gate AB",
+   "pub": "Coffee Stain Publishing",
+   "meta": 89,
+   "meta_count": 25,
+   "user": 7.5,
+   "user_count": 21,
    "scores": {}
   },
   {
@@ -743,40 +817,6 @@
    "scores": {}
   },
   {
-   "slug": "crimson-moon",
-   "title": "Crimson Moon",
-   "date": "2026-09-01",
-   "url": "https://www.metacritic.com/game/crimson-moon/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1788279891.jpg",
-   "plats": [
-    {
-     "n": "PS5",
-     "s": null,
-     "c": 0,
-     "d": null
-    },
-    {
-     "n": "PC",
-     "s": 72,
-     "c": 9,
-     "d": null
-    },
-    {
-     "n": "XSX",
-     "s": null,
-     "c": 1,
-     "d": null
-    }
-   ],
-   "dev": "ProbablyMonsters",
-   "pub": "ProbablyMonsters",
-   "meta": 73,
-   "meta_count": 10,
-   "user": 6.6,
-   "user_count": 5,
-   "scores": {}
-  },
-  {
    "slug": "wo-long-fallen-dynasty-complete-edition",
    "title": "Wo Long: Fallen Dynasty - Complete Edition",
    "date": "2026-09-03",
@@ -792,8 +832,8 @@
    ],
    "dev": "Team Ninja",
    "pub": "Koei Tecmo Games",
-   "meta": 67,
-   "meta_count": 10,
+   "meta": 66,
+   "meta_count": 11,
    "user": 5.9,
    "user_count": 0,
    "scores": {}
@@ -889,8 +929,8 @@
    "dev": "Urban Games",
    "pub": "Paradox Interactive",
    "meta": 84,
-   "meta_count": 10,
-   "user": null,
+   "meta_count": 11,
+   "user": 2.3,
    "user_count": 3,
    "scores": {}
   },
@@ -928,8 +968,8 @@
    ],
    "dev": "Something We Made",
    "pub": "Something We Made",
-   "meta": 82,
-   "meta_count": 13,
+   "meta": 81,
+   "meta_count": 15,
    "user": null,
    "user_count": 0,
    "scores": {}
@@ -962,8 +1002,8 @@
    ],
    "dev": "Section 9 Interactive",
    "pub": "Epic Games",
-   "meta": 78,
-   "meta_count": 10,
+   "meta": 77,
+   "meta_count": 13,
    "user": null,
    "user_count": 0,
    "scores": {}
@@ -1009,7 +1049,7 @@
    "dev": "Square Enix",
    "pub": "Square Enix",
    "meta": 68,
-   "meta_count": 11,
+   "meta_count": 13,
    "user": null,
    "user_count": 0,
    "scores": {}
@@ -1017,64 +1057,28 @@
  ],
  "upcoming": [
   {
-   "slug": "ace-combat-8-wings-of-theve",
-   "title": "Ace Combat 8: Wings of Theve",
-   "date": "2026-10-02",
-   "url": "https://www.metacritic.com/game/ace-combat-8-wings-of-theve/",
-   "meta": 88,
-   "plats": [
-    {
-     "n": "PC",
-     "s": 86,
-     "c": 28,
-     "d": "2026-10-02"
-    },
-    {
-     "n": "XSX",
-     "s": 90,
-     "c": 4,
-     "d": "2026-10-02"
-    },
-    {
-     "n": "PS5",
-     "s": 87,
-     "c": 55,
-     "d": "2026-10-02"
-    }
-   ],
-   "dev": "Bandai Namco Aces Inc.",
-   "pub": "Bandai Namco Games",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1788987138.jpg"
-  },
-  {
-   "slug": "star-wars-galactic-racer",
-   "title": "Star Wars: Galactic Racer",
+   "slug": "gears-of-war-e-day",
+   "title": "Gears of War: E-Day",
    "date": "2026-10-06",
-   "url": "https://www.metacritic.com/game/star-wars-galactic-racer/",
-   "meta": null,
+   "url": "https://www.metacritic.com/game/gears-of-war-e-day/",
+   "meta": 87,
    "plats": [
     {
-     "n": "PC",
-     "s": null,
-     "c": 19,
-     "d": null
-    },
-    {
      "n": "XSX",
-     "s": null,
-     "c": 0,
-     "d": null
+     "s": 87,
+     "c": 53,
+     "d": "2026-10-06"
     },
     {
-     "n": "PS5",
-     "s": null,
-     "c": 1,
-     "d": null
+     "n": "PC",
+     "s": 84,
+     "c": 27,
+     "d": "2026-10-06"
     }
    ],
-   "dev": "Fuse Games",
-   "pub": "Secret Mode",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1782239523.jpg"
+   "dev": "The Coalition",
+   "pub": "Xbox Game Studios",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1788246859.jpg"
   },
   {
    "slug": "enshrouded",
@@ -1107,6 +1111,24 @@
    "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1790044020.jpg"
   },
   {
+   "slug": "ghost-of-yotei-complete-edition",
+   "title": "Ghost of Yotei: Complete Edition",
+   "date": "2026-11-01",
+   "url": "https://www.metacritic.com/game/ghost-of-yotei-complete-edition/",
+   "meta": 85,
+   "plats": [
+    {
+     "n": "PS5",
+     "s": 85,
+     "c": 19,
+     "d": "2026-11-01"
+    }
+   ],
+   "dev": "Sucker Punch",
+   "pub": "Sony Interactive Entertainment",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1790798102.jpg"
+  },
+  {
    "slug": "the-duskbloods",
    "title": "The Duskbloods",
    "date": "2026-12-31",
@@ -1125,112 +1147,112 @@
    "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1787246452.jpg"
   },
   {
-   "slug": "gym-mop-tycoon",
-   "title": "Gym Mop Tycoon",
-   "date": "2026-10-02",
-   "url": "https://www.metacritic.com/game/gym-mop-tycoon/",
+   "slug": "save-the-president-2026",
+   "title": "Save The President",
+   "date": "2026-10-03",
+   "url": "https://www.metacritic.com/game/save-the-president-2026/",
    "meta": null,
    "plats": [
     {
-     "n": "PC",
+     "n": "NS",
      "s": null,
      "c": 0,
-     "d": "2026-10-02"
+     "d": "2026-10-03"
     }
    ],
-   "dev": "JuTiMa Games",
-   "pub": "JuTiMa Games",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1286102-52.jpg"
-  },
-  {
-   "slug": "godspeed-kyrie",
-   "title": "GODSPEED (Kyrie)",
-   "date": "2026-10-02",
-   "url": "https://www.metacritic.com/game/godspeed-kyrie/",
-   "meta": null,
-   "plats": [
-    {
-     "n": "PC",
-     "s": null,
-     "c": 0,
-     "d": "2026-10-02"
-    }
-   ],
-   "dev": "Kyrie",
-   "pub": "Kyrie",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1277521-52.jpg"
-  },
-  {
-   "slug": "lets-tidy-up-treasure",
-   "title": "Let's Tidy Up! : Treasure",
-   "date": "2026-10-02",
-   "url": "https://www.metacritic.com/game/lets-tidy-up-treasure/",
-   "meta": null,
-   "plats": [
-    {
-     "n": "PC",
-     "s": null,
-     "c": 0,
-     "d": "2026-10-02"
-    }
-   ],
-   "dev": "Tidy Up Team",
-   "pub": "Tidy Up Team",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1267021-52.jpg"
-  },
-  {
-   "slug": "a-challenge-from-a-mystery-loving-santa",
-   "title": "A Challenge from a Mystery-Loving Santa",
-   "date": "2026-10-02",
-   "url": "https://www.metacritic.com/game/a-challenge-from-a-mystery-loving-santa/",
-   "meta": null,
-   "plats": [
-    {
-     "n": "PC",
-     "s": null,
-     "c": 0,
-     "d": "2026-10-02"
-    }
-   ],
-   "dev": "P.E.G",
-   "pub": "P.E.G",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1266404-52.jpg"
-  },
-  {
-   "slug": "long-march",
-   "title": "Long March",
-   "date": "2026-10-02",
-   "url": "https://www.metacritic.com/game/long-march/",
-   "meta": null,
-   "plats": [
-    {
-     "n": "PC",
-     "s": null,
-     "c": 0,
-     "d": "2026-10-02"
-    }
-   ],
-   "dev": "Dead Broke",
-   "pub": "DigiPen Institute of Technology",
+   "dev": "Nerd Games",
+   "pub": "Nerd Games",
    "img": ""
   },
   {
-   "slug": "carbon-copy",
-   "title": "Carbon Copy",
-   "date": "2026-10-02",
-   "url": "https://www.metacritic.com/game/carbon-copy/",
+   "slug": "co-create-stories",
+   "title": "Co-create Stories",
+   "date": "2026-10-03",
+   "url": "https://www.metacritic.com/game/co-create-stories/",
    "meta": null,
    "plats": [
     {
      "n": "PC",
      "s": null,
      "c": 0,
-     "d": "2026-10-02"
+     "d": "2026-10-03"
     }
    ],
-   "dev": "Baker Toasty",
-   "pub": "Baker Toasty",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1282250-52.jpg"
+   "dev": "kawaken",
+   "pub": "kawaken",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1274340-52.jpg"
+  },
+  {
+   "slug": "parkour-obby-food-escape",
+   "title": "Parkour Obby: Food Escape",
+   "date": "2026-10-03",
+   "url": "https://www.metacritic.com/game/parkour-obby-food-escape/",
+   "meta": null,
+   "plats": [
+    {
+     "n": "NS",
+     "s": null,
+     "c": 0,
+     "d": "2026-10-03"
+    }
+   ],
+   "dev": "Downmeadowstreet",
+   "pub": "Downmeadowstreet",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1289652-52.jpg"
+  },
+  {
+   "slug": "classic-sonic-collection",
+   "title": "Classic Sonic Collection",
+   "date": "2026-10-03",
+   "url": "https://www.metacritic.com/game/classic-sonic-collection/",
+   "meta": null,
+   "plats": [
+    {
+     "n": "NS",
+     "s": null,
+     "c": 0,
+     "d": "2026-10-03"
+    }
+   ],
+   "dev": "Sega",
+   "pub": "Sega",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1285154-17.jpg"
+  },
+  {
+   "slug": "modern-sonic-collection",
+   "title": "Modern Sonic Collection",
+   "date": "2026-10-03",
+   "url": "https://www.metacritic.com/game/modern-sonic-collection/",
+   "meta": null,
+   "plats": [
+    {
+     "n": "NS",
+     "s": null,
+     "c": 0,
+     "d": "2026-10-03"
+    }
+   ],
+   "dev": "Sega",
+   "pub": "Sega",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1285155-17.jpg"
+  },
+  {
+   "slug": "catventure",
+   "title": "Catventure",
+   "date": "2026-10-04",
+   "url": "https://www.metacritic.com/game/catventure/",
+   "meta": null,
+   "plats": [
+    {
+     "n": "PC",
+     "s": null,
+     "c": 0,
+     "d": "2026-10-04"
+    }
+   ],
+   "dev": "MissingCat",
+   "pub": "MissingCat",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1212669-52.jpg"
   }
  ],
  "annual": [
@@ -1380,8 +1402,8 @@
      "dev": "Nintendo",
      "pub": "Nintendo",
      "meta": 89,
-     "meta_count": 82,
-     "user": 8.9,
+     "meta_count": 84,
+     "user": 8.8,
      "user_count": 213,
      "scores": {}
     },
@@ -1562,7 +1584,7 @@
      "dev": "Capcom",
      "pub": "Capcom",
      "meta": 85,
-     "meta_count": 105,
+     "meta_count": 106,
      "user": 8.6,
      "user_count": 162,
      "scores": {}
@@ -1597,7 +1619,7 @@
      "pub": "Remedy Entertainment",
      "meta": 83,
      "meta_count": 79,
-     "user": 9,
+     "user": 8.9,
      "user_count": 42,
      "scores": {}
     },
@@ -1650,29 +1672,34 @@
  ],
  "sig": {
   "the-witcher-3-wild-hunt-remastered": [
-   94,
-   10,
-   null
+   93,
+   11,
+   8.6
   ],
   "trails-in-the-sky-2nd-chapter": [
-   91,
-   20,
-   8.9
-  ],
-  "valheim": [
    90,
-   24,
-   7.5
+   22,
+   8.9
   ],
   "well-dweller": [
    89,
    10,
    8.6
   ],
+  "valheim": [
+   89,
+   25,
+   7.5
+  ],
   "fire-emblem-fortunes-weave": [
    89,
-   82,
-   8.9
+   84,
+   8.8
+  ],
+  "ace-combat-8-wings-of-theve": [
+   88,
+   60,
+   null
   ],
   "welcome-to-elderfield": [
    87,
@@ -1681,23 +1708,23 @@
   ],
   "onimusha-way-of-the-sword": [
    85,
-   105,
+   106,
    8.6
   ],
   "transport-fever-3": [
    84,
-   10,
-   null
+   11,
+   2.3
   ],
   "the-blood-of-dawnwalker": [
    83,
-   74,
+   75,
    8.3
   ],
   "control-resonant": [
    83,
    79,
-   9
+   8.9
   ],
   "diablo-iv-age-of-hatred-collection": [
    82,
@@ -1705,73 +1732,68 @@
    6.7
   ],
   "toem-2": [
-   82,
-   13,
+   81,
+   15,
    null
   ],
   "orbitals": [
-   82,
-   87,
+   81,
+   88,
    8.4
   ],
   "silent-hill-townfall": [
    81,
    88,
-   7.3
+   7.2
   ],
   "marsupilami-2-salsa-palombia": [
    81,
    7,
    8
   ],
-  "moonlighter-2-the-endless-vault": [
-   80,
-   9,
-   7.7
-  ],
-  "dynasty-warriors-3-complete-edition-remastered": [
-   79,
-   7,
-   null
-  ],
-  "endless-legend-2": [
-   79,
-   8,
-   7.4
-  ],
   "aniimo": [
    78,
    15,
    7.2
   ],
-  "end-of-abyss": [
+  "nba-2k27": [
    78,
-   10,
+   35,
+   3.8
+  ],
+  "end-of-abyss": [
+   77,
+   13,
    null
   ],
-  "nba-2k27": [
+  "endless-legend-2": [
    77,
-   34,
-   4
+   9,
+   7.6
   ],
   "sprawl-zero": [
    76,
    10,
    8.3
   ],
-  "marvels-wolverine": [
-   76,
-   146,
-   6.8
-  ],
   "ea-sports-fc-27": [
    76,
-   49,
-   2.6
+   52,
+   2.7
   ],
   "minecraft-dungeons-ii": [
-   76,
-   30,
+   75,
+   31,
+   8.2
+  ],
+  "marvels-wolverine": [
+   75,
+   147,
+   6.7
+  ],
+  "dynasty-warriors-3-complete-edition-remastered": [
+   74,
+   7,
    null
   ],
   "hot-wheels-infinite-rush": [
@@ -1784,15 +1806,20 @@
    15,
    4.6
   ],
-  "crimson-moon": [
-   73,
-   10,
-   6.6
-  ],
   "graveyard-keeper-2": [
    72,
    9,
    7.2
+  ],
+  "moonlighter-2-the-endless-vault": [
+   72,
+   11,
+   7.7
+  ],
+  "doggy-dont-care": [
+   70,
+   7,
+   null
   ],
   "garfield-escape-from-monday": [
    68,
@@ -1801,7 +1828,7 @@
   ],
   "dragon-quest-heroes-tornekos-mystery-dungeon": [
    68,
-   11,
+   13,
    null
   ],
   "nhl-27": [
@@ -1810,8 +1837,8 @@
    3
   ],
   "wo-long-fallen-dynasty-complete-edition": [
-   67,
-   10,
+   66,
+   11,
    5.9
   ],
   "halloween-the-game": [
