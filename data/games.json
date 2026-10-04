@@ -1,10 +1,10 @@
 {
- "updated": "2026-10-03 08:07",
+ "updated": "2026-10-04 08:27",
  "window": [
-  "2026-09-03",
-  "2026-10-03"
+  "2026-09-04",
+  "2026-10-04"
  ],
- "total": 37,
+ "total": 34,
  "released": [
   {
    "slug": "control-resonant",
@@ -160,44 +160,40 @@
    "scores": {}
   },
   {
-   "slug": "the-witcher-3-wild-hunt-remastered",
-   "title": "The Witcher 3: Wild Hunt - Remastered",
-   "date": "2026-09-29",
-   "url": "https://www.metacritic.com/game/the-witcher-3-wild-hunt-remastered/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1788246748.jpg",
+   "slug": "ace-combat-8-wings-of-theve",
+   "title": "Ace Combat 8: Wings of Theve",
+   "date": "2026-10-02",
+   "url": "https://www.metacritic.com/game/ace-combat-8-wings-of-theve/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1788987138.jpg",
    "plats": [
     {
-     "n": "NS2",
-     "s": null,
-     "c": 3,
-     "d": "2026-09-29"
-    },
-    {
-     "n": "PS5",
-     "s": null,
-     "c": 2,
-     "d": "2026-09-29"
-    },
-    {
      "n": "PC",
-     "s": 94,
-     "c": 8,
-     "d": "2026-09-29"
+     "s": 86,
+     "c": 28,
+     "d": "2026-10-02"
     },
     {
      "n": "XSX",
-     "s": null,
-     "c": 2,
-     "d": "2026-09-29"
+     "s": 90,
+     "c": 4,
+     "d": "2026-10-02"
+    },
+    {
+     "n": "PS5",
+     "s": 87,
+     "c": 55,
+     "d": "2026-10-02"
     }
    ],
-   "dev": "CD Projekt Red Studio",
-   "pub": "CD Projekt Red Studio",
-   "meta": 93,
-   "meta_count": 11,
+   "dev": "Bandai Namco Aces Inc.",
+   "pub": "Bandai Namco Games",
+   "meta": 88,
+   "meta_count": 62,
    "user": 8.6,
    "user_count": 0,
-   "scores": {}
+   "scores": {
+    "Push Square": 80
+   }
   },
   {
    "slug": "onimusha-way-of-the-sword",
@@ -244,68 +240,44 @@
    }
   },
   {
-   "slug": "orbitals",
-   "title": "Orbitals",
-   "date": "2026-09-03",
-   "url": "https://www.metacritic.com/game/orbitals/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1787423536.jpg",
+   "slug": "the-witcher-3-wild-hunt-remastered",
+   "title": "The Witcher 3: Wild Hunt - Remastered",
+   "date": "2026-09-29",
+   "url": "https://www.metacritic.com/game/the-witcher-3-wild-hunt-remastered/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1788246748.jpg",
    "plats": [
     {
      "n": "NS2",
-     "s": 82,
-     "c": 77,
-     "d": null
-    }
-   ],
-   "dev": "Shapefarm",
-   "pub": "Kepler Interactive",
-   "meta": 81,
-   "meta_count": 88,
-   "user": 8.4,
-   "user_count": 29,
-   "scores": {
-    "Nintendo Life": 90,
-    "IGN": 80,
-    "Eurogamer": 60
-   }
-  },
-  {
-   "slug": "the-blood-of-dawnwalker",
-   "title": "The Blood of Dawnwalker",
-   "date": "2026-09-03",
-   "url": "https://www.metacritic.com/game/the-blood-of-dawnwalker/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1777678175.jpg",
-   "plats": [
-    {
-     "n": "PC",
-     "s": 84,
-     "c": 39,
-     "d": null
+     "s": null,
+     "c": 3,
+     "d": "2026-09-29"
     },
     {
      "n": "PS5",
-     "s": 83,
-     "c": 68,
-     "d": null
+     "s": null,
+     "c": 2,
+     "d": "2026-09-29"
+    },
+    {
+     "n": "PC",
+     "s": 94,
+     "c": 8,
+     "d": "2026-09-29"
     },
     {
      "n": "XSX",
-     "s": 86,
-     "c": 8,
-     "d": null
+     "s": null,
+     "c": 2,
+     "d": "2026-09-29"
     }
    ],
-   "dev": "Rebel Wolves",
-   "pub": "Bandai Namco Games",
-   "meta": 83,
-   "meta_count": 75,
-   "user": 8.3,
-   "user_count": 281,
-   "scores": {
-    "IGN": 90,
-    "GameSpot": 80,
-    "Push Square": 70
-   }
+   "dev": "CD Projekt Red Studio",
+   "pub": "CD Projekt Red Studio",
+   "meta": 93,
+   "meta_count": 11,
+   "user": 8.5,
+   "user_count": 0,
+   "scores": {}
   },
   {
    "slug": "minecraft-dungeons-ii",
@@ -349,7 +321,7 @@
    "pub": "Xbox Game Studios",
    "meta": 75,
    "meta_count": 31,
-   "user": 8.1,
+   "user": 7.9,
    "user_count": 0,
    "scores": {
     "GameSpot": 70,
@@ -552,45 +524,9 @@
    "pub": "Electronic Arts",
    "meta": 76,
    "meta_count": 52,
-   "user": 2.6,
+   "user": 2.5,
    "user_count": 32,
    "scores": {}
-  },
-  {
-   "slug": "ace-combat-8-wings-of-theve",
-   "title": "Ace Combat 8: Wings of Theve",
-   "date": "2026-10-02",
-   "url": "https://www.metacritic.com/game/ace-combat-8-wings-of-theve/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1788987138.jpg",
-   "plats": [
-    {
-     "n": "PC",
-     "s": 86,
-     "c": 28,
-     "d": "2026-10-02"
-    },
-    {
-     "n": "XSX",
-     "s": 90,
-     "c": 4,
-     "d": "2026-10-02"
-    },
-    {
-     "n": "PS5",
-     "s": 87,
-     "c": 55,
-     "d": "2026-10-02"
-    }
-   ],
-   "dev": "Bandai Namco Aces Inc.",
-   "pub": "Bandai Namco Games",
-   "meta": 88,
-   "meta_count": 62,
-   "user": null,
-   "user_count": 0,
-   "scores": {
-    "Push Square": 80
-   }
   }
  ],
  "watch": [
@@ -686,7 +622,7 @@
    "pub": "Epic Games",
    "meta": 76,
    "meta_count": 15,
-   "user": 8.3,
+   "user": 8,
    "user_count": 0,
    "scores": {}
   },
@@ -720,7 +656,7 @@
    "pub": "Gun Interactive",
    "meta": 65,
    "meta_count": 14,
-   "user": 7.6,
+   "user": 7.7,
    "user_count": 12,
    "scores": {}
   },
@@ -828,30 +764,8 @@
    "pub": "Blizzard Entertainment",
    "meta": 83,
    "meta_count": 10,
-   "user": 6.7,
+   "user": 6.6,
    "user_count": 4,
-   "scores": {}
-  },
-  {
-   "slug": "wo-long-fallen-dynasty-complete-edition",
-   "title": "Wo Long: Fallen Dynasty - Complete Edition",
-   "date": "2026-09-03",
-   "url": "https://www.metacritic.com/game/wo-long-fallen-dynasty-complete-edition/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1274889-17.jpg",
-   "plats": [
-    {
-     "n": "NS2",
-     "s": 67,
-     "c": 10,
-     "d": "2026-09-03"
-    }
-   ],
-   "dev": "Team Ninja",
-   "pub": "Koei Tecmo Games",
-   "meta": 66,
-   "meta_count": 11,
-   "user": 5.9,
-   "user_count": 0,
    "scores": {}
   },
   {
@@ -1073,7 +987,7 @@
    "title": "Gears of War: E-Day",
    "date": "2026-10-06",
    "url": "https://www.metacritic.com/game/gears-of-war-e-day/",
-   "meta": 86,
+   "meta": 87,
    "plats": [
     {
      "n": "XSX",
@@ -1141,112 +1055,118 @@
    "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1787246452.jpg"
   },
   {
-   "slug": "sightsplice",
-   "title": "SightSplice",
-   "date": "2026-10-04",
-   "url": "https://www.metacritic.com/game/sightsplice/",
+   "slug": "stickility",
+   "title": "Stickility",
+   "date": "2026-10-05",
+   "url": "https://www.metacritic.com/game/stickility/",
    "meta": null,
    "plats": [
     {
      "n": "PC",
      "s": null,
      "c": 0,
-     "d": "2026-10-04"
+     "d": "2026-10-05"
     }
    ],
-   "dev": "Dravekor_Studio",
-   "pub": "Dravekor_Studio",
-   "img": ""
+   "dev": "Reglan",
+   "pub": "Reglan",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1081580-52.jpg"
   },
   {
-   "slug": "prison-break-thirty-walls",
-   "title": "Prison Break: Thirty Walls",
-   "date": "2026-10-04",
-   "url": "https://www.metacritic.com/game/prison-break-thirty-walls/",
+   "slug": "uppercute",
+   "title": "Uppercute",
+   "date": "2026-10-05",
+   "url": "https://www.metacritic.com/game/uppercute/",
    "meta": null,
    "plats": [
     {
      "n": "PC",
      "s": null,
      "c": 0,
-     "d": "2026-10-04"
+     "d": "2026-10-05"
     }
    ],
-   "dev": "Zitherian Studios",
-   "pub": "Zitherian Studios",
-   "img": ""
+   "dev": "PrettyScar",
+   "pub": "PrettyScar",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1054294-52.jpg"
   },
   {
-   "slug": "autochart",
-   "title": "AutoChart",
-   "date": "2026-10-04",
-   "url": "https://www.metacritic.com/game/autochart/",
+   "slug": "remembrance",
+   "title": "Remembrance",
+   "date": "2026-10-05",
+   "url": "https://www.metacritic.com/game/remembrance/",
    "meta": null,
    "plats": [
     {
      "n": "PC",
      "s": null,
      "c": 0,
-     "d": "2026-10-04"
+     "d": "2026-10-05"
+    },
+    {
+     "n": "Meta Quest",
+     "s": null,
+     "c": 0,
+     "d": "2026-07-29"
     }
    ],
-   "dev": "1rwy",
-   "pub": "1rwy",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1287430-52.jpg"
+   "dev": "NIEKO",
+   "pub": "NIEKO",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1088940-52.jpg"
   },
   {
-   "slug": "panzercity",
-   "title": "PanzerCity",
-   "date": "2026-10-04",
-   "url": "https://www.metacritic.com/game/panzercity/",
+   "slug": "aion-2",
+   "title": "AION 2",
+   "date": "2026-10-05",
+   "url": "https://www.metacritic.com/game/aion-2/",
    "meta": null,
    "plats": [
     {
      "n": "PC",
      "s": null,
      "c": 0,
-     "d": "2026-10-04"
+     "d": "2026-10-05"
     }
    ],
-   "dev": "Columbidae Games",
-   "pub": "Columbidae Games",
-   "img": ""
+   "dev": "NC",
+   "pub": "NC",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1129103-59.jpg"
   },
   {
-   "slug": "panos",
-   "title": "Panos",
-   "date": "2026-10-04",
-   "url": "https://www.metacritic.com/game/panos/",
+   "slug": "chill-cat",
+   "title": "Chill Cat",
+   "date": "2026-10-05",
+   "url": "https://www.metacritic.com/game/chill-cat/",
    "meta": null,
    "plats": [
     {
      "n": "PC",
      "s": null,
      "c": 0,
-     "d": "2026-10-04"
+     "d": "2026-10-05"
     }
    ],
-   "dev": "Xiangyu Lu",
-   "pub": "HUNTATIS",
-   "img": ""
+   "dev": "OFFMOON Inc.",
+   "pub": "OFFMOON Inc.",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1254925-52.jpg"
   },
   {
-   "slug": "orbit-breaker-redsabretooth",
-   "title": "Orbit Breaker (RedSabreTooth)",
-   "date": "2026-10-04",
-   "url": "https://www.metacritic.com/game/orbit-breaker-redsabretooth/",
+   "slug": "fafo-executive-order-simulator",
+   "title": "FAFO Executive Order Simulator",
+   "date": "2026-10-05",
+   "url": "https://www.metacritic.com/game/fafo-executive-order-simulator/",
    "meta": null,
    "plats": [
     {
      "n": "PC",
      "s": null,
      "c": 0,
-     "d": "2026-10-04"
+     "d": "2026-10-05"
     }
    ],
-   "dev": "RedSabreTooth",
-   "pub": "RedSabreTooth",
-   "img": ""
+   "dev": "1981 Games",
+   "pub": "1981 Games",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1167473-52.jpg"
   }
  ],
  "annual": [
@@ -1668,7 +1588,7 @@
   "the-witcher-3-wild-hunt-remastered": [
    93,
    11,
-   8.6
+   8.5
   ],
   "trails-in-the-sky-2nd-chapter": [
    90,
@@ -1693,7 +1613,7 @@
   "ace-combat-8-wings-of-theve": [
    88,
    62,
-   null
+   8.6
   ],
   "welcome-to-elderfield": [
    87,
@@ -1710,15 +1630,10 @@
    12,
    2.3
   ],
-  "the-blood-of-dawnwalker": [
-   83,
-   75,
-   8.3
-  ],
   "diablo-iv-age-of-hatred-collection": [
    83,
    10,
-   6.7
+   6.6
   ],
   "control-resonant": [
    83,
@@ -1730,16 +1645,6 @@
    15,
    null
   ],
-  "orbitals": [
-   81,
-   88,
-   8.4
-  ],
-  "marsupilami-2-salsa-palombia": [
-   81,
-   7,
-   8
-  ],
   "silent-hill-townfall": [
    80,
    89,
@@ -1748,7 +1653,7 @@
   "dynasty-warriors-3-complete-edition-remastered": [
    79,
    8,
-   9
+   8.9
   ],
   "aniimo": [
    78,
@@ -1773,17 +1678,17 @@
   "end-of-abyss": [
    76,
    15,
-   8.3
+   8
   ],
   "ea-sports-fc-27": [
    76,
    52,
-   2.6
+   2.5
   ],
   "minecraft-dungeons-ii": [
    75,
    31,
-   8.1
+   7.9
   ],
   "marvels-wolverine": [
    75,
@@ -1825,20 +1730,15 @@
    14,
    3
   ],
-  "wo-long-fallen-dynasty-complete-edition": [
-   66,
-   11,
-   5.9
-  ],
   "halloween-the-game": [
    65,
    14,
-   7.6
+   7.7
   ],
   "the-alighieri-circle-dantes-bloodline": [
    64,
    7,
-   6.5
+   6.8
   ],
   "the-walking-dead-streets-of-survival": [
    64,
@@ -1849,6 +1749,11 @@
    61,
    7,
    null
+  ],
+  "retrospace": [
+   null,
+   3,
+   9.8
   ]
  }
 }
