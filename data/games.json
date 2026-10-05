@@ -1,10 +1,10 @@
 {
- "updated": "2026-10-04 08:27",
+ "updated": "2026-10-05 09:05",
  "window": [
-  "2026-09-04",
-  "2026-10-04"
+  "2026-09-05",
+  "2026-10-05"
  ],
- "total": 34,
+ "total": 31,
  "released": [
   {
    "slug": "control-resonant",
@@ -196,50 +196,6 @@
    }
   },
   {
-   "slug": "onimusha-way-of-the-sword",
-   "title": "Onimusha: Way of the Sword",
-   "date": "2026-09-04",
-   "url": "https://www.metacritic.com/game/onimusha-way-of-the-sword/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1781631535.jpg",
-   "plats": [
-    {
-     "n": "PS5",
-     "s": 85,
-     "c": 100,
-     "d": null
-    },
-    {
-     "n": "PC",
-     "s": 83,
-     "c": 31,
-     "d": null
-    },
-    {
-     "n": "XSX",
-     "s": 83,
-     "c": 10,
-     "d": null
-    },
-    {
-     "n": "NS2",
-     "s": 90,
-     "c": 15,
-     "d": null
-    }
-   ],
-   "dev": "Capcom",
-   "pub": "Capcom",
-   "meta": 85,
-   "meta_count": 106,
-   "user": 8.6,
-   "user_count": 162,
-   "scores": {
-    "IGN": 100,
-    "Push Square": 90,
-    "Eurogamer": 80
-   }
-  },
-  {
    "slug": "the-witcher-3-wild-hunt-remastered",
    "title": "The Witcher 3: Wild Hunt - Remastered",
    "date": "2026-09-29",
@@ -274,7 +230,7 @@
    "dev": "CD Projekt Red Studio",
    "pub": "CD Projekt Red Studio",
    "meta": 93,
-   "meta_count": 11,
+   "meta_count": 12,
    "user": 8.5,
    "user_count": 0,
    "scores": {}
@@ -426,48 +382,6 @@
     "GameSpot": 60,
     "IGN": 60,
     "Eurogamer": 60
-   }
-  },
-  {
-   "slug": "nba-2k27",
-   "title": "NBA 2K27",
-   "date": "2026-09-04",
-   "url": "https://www.metacritic.com/game/nba-2k27/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1787423840.jpg",
-   "plats": [
-    {
-     "n": "PC",
-     "s": 73,
-     "c": 11,
-     "d": null
-    },
-    {
-     "n": "PS5",
-     "s": 77,
-     "c": 26,
-     "d": null
-    },
-    {
-     "n": "NS2",
-     "s": null,
-     "c": 0,
-     "d": null
-    },
-    {
-     "n": "XSX",
-     "s": 81,
-     "c": 6,
-     "d": null
-    }
-   ],
-   "dev": "Visual Concepts",
-   "pub": "2K Games",
-   "meta": 78,
-   "meta_count": 35,
-   "user": 3.8,
-   "user_count": 9,
-   "scores": {
-    "GameSpot": 70
    }
   },
   {
@@ -1055,118 +969,112 @@
    "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1787246452.jpg"
   },
   {
-   "slug": "stickility",
-   "title": "Stickility",
-   "date": "2026-10-05",
-   "url": "https://www.metacritic.com/game/stickility/",
+   "slug": "pinball-chemist",
+   "title": "Pinball Chemist",
+   "date": "2026-10-06",
+   "url": "https://www.metacritic.com/game/pinball-chemist/",
    "meta": null,
    "plats": [
     {
      "n": "PC",
      "s": null,
      "c": 0,
-     "d": "2026-10-05"
+     "d": "2026-10-06"
     }
    ],
-   "dev": "Reglan",
-   "pub": "Reglan",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1081580-52.jpg"
+   "dev": "NotebookGames",
+   "pub": "NotebookGames",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1261489-52.jpg"
   },
   {
-   "slug": "uppercute",
-   "title": "Uppercute",
-   "date": "2026-10-05",
-   "url": "https://www.metacritic.com/game/uppercute/",
+   "slug": "teryon-crisis",
+   "title": "Teryon Crisis",
+   "date": "2026-10-06",
+   "url": "https://www.metacritic.com/game/teryon-crisis/",
    "meta": null,
    "plats": [
     {
      "n": "PC",
      "s": null,
      "c": 0,
-     "d": "2026-10-05"
+     "d": "2026-10-06"
     }
    ],
-   "dev": "PrettyScar",
-   "pub": "PrettyScar",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1054294-52.jpg"
+   "dev": "Dimetris Game",
+   "pub": "Dimetris Game",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1286654-52.jpg"
   },
   {
-   "slug": "remembrance",
-   "title": "Remembrance",
-   "date": "2026-10-05",
-   "url": "https://www.metacritic.com/game/remembrance/",
+   "slug": "tower-of-fangs-summoned-to-another-world-i-was",
+   "title": "Tower of Fangs: Summoned to Another World, I Was Locked in a Tower with 299 Strikers, Only the Last Egoist Goes Home",
+   "date": "2026-10-06",
+   "url": "https://www.metacritic.com/game/tower-of-fangs-summoned-to-another-world-i-was/",
    "meta": null,
    "plats": [
     {
      "n": "PC",
      "s": null,
      "c": 0,
-     "d": "2026-10-05"
-    },
-    {
-     "n": "Meta Quest",
-     "s": null,
-     "c": 0,
-     "d": "2026-07-29"
+     "d": "2026-10-06"
     }
    ],
-   "dev": "NIEKO",
-   "pub": "NIEKO",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1088940-52.jpg"
+   "dev": "ISEKAI Games",
+   "pub": "ISEKAI Games",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1287971-52.jpg"
   },
   {
-   "slug": "aion-2",
-   "title": "AION 2",
-   "date": "2026-10-05",
-   "url": "https://www.metacritic.com/game/aion-2/",
+   "slug": "gemloop",
+   "title": "GemLoop",
+   "date": "2026-10-06",
+   "url": "https://www.metacritic.com/game/gemloop/",
    "meta": null,
    "plats": [
     {
      "n": "PC",
      "s": null,
      "c": 0,
-     "d": "2026-10-05"
+     "d": "2026-10-06"
     }
    ],
-   "dev": "NC",
-   "pub": "NC",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1129103-59.jpg"
+   "dev": "growth studio",
+   "pub": "growth studio",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1288486-52.jpg"
   },
   {
-   "slug": "chill-cat",
-   "title": "Chill Cat",
-   "date": "2026-10-05",
-   "url": "https://www.metacritic.com/game/chill-cat/",
+   "slug": "gravebound-rising",
+   "title": "Gravebound Rising",
+   "date": "2026-10-06",
+   "url": "https://www.metacritic.com/game/gravebound-rising/",
    "meta": null,
    "plats": [
     {
      "n": "PC",
      "s": null,
      "c": 0,
-     "d": "2026-10-05"
+     "d": "2026-10-06"
     }
    ],
-   "dev": "OFFMOON Inc.",
-   "pub": "OFFMOON Inc.",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1254925-52.jpg"
+   "dev": "Kolbee Lee",
+   "pub": "Kolbee Lee",
+   "img": ""
   },
   {
-   "slug": "fafo-executive-order-simulator",
-   "title": "FAFO Executive Order Simulator",
-   "date": "2026-10-05",
-   "url": "https://www.metacritic.com/game/fafo-executive-order-simulator/",
+   "slug": "flappy-wings-multiplayer",
+   "title": "Flappy Wings Multiplayer",
+   "date": "2026-10-06",
+   "url": "https://www.metacritic.com/game/flappy-wings-multiplayer/",
    "meta": null,
    "plats": [
     {
      "n": "PC",
      "s": null,
      "c": 0,
-     "d": "2026-10-05"
+     "d": "2026-10-06"
     }
    ],
-   "dev": "1981 Games",
-   "pub": "1981 Games",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1167473-52.jpg"
+   "dev": "Rokito Games",
+   "pub": "Rokito Games",
+   "img": ""
   }
  ],
  "annual": [
@@ -1587,7 +1495,7 @@
  "sig": {
   "the-witcher-3-wild-hunt-remastered": [
    93,
-   11,
+   12,
    8.5
   ],
   "trails-in-the-sky-2nd-chapter": [
@@ -1619,11 +1527,6 @@
    87,
    11,
    8.5
-  ],
-  "onimusha-way-of-the-sword": [
-   85,
-   106,
-   8.6
   ],
   "transport-fever-3": [
    84,
@@ -1659,11 +1562,6 @@
    78,
    15,
    7.2
-  ],
-  "nba-2k27": [
-   78,
-   35,
-   3.8
   ],
   "endless-legend-2": [
    77,
@@ -1749,11 +1647,6 @@
    61,
    7,
    null
-  ],
-  "retrospace": [
-   null,
-   3,
-   9.8
   ]
  }
 }
