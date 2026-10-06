@@ -1,10 +1,10 @@
 {
- "updated": "2026-10-05 09:05",
+ "updated": "2026-10-06 09:00",
  "window": [
-  "2026-09-05",
-  "2026-10-05"
+  "2026-09-06",
+  "2026-10-06"
  ],
- "total": 31,
+ "total": 35,
  "released": [
   {
    "slug": "control-resonant",
@@ -35,7 +35,7 @@
    "dev": "Remedy Entertainment",
    "pub": "Remedy Entertainment",
    "meta": 83,
-   "meta_count": 79,
+   "meta_count": 81,
    "user": 8.9,
    "user_count": 156,
    "scores": {
@@ -103,8 +103,8 @@
    "dev": "Nintendo",
    "pub": "Nintendo",
    "meta": 89,
-   "meta_count": 86,
-   "user": 8.8,
+   "meta_count": 92,
+   "user": 8.7,
    "user_count": 213,
    "scores": {
     "IGN": 100,
@@ -154,9 +154,9 @@
    "dev": "Kyle Thompson",
    "pub": "Kyle Thompson",
    "meta": 89,
-   "meta_count": 10,
-   "user": 8.7,
-   "user_count": 10,
+   "meta_count": 11,
+   "user": 8.6,
+   "user_count": 15,
    "scores": {}
   },
   {
@@ -188,7 +188,7 @@
    "dev": "Bandai Namco Aces Inc.",
    "pub": "Bandai Namco Games",
    "meta": 88,
-   "meta_count": 62,
+   "meta_count": 63,
    "user": 8.6,
    "user_count": 0,
    "scores": {
@@ -231,6 +231,34 @@
    "pub": "CD Projekt Red Studio",
    "meta": 93,
    "meta_count": 12,
+   "user": 8.5,
+   "user_count": 60,
+   "scores": {}
+  },
+  {
+   "slug": "gears-of-war-e-day",
+   "title": "Gears of War: E-Day",
+   "date": "2026-10-06",
+   "url": "https://www.metacritic.com/game/gears-of-war-e-day/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1788246859.jpg",
+   "plats": [
+    {
+     "n": "XSX",
+     "s": 87,
+     "c": 53,
+     "d": "2026-10-06"
+    },
+    {
+     "n": "PC",
+     "s": 84,
+     "c": 27,
+     "d": "2026-10-06"
+    }
+   ],
+   "dev": "The Coalition",
+   "pub": "Xbox Game Studios",
+   "meta": 87,
+   "meta_count": 64,
    "user": 8.5,
    "user_count": 0,
    "scores": {}
@@ -276,9 +304,9 @@
    "dev": "Mojang AB",
    "pub": "Xbox Game Studios",
    "meta": 75,
-   "meta_count": 31,
-   "user": 7.9,
-   "user_count": 0,
+   "meta_count": 32,
+   "user": 8,
+   "user_count": 15,
    "scores": {
     "GameSpot": 70,
     "IGN": 60
@@ -307,9 +335,9 @@
    "dev": "Screen Burn",
    "pub": "Konami",
    "meta": 80,
-   "meta_count": 89,
-   "user": 7.2,
-   "user_count": 83,
+   "meta_count": 92,
+   "user": 7.1,
+   "user_count": 126,
    "scores": {
     "IGN": 80,
     "Push Square": 70
@@ -374,9 +402,9 @@
    "dev": "Insomniac Games",
    "pub": "Sony Interactive Entertainment",
    "meta": 75,
-   "meta_count": 148,
+   "meta_count": 149,
    "user": 6.7,
-   "user_count": 2224,
+   "user_count": 2332,
    "scores": {
     "Push Square": 80,
     "GameSpot": 60,
@@ -436,14 +464,92 @@
    ],
    "dev": "EA Canada",
    "pub": "Electronic Arts",
-   "meta": 76,
-   "meta_count": 52,
-   "user": 2.5,
+   "meta": 75,
+   "meta_count": 55,
+   "user": 2.4,
    "user_count": 32,
    "scores": {}
+  },
+  {
+   "slug": "star-wars-galactic-racer",
+   "title": "Star Wars: Galactic Racer",
+   "date": "2026-10-06",
+   "url": "https://www.metacritic.com/game/star-wars-galactic-racer/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1782239544.jpg",
+   "plats": [
+    {
+     "n": "PC",
+     "s": 84,
+     "c": 16,
+     "d": "2026-10-06"
+    },
+    {
+     "n": "XSX",
+     "s": 86,
+     "c": 12,
+     "d": "2026-10-06"
+    },
+    {
+     "n": "PS5",
+     "s": 88,
+     "c": 60,
+     "d": "2026-10-06"
+    }
+   ],
+   "dev": "Fuse Games",
+   "pub": "Secret Mode",
+   "meta": 88,
+   "meta_count": 64,
+   "user": null,
+   "user_count": 0,
+   "scores": {
+    "Eurogamer": 100,
+    "GameSpot": 90,
+    "Push Square": 90
+   }
   }
  ],
  "watch": [
+  {
+   "slug": "dynasty-warriors-3-complete-edition-remastered",
+   "title": "Dynasty Warriors 3 Complete Edition Remastered",
+   "date": "2026-10-01",
+   "url": "https://www.metacritic.com/game/dynasty-warriors-3-complete-edition-remastered/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1790740776.jpg",
+   "plats": [
+    {
+     "n": "PS5",
+     "s": 72,
+     "c": 10,
+     "d": "2026-10-01"
+    },
+    {
+     "n": "NS2",
+     "s": 79,
+     "c": 8,
+     "d": "2026-10-01"
+    },
+    {
+     "n": "PC",
+     "s": 80,
+     "c": 8,
+     "d": "2026-10-01"
+    },
+    {
+     "n": "XSX",
+     "s": null,
+     "c": 2,
+     "d": "2026-10-01"
+    }
+   ],
+   "dev": "Omega Force",
+   "pub": "Koei Tecmo Games",
+   "meta": 79,
+   "meta_count": 8,
+   "user": 8.9,
+   "user_count": 7,
+   "scores": {}
+  },
   {
    "slug": "welcome-to-elderfield",
    "title": "Welcome to Elderfield",
@@ -463,7 +569,7 @@
    "meta": 87,
    "meta_count": 11,
    "user": 8.5,
-   "user_count": 8,
+   "user_count": 7,
    "scores": {}
   },
   {
@@ -535,7 +641,7 @@
    "dev": "Section 9 Interactive",
    "pub": "Epic Games",
    "meta": 76,
-   "meta_count": 15,
+   "meta_count": 16,
    "user": 8,
    "user_count": 0,
    "scores": {}
@@ -571,7 +677,7 @@
    "meta": 65,
    "meta_count": 14,
    "user": 7.7,
-   "user_count": 12,
+   "user_count": 11,
    "scores": {}
   },
   {
@@ -617,7 +723,7 @@
    "meta": 89,
    "meta_count": 25,
    "user": 7.5,
-   "user_count": 21,
+   "user_count": 22,
    "scores": {}
   },
   {
@@ -677,7 +783,7 @@
    "dev": "Blizzard Entertainment",
    "pub": "Blizzard Entertainment",
    "meta": 83,
-   "meta_count": 10,
+   "meta_count": 11,
    "user": 6.6,
    "user_count": 4,
    "scores": {}
@@ -710,8 +816,8 @@
    ],
    "dev": "Wright Flyer Studios",
    "pub": "Wright Flyer Studios",
-   "meta": 73,
-   "meta_count": 15,
+   "meta": 75,
+   "meta_count": 16,
    "user": 5,
    "user_count": 2,
    "scores": {}
@@ -772,9 +878,9 @@
    ],
    "dev": "Urban Games",
    "pub": "Paradox Interactive",
-   "meta": 84,
-   "meta_count": 12,
-   "user": 2.3,
+   "meta": 83,
+   "meta_count": 13,
+   "user": 2.8,
    "user_count": 3,
    "scores": {}
   },
@@ -815,7 +921,7 @@
    "meta": 81,
    "meta_count": 15,
    "user": null,
-   "user_count": 0,
+   "user_count": 1,
    "scores": {}
   },
   {
@@ -867,58 +973,34 @@
  ],
  "upcoming": [
   {
-   "slug": "star-wars-galactic-racer",
-   "title": "Star Wars: Galactic Racer",
-   "date": "2026-10-06",
-   "url": "https://www.metacritic.com/game/star-wars-galactic-racer/",
-   "meta": 88,
+   "slug": "kingdom-hearts-collection-i-iii",
+   "title": "Kingdom Hearts Collection I ~ III",
+   "date": "2026-10-08",
+   "url": "https://www.metacritic.com/game/kingdom-hearts-collection-i-iii/",
+   "meta": 89,
    "plats": [
     {
-     "n": "PC",
-     "s": 84,
-     "c": 16,
-     "d": "2026-10-06"
-    },
-    {
-     "n": "XSX",
-     "s": 86,
-     "c": 12,
-     "d": "2026-10-06"
+     "n": "NS2",
+     "s": 89,
+     "c": 13,
+     "d": "2026-10-08"
     },
     {
      "n": "PS5",
-     "s": 88,
-     "c": 60,
-     "d": "2026-10-06"
-    }
-   ],
-   "dev": "Fuse Games",
-   "pub": "Secret Mode",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1782239544.jpg"
-  },
-  {
-   "slug": "gears-of-war-e-day",
-   "title": "Gears of War: E-Day",
-   "date": "2026-10-06",
-   "url": "https://www.metacritic.com/game/gears-of-war-e-day/",
-   "meta": 87,
-   "plats": [
-    {
-     "n": "XSX",
-     "s": 87,
-     "c": 53,
+     "s": 79,
+     "c": 6,
      "d": "2026-10-06"
     },
     {
-     "n": "PC",
-     "s": 84,
-     "c": 27,
-     "d": "2026-10-06"
+     "n": "XSX",
+     "s": null,
+     "c": 0,
+     "d": "2026-10-08"
     }
    ],
-   "dev": "The Coalition",
-   "pub": "Xbox Game Studios",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1788246859.jpg"
+   "dev": "Square Enix",
+   "pub": "Square Enix",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1791168642.jpg"
   },
   {
    "slug": "enshrouded",
@@ -969,112 +1051,130 @@
    "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1787246452.jpg"
   },
   {
-   "slug": "pinball-chemist",
-   "title": "Pinball Chemist",
-   "date": "2026-10-06",
-   "url": "https://www.metacritic.com/game/pinball-chemist/",
+   "slug": "chessfolk",
+   "title": "Chess Folk",
+   "date": "2026-10-07",
+   "url": "https://www.metacritic.com/game/chessfolk/",
    "meta": null,
    "plats": [
     {
      "n": "PC",
      "s": null,
      "c": 0,
-     "d": "2026-10-06"
+     "d": "2026-10-07"
     }
    ],
-   "dev": "NotebookGames",
-   "pub": "NotebookGames",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1261489-52.jpg"
+   "dev": "Space 64",
+   "pub": "Space 64",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1282911-52.jpg"
   },
   {
-   "slug": "teryon-crisis",
-   "title": "Teryon Crisis",
-   "date": "2026-10-06",
-   "url": "https://www.metacritic.com/game/teryon-crisis/",
+   "slug": "royal-cartographer-restore-the-map",
+   "title": "Royal Cartographer: Restore the Map",
+   "date": "2026-10-07",
+   "url": "https://www.metacritic.com/game/royal-cartographer-restore-the-map/",
    "meta": null,
    "plats": [
     {
      "n": "PC",
      "s": null,
      "c": 0,
-     "d": "2026-10-06"
+     "d": "2026-10-07"
     }
    ],
-   "dev": "Dimetris Game",
-   "pub": "Dimetris Game",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1286654-52.jpg"
+   "dev": "_Taralis",
+   "pub": "_Taralis",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1283279-52.jpg"
   },
   {
-   "slug": "tower-of-fangs-summoned-to-another-world-i-was",
-   "title": "Tower of Fangs: Summoned to Another World, I Was Locked in a Tower with 299 Strikers, Only the Last Egoist Goes Home",
-   "date": "2026-10-06",
-   "url": "https://www.metacritic.com/game/tower-of-fangs-summoned-to-another-world-i-was/",
+   "slug": "calcio-totale",
+   "title": "Calcio Totale",
+   "date": "2026-10-07",
+   "url": "https://www.metacritic.com/game/calcio-totale/",
    "meta": null,
    "plats": [
     {
      "n": "PC",
      "s": null,
      "c": 0,
-     "d": "2026-10-06"
+     "d": "2026-10-07"
     }
    ],
-   "dev": "ISEKAI Games",
-   "pub": "ISEKAI Games",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1287971-52.jpg"
+   "dev": "Eleora",
+   "pub": "Eleora",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1284732-52.jpg"
   },
   {
-   "slug": "gemloop",
-   "title": "GemLoop",
-   "date": "2026-10-06",
-   "url": "https://www.metacritic.com/game/gemloop/",
+   "slug": "maybe-hero",
+   "title": "Maybe Hero",
+   "date": "2026-10-07",
+   "url": "https://www.metacritic.com/game/maybe-hero/",
    "meta": null,
    "plats": [
     {
      "n": "PC",
      "s": null,
      "c": 0,
-     "d": "2026-10-06"
+     "d": "2026-10-07"
     }
    ],
-   "dev": "growth studio",
-   "pub": "growth studio",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1288486-52.jpg"
+   "dev": "Stormy Games",
+   "pub": "Stormy Games",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1289452-52.jpg"
   },
   {
-   "slug": "gravebound-rising",
-   "title": "Gravebound Rising",
-   "date": "2026-10-06",
-   "url": "https://www.metacritic.com/game/gravebound-rising/",
+   "slug": "scavengers-march",
+   "title": "Scavenger's March",
+   "date": "2026-10-07",
+   "url": "https://www.metacritic.com/game/scavengers-march/",
    "meta": null,
    "plats": [
     {
      "n": "PC",
      "s": null,
      "c": 0,
-     "d": "2026-10-06"
+     "d": "2026-10-07"
     }
    ],
-   "dev": "Kolbee Lee",
-   "pub": "Kolbee Lee",
+   "dev": "Lunder IT",
+   "pub": "Lunder IT",
    "img": ""
   },
   {
-   "slug": "flappy-wings-multiplayer",
-   "title": "Flappy Wings Multiplayer",
-   "date": "2026-10-06",
-   "url": "https://www.metacritic.com/game/flappy-wings-multiplayer/",
+   "slug": "hauberk-2026",
+   "title": "Hauberk",
+   "date": "2026-10-07",
+   "url": "https://www.metacritic.com/game/hauberk-2026/",
    "meta": null,
    "plats": [
     {
      "n": "PC",
      "s": null,
      "c": 0,
-     "d": "2026-10-06"
+     "d": "2026-10-07"
     }
    ],
-   "dev": "Rokito Games",
-   "pub": "Rokito Games",
+   "dev": "BAI XIAN LE",
+   "pub": "BAI XIAN LE",
    "img": ""
+  },
+  {
+   "slug": "liestar-resistar",
+   "title": "LieStar ResiStar",
+   "date": "2026-10-07",
+   "url": "https://www.metacritic.com/game/liestar-resistar/",
+   "meta": null,
+   "plats": [
+    {
+     "n": "PC",
+     "s": null,
+     "c": 0,
+     "d": "2026-10-07"
+    }
+   ],
+   "dev": "CarryMeStudio",
+   "pub": "CarryMeStudio",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1288377-52.jpg"
   }
  ],
  "annual": [
@@ -1112,7 +1212,7 @@
      "meta": 90,
      "meta_count": 83,
      "user": 8.2,
-     "user_count": 217,
+     "user_count": 219,
      "scores": {}
     },
     {
@@ -1164,7 +1264,7 @@
      "meta": 90,
      "meta_count": 72,
      "user": 8.1,
-     "user_count": 94,
+     "user_count": 93,
      "scores": {}
     },
     {
@@ -1204,7 +1304,7 @@
      "meta": 89,
      "meta_count": 140,
      "user": 9.3,
-     "user_count": 4052,
+     "user_count": 4058,
      "scores": {}
     },
     {
@@ -1224,8 +1324,8 @@
      "dev": "Nintendo",
      "pub": "Nintendo",
      "meta": 89,
-     "meta_count": 86,
-     "user": 8.8,
+     "meta_count": 92,
+     "user": 8.7,
      "user_count": 213,
      "scores": {}
     },
@@ -1266,7 +1366,7 @@
      "meta": 89,
      "meta_count": 58,
      "user": 8.6,
-     "user_count": 39,
+     "user_count": 40,
      "scores": {}
     },
     {
@@ -1288,7 +1388,7 @@
      "meta": 89,
      "meta_count": 121,
      "user": 8.6,
-     "user_count": 594,
+     "user_count": 571,
      "scores": {}
     },
     {
@@ -1328,7 +1428,7 @@
      "meta": 88,
      "meta_count": 58,
      "user": 8.2,
-     "user_count": 83,
+     "user_count": 85,
      "scores": {}
     },
     {
@@ -1368,7 +1468,7 @@
      "meta": 85,
      "meta_count": 109,
      "user": 8.7,
-     "user_count": 470,
+     "user_count": 472,
      "scores": {}
     },
     {
@@ -1408,7 +1508,7 @@
      "meta": 85,
      "meta_count": 106,
      "user": 8.6,
-     "user_count": 162,
+     "user_count": 180,
      "scores": {}
     },
     {
@@ -1440,7 +1540,7 @@
      "dev": "Remedy Entertainment",
      "pub": "Remedy Entertainment",
      "meta": 83,
-     "meta_count": 79,
+     "meta_count": 81,
      "user": 8.9,
      "user_count": 156,
      "scores": {}
@@ -1464,7 +1564,7 @@
      "meta": 82,
      "meta_count": 123,
      "user": 9.3,
-     "user_count": 793,
+     "user_count": 762,
      "scores": {}
     },
     {
@@ -1503,45 +1603,60 @@
    22,
    8.8
   ],
-  "well-dweller": [
-   89,
-   10,
-   8.7
-  ],
   "valheim": [
    89,
    25,
    7.5
   ],
+  "well-dweller": [
+   89,
+   11,
+   8.6
+  ],
   "fire-emblem-fortunes-weave": [
    89,
-   86,
-   8.8
+   92,
+   8.7
+  ],
+  "star-wars-galactic-racer": [
+   88,
+   64,
+   null
   ],
   "ace-combat-8-wings-of-theve": [
    88,
-   62,
+   63,
    8.6
+  ],
+  "gears-of-war-e-day": [
+   87,
+   64,
+   8.5
   ],
   "welcome-to-elderfield": [
    87,
    11,
    8.5
   ],
-  "transport-fever-3": [
-   84,
-   12,
-   2.3
-  ],
-  "diablo-iv-age-of-hatred-collection": [
-   83,
-   10,
-   6.6
+  "dressmaker": [
+   85,
+   7,
+   null
   ],
   "control-resonant": [
    83,
-   79,
+   81,
    8.9
+  ],
+  "diablo-iv-age-of-hatred-collection": [
+   83,
+   11,
+   6.6
+  ],
+  "transport-fever-3": [
+   83,
+   13,
+   2.8
   ],
   "toem-2": [
    81,
@@ -1550,8 +1665,8 @@
   ],
   "silent-hill-townfall": [
    80,
-   89,
-   7.2
+   92,
+   7.1
   ],
   "dynasty-warriors-3-complete-edition-remastered": [
    79,
@@ -1575,33 +1690,38 @@
   ],
   "end-of-abyss": [
    76,
-   15,
+   16,
    8
-  ],
-  "ea-sports-fc-27": [
-   76,
-   52,
-   2.5
-  ],
-  "minecraft-dungeons-ii": [
-   75,
-   31,
-   7.9
   ],
   "marvels-wolverine": [
    75,
-   148,
+   149,
    6.7
+  ],
+  "minecraft-dungeons-ii": [
+   75,
+   32,
+   8
+  ],
+  "ea-sports-fc-27": [
+   75,
+   55,
+   2.4
+  ],
+  "another-eden-begins": [
+   75,
+   16,
+   5
+  ],
+  "nascar-26": [
+   74,
+   7,
+   null
   ],
   "hot-wheels-infinite-rush": [
    73,
    35,
    6.9
-  ],
-  "another-eden-begins": [
-   73,
-   15,
-   5
   ],
   "graveyard-keeper-2": [
    72,
@@ -1613,11 +1733,6 @@
    7,
    null
   ],
-  "garfield-escape-from-monday": [
-   68,
-   7,
-   8.1
-  ],
   "dragon-quest-heroes-tornekos-mystery-dungeon": [
    68,
    13,
@@ -1627,6 +1742,11 @@
    68,
    14,
    3
+  ],
+  "garfield-escape-from-monday": [
+   67,
+   8,
+   8.1
   ],
   "halloween-the-game": [
    65,
