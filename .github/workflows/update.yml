@@ -42,23 +42,46 @@ jobs:
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
         run: |
           python - <<'PYEOF'
-          import json, os, urllib.parse, urllib.request
+          import html, json, os, urllib.parse, urllib.request
           old = json.load(open('/tmp/games-before.json', encoding='utf-8'))
           new = json.load(open('data/games.json', encoding='utf-8'))
           before = {g.get('slug'): g for g in old.get('released', [])}
-          changed = []
-          for g in new.get('released', []):
-              if g.get('slug') not in before or before[g.get('slug')] != g:
-                  changed.append(g)
+          changed = [g for g in new.get('released', []) if g.get('slug') not in before or before[g.get('slug')] != g]
           token, chat = os.environ.get('TELEGRAM_BOT_TOKEN'), os.environ.get('TELEGRAM_CHAT_ID')
           if not token or not chat:
               raise SystemExit('Telegram secrets 未配置')
+
+          def call(method, params):
+              data = urllib.parse.urlencode(params).encode()
+              req = urllib.request.Request('https://api.telegram.org/bot%s/%s' % (token, method), data=data, method='POST')
+              with urllib.request.urlopen(req, timeout=30) as r:
+                  return json.load(r)
+
           for g in changed:
-              scores = g.get('scores') or {}
-              text = '游戏评分更新\\n%s\\n发售日：%s\\n玩家：%s · Metascore：%s\\n%s' % (g.get('title',''), g.get('date',''), g.get('user','—'), g.get('meta','—'), g.get('url',''))
-              data = urllib.parse.urlencode({'chat_id': chat, 'text': text[:3900], 'disable_web_page_preview': 'true'}).encode()
-              req = urllib.request.Request('https://api.telegram.org/bot%s/sendMessage' % token, data=data, method='POST')
-              with urllib.request.urlopen(req, timeout=30) as r: json.load(r)
+              title = html.escape(str(g.get('title') or '未命名游戏'))
+              date = html.escape(str(g.get('date') or '未知'))
+              meta = html.escape(str(g.get('meta') if g.get('meta') is not None else '暂无'))
+              user = html.escape(str(g.get('user') if g.get('user') is not None else '暂无'))
+              count = html.escape(str(g.get('user_count') or 0))
+              url = html.escape(str(g.get('url') or ''), quote=True)
+              plats = '、'.join(html.escape(str(p.get('n'))) for p in (g.get('plats') or []))
+              caption = (
+                  '<b>🎮 游戏评分更新</b>\\n\\n'
+                  '<b>%s</b>\\n'
+                  '📅 发售日：%s\\n'
+                  '📰 媒体评分：<b>%s</b>\\n'
+                  '👤 玩家评分：<b>%s</b>（%s 人）\\n'
+                  '🕹 平台：%s\\n\\n'
+                  '<a href="%s">查看 Metacritic 页面</a>'
+              ) % (title, date, meta, user, count, plats or '未知', url)
+              photo = g.get('img') or ''
+              if photo:
+                  try:
+                      call('sendPhoto', {'chat_id': chat, 'photo': photo, 'caption': caption[:1024], 'parse_mode': 'HTML'})
+                      continue
+                  except Exception as e:
+                      print('封面发送失败，改发文字：', e)
+              call('sendMessage', {'chat_id': chat, 'text': caption[:3900], 'parse_mode': 'HTML', 'disable_web_page_preview': 'true'})
           print('Telegram 已推送 %d 款符合标准的已发售更新' % len(changed))
           PYEOF
 
