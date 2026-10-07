@@ -66,12 +66,12 @@ jobs:
               url = html.escape(str(g.get('url') or ''), quote=True)
               plats = '、'.join(html.escape(str(p.get('n'))) for p in (g.get('plats') or []))
               caption = (
-                  '<b>🎮 游戏评分更新</b>\\n\\n'
-                  '<b>%s</b>\\n'
-                  '📅 发售日：%s\\n'
-                  '📰 媒体评分：<b>%s</b>\\n'
-                  '👤 玩家评分：<b>%s</b>（%s 人）\\n'
-                  '🕹 平台：%s\\n\\n'
+                  '<b>🎮 游戏评分更新</b>\n\n'
+                  '<b>%s</b>\n'
+                  '📅 发售日：%s\n'
+                  '📰 媒体评分：<b>%s</b>\n'
+                  '👤 玩家评分：<b>%s</b>（%s 人）\n'
+                  '🕹 平台：%s\n\n'
                   '<a href="%s">查看 Metacritic 页面</a>'
               ) % (title, date, meta, user, count, plats or '未知', url)
               photo = g.get('img') or ''
