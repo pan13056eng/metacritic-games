@@ -40,6 +40,7 @@ jobs:
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
+          TEST_TELEGRAM: ${{ startsWith(github.event.head_commit.message, 'test telegram game') }}
         run: |
           python - <<'PYEOF'
           import html, json, os, urllib.parse, urllib.request
@@ -47,6 +48,9 @@ jobs:
           new = json.load(open('data/games.json', encoding='utf-8'))
           before = {g.get('slug'): g for g in old.get('released', [])}
           changed = [g for g in new.get('released', []) if g.get('slug') not in before or before[g.get('slug')] != g]
+          test = os.environ.get('TEST_TELEGRAM', '').lower() == 'true'
+          if not changed and test:
+              changed = new.get('released', [])[:1]
           token, chat = os.environ.get('TELEGRAM_BOT_TOKEN'), os.environ.get('TELEGRAM_CHAT_ID')
           if not token or not chat:
               raise SystemExit('Telegram secrets 未配置')
