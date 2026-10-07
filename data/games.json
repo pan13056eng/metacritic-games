@@ -1,10 +1,10 @@
 {
- "updated": "2026-10-06 09:00",
+ "updated": "2026-10-07 00:43",
  "window": [
-  "2026-09-06",
-  "2026-10-06"
+  "2026-09-07",
+  "2026-10-07"
  ],
- "total": 35,
+ "total": 36,
  "released": [
   {
    "slug": "control-resonant",
@@ -35,7 +35,7 @@
    "dev": "Remedy Entertainment",
    "pub": "Remedy Entertainment",
    "meta": 83,
-   "meta_count": 81,
+   "meta_count": 82,
    "user": 8.9,
    "user_count": 156,
    "scores": {
@@ -78,7 +78,7 @@
    "dev": "Falcom",
    "pub": "GungHo",
    "meta": 90,
-   "meta_count": 22,
+   "meta_count": 23,
    "user": 8.8,
    "user_count": 35,
    "scores": {
@@ -103,7 +103,7 @@
    "dev": "Nintendo",
    "pub": "Nintendo",
    "meta": 89,
-   "meta_count": 92,
+   "meta_count": 94,
    "user": 8.7,
    "user_count": 213,
    "scores": {
@@ -160,40 +160,32 @@
    "scores": {}
   },
   {
-   "slug": "ace-combat-8-wings-of-theve",
-   "title": "Ace Combat 8: Wings of Theve",
-   "date": "2026-10-02",
-   "url": "https://www.metacritic.com/game/ace-combat-8-wings-of-theve/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1788987138.jpg",
+   "slug": "gears-of-war-e-day",
+   "title": "Gears of War: E-Day",
+   "date": "2026-10-06",
+   "url": "https://www.metacritic.com/game/gears-of-war-e-day/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1788246859.jpg",
    "plats": [
     {
-     "n": "PC",
-     "s": 86,
-     "c": 28,
-     "d": "2026-10-02"
-    },
-    {
      "n": "XSX",
-     "s": 90,
-     "c": 4,
-     "d": "2026-10-02"
+     "s": 87,
+     "c": 53,
+     "d": "2026-10-06"
     },
     {
-     "n": "PS5",
-     "s": 87,
-     "c": 55,
-     "d": "2026-10-02"
+     "n": "PC",
+     "s": 84,
+     "c": 27,
+     "d": "2026-10-06"
     }
    ],
-   "dev": "Bandai Namco Aces Inc.",
-   "pub": "Bandai Namco Games",
-   "meta": 88,
-   "meta_count": 63,
+   "dev": "The Coalition",
+   "pub": "Xbox Game Studios",
+   "meta": 87,
+   "meta_count": 68,
    "user": 8.6,
    "user_count": 0,
-   "scores": {
-    "Push Square": 80
-   }
+   "scores": {}
   },
   {
    "slug": "the-witcher-3-wild-hunt-remastered",
@@ -236,32 +228,40 @@
    "scores": {}
   },
   {
-   "slug": "gears-of-war-e-day",
-   "title": "Gears of War: E-Day",
-   "date": "2026-10-06",
-   "url": "https://www.metacritic.com/game/gears-of-war-e-day/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1788246859.jpg",
+   "slug": "ace-combat-8-wings-of-theve",
+   "title": "Ace Combat 8: Wings of Theve",
+   "date": "2026-10-02",
+   "url": "https://www.metacritic.com/game/ace-combat-8-wings-of-theve/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1788987138.jpg",
    "plats": [
     {
-     "n": "XSX",
-     "s": 87,
-     "c": 53,
-     "d": "2026-10-06"
+     "n": "PC",
+     "s": 86,
+     "c": 28,
+     "d": "2026-10-02"
     },
     {
-     "n": "PC",
-     "s": 84,
-     "c": 27,
-     "d": "2026-10-06"
+     "n": "XSX",
+     "s": 90,
+     "c": 4,
+     "d": "2026-10-02"
+    },
+    {
+     "n": "PS5",
+     "s": 87,
+     "c": 55,
+     "d": "2026-10-02"
     }
    ],
-   "dev": "The Coalition",
-   "pub": "Xbox Game Studios",
-   "meta": 87,
+   "dev": "Bandai Namco Aces Inc.",
+   "pub": "Bandai Namco Games",
+   "meta": 88,
    "meta_count": 64,
    "user": 8.5,
    "user_count": 0,
-   "scores": {}
+   "scores": {
+    "Push Square": 80
+   }
   },
   {
    "slug": "minecraft-dungeons-ii",
@@ -304,8 +304,8 @@
    "dev": "Mojang AB",
    "pub": "Xbox Game Studios",
    "meta": 75,
-   "meta_count": 32,
-   "user": 8,
+   "meta_count": 34,
+   "user": 7.9,
    "user_count": 15,
    "scores": {
     "GameSpot": 70,
@@ -335,7 +335,7 @@
    "dev": "Screen Burn",
    "pub": "Konami",
    "meta": 80,
-   "meta_count": 92,
+   "meta_count": 94,
    "user": 7.1,
    "user_count": 126,
    "scores": {
@@ -465,8 +465,8 @@
    "dev": "EA Canada",
    "pub": "Electronic Arts",
    "meta": 75,
-   "meta_count": 55,
-   "user": 2.4,
+   "meta_count": 58,
+   "user": 2.3,
    "user_count": 32,
    "scores": {}
   },
@@ -499,7 +499,7 @@
    "dev": "Fuse Games",
    "pub": "Secret Mode",
    "meta": 88,
-   "meta_count": 64,
+   "meta_count": 67,
    "user": null,
    "user_count": 0,
    "scores": {
@@ -567,8 +567,8 @@
    "dev": "Chris Cote",
    "pub": "Kwalee Ltd",
    "meta": 87,
-   "meta_count": 11,
-   "user": 8.5,
+   "meta_count": 12,
+   "user": 8.6,
    "user_count": 7,
    "scores": {}
   },
@@ -610,6 +610,46 @@
    "meta_count": 10,
    "user": 8.3,
    "user_count": 2,
+   "scores": {}
+  },
+  {
+   "slug": "runescape-dragonwilds",
+   "title": "RuneScape: Dragonwilds",
+   "date": "2026-09-15",
+   "url": "https://www.metacritic.com/game/runescape-dragonwilds/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1781630650.jpg",
+   "plats": [
+    {
+     "n": "PC",
+     "s": 81,
+     "c": 8,
+     "d": "2026-09-15"
+    },
+    {
+     "n": "PS5",
+     "s": 73,
+     "c": 4,
+     "d": "2026-09-15"
+    },
+    {
+     "n": "XSX",
+     "s": null,
+     "c": 1,
+     "d": "2026-09-15"
+    },
+    {
+     "n": "NS2",
+     "s": 78,
+     "c": 4,
+     "d": "2026-09-15"
+    }
+   ],
+   "dev": "Jagex",
+   "pub": "Jagex",
+   "meta": 81,
+   "meta_count": 8,
+   "user": 8,
+   "user_count": 9,
    "scores": {}
   },
   {
@@ -676,7 +716,7 @@
    "pub": "Gun Interactive",
    "meta": 65,
    "meta_count": 14,
-   "user": 7.7,
+   "user": 7.6,
    "user_count": 11,
    "scores": {}
   },
@@ -783,7 +823,7 @@
    "dev": "Blizzard Entertainment",
    "pub": "Blizzard Entertainment",
    "meta": 83,
-   "meta_count": 11,
+   "meta_count": 12,
    "user": 6.6,
    "user_count": 4,
    "scores": {}
@@ -879,8 +919,8 @@
    "dev": "Urban Games",
    "pub": "Paradox Interactive",
    "meta": 83,
-   "meta_count": 13,
-   "user": 2.8,
+   "meta_count": 14,
+   "user": 2.1,
    "user_count": 3,
    "scores": {}
   },
@@ -1003,6 +1043,48 @@
    "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1791168642.jpg"
   },
   {
+   "slug": "silver-pines",
+   "title": "Silver Pines",
+   "date": "2026-10-08",
+   "url": "https://www.metacritic.com/game/silver-pines/",
+   "meta": 85,
+   "plats": [
+    {
+     "n": "PC",
+     "s": 85,
+     "c": 14,
+     "d": "2026-10-08"
+    },
+    {
+     "n": "NS",
+     "s": null,
+     "c": 0,
+     "d": "2026-10-08"
+    },
+    {
+     "n": "XSX",
+     "s": null,
+     "c": 1,
+     "d": "2026-10-08"
+    },
+    {
+     "n": "PS5",
+     "s": 91,
+     "c": 6,
+     "d": "2026-10-08"
+    },
+    {
+     "n": "NS2",
+     "s": null,
+     "c": 2,
+     "d": "2026-10-08"
+    }
+   ],
+   "dev": "Wych Elm",
+   "pub": "Team17",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1791257353.jpg"
+  },
+  {
    "slug": "enshrouded",
    "title": "Enshrouded",
    "date": "2026-10-15",
@@ -1051,130 +1133,136 @@
    "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1787246452.jpg"
   },
   {
-   "slug": "chessfolk",
-   "title": "Chess Folk",
-   "date": "2026-10-07",
-   "url": "https://www.metacritic.com/game/chessfolk/",
+   "slug": "solitaire-dreams-lofi-cozy-coffee",
+   "title": "Solitaire Dreams - Lofi Cozy Coffee",
+   "date": "2026-10-08",
+   "url": "https://www.metacritic.com/game/solitaire-dreams-lofi-cozy-coffee/",
    "meta": null,
    "plats": [
     {
-     "n": "PC",
+     "n": "NS",
      "s": null,
      "c": 0,
-     "d": "2026-10-07"
+     "d": "2026-10-08"
     }
    ],
-   "dev": "Space 64",
-   "pub": "Space 64",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1282911-52.jpg"
+   "dev": "EpiXR Games",
+   "pub": "EpiXR Games",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1292090-52.jpg"
   },
   {
-   "slug": "royal-cartographer-restore-the-map",
-   "title": "Royal Cartographer: Restore the Map",
-   "date": "2026-10-07",
-   "url": "https://www.metacritic.com/game/royal-cartographer-restore-the-map/",
+   "slug": "rainbow-islands-console-selection",
+   "title": "Rainbow Islands Console Selection",
+   "date": "2026-10-08",
+   "url": "https://www.metacritic.com/game/rainbow-islands-console-selection/",
    "meta": null,
    "plats": [
     {
-     "n": "PC",
+     "n": "NS",
      "s": null,
      "c": 0,
-     "d": "2026-10-07"
+     "d": "2026-10-08"
     }
    ],
-   "dev": "_Taralis",
-   "pub": "_Taralis",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1283279-52.jpg"
+   "dev": "Taito Corporation",
+   "pub": "Taito",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1250020-52.jpg"
   },
   {
-   "slug": "calcio-totale",
-   "title": "Calcio Totale",
-   "date": "2026-10-07",
-   "url": "https://www.metacritic.com/game/calcio-totale/",
+   "slug": "neatly-organized",
+   "title": "Neatly Organized",
+   "date": "2026-10-08",
+   "url": "https://www.metacritic.com/game/neatly-organized/",
    "meta": null,
    "plats": [
     {
-     "n": "PC",
+     "n": "NS",
      "s": null,
      "c": 0,
-     "d": "2026-10-07"
+     "d": "2026-10-08"
     }
    ],
-   "dev": "Eleora",
-   "pub": "Eleora",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1284732-52.jpg"
+   "dev": "RedDeerGames",
+   "pub": "RedDeerGames",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1292088-52.jpg"
   },
   {
-   "slug": "maybe-hero",
-   "title": "Maybe Hero",
-   "date": "2026-10-07",
-   "url": "https://www.metacritic.com/game/maybe-hero/",
+   "slug": "drunkard",
+   "title": "DRUNKARD",
+   "date": "2026-10-08",
+   "url": "https://www.metacritic.com/game/drunkard/",
    "meta": null,
    "plats": [
     {
      "n": "PC",
      "s": null,
      "c": 0,
-     "d": "2026-10-07"
+     "d": "2026-10-08"
     }
    ],
-   "dev": "Stormy Games",
-   "pub": "Stormy Games",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1289452-52.jpg"
-  },
-  {
-   "slug": "scavengers-march",
-   "title": "Scavenger's March",
-   "date": "2026-10-07",
-   "url": "https://www.metacritic.com/game/scavengers-march/",
-   "meta": null,
-   "plats": [
-    {
-     "n": "PC",
-     "s": null,
-     "c": 0,
-     "d": "2026-10-07"
-    }
-   ],
-   "dev": "Lunder IT",
-   "pub": "Lunder IT",
+   "dev": "Playing Middle Ages",
+   "pub": "Playing Middle Ages",
    "img": ""
   },
   {
-   "slug": "hauberk-2026",
-   "title": "Hauberk",
-   "date": "2026-10-07",
-   "url": "https://www.metacritic.com/game/hauberk-2026/",
+   "slug": "the-dark-sarcophagus",
+   "title": "The Dark Sarcophagus",
+   "date": "2026-10-08",
+   "url": "https://www.metacritic.com/game/the-dark-sarcophagus/",
    "meta": null,
    "plats": [
     {
      "n": "PC",
      "s": null,
      "c": 0,
-     "d": "2026-10-07"
+     "d": "2026-10-08"
     }
    ],
-   "dev": "BAI XIAN LE",
-   "pub": "BAI XIAN LE",
+   "dev": "Ancient Guardian Games",
+   "pub": "Ancient Guardian Games",
    "img": ""
   },
   {
-   "slug": "liestar-resistar",
-   "title": "LieStar ResiStar",
-   "date": "2026-10-07",
-   "url": "https://www.metacritic.com/game/liestar-resistar/",
+   "slug": "once-upon-a-katamari-rolling-live-highlights",
+   "title": "Once Upon a KATAMARI: Rolling Live Highlights",
+   "date": "2026-10-08",
+   "url": "https://www.metacritic.com/game/once-upon-a-katamari-rolling-live-highlights/",
    "meta": null,
    "plats": [
+    {
+     "n": "NS2",
+     "s": null,
+     "c": 0,
+     "d": "2026-10-08"
+    },
+    {
+     "n": "PS5",
+     "s": null,
+     "c": 0,
+     "d": "2026-10-08"
+    },
+    {
+     "n": "XSX",
+     "s": null,
+     "c": 0,
+     "d": "2026-10-08"
+    },
+    {
+     "n": "NS",
+     "s": null,
+     "c": 0,
+     "d": "2026-10-08"
+    },
     {
      "n": "PC",
      "s": null,
      "c": 0,
-     "d": "2026-10-07"
+     "d": "2026-10-08"
     }
    ],
-   "dev": "CarryMeStudio",
-   "pub": "CarryMeStudio",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1288377-52.jpg"
+   "dev": "RENGAME",
+   "pub": "Bandai Namco Games",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1258522-59.jpg"
   }
  ],
  "annual": [
@@ -1324,7 +1412,7 @@
      "dev": "Nintendo",
      "pub": "Nintendo",
      "meta": 89,
-     "meta_count": 92,
+     "meta_count": 94,
      "user": 8.7,
      "user_count": 213,
      "scores": {}
@@ -1540,7 +1628,7 @@
      "dev": "Remedy Entertainment",
      "pub": "Remedy Entertainment",
      "meta": 83,
-     "meta_count": 81,
+     "meta_count": 82,
      "user": 8.9,
      "user_count": 156,
      "scores": {}
@@ -1600,7 +1688,7 @@
   ],
   "trails-in-the-sky-2nd-chapter": [
    90,
-   22,
+   23,
    8.8
   ],
   "valheim": [
@@ -1615,57 +1703,62 @@
   ],
   "fire-emblem-fortunes-weave": [
    89,
-   92,
+   94,
    8.7
   ],
   "star-wars-galactic-racer": [
    88,
-   64,
+   67,
    null
   ],
   "ace-combat-8-wings-of-theve": [
    88,
-   63,
-   8.6
-  ],
-  "gears-of-war-e-day": [
-   87,
    64,
    8.5
   ],
+  "gears-of-war-e-day": [
+   87,
+   68,
+   8.6
+  ],
   "welcome-to-elderfield": [
    87,
-   11,
-   8.5
+   12,
+   8.6
   ],
   "dressmaker": [
    85,
    7,
    null
   ],
-  "control-resonant": [
-   83,
-   81,
-   8.9
-  ],
   "diablo-iv-age-of-hatred-collection": [
    83,
-   11,
+   12,
    6.6
+  ],
+  "control-resonant": [
+   83,
+   82,
+   8.9
   ],
   "transport-fever-3": [
    83,
-   13,
-   2.8
+   14,
+   2.1
   ],
   "toem-2": [
    81,
    15,
    null
   ],
+  "runescape-dragonwilds": [
+   81,
+   8,
+   8
+  ],
   "silent-hill-townfall": [
    80,
-   92,
+   94,
    7.1
   ],
   "dynasty-warriors-3-complete-edition-remastered": [
@@ -1700,13 +1793,13 @@
   ],
   "minecraft-dungeons-ii": [
    75,
-   32,
-   8
+   34,
+   7.9
   ],
   "ea-sports-fc-27": [
    75,
-   55,
-   2.4
+   58,
+   2.3
   ],
   "another-eden-begins": [
    75,
@@ -1751,7 +1844,7 @@
   "halloween-the-game": [
    65,
    14,
-   7.7
+   7.6
   ],
   "the-alighieri-circle-dantes-bloodline": [
    64,
@@ -1765,7 +1858,7 @@
   ],
   "qliphah-in-providences-shadow": [
    61,
-   7,
+   8,
    null
   ]
  }
