@@ -1,5 +1,5 @@
 {
- "updated": "2026-10-07 00:43",
+ "updated": "2026-10-07 08:39",
  "window": [
   "2026-09-07",
   "2026-10-07"
@@ -402,7 +402,7 @@
    "dev": "Insomniac Games",
    "pub": "Sony Interactive Entertainment",
    "meta": 75,
-   "meta_count": 149,
+   "meta_count": 150,
    "user": 6.7,
    "user_count": 2332,
    "scores": {
@@ -1133,64 +1133,10 @@
    "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1787246452.jpg"
   },
   {
-   "slug": "solitaire-dreams-lofi-cozy-coffee",
-   "title": "Solitaire Dreams - Lofi Cozy Coffee",
+   "slug": "echo-weaver",
+   "title": "Echo Weaver",
    "date": "2026-10-08",
-   "url": "https://www.metacritic.com/game/solitaire-dreams-lofi-cozy-coffee/",
-   "meta": null,
-   "plats": [
-    {
-     "n": "NS",
-     "s": null,
-     "c": 0,
-     "d": "2026-10-08"
-    }
-   ],
-   "dev": "EpiXR Games",
-   "pub": "EpiXR Games",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1292090-52.jpg"
-  },
-  {
-   "slug": "rainbow-islands-console-selection",
-   "title": "Rainbow Islands Console Selection",
-   "date": "2026-10-08",
-   "url": "https://www.metacritic.com/game/rainbow-islands-console-selection/",
-   "meta": null,
-   "plats": [
-    {
-     "n": "NS",
-     "s": null,
-     "c": 0,
-     "d": "2026-10-08"
-    }
-   ],
-   "dev": "Taito Corporation",
-   "pub": "Taito",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1250020-52.jpg"
-  },
-  {
-   "slug": "neatly-organized",
-   "title": "Neatly Organized",
-   "date": "2026-10-08",
-   "url": "https://www.metacritic.com/game/neatly-organized/",
-   "meta": null,
-   "plats": [
-    {
-     "n": "NS",
-     "s": null,
-     "c": 0,
-     "d": "2026-10-08"
-    }
-   ],
-   "dev": "RedDeerGames",
-   "pub": "RedDeerGames",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1292088-52.jpg"
-  },
-  {
-   "slug": "drunkard",
-   "title": "DRUNKARD",
-   "date": "2026-10-08",
-   "url": "https://www.metacritic.com/game/drunkard/",
+   "url": "https://www.metacritic.com/game/echo-weaver/",
    "meta": null,
    "plats": [
     {
@@ -1198,37 +1144,13 @@
      "s": null,
      "c": 0,
      "d": "2026-10-08"
-    }
-   ],
-   "dev": "Playing Middle Ages",
-   "pub": "Playing Middle Ages",
-   "img": ""
-  },
-  {
-   "slug": "the-dark-sarcophagus",
-   "title": "The Dark Sarcophagus",
-   "date": "2026-10-08",
-   "url": "https://www.metacritic.com/game/the-dark-sarcophagus/",
-   "meta": null,
-   "plats": [
+    },
     {
-     "n": "PC",
+     "n": "XSX",
      "s": null,
      "c": 0,
      "d": "2026-10-08"
-    }
-   ],
-   "dev": "Ancient Guardian Games",
-   "pub": "Ancient Guardian Games",
-   "img": ""
-  },
-  {
-   "slug": "once-upon-a-katamari-rolling-live-highlights",
-   "title": "Once Upon a KATAMARI: Rolling Live Highlights",
-   "date": "2026-10-08",
-   "url": "https://www.metacritic.com/game/once-upon-a-katamari-rolling-live-highlights/",
-   "meta": null,
-   "plats": [
+    },
     {
      "n": "NS2",
      "s": null,
@@ -1242,17 +1164,23 @@
      "d": "2026-10-08"
     },
     {
-     "n": "XSX",
+     "n": "XB1",
      "s": null,
      "c": 0,
      "d": "2026-10-08"
-    },
-    {
-     "n": "NS",
-     "s": null,
-     "c": 0,
-     "d": "2026-10-08"
-    },
+    }
+   ],
+   "dev": "Moonlight Kids",
+   "pub": "Akupara Games",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1007807-52.jpg"
+  },
+  {
+   "slug": "click-and-mine",
+   "title": "Click & Mine",
+   "date": "2026-10-08",
+   "url": "https://www.metacritic.com/game/click-and-mine/",
+   "meta": null,
+   "plats": [
     {
      "n": "PC",
      "s": null,
@@ -1260,9 +1188,81 @@
      "d": "2026-10-08"
     }
    ],
-   "dev": "RENGAME",
-   "pub": "Bandai Namco Games",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1258522-59.jpg"
+   "dev": "Konrad Strek",
+   "pub": "Konrad Strek",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1223933-52.jpg"
+  },
+  {
+   "slug": "garden-cleanup-simulator",
+   "title": "Garden Cleanup Simulator",
+   "date": "2026-10-08",
+   "url": "https://www.metacritic.com/game/garden-cleanup-simulator/",
+   "meta": null,
+   "plats": [
+    {
+     "n": "PC",
+     "s": null,
+     "c": 0,
+     "d": "2026-10-08"
+    }
+   ],
+   "dev": "Luket",
+   "pub": "Luket",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1229394-52.jpg"
+  },
+  {
+   "slug": "sort-the-capybaras",
+   "title": "Sort The Capybaras",
+   "date": "2026-10-08",
+   "url": "https://www.metacritic.com/game/sort-the-capybaras/",
+   "meta": null,
+   "plats": [
+    {
+     "n": "PC",
+     "s": null,
+     "c": 0,
+     "d": "2026-10-08"
+    }
+   ],
+   "dev": "CapybaraKoala",
+   "pub": "CapybaraKoala",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1279607-52.jpg"
+  },
+  {
+   "slug": "enchanted-blackjack",
+   "title": "Enchanted Blackjack",
+   "date": "2026-10-08",
+   "url": "https://www.metacritic.com/game/enchanted-blackjack/",
+   "meta": null,
+   "plats": [
+    {
+     "n": "PC",
+     "s": null,
+     "c": 0,
+     "d": "2026-10-08"
+    }
+   ],
+   "dev": "drikdrok",
+   "pub": "drikdrok",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1281360-52.jpg"
+  },
+  {
+   "slug": "chat-derby-desktop",
+   "title": "Chat Derby Desktop",
+   "date": "2026-10-08",
+   "url": "https://www.metacritic.com/game/chat-derby-desktop/",
+   "meta": null,
+   "plats": [
+    {
+     "n": "PC",
+     "s": null,
+     "c": 0,
+     "d": "2026-10-08"
+    }
+   ],
+   "dev": "GONGUNGAMES",
+   "pub": "GONGUNGAMES",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1288464-52.jpg"
   }
  ],
  "annual": [
@@ -1350,7 +1350,7 @@
      "dev": "Yacht Club Games",
      "pub": "Yacht Club Games",
      "meta": 90,
-     "meta_count": 72,
+     "meta_count": 73,
      "user": 8.1,
      "user_count": 93,
      "scores": {}
@@ -1788,7 +1788,7 @@
   ],
   "marvels-wolverine": [
    75,
-   149,
+   150,
    6.7
   ],
   "minecraft-dungeons-ii": [
