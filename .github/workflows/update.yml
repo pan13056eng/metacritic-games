@@ -1,6 +1,11 @@
 name: 每日更新 Metacritic 简报
 
 on:
+  push:
+    branches: [main]
+    paths:
+      - "fetch.py"
+      - ".github/workflows/update.yml"
   schedule:
     - cron: '17 2 * * *'        # 每天 UTC 02:17 = 北京时间 10:17（避开整点，GitHub 会延迟排队）
   workflow_dispatch:            # 允许在 Actions 页面手动点一下立刻跑
