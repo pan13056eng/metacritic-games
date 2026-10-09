@@ -1,10 +1,10 @@
 {
- "updated": "2026-10-08 08:58",
+ "updated": "2026-10-09 09:07",
  "window": [
-  "2026-09-08",
-  "2026-10-08"
+  "2026-09-09",
+  "2026-10-09"
  ],
- "total": 41,
+ "total": 42,
  "released": [
   {
    "slug": "trails-in-the-sky-2nd-chapter",
@@ -87,6 +87,34 @@
    }
   },
   {
+   "slug": "gears-of-war-e-day",
+   "title": "Gears of War: E-Day",
+   "date": "2026-10-06",
+   "url": "https://www.metacritic.com/game/gears-of-war-e-day/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1788246859.jpg",
+   "plats": [
+    {
+     "n": "XSX",
+     "s": 87,
+     "c": 53,
+     "d": "2026-10-06"
+    },
+    {
+     "n": "PC",
+     "s": 84,
+     "c": 27,
+     "d": "2026-10-06"
+    }
+   ],
+   "dev": "The Coalition",
+   "pub": "Xbox Game Studios",
+   "meta": 87,
+   "meta_count": 72,
+   "user": 8.8,
+   "user_count": 453,
+   "scores": {}
+  },
+  {
    "slug": "fire-emblem-fortunes-weave",
    "title": "Fire Emblem: Fortune's Weave",
    "date": "2026-09-17",
@@ -111,6 +139,42 @@
     "Eurogamer": 100,
     "GameSpot": 90,
     "Nintendo Life": 80
+   }
+  },
+  {
+   "slug": "ace-combat-8-wings-of-theve",
+   "title": "Ace Combat 8: Wings of Theve",
+   "date": "2026-10-02",
+   "url": "https://www.metacritic.com/game/ace-combat-8-wings-of-theve/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1788987138.jpg",
+   "plats": [
+    {
+     "n": "PC",
+     "s": 86,
+     "c": 28,
+     "d": "2026-10-02"
+    },
+    {
+     "n": "XSX",
+     "s": 90,
+     "c": 4,
+     "d": "2026-10-02"
+    },
+    {
+     "n": "PS5",
+     "s": 87,
+     "c": 55,
+     "d": "2026-10-02"
+    }
+   ],
+   "dev": "Bandai Namco Aces Inc.",
+   "pub": "Bandai Namco Games",
+   "meta": 87,
+   "meta_count": 67,
+   "user": 8.7,
+   "user_count": 0,
+   "scores": {
+    "Push Square": 80
    }
   },
   {
@@ -160,39 +224,41 @@
    "scores": {}
   },
   {
-   "slug": "ace-combat-8-wings-of-theve",
-   "title": "Ace Combat 8: Wings of Theve",
-   "date": "2026-10-02",
-   "url": "https://www.metacritic.com/game/ace-combat-8-wings-of-theve/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1788987138.jpg",
+   "slug": "star-wars-galactic-racer",
+   "title": "Star Wars: Galactic Racer",
+   "date": "2026-10-06",
+   "url": "https://www.metacritic.com/game/star-wars-galactic-racer/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1782239544.jpg",
    "plats": [
     {
      "n": "PC",
-     "s": 86,
-     "c": 28,
-     "d": "2026-10-02"
+     "s": 84,
+     "c": 16,
+     "d": "2026-10-06"
     },
     {
      "n": "XSX",
-     "s": 90,
-     "c": 4,
-     "d": "2026-10-02"
+     "s": 86,
+     "c": 12,
+     "d": "2026-10-06"
     },
     {
      "n": "PS5",
-     "s": 87,
-     "c": 55,
-     "d": "2026-10-02"
+     "s": 88,
+     "c": 60,
+     "d": "2026-10-06"
     }
    ],
-   "dev": "Bandai Namco Aces Inc.",
-   "pub": "Bandai Namco Games",
+   "dev": "Fuse Games",
+   "pub": "Secret Mode",
    "meta": 88,
-   "meta_count": 65,
+   "meta_count": 68,
    "user": 8.6,
    "user_count": 0,
    "scores": {
-    "Push Square": 80
+    "Eurogamer": 100,
+    "GameSpot": 90,
+    "Push Square": 90
    }
   },
   {
@@ -233,34 +299,6 @@
    "meta_count": 12,
    "user": 8.5,
    "user_count": 60,
-   "scores": {}
-  },
-  {
-   "slug": "gears-of-war-e-day",
-   "title": "Gears of War: E-Day",
-   "date": "2026-10-06",
-   "url": "https://www.metacritic.com/game/gears-of-war-e-day/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1788246859.jpg",
-   "plats": [
-    {
-     "n": "XSX",
-     "s": 87,
-     "c": 53,
-     "d": "2026-10-06"
-    },
-    {
-     "n": "PC",
-     "s": 84,
-     "c": 27,
-     "d": "2026-10-06"
-    }
-   ],
-   "dev": "The Coalition",
-   "pub": "Xbox Game Studios",
-   "meta": 87,
-   "meta_count": 69,
-   "user": 8.3,
-   "user_count": 0,
    "scores": {}
   },
   {
@@ -305,7 +343,7 @@
    "pub": "Xbox Game Studios",
    "meta": 75,
    "meta_count": 34,
-   "user": 7.9,
+   "user": 7.8,
    "user_count": 15,
    "scores": {
     "GameSpot": 70,
@@ -335,7 +373,7 @@
    "dev": "Screen Burn",
    "pub": "Konami",
    "meta": 80,
-   "meta_count": 94,
+   "meta_count": 95,
    "user": 7.1,
    "user_count": 126,
    "scores": {
@@ -465,47 +503,52 @@
    "dev": "EA Canada",
    "pub": "Electronic Arts",
    "meta": 75,
-   "meta_count": 59,
+   "meta_count": 60,
    "user": 2.3,
-   "user_count": 32,
+   "user_count": 64,
    "scores": {}
   },
   {
-   "slug": "star-wars-galactic-racer",
-   "title": "Star Wars: Galactic Racer",
-   "date": "2026-10-06",
-   "url": "https://www.metacritic.com/game/star-wars-galactic-racer/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1782239544.jpg",
+   "slug": "clive-barkers-hellraiser-revival",
+   "title": "Clive Barker's Hellraiser: Revival",
+   "date": "2026-10-08",
+   "url": "https://www.metacritic.com/game/clive-barkers-hellraiser-revival/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1791426867.jpg",
    "plats": [
     {
+     "n": "PS5",
+     "s": 69,
+     "c": 33,
+     "d": "2026-10-08"
+    },
+    {
      "n": "PC",
-     "s": 84,
-     "c": 16,
-     "d": "2026-10-06"
+     "s": 75,
+     "c": 22,
+     "d": "2026-10-08"
     },
     {
      "n": "XSX",
-     "s": 86,
-     "c": 12,
-     "d": "2026-10-06"
+     "s": 74,
+     "c": 6,
+     "d": "2026-10-08"
     },
     {
-     "n": "PS5",
-     "s": 88,
-     "c": 60,
-     "d": "2026-10-06"
+     "n": "NS2",
+     "s": null,
+     "c": 1,
+     "d": "2026-10-08"
     }
    ],
-   "dev": "Fuse Games",
-   "pub": "Secret Mode",
-   "meta": 88,
-   "meta_count": 67,
+   "dev": "Saber Interactive",
+   "pub": "Saber Interactive",
+   "meta": 69,
+   "meta_count": 33,
    "user": null,
    "user_count": 0,
    "scores": {
-    "Eurogamer": 100,
-    "GameSpot": 90,
-    "Push Square": 90
+    "IGN": 60,
+    "Push Square": 50
    }
   }
  ],
@@ -573,46 +616,6 @@
    "scores": {}
   },
   {
-   "slug": "sprawl-zero",
-   "title": "SPRAWL zero",
-   "date": "2026-09-08",
-   "url": "https://www.metacritic.com/game/sprawl-zero/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1788751710.jpg",
-   "plats": [
-    {
-     "n": "PS5",
-     "s": null,
-     "c": 2,
-     "d": "2026-09-08"
-    },
-    {
-     "n": "PC",
-     "s": 76,
-     "c": 10,
-     "d": "2026-09-08"
-    },
-    {
-     "n": "XSX",
-     "s": null,
-     "c": 3,
-     "d": "2026-09-08"
-    },
-    {
-     "n": "NS2",
-     "s": null,
-     "c": 0,
-     "d": "2026-09-08"
-    }
-   ],
-   "dev": "MAETH",
-   "pub": "Kwalee Ltd",
-   "meta": 76,
-   "meta_count": 10,
-   "user": 8.3,
-   "user_count": 2,
-   "scores": {}
-  },
-  {
    "slug": "runescape-dragonwilds",
    "title": "RuneScape: Dragonwilds",
    "date": "2026-09-15",
@@ -653,6 +656,46 @@
    "scores": {}
   },
   {
+   "slug": "toem-2",
+   "title": "TOEM 2",
+   "date": "2026-09-29",
+   "url": "https://www.metacritic.com/game/toem-2/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1790597595.jpg",
+   "plats": [
+    {
+     "n": "PC",
+     "s": null,
+     "c": 0,
+     "d": "2026-09-29"
+    },
+    {
+     "n": "PS5",
+     "s": null,
+     "c": 0,
+     "d": "2026-09-29"
+    },
+    {
+     "n": "NS",
+     "s": null,
+     "c": 0,
+     "d": "2026-09-29"
+    },
+    {
+     "n": "NS2",
+     "s": null,
+     "c": 0,
+     "d": "2026-09-29"
+    }
+   ],
+   "dev": "Something We Made",
+   "pub": "Something We Made",
+   "meta": 81,
+   "meta_count": 15,
+   "user": 7.7,
+   "user_count": 1,
+   "scores": {}
+  },
+  {
    "slug": "end-of-abyss",
    "title": "End of Abyss",
    "date": "2026-10-01",
@@ -684,40 +727,6 @@
    "meta_count": 17,
    "user": 7.7,
    "user_count": 3,
-   "scores": {}
-  },
-  {
-   "slug": "halloween-the-game",
-   "title": "Halloween: The Game",
-   "date": "2026-09-08",
-   "url": "https://www.metacritic.com/game/halloween-the-game/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1776805765.jpg",
-   "plats": [
-    {
-     "n": "PS5",
-     "s": 68,
-     "c": 10,
-     "d": null
-    },
-    {
-     "n": "XSX",
-     "s": 60,
-     "c": 4,
-     "d": null
-    },
-    {
-     "n": "PC",
-     "s": 71,
-     "c": 10,
-     "d": null
-    }
-   ],
-   "dev": "IllFonic",
-   "pub": "Gun Interactive",
-   "meta": 65,
-   "meta_count": 14,
-   "user": 7.6,
-   "user_count": 11,
    "scores": {}
   },
   {
@@ -764,46 +773,6 @@
    "meta_count": 25,
    "user": 7.5,
    "user_count": 22,
-   "scores": {}
-  },
-  {
-   "slug": "toem-2",
-   "title": "TOEM 2",
-   "date": "2026-09-29",
-   "url": "https://www.metacritic.com/game/toem-2/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1790597595.jpg",
-   "plats": [
-    {
-     "n": "PC",
-     "s": null,
-     "c": 0,
-     "d": "2026-09-29"
-    },
-    {
-     "n": "PS5",
-     "s": null,
-     "c": 0,
-     "d": "2026-09-29"
-    },
-    {
-     "n": "NS",
-     "s": null,
-     "c": 0,
-     "d": "2026-09-29"
-    },
-    {
-     "n": "NS2",
-     "s": null,
-     "c": 0,
-     "d": "2026-09-29"
-    }
-   ],
-   "dev": "Something We Made",
-   "pub": "Something We Made",
-   "meta": 81,
-   "meta_count": 15,
-   "user": 7.4,
-   "user_count": 1,
    "scores": {}
   },
   {
@@ -993,41 +962,7 @@
    "dev": "Square Enix",
    "pub": "Square Enix",
    "meta": 88,
-   "meta_count": 18,
-   "user": null,
-   "user_count": 0,
-   "scores": {}
-  },
-  {
-   "slug": "order-of-the-sinking-star",
-   "title": "Order of the Sinking Star",
-   "date": "2026-10-08",
-   "url": "https://www.metacritic.com/game/order-of-the-sinking-star/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1791232616.jpg",
-   "plats": [
-    {
-     "n": "PC",
-     "s": 87,
-     "c": 11,
-     "d": "2026-10-08"
-    },
-    {
-     "n": "NS2",
-     "s": 85,
-     "c": 5,
-     "d": "2026-10-08"
-    },
-    {
-     "n": "PS5",
-     "s": 86,
-     "c": 9,
-     "d": null
-    }
-   ],
-   "dev": "Thekla, Inc",
-   "pub": "Arc Games",
-   "meta": 87,
-   "meta_count": 11,
+   "meta_count": 20,
    "user": null,
    "user_count": 0,
    "scores": {}
@@ -1072,8 +1007,82 @@
    ],
    "dev": "Wych Elm",
    "pub": "Team17",
-   "meta": 84,
-   "meta_count": 15,
+   "meta": 85,
+   "meta_count": 18,
+   "user": null,
+   "user_count": 0,
+   "scores": {}
+  },
+  {
+   "slug": "dragons-dogma-2-dark-arisen",
+   "title": "Dragon's Dogma 2: Dark Arisen",
+   "date": "2026-10-09",
+   "url": "https://www.metacritic.com/game/dragons-dogma-2-dark-arisen/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1791167231.jpg",
+   "plats": [
+    {
+     "n": "NS2",
+     "s": 88,
+     "c": 5,
+     "d": "2026-10-09"
+    },
+    {
+     "n": "XSX",
+     "s": null,
+     "c": 2,
+     "d": "2026-10-09"
+    },
+    {
+     "n": "PS5",
+     "s": 84,
+     "c": 20,
+     "d": "2026-10-09"
+    },
+    {
+     "n": "PC",
+     "s": 88,
+     "c": 12,
+     "d": "2026-10-08"
+    }
+   ],
+   "dev": "Capcom",
+   "pub": "Capcom",
+   "meta": 83,
+   "meta_count": 23,
+   "user": null,
+   "user_count": 0,
+   "scores": {}
+  },
+  {
+   "slug": "order-of-the-sinking-star",
+   "title": "Order of the Sinking Star",
+   "date": "2026-10-08",
+   "url": "https://www.metacritic.com/game/order-of-the-sinking-star/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1791232616.jpg",
+   "plats": [
+    {
+     "n": "PC",
+     "s": 87,
+     "c": 11,
+     "d": "2026-10-08"
+    },
+    {
+     "n": "NS2",
+     "s": 85,
+     "c": 5,
+     "d": "2026-10-08"
+    },
+    {
+     "n": "PS5",
+     "s": 86,
+     "c": 9,
+     "d": null
+    }
+   ],
+   "dev": "Thekla, Inc",
+   "pub": "Arc Games",
+   "meta": 83,
+   "meta_count": 13,
    "user": null,
    "user_count": 0,
    "scores": {}
@@ -1112,8 +1121,8 @@
    ],
    "dev": "Third Shift",
    "pub": "Annapurna Interactive",
-   "meta": 73,
-   "meta_count": 10,
+   "meta": 74,
+   "meta_count": 13,
    "user": null,
    "user_count": 0,
    "scores": {}
@@ -1167,42 +1176,6 @@
  ],
  "upcoming": [
   {
-   "slug": "dragons-dogma-2-dark-arisen",
-   "title": "Dragon's Dogma 2: Dark Arisen",
-   "date": "2026-10-09",
-   "url": "https://www.metacritic.com/game/dragons-dogma-2-dark-arisen/",
-   "meta": 84,
-   "plats": [
-    {
-     "n": "NS2",
-     "s": 88,
-     "c": 5,
-     "d": "2026-10-09"
-    },
-    {
-     "n": "XSX",
-     "s": null,
-     "c": 2,
-     "d": "2026-10-09"
-    },
-    {
-     "n": "PS5",
-     "s": 84,
-     "c": 20,
-     "d": "2026-10-09"
-    },
-    {
-     "n": "PC",
-     "s": 88,
-     "c": 12,
-     "d": "2026-10-08"
-    }
-   ],
-   "dev": "Capcom",
-   "pub": "Capcom",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1791167231.jpg"
-  },
-  {
    "slug": "enshrouded",
    "title": "Enshrouded",
    "date": "2026-10-15",
@@ -1233,36 +1206,6 @@
    "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1790044020.jpg"
   },
   {
-   "slug": "order-of-the-sinking-star",
-   "title": "Order of the Sinking Star",
-   "date": "2026-12-31",
-   "url": "https://www.metacritic.com/game/order-of-the-sinking-star/",
-   "meta": 86,
-   "plats": [
-    {
-     "n": "PC",
-     "s": 87,
-     "c": 11,
-     "d": "2026-10-08"
-    },
-    {
-     "n": "NS2",
-     "s": 85,
-     "c": 5,
-     "d": "2026-10-08"
-    },
-    {
-     "n": "PS5",
-     "s": 86,
-     "c": 9,
-     "d": null
-    }
-   ],
-   "dev": "Thekla, Inc",
-   "pub": "Arc Games",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1791232650.jpg"
-  },
-  {
    "slug": "the-duskbloods",
    "title": "The Duskbloods",
    "date": "2026-12-31",
@@ -1281,136 +1224,148 @@
    "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1787246452.jpg"
   },
   {
-   "slug": "conquisterra-roguelie",
-   "title": "Conquisterra Roguelie",
-   "date": "2026-10-09",
-   "url": "https://www.metacritic.com/game/conquisterra-roguelie/",
+   "slug": "the-boogeyman",
+   "title": "The Boogeyman",
+   "date": "2026-10-10",
+   "url": "https://www.metacritic.com/game/the-boogeyman/",
    "meta": null,
    "plats": [
     {
      "n": "PC",
      "s": null,
      "c": 0,
-     "d": "2026-10-09"
+     "d": "2026-10-10"
     }
    ],
-   "dev": "Ilustreverso",
-   "pub": "Gigantic G",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1265103-52.jpg"
+   "dev": "Pierucci Studios",
+   "pub": "Pierucci Studios",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1284186-52.jpg"
   },
   {
-   "slug": "shelf-employed",
-   "title": "Shelf-Employed",
-   "date": "2026-10-09",
-   "url": "https://www.metacritic.com/game/shelf-employed/",
+   "slug": "bounty-hunter-horrors",
+   "title": "Bounty Hunter Horrors",
+   "date": "2026-10-10",
+   "url": "https://www.metacritic.com/game/bounty-hunter-horrors/",
    "meta": null,
    "plats": [
     {
      "n": "PC",
      "s": null,
      "c": 0,
-     "d": "2026-10-09"
+     "d": "2026-10-10"
     }
    ],
-   "dev": "DuoQ",
-   "pub": "DuoQ",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1271309-52.jpg"
+   "dev": "RacerX_Games",
+   "pub": "RacerX_Games",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1276074-52.jpg"
   },
   {
-   "slug": "labyrinth-of-reverie",
-   "title": "Labyrinth of Reverie",
-   "date": "2026-10-09",
-   "url": "https://www.metacritic.com/game/labyrinth-of-reverie/",
+   "slug": "crazy-lamb-rc",
+   "title": "Crazy Lamb RC",
+   "date": "2026-10-10",
+   "url": "https://www.metacritic.com/game/crazy-lamb-rc/",
    "meta": null,
    "plats": [
-    {
-     "n": "PC",
-     "s": null,
-     "c": 0,
-     "d": "2026-10-09"
-    }
-   ],
-   "dev": "LeonGrayJ",
-   "pub": "LeonGrayJ",
-   "img": ""
-  },
-  {
-   "slug": "kemco-rpg-selection-vol-11",
-   "title": "Kemco RPG Selection Vol. 11",
-   "date": "2026-10-09",
-   "url": "https://www.metacritic.com/game/kemco-rpg-selection-vol-11/",
-   "meta": null,
-   "plats": [
-    {
-     "n": "XSX",
-     "s": null,
-     "c": 0,
-     "d": "2026-10-09"
-    },
-    {
-     "n": "XB1",
-     "s": null,
-     "c": 0,
-     "d": "2026-10-09"
-    },
-    {
-     "n": "PS5",
-     "s": null,
-     "c": 0,
-     "d": "2023-12-14"
-    },
-    {
-     "n": "PS4",
-     "s": null,
-     "c": 0,
-     "d": "2023-12-14"
-    },
     {
      "n": "NS",
      "s": null,
      "c": 0,
-     "d": "2025-09-25"
+     "d": "2026-10-10"
     }
    ],
-   "dev": "EXE Create",
-   "pub": "Kemco",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1283494-52.jpg"
+   "dev": "Intuitive Computers",
+   "pub": "Intuitive Computers",
+   "img": ""
   },
   {
-   "slug": "my-cat-scattered-games-tidy-videogame-supermarket",
-   "title": "MY CAT SCATTERED GAMES: Tidy Videogame Supermarket",
-   "date": "2026-10-09",
-   "url": "https://www.metacritic.com/game/my-cat-scattered-games-tidy-videogame-supermarket/",
+   "slug": "car-drift-simulator-2027",
+   "title": "Car Drift Simulator 2027",
+   "date": "2026-10-10",
+   "url": "https://www.metacritic.com/game/car-drift-simulator-2027/",
+   "meta": null,
+   "plats": [
+    {
+     "n": "NS",
+     "s": null,
+     "c": 0,
+     "d": "2026-10-10"
+    }
+   ],
+   "dev": "PlayForFun",
+   "pub": "PlayForFun",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1293365-52.jpg"
+  },
+  {
+   "slug": "rusty-prison-horror",
+   "title": "Rusty Prison: Horror",
+   "date": "2026-10-10",
+   "url": "https://www.metacritic.com/game/rusty-prison-horror/",
+   "meta": null,
+   "plats": [
+    {
+     "n": "NS",
+     "s": null,
+     "c": 0,
+     "d": "2026-10-10"
+    }
+   ],
+   "dev": "Downmeadowstreet",
+   "pub": "Downmeadowstreet",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1293366-52.jpg"
+  },
+  {
+   "slug": "unwatching-the-seven-dolls-",
+   "title": "Unwatching -The Seven Dolls-",
+   "date": "2026-10-11",
+   "url": "https://www.metacritic.com/game/unwatching-the-seven-dolls-/",
    "meta": null,
    "plats": [
     {
      "n": "PC",
      "s": null,
      "c": 0,
-     "d": "2026-10-09"
+     "d": "2026-10-11"
     }
    ],
-   "dev": "ODIUS",
-   "pub": "Loopr Partners",
-   "img": ""
+   "dev": "Makishiba Games",
+   "pub": "Makishiba Games",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1282540-52.jpg"
   },
   {
-   "slug": "tower-survivors-fortress",
-   "title": "Tower Survivors: Fortress",
-   "date": "2026-10-09",
-   "url": "https://www.metacritic.com/game/tower-survivors-fortress/",
+   "slug": "food-truck-frenzy",
+   "title": "Food Truck Frenzy",
+   "date": "2026-10-11",
+   "url": "https://www.metacritic.com/game/food-truck-frenzy/",
    "meta": null,
    "plats": [
     {
      "n": "PC",
      "s": null,
      "c": 0,
-     "d": "2026-10-09"
+     "d": "2026-10-11"
     }
    ],
-   "dev": "Berraco Labs",
-   "pub": "Berraco Labs",
+   "dev": "SpinMotion Games",
+   "pub": "SpinMotion",
    "img": ""
+  },
+  {
+   "slug": "warring-states-seven-hegemons",
+   "title": "Warring States: Seven Hegemons",
+   "date": "2026-10-11",
+   "url": "https://www.metacritic.com/game/warring-states-seven-hegemons/",
+   "meta": null,
+   "plats": [
+    {
+     "n": "PC",
+     "s": null,
+     "c": 0,
+     "d": "2026-10-11"
+    }
+   ],
+   "dev": "Paper Talk Studio",
+   "pub": "Paper Talk Studio",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1289861-52.jpg"
   }
  ],
  "annual": [
@@ -1668,6 +1623,34 @@
      "scores": {}
     },
     {
+     "slug": "gears-of-war-e-day",
+     "title": "Gears of War: E-Day",
+     "date": "2026-10-06",
+     "url": "https://www.metacritic.com/game/gears-of-war-e-day/",
+     "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1788246859.jpg",
+     "plats": [
+      {
+       "n": "XSX",
+       "s": 87,
+       "c": 53,
+       "d": "2026-10-06"
+      },
+      {
+       "n": "PC",
+       "s": 84,
+       "c": 27,
+       "d": "2026-10-06"
+      }
+     ],
+     "dev": "The Coalition",
+     "pub": "Xbox Game Studios",
+     "meta": 87,
+     "meta_count": 72,
+     "user": 8.8,
+     "user_count": 453,
+     "scores": {}
+    },
+    {
      "slug": "pragmata",
      "title": "PRAGMATA",
      "date": "2026-04-17",
@@ -1856,28 +1839,23 @@
   ],
   "kingdom-hearts-collection-i-iii": [
    88,
-   18,
+   20,
    null
   ],
   "star-wars-galactic-racer": [
    88,
-   67,
-   null
-  ],
-  "ace-combat-8-wings-of-theve": [
-   88,
-   65,
+   68,
    8.6
   ],
   "gears-of-war-e-day": [
    87,
-   69,
-   8.3
+   72,
+   8.8
   ],
-  "order-of-the-sinking-star": [
+  "ace-combat-8-wings-of-theve": [
    87,
-   11,
-   null
+   67,
+   8.7
   ],
   "welcome-to-elderfield": [
    87,
@@ -1890,8 +1868,8 @@
    null
   ],
   "silver-pines": [
-   84,
-   15,
+   85,
+   18,
    null
   ],
   "control-resonant": [
@@ -1904,15 +1882,25 @@
    12,
    6.6
   ],
+  "dragons-dogma-2-dark-arisen": [
+   83,
+   23,
+   null
+  ],
   "transport-fever-3": [
    83,
    14,
    2.1
   ],
+  "order-of-the-sinking-star": [
+   83,
+   13,
+   null
+  ],
   "toem-2": [
    81,
    15,
-   7.4
+   7.7
   ],
   "runescape-dragonwilds": [
    80,
@@ -1921,7 +1909,7 @@
   ],
   "silent-hill-townfall": [
    80,
-   94,
+   95,
    7.1
   ],
   "dynasty-warriors-3-complete-edition-remastered": [
@@ -1934,6 +1922,11 @@
    15,
    7.2
   ],
+  "nivalis-nights": [
+   77,
+   7,
+   7.7
+  ],
   "endless-legend-2": [
    77,
    9,
@@ -1944,10 +1937,10 @@
    17,
    7.7
   ],
-  "sprawl-zero": [
+  "nascar-26": [
    76,
-   10,
-   8.3
+   8,
+   null
   ],
   "marvels-wolverine": [
    75,
@@ -1957,7 +1950,7 @@
   "minecraft-dungeons-ii": [
    75,
    34,
-   7.9
+   7.8
   ],
   "another-eden-begins": [
    75,
@@ -1966,17 +1959,12 @@
   ],
   "ea-sports-fc-27": [
    75,
-   59,
+   60,
    2.3
   ],
-  "nascar-26": [
-   74,
-   7,
-   null
-  ],
   "forever-ago": [
-   73,
-   10,
+   74,
+   13,
    null
   ],
   "hot-wheels-infinite-rush": [
@@ -1994,6 +1982,11 @@
    7,
    null
   ],
+  "clive-barkers-hellraiser-revival": [
+   69,
+   33,
+   null
+  ],
   "dragon-quest-heroes-tornekos-mystery-dungeon": [
    68,
    13,
@@ -2008,11 +2001,6 @@
    67,
    8,
    8.1
-  ],
-  "halloween-the-game": [
-   65,
-   14,
-   7.6
   ],
   "the-alighieri-circle-dantes-bloodline": [
    64,
