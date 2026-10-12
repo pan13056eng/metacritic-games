@@ -40,17 +40,28 @@ jobs:
         env:
           TELEGRAM_BOT_TOKEN: ${{ secrets.TELEGRAM_BOT_TOKEN }}
           TELEGRAM_CHAT_ID: ${{ secrets.TELEGRAM_CHAT_ID }}
-          TEST_TELEGRAM: ${{ startsWith(github.event.head_commit.message, 'test telegram game') }}
         run: |
           python - <<'PYEOF'
           import html, json, os, urllib.parse, urllib.request
           old = json.load(open('/tmp/games-before.json', encoding='utf-8'))
           new = json.load(open('data/games.json', encoding='utf-8'))
           before = {g.get('slug'): g for g in old.get('released', [])}
-          changed = [g for g in new.get('released', []) if g.get('slug') not in before or before[g.get('slug')] != g]
-          test = os.environ.get('TEST_TELEGRAM', '').lower() == 'true'
-          if not changed and test:
-              changed = new.get('released', [])[:1]
+
+          def score_changed(old_game, new_game, field):
+              old_score, new_score = old_game.get(field), new_game.get(field)
+              if old_score is None or new_score is None:
+                  return False
+              try:
+                  return abs(float(new_score) - float(old_score)) >= 1
+              except (TypeError, ValueError):
+                  return False
+
+          changed = []
+          for g in new.get('released', []):
+              old_game = before.get(g.get('slug'))
+              if old_game is None or score_changed(old_game, g, 'meta') or score_changed(old_game, g, 'user'):
+                  changed.append(g)
+
           token, chat = os.environ.get('TELEGRAM_BOT_TOKEN'), os.environ.get('TELEGRAM_CHAT_ID')
           if not token or not chat:
               raise SystemExit('Telegram secrets 未配置')
