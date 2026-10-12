@@ -1,10 +1,10 @@
 {
- "updated": "2026-10-11 08:52",
+ "updated": "2026-10-12 09:15",
  "window": [
-  "2026-09-11",
-  "2026-10-11"
+  "2026-09-12",
+  "2026-10-12"
  ],
- "total": 37,
+ "total": 36,
  "released": [
   {
    "slug": "trails-in-the-sky-2nd-chapter",
@@ -41,7 +41,7 @@
    "dev": "Falcom",
    "pub": "GungHo",
    "meta": 90,
-   "meta_count": 25,
+   "meta_count": 26,
    "user": 8.9,
    "user_count": 40,
    "scores": {
@@ -78,7 +78,7 @@
    "dev": "Remedy Entertainment",
    "pub": "Remedy Entertainment",
    "meta": 83,
-   "meta_count": 85,
+   "meta_count": 86,
    "user": 8.9,
    "user_count": 182,
    "scores": {
@@ -130,31 +130,49 @@
    }
   },
   {
-   "slug": "gears-of-war-e-day",
-   "title": "Gears of War: E-Day",
-   "date": "2026-10-06",
-   "url": "https://www.metacritic.com/game/gears-of-war-e-day/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1788246859.jpg",
+   "slug": "well-dweller",
+   "title": "Well Dweller",
+   "date": "2026-09-22",
+   "url": "https://www.metacritic.com/game/well-dweller/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1790005007.jpg",
    "plats": [
     {
-     "n": "XSX",
-     "s": 87,
-     "c": 53,
-     "d": "2026-10-06"
+     "n": "NS2",
+     "s": null,
+     "c": 0,
+     "d": "2026-09-22"
     },
     {
      "n": "PC",
+     "s": 91,
+     "c": 5,
+     "d": "2026-09-22"
+    },
+    {
+     "n": "XSX",
      "s": 84,
-     "c": 27,
-     "d": "2026-10-06"
+     "c": 4,
+     "d": "2026-09-22"
+    },
+    {
+     "n": "PS5",
+     "s": null,
+     "c": 3,
+     "d": "2026-09-22"
+    },
+    {
+     "n": "NS",
+     "s": null,
+     "c": 3,
+     "d": "2026-09-22"
     }
    ],
-   "dev": "The Coalition",
-   "pub": "Xbox Game Studios",
-   "meta": 87,
-   "meta_count": 72,
+   "dev": "Kyle Thompson",
+   "pub": "Kyle Thompson",
+   "meta": 89,
+   "meta_count": 12,
    "user": 8.7,
-   "user_count": 453,
+   "user_count": 15,
    "scores": {}
   },
   {
@@ -234,52 +252,6 @@
    "scores": {}
   },
   {
-   "slug": "well-dweller",
-   "title": "Well Dweller",
-   "date": "2026-09-22",
-   "url": "https://www.metacritic.com/game/well-dweller/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1790005007.jpg",
-   "plats": [
-    {
-     "n": "NS2",
-     "s": null,
-     "c": 0,
-     "d": "2026-09-22"
-    },
-    {
-     "n": "PC",
-     "s": 91,
-     "c": 5,
-     "d": "2026-09-22"
-    },
-    {
-     "n": "XSX",
-     "s": 84,
-     "c": 4,
-     "d": "2026-09-22"
-    },
-    {
-     "n": "PS5",
-     "s": null,
-     "c": 3,
-     "d": "2026-09-22"
-    },
-    {
-     "n": "NS",
-     "s": null,
-     "c": 3,
-     "d": "2026-09-22"
-    }
-   ],
-   "dev": "Kyle Thompson",
-   "pub": "Kyle Thompson",
-   "meta": 89,
-   "meta_count": 11,
-   "user": 8.6,
-   "user_count": 15,
-   "scores": {}
-  },
-  {
    "slug": "fire-emblem-fortunes-weave",
    "title": "Fire Emblem: Fortune's Weave",
    "date": "2026-09-17",
@@ -305,6 +277,34 @@
     "GameSpot": 90,
     "Nintendo Life": 80
    }
+  },
+  {
+   "slug": "gears-of-war-e-day",
+   "title": "Gears of War: E-Day",
+   "date": "2026-10-06",
+   "url": "https://www.metacritic.com/game/gears-of-war-e-day/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1788246859.jpg",
+   "plats": [
+    {
+     "n": "XSX",
+     "s": 87,
+     "c": 53,
+     "d": "2026-10-06"
+    },
+    {
+     "n": "PC",
+     "s": 84,
+     "c": 27,
+     "d": "2026-10-06"
+    }
+   ],
+   "dev": "The Coalition",
+   "pub": "Xbox Game Studios",
+   "meta": 87,
+   "meta_count": 73,
+   "user": 8.6,
+   "user_count": 453,
+   "scores": {}
   },
   {
    "slug": "star-wars-galactic-racer",
@@ -416,7 +416,7 @@
    "dev": "Screen Burn",
    "pub": "Konami",
    "meta": 80,
-   "meta_count": 96,
+   "meta_count": 97,
    "user": 7.1,
    "user_count": 126,
    "scores": {
@@ -626,6 +626,46 @@
    "scores": {}
   },
   {
+   "slug": "forever-ago",
+   "title": "Forever Ago",
+   "date": "2026-10-08",
+   "url": "https://www.metacritic.com/game/forever-ago/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1791317775.jpg",
+   "plats": [
+    {
+     "n": "PC",
+     "s": 75,
+     "c": 8,
+     "d": "2026-10-08"
+    },
+    {
+     "n": "NS2",
+     "s": null,
+     "c": 1,
+     "d": "2026-10-08"
+    },
+    {
+     "n": "XSX",
+     "s": null,
+     "c": 3,
+     "d": "2026-10-08"
+    },
+    {
+     "n": "PS5",
+     "s": 73,
+     "c": 10,
+     "d": "2026-10-08"
+    }
+   ],
+   "dev": "Third Shift",
+   "pub": "Annapurna Interactive",
+   "meta": 75,
+   "meta_count": 15,
+   "user": 8.7,
+   "user_count": 0,
+   "scores": {}
+  },
+  {
    "slug": "silver-pines",
    "title": "Silver Pines",
    "date": "2026-10-08",
@@ -814,8 +854,8 @@
    "dev": "Section 9 Interactive",
    "pub": "Epic Games",
    "meta": 75,
-   "meta_count": 18,
-   "user": 7.5,
+   "meta_count": 19,
+   "user": 7.6,
    "user_count": 3,
    "scores": {}
   },
@@ -916,34 +956,6 @@
    "scores": {}
   },
   {
-   "slug": "nhl-27",
-   "title": "NHL 27",
-   "date": "2026-09-11",
-   "url": "https://www.metacritic.com/game/nhl-27/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1788247064.jpg",
-   "plats": [
-    {
-     "n": "PS5",
-     "s": 68,
-     "c": 12,
-     "d": null
-    },
-    {
-     "n": "XSX",
-     "s": 62,
-     "c": 5,
-     "d": null
-    }
-   ],
-   "dev": "EA Vancouver",
-   "pub": "Electronic Arts",
-   "meta": 68,
-   "meta_count": 14,
-   "user": 2.8,
-   "user_count": 9,
-   "scores": {}
-  },
-  {
    "slug": "transport-fever-3",
    "title": "Transport Fever 3",
    "date": "2026-09-29",
@@ -975,46 +987,6 @@
    "meta_count": 14,
    "user": 2.6,
    "user_count": 13,
-   "scores": {}
-  },
-  {
-   "slug": "forever-ago",
-   "title": "Forever Ago",
-   "date": "2026-10-08",
-   "url": "https://www.metacritic.com/game/forever-ago/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1791317775.jpg",
-   "plats": [
-    {
-     "n": "PC",
-     "s": 75,
-     "c": 8,
-     "d": "2026-10-08"
-    },
-    {
-     "n": "NS2",
-     "s": null,
-     "c": 1,
-     "d": "2026-10-08"
-    },
-    {
-     "n": "XSX",
-     "s": null,
-     "c": 3,
-     "d": "2026-10-08"
-    },
-    {
-     "n": "PS5",
-     "s": 73,
-     "c": 10,
-     "d": "2026-10-08"
-    }
-   ],
-   "dev": "Third Shift",
-   "pub": "Annapurna Interactive",
-   "meta": 74,
-   "meta_count": 13,
-   "user": null,
-   "user_count": 0,
    "scores": {}
   }
  ],
@@ -1068,178 +1040,148 @@
    "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1787246452.jpg"
   },
   {
-   "slug": "time-to-wake-up",
-   "title": "Time To Wake Up",
-   "date": "2026-10-12",
-   "url": "https://www.metacritic.com/game/time-to-wake-up/",
+   "slug": "miner-crysis",
+   "title": "Miner Crysis",
+   "date": "2026-10-13",
+   "url": "https://www.metacritic.com/game/miner-crysis/",
    "meta": null,
    "plats": [
     {
      "n": "PC",
      "s": null,
      "c": 0,
-     "d": "2026-10-12"
-    },
-    {
-     "n": "NS",
-     "s": null,
-     "c": 0,
-     "d": null
-    },
-    {
-     "n": "PS5",
-     "s": null,
-     "c": 0,
-     "d": "2026-10-12"
-    },
-    {
-     "n": "XSX",
-     "s": null,
-     "c": 0,
-     "d": null
+     "d": "2026-10-13"
     }
    ],
-   "dev": "Eye Blink Twice",
-   "pub": "Eye Blink Twice",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-951229-52.jpg"
+   "dev": "IronWill",
+   "pub": "IronWill",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1121319-52.jpg"
   },
   {
-   "slug": "the-travellers-sight",
-   "title": "The Traveller's Sight",
-   "date": "2026-10-12",
-   "url": "https://www.metacritic.com/game/the-travellers-sight/",
+   "slug": "rolla",
+   "title": "ROLLA",
+   "date": "2026-10-13",
+   "url": "https://www.metacritic.com/game/rolla/",
    "meta": null,
    "plats": [
     {
      "n": "PC",
      "s": null,
      "c": 0,
-     "d": "2026-10-12"
+     "d": "2026-10-13"
     }
    ],
-   "dev": "Burning Sunset",
-   "pub": "Burning Sunset",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1161730-52.jpg"
+   "dev": "Tyrma Games",
+   "pub": "Pantaloon",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1158856-52.jpg"
   },
   {
-   "slug": "spoofs-playland",
-   "title": "Spoofs Playland",
-   "date": "2026-10-12",
-   "url": "https://www.metacritic.com/game/spoofs-playland/",
+   "slug": "order-the-new-dawn",
+   "title": "Order: The New Dawn",
+   "date": "2026-10-13",
+   "url": "https://www.metacritic.com/game/order-the-new-dawn/",
    "meta": null,
    "plats": [
     {
      "n": "PC",
      "s": null,
      "c": 0,
-     "d": "2026-10-12"
+     "d": "2026-10-13"
     }
    ],
-   "dev": "Madvox Games",
-   "pub": "Madvox Games",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1033700-52.jpg"
+   "dev": "Outer Space Workshop",
+   "pub": "Outer Space Workshop",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1135144-52.jpg"
   },
   {
-   "slug": "burn-with-me",
-   "title": "Burn With Me",
-   "date": "2026-10-12",
-   "url": "https://www.metacritic.com/game/burn-with-me/",
+   "slug": "astrolite",
+   "title": "Astrolite",
+   "date": "2026-10-13",
+   "url": "https://www.metacritic.com/game/astrolite/",
    "meta": null,
    "plats": [
     {
      "n": "PC",
      "s": null,
      "c": 0,
-     "d": "2026-10-12"
+     "d": "2026-10-13"
     }
    ],
-   "dev": "Nozomu Games",
-   "pub": "Inner Pocket",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1022888-52.jpg"
+   "dev": "M. B. Games",
+   "pub": "M. B. Games",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1153645-52.jpg"
   },
   {
-   "slug": "organomancer",
-   "title": "Organomancer",
-   "date": "2026-10-12",
-   "url": "https://www.metacritic.com/game/organomancer/",
+   "slug": "cybersushi",
+   "title": "CyberSushi",
+   "date": "2026-10-13",
+   "url": "https://www.metacritic.com/game/cybersushi/",
    "meta": null,
    "plats": [
     {
      "n": "PC",
      "s": null,
      "c": 0,
-     "d": "2026-10-12"
+     "d": "2026-10-13"
     }
    ],
-   "dev": "Vanta Chamber Interactive LLC",
-   "pub": "Vanta Chamber Interactive LLC",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1216283-52.jpg"
+   "dev": "Ezza Games",
+   "pub": "Ezza Games",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1165964-52.jpg"
   },
   {
-   "slug": "lampman",
-   "title": "LampMan!",
-   "date": "2026-10-12",
-   "url": "https://www.metacritic.com/game/lampman/",
+   "slug": "abracademia",
+   "title": "Abracademia",
+   "date": "2026-10-13",
+   "url": "https://www.metacritic.com/game/abracademia/",
    "meta": null,
    "plats": [
     {
      "n": "PC",
      "s": null,
      "c": 0,
-     "d": "2026-10-12"
+     "d": "2026-10-13"
     }
    ],
-   "dev": "LAMP TEAM",
-   "pub": "LAMP TEAM",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1206410-52.jpg"
+   "dev": "SEELE Games",
+   "pub": "SEELE Games",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1192082-52.jpg"
   },
   {
-   "slug": "ward-off-evil",
-   "title": "Ward Off Evil",
-   "date": "2026-10-12",
-   "url": "https://www.metacritic.com/game/ward-off-evil/",
+   "slug": "legion-breaker",
+   "title": "Legion Breaker",
+   "date": "2026-10-13",
+   "url": "https://www.metacritic.com/game/legion-breaker/",
    "meta": null,
    "plats": [
     {
      "n": "PC",
      "s": null,
      "c": 0,
-     "d": "2026-10-12"
+     "d": "2026-10-13"
     }
    ],
-   "dev": "Terminal Zero",
-   "pub": "Terminal Zero",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1082295-52.jpg"
+   "dev": "Baffled Engineer",
+   "pub": "Level Up Gaming",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1206647-52.jpg"
   },
   {
-   "slug": "alpha-nomos",
-   "title": "Alpha Nomos",
-   "date": "2026-10-12",
-   "url": "https://www.metacritic.com/game/alpha-nomos/",
+   "slug": "my-beautiful-faraway-please-dont-be-cruel-to-me",
+   "title": "My Beautiful Faraway, Please Don't Be Cruel To Me",
+   "date": "2026-10-13",
+   "url": "https://www.metacritic.com/game/my-beautiful-faraway-please-dont-be-cruel-to-me/",
    "meta": null,
    "plats": [
     {
      "n": "PC",
      "s": null,
      "c": 0,
-     "d": "2026-10-12"
-    },
-    {
-     "n": "PS5",
-     "s": null,
-     "c": 0,
-     "d": "2026-10-12"
-    },
-    {
-     "n": "XSX",
-     "s": null,
-     "c": 0,
-     "d": "2026-10-12"
+     "d": "2026-10-13"
     }
    ],
-   "dev": "RibCage Games",
-   "pub": "RibCage Games",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1022873-52.jpg"
+   "dev": "arch1t3ct",
+   "pub": "arch1t3ct",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1216476-52.jpg"
   }
  ],
  "annual": [
@@ -1519,8 +1461,8 @@
      "dev": "The Coalition",
      "pub": "Xbox Game Studios",
      "meta": 87,
-     "meta_count": 72,
-     "user": 8.7,
+     "meta_count": 73,
+     "user": 8.6,
      "user_count": 453,
      "scores": {}
     },
@@ -1633,7 +1575,7 @@
      "dev": "Remedy Entertainment",
      "pub": "Remedy Entertainment",
      "meta": 83,
-     "meta_count": 85,
+     "meta_count": 86,
      "user": 8.9,
      "user_count": 182,
      "scores": {}
@@ -1693,18 +1635,18 @@
   ],
   "trails-in-the-sky-2nd-chapter": [
    90,
-   25,
+   26,
    8.9
-  ],
-  "well-dweller": [
-   89,
-   11,
-   8.6
   ],
   "fire-emblem-fortunes-weave": [
    89,
    97,
    8.6
+  ],
+  "well-dweller": [
+   89,
+   12,
+   8.7
   ],
   "kingdom-hearts-collection-i-iii": [
    88,
@@ -1718,8 +1660,8 @@
   ],
   "gears-of-war-e-day": [
    87,
-   72,
-   8.7
+   73,
+   8.6
   ],
   "ace-combat-8-wings-of-theve": [
    87,
@@ -1743,7 +1685,7 @@
   ],
   "control-resonant": [
    83,
-   85,
+   86,
    8.9
   ],
   "diablo-iv-age-of-hatred-collection": [
@@ -1773,7 +1715,7 @@
   ],
   "silent-hill-townfall": [
    80,
-   96,
+   97,
    7.1
   ],
   "dynasty-warriors-3-complete-edition-remastered": [
@@ -1818,23 +1760,23 @@
   ],
   "end-of-abyss": [
    75,
-   18,
-   7.5
+   19,
+   7.6
   ],
   "another-eden-begins": [
    75,
    16,
    5
   ],
+  "forever-ago": [
+   75,
+   15,
+   8.7
+  ],
   "ea-sports-fc-27": [
    74,
    63,
    2.3
-  ],
-  "forever-ago": [
-   74,
-   13,
-   null
   ],
   "graveyard-keeper-2": [
    72,
@@ -1851,19 +1793,14 @@
    34,
    8.9
   ],
-  "nhl-27": [
-   68,
-   14,
-   2.8
-  ],
   "garfield-escape-from-monday": [
    67,
    8,
    8.1
   ],
   "the-walking-dead-streets-of-survival": [
-   64,
-   7,
+   63,
+   8,
    7.3
   ],
   "qliphah-in-providences-shadow": [
