@@ -1,11 +1,54 @@
 {
- "updated": "2026-10-14 07:39",
+ "updated": "2026-10-15 07:29",
  "window": [
-  "2026-09-14",
-  "2026-10-14"
+  "2026-09-15",
+  "2026-10-15"
  ],
- "total": 40,
+ "total": 47,
  "released": [
+  {
+   "slug": "dragons-dogma-2-dark-arisen",
+   "title": "Dragon's Dogma 2: Dark Arisen",
+   "date": "2026-10-09",
+   "url": "https://www.metacritic.com/game/dragons-dogma-2-dark-arisen/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1791167231.jpg",
+   "plats": [
+    {
+     "n": "NS2",
+     "s": 88,
+     "c": 5,
+     "d": "2026-10-09"
+    },
+    {
+     "n": "XSX",
+     "s": null,
+     "c": 2,
+     "d": "2026-10-09"
+    },
+    {
+     "n": "PS5",
+     "s": 84,
+     "c": 20,
+     "d": "2026-10-09"
+    },
+    {
+     "n": "PC",
+     "s": 88,
+     "c": 12,
+     "d": "2026-10-08"
+    }
+   ],
+   "dev": "Capcom",
+   "pub": "Capcom",
+   "meta": 83,
+   "meta_count": 30,
+   "user": 9.3,
+   "user_count": 0,
+   "scores": {
+    "Push Square": 90,
+    "IGN": 80
+   }
+  },
   {
    "slug": "dynasty-warriors-3-complete-edition-remastered",
    "title": "Dynasty Warriors 3 Complete Edition Remastered",
@@ -85,7 +128,7 @@
    "meta": 90,
    "meta_count": 26,
    "user": 8.9,
-   "user_count": 40,
+   "user_count": 44,
    "scores": {
     "IGN": 90,
     "Push Square": 90
@@ -193,49 +236,6 @@
    }
   },
   {
-   "slug": "clive-barkers-hellraiser-revival",
-   "title": "Clive Barker's Hellraiser: Revival",
-   "date": "2026-10-08",
-   "url": "https://www.metacritic.com/game/clive-barkers-hellraiser-revival/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1791426867.jpg",
-   "plats": [
-    {
-     "n": "PS5",
-     "s": 69,
-     "c": 33,
-     "d": "2026-10-08"
-    },
-    {
-     "n": "PC",
-     "s": 75,
-     "c": 22,
-     "d": "2026-10-08"
-    },
-    {
-     "n": "XSX",
-     "s": 74,
-     "c": 6,
-     "d": "2026-10-08"
-    },
-    {
-     "n": "NS2",
-     "s": null,
-     "c": 1,
-     "d": "2026-10-08"
-    }
-   ],
-   "dev": "Saber Interactive",
-   "pub": "Saber Interactive",
-   "meta": 69,
-   "meta_count": 36,
-   "user": 8.7,
-   "user_count": 0,
-   "scores": {
-    "IGN": 60,
-    "Push Square": 50
-   }
-  },
-  {
    "slug": "the-witcher-3-wild-hunt-remastered",
    "title": "The Witcher 3: Wild Hunt - Remastered",
    "date": "2026-09-29",
@@ -294,7 +294,7 @@
    "meta": 89,
    "meta_count": 99,
    "user": 8.6,
-   "user_count": 236,
+   "user_count": 257,
    "scores": {
     "IGN": 100,
     "Eurogamer": 100,
@@ -347,6 +347,49 @@
    "user": 8.6,
    "user_count": 21,
    "scores": {}
+  },
+  {
+   "slug": "clive-barkers-hellraiser-revival",
+   "title": "Clive Barker's Hellraiser: Revival",
+   "date": "2026-10-08",
+   "url": "https://www.metacritic.com/game/clive-barkers-hellraiser-revival/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1791426867.jpg",
+   "plats": [
+    {
+     "n": "PS5",
+     "s": 69,
+     "c": 33,
+     "d": "2026-10-08"
+    },
+    {
+     "n": "PC",
+     "s": 75,
+     "c": 22,
+     "d": "2026-10-08"
+    },
+    {
+     "n": "XSX",
+     "s": 74,
+     "c": 6,
+     "d": "2026-10-08"
+    },
+    {
+     "n": "NS2",
+     "s": null,
+     "c": 1,
+     "d": "2026-10-08"
+    }
+   ],
+   "dev": "Saber Interactive",
+   "pub": "Saber Interactive",
+   "meta": 69,
+   "meta_count": 37,
+   "user": 8.5,
+   "user_count": 0,
+   "scores": {
+    "IGN": 60,
+    "Push Square": 50
+   }
   },
   {
    "slug": "star-wars-galactic-racer",
@@ -427,7 +470,7 @@
    "dev": "Mojang AB",
    "pub": "Xbox Game Studios",
    "meta": 75,
-   "meta_count": 36,
+   "meta_count": 37,
    "user": 7.7,
    "user_count": 19,
    "scores": {
@@ -552,6 +595,49 @@
    "scores": {}
   },
   {
+   "slug": "castlevania-belmonts-curse",
+   "title": "Castlevania: Belmont's Curse",
+   "date": "2026-10-15",
+   "url": "https://www.metacritic.com/game/castlevania-belmonts-curse/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1791874027.jpg",
+   "plats": [
+    {
+     "n": "PS5",
+     "s": 86,
+     "c": 45,
+     "d": "2026-10-15"
+    },
+    {
+     "n": "PC",
+     "s": 85,
+     "c": 15,
+     "d": "2026-10-15"
+    },
+    {
+     "n": "NS",
+     "s": null,
+     "c": 4,
+     "d": "2026-10-15"
+    },
+    {
+     "n": "XSX",
+     "s": 88,
+     "c": 6,
+     "d": "2026-10-15"
+    }
+   ],
+   "dev": "Evil Empire",
+   "pub": "Konami",
+   "meta": 85,
+   "meta_count": 55,
+   "user": null,
+   "user_count": 0,
+   "scores": {
+    "IGN": 80,
+    "Push Square": 70
+   }
+  },
+  {
    "slug": "valor-mortis",
    "title": "Valor Mortis",
    "date": "2026-10-13",
@@ -579,8 +665,8 @@
    ],
    "dev": "ONE MORE LEVEL",
    "pub": "Lyrical Games",
-   "meta": 77,
-   "meta_count": 45,
+   "meta": 78,
+   "meta_count": 48,
    "user": null,
    "user_count": 0,
    "scores": {
@@ -591,46 +677,6 @@
   }
  ],
  "watch": [
-  {
-   "slug": "dragons-dogma-2-dark-arisen",
-   "title": "Dragon's Dogma 2: Dark Arisen",
-   "date": "2026-10-09",
-   "url": "https://www.metacritic.com/game/dragons-dogma-2-dark-arisen/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1791167231.jpg",
-   "plats": [
-    {
-     "n": "NS2",
-     "s": 88,
-     "c": 5,
-     "d": "2026-10-09"
-    },
-    {
-     "n": "XSX",
-     "s": null,
-     "c": 2,
-     "d": "2026-10-09"
-    },
-    {
-     "n": "PS5",
-     "s": 84,
-     "c": 20,
-     "d": "2026-10-09"
-    },
-    {
-     "n": "PC",
-     "s": 88,
-     "c": 12,
-     "d": "2026-10-08"
-    }
-   ],
-   "dev": "Capcom",
-   "pub": "Capcom",
-   "meta": 84,
-   "meta_count": 29,
-   "user": 9.4,
-   "user_count": 0,
-   "scores": {}
-  },
   {
    "slug": "kingdom-hearts-collection-i-iii",
    "title": "Kingdom Hearts Collection I ~ III",
@@ -662,7 +708,7 @@
    "meta": 88,
    "meta_count": 20,
    "user": 8.8,
-   "user_count": 0,
+   "user_count": 2,
    "scores": {}
   },
   {
@@ -708,7 +754,47 @@
    "meta": 86,
    "meta_count": 21,
    "user": 8.2,
-   "user_count": 0,
+   "user_count": 7,
+   "scores": {}
+  },
+  {
+   "slug": "garfield-escape-from-monday",
+   "title": "Garfield: Escape from Monday",
+   "date": "2026-09-24",
+   "url": "https://www.metacritic.com/game/garfield-escape-from-monday/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1234351-52.jpg",
+   "plats": [
+    {
+     "n": "NS",
+     "s": 68,
+     "c": 5,
+     "d": "2026-09-24"
+    },
+    {
+     "n": "XSX",
+     "s": null,
+     "c": 3,
+     "d": "2026-09-24"
+    },
+    {
+     "n": "PC",
+     "s": 64,
+     "c": 9,
+     "d": "2026-09-24"
+    },
+    {
+     "n": "PS5",
+     "s": 68,
+     "c": 10,
+     "d": "2026-09-24"
+    }
+   ],
+   "dev": "OSome Studio",
+   "pub": "Microids",
+   "meta": 68,
+   "meta_count": 10,
+   "user": 8.1,
+   "user_count": 1,
    "scores": {}
   },
   {
@@ -764,7 +850,7 @@
    "meta": 83,
    "meta_count": 14,
    "user": 7.9,
-   "user_count": 0,
+   "user_count": 17,
    "scores": {}
   },
   {
@@ -848,6 +934,46 @@
    "scores": {}
   },
   {
+   "slug": "forever-ago",
+   "title": "Forever Ago",
+   "date": "2026-10-08",
+   "url": "https://www.metacritic.com/game/forever-ago/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1791317775.jpg",
+   "plats": [
+    {
+     "n": "PC",
+     "s": 75,
+     "c": 8,
+     "d": "2026-10-08"
+    },
+    {
+     "n": "NS2",
+     "s": null,
+     "c": 1,
+     "d": "2026-10-08"
+    },
+    {
+     "n": "XSX",
+     "s": null,
+     "c": 3,
+     "d": "2026-10-08"
+    },
+    {
+     "n": "PS5",
+     "s": 73,
+     "c": 10,
+     "d": "2026-10-08"
+    }
+   ],
+   "dev": "Third Shift",
+   "pub": "Annapurna Interactive",
+   "meta": 74,
+   "meta_count": 18,
+   "user": 7.7,
+   "user_count": 0,
+   "scores": {}
+  },
+  {
    "slug": "endless-legend-2",
    "title": "ENDLESS Legend 2",
    "date": "2026-09-17",
@@ -912,47 +1038,7 @@
    "meta": 75,
    "meta_count": 19,
    "user": 7.6,
-   "user_count": 3,
-   "scores": {}
-  },
-  {
-   "slug": "forever-ago",
-   "title": "Forever Ago",
-   "date": "2026-10-08",
-   "url": "https://www.metacritic.com/game/forever-ago/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1791317775.jpg",
-   "plats": [
-    {
-     "n": "PC",
-     "s": 75,
-     "c": 8,
-     "d": "2026-10-08"
-    },
-    {
-     "n": "NS2",
-     "s": null,
-     "c": 1,
-     "d": "2026-10-08"
-    },
-    {
-     "n": "XSX",
-     "s": null,
-     "c": 3,
-     "d": "2026-10-08"
-    },
-    {
-     "n": "PS5",
-     "s": 73,
-     "c": 10,
-     "d": "2026-10-08"
-    }
-   ],
-   "dev": "Third Shift",
-   "pub": "Annapurna Interactive",
-   "meta": 74,
-   "meta_count": 18,
-   "user": 7.4,
-   "user_count": 0,
+   "user_count": 14,
    "scores": {}
   },
   {
@@ -1045,8 +1131,8 @@
    ],
    "dev": "Wright Flyer Studios",
    "pub": "Wright Flyer Studios",
-   "meta": 75,
-   "meta_count": 16,
+   "meta": 73,
+   "meta_count": 17,
    "user": 5,
    "user_count": 2,
    "scores": {}
@@ -1118,80 +1204,172 @@
    "user": null,
    "user_count": 0,
    "scores": {}
-  }
- ],
- "upcoming": [
-  {
-   "slug": "castlevania-belmonts-curse",
-   "title": "Castlevania: Belmont's Curse",
-   "date": "2026-10-15",
-   "url": "https://www.metacritic.com/game/castlevania-belmonts-curse/",
-   "meta": 86,
-   "plats": [
-    {
-     "n": "PS5",
-     "s": 86,
-     "c": 45,
-     "d": "2026-10-15"
-    },
-    {
-     "n": "PC",
-     "s": 85,
-     "c": 15,
-     "d": "2026-10-15"
-    },
-    {
-     "n": "NS",
-     "s": null,
-     "c": 4,
-     "d": "2026-10-15"
-    },
-    {
-     "n": "XSX",
-     "s": 88,
-     "c": 6,
-     "d": "2026-10-15"
-    }
-   ],
-   "dev": "Evil Empire",
-   "pub": "Konami",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1791874027.jpg"
   },
   {
-   "slug": "ratatan",
-   "title": "RATATAN",
-   "date": "2026-10-15",
-   "url": "https://www.metacritic.com/game/ratatan/",
-   "meta": 79,
+   "slug": "warhammer-40000-boltgun-2",
+   "title": "Warhammer 40,000: Boltgun 2",
+   "date": "2026-10-14",
+   "url": "https://www.metacritic.com/game/warhammer-40000-boltgun-2/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1790043784.jpg",
    "plats": [
     {
      "n": "PC",
-     "s": null,
-     "c": 1,
-     "d": "2026-10-15"
+     "s": 81,
+     "c": 15,
+     "d": "2026-10-14"
+    },
+    {
+     "n": "PS5",
+     "s": 76,
+     "c": 4,
+     "d": "2026-10-14"
     },
     {
      "n": "NS2",
-     "s": 79,
-     "c": 7,
-     "d": "2026-10-15"
-    },
-    {
-     "n": "PS5",
      "s": null,
-     "c": 3,
-     "d": "2026-10-15"
+     "c": 0,
+     "d": null
     },
     {
      "n": "XSX",
      "s": null,
      "c": 2,
-     "d": "2026-10-15"
+     "d": "2026-10-14"
     }
    ],
-   "dev": "Ratata Arts",
-   "pub": "Game Source Entertainment",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1777421279.jpg"
+   "dev": "Auroch Digital",
+   "pub": "Big Fan Games",
+   "meta": 81,
+   "meta_count": 15,
+   "user": null,
+   "user_count": 0,
+   "scores": {}
+  },
+  {
+   "slug": "over-the-hill",
+   "title": "over the hill",
+   "date": "2026-10-14",
+   "url": "https://www.metacritic.com/game/over-the-hill/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1087502-52.jpg",
+   "plats": [
+    {
+     "n": "PC",
+     "s": 68,
+     "c": 10,
+     "d": "2026-10-14"
+    },
+    {
+     "n": "NS2",
+     "s": null,
+     "c": 0,
+     "d": null
+    },
+    {
+     "n": "PS5",
+     "s": null,
+     "c": 0,
+     "d": null
+    },
+    {
+     "n": "XSX",
+     "s": null,
+     "c": 0,
+     "d": null
+    }
+   ],
+   "dev": "Funselektor Labs Inc.",
+   "pub": "Funselektor Labs Inc.",
+   "meta": 68,
+   "meta_count": 10,
+   "user": null,
+   "user_count": 0,
+   "scores": {}
+  }
+ ],
+ "upcoming": [
+  {
+   "slug": "resident-evil-2-deluxe-edition",
+   "title": "Resident Evil 2: Deluxe Edition",
+   "date": "2026-10-16",
+   "url": "https://www.metacritic.com/game/resident-evil-2-deluxe-edition/",
+   "meta": 93,
+   "plats": [
+    {
+     "n": "NS2",
+     "s": 93,
+     "c": 8,
+     "d": "2026-10-16"
+    }
+   ],
+   "dev": "Capcom",
+   "pub": "Capcom",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1282312-52.jpg"
+  },
+  {
+   "slug": "tales-of-eternia-remastered",
+   "title": "Tales of Eternia Remastered",
+   "date": "2026-10-16",
+   "url": "https://www.metacritic.com/game/tales-of-eternia-remastered/",
+   "meta": 77,
+   "plats": [
+    {
+     "n": "NS",
+     "s": null,
+     "c": 0,
+     "d": "2026-10-16"
+    },
+    {
+     "n": "NS2",
+     "s": null,
+     "c": 2,
+     "d": "2026-10-16"
+    },
+    {
+     "n": "PS4",
+     "s": null,
+     "c": 0,
+     "d": "2026-10-16"
+    },
+    {
+     "n": "PS5",
+     "s": 77,
+     "c": 11,
+     "d": "2026-10-16"
+    },
+    {
+     "n": "PC",
+     "s": null,
+     "c": 0,
+     "d": "2026-10-16"
+    },
+    {
+     "n": "XSX",
+     "s": null,
+     "c": 0,
+     "d": "2026-10-16"
+    }
+   ],
+   "dev": "TOSE",
+   "pub": "Bandai Namco Games",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1791946499.jpg"
+  },
+  {
+   "slug": "the-legend-of-zelda-ocarina-of-time-2026",
+   "title": "The Legend of Zelda: Ocarina of Time",
+   "date": "2026-11-05",
+   "url": "https://www.metacritic.com/game/the-legend-of-zelda-ocarina-of-time-2026/",
+   "meta": null,
+   "plats": [
+    {
+     "n": "NS2",
+     "s": null,
+     "c": 20,
+     "d": "2026-11-05"
+    }
+   ],
+   "dev": "Nintendo",
+   "pub": "Nintendo",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1788926816.jpg"
   },
   {
    "slug": "the-duskbloods",
@@ -1212,172 +1390,118 @@
    "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1787246452.jpg"
   },
   {
-   "slug": "desolus",
-   "title": "DESOLUS",
-   "date": "2026-10-15",
-   "url": "https://www.metacritic.com/game/desolus/",
+   "slug": "dreadline-express",
+   "title": "Dreadline Express",
+   "date": "2026-10-16",
+   "url": "https://www.metacritic.com/game/dreadline-express/",
    "meta": null,
    "plats": [
     {
      "n": "PC",
      "s": null,
      "c": 0,
-     "d": "2026-10-15"
+     "d": "2026-10-16"
+    }
+   ],
+   "dev": "David Konecny",
+   "pub": "Shoreline Games",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1075182-52.jpg"
+  },
+  {
+   "slug": "beyond-these-stars",
+   "title": "Beyond These Stars",
+   "date": "2026-10-16",
+   "url": "https://www.metacritic.com/game/beyond-these-stars/",
+   "meta": null,
+   "plats": [
+    {
+     "n": "PC",
+     "s": null,
+     "c": 0,
+     "d": "2026-10-16"
+    }
+   ],
+   "dev": "Balancing Monkey Games",
+   "pub": "Hooded Horse",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-920926-52.jpg"
+  },
+  {
+   "slug": "penguin-colony",
+   "title": "Penguin Colony",
+   "date": "2026-10-16",
+   "url": "https://www.metacritic.com/game/penguin-colony/",
+   "meta": null,
+   "plats": [
+    {
+     "n": "PC",
+     "s": null,
+     "c": 0,
+     "d": "2026-10-16"
     },
     {
      "n": "NS2",
      "s": null,
      "c": 0,
-     "d": "2026-10-15"
-    },
-    {
-     "n": "XSX",
-     "s": null,
-     "c": 0,
-     "d": "2026-10-15"
-    },
-    {
-     "n": "PS5",
-     "s": null,
-     "c": 0,
-     "d": "2026-10-15"
+     "d": null
     }
    ],
-   "dev": "Mark J. Mayers",
-   "pub": "The Quantum Astrophysicists Guild",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-697222-52.jpg"
+   "dev": "ORIGAME DIGITAL",
+   "pub": "Fellow Traveller",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1127953-52.jpg"
   },
   {
-   "slug": "wolfsschanze-operation-gotterdammerung",
-   "title": "Wolfsschanze - Operation Gotterdammerung",
-   "date": "2026-10-15",
-   "url": "https://www.metacritic.com/game/wolfsschanze-operation-gotterdammerung/",
+   "slug": "flipping-is-hard",
+   "title": "Flipping is Hard",
+   "date": "2026-10-16",
+   "url": "https://www.metacritic.com/game/flipping-is-hard/",
    "meta": null,
    "plats": [
     {
      "n": "PC",
      "s": null,
      "c": 0,
-     "d": "2026-10-15"
-    },
-    {
-     "n": "XSX",
-     "s": null,
-     "c": 0,
-     "d": "2026-10-15"
-    },
-    {
-     "n": "NS",
-     "s": null,
-     "c": 0,
-     "d": "2026-10-15"
+     "d": "2026-10-16"
     }
    ],
-   "dev": "Markt & Technik",
-   "pub": "Markt & Technik",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1247738-52.jpg"
+   "dev": "Elegant Horse Studios",
+   "pub": "Elegant Horse Studios",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1139064-52.jpg"
   },
   {
-   "slug": "labyrinth-a-way-out",
-   "title": "Labyrinth A Way Out",
-   "date": "2026-10-15",
-   "url": "https://www.metacritic.com/game/labyrinth-a-way-out/",
+   "slug": "terradune",
+   "title": "Terradune",
+   "date": "2026-10-16",
+   "url": "https://www.metacritic.com/game/terradune/",
    "meta": null,
    "plats": [
     {
      "n": "PC",
      "s": null,
      "c": 0,
-     "d": "2026-10-15"
+     "d": "2026-10-16"
     }
    ],
-   "dev": "JS Games",
-   "pub": "JANSED Studios",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1238599-52.jpg"
+   "dev": "SvanDark",
+   "pub": "SvanDark",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1086870-52.jpg"
   },
   {
-   "slug": "hello-kitty-island-adventure-friendship-bundle",
-   "title": "Hello Kitty Island Adventure Friendship Bundle Nintendo Switch 2 Edition",
-   "date": "2026-10-15",
-   "url": "https://www.metacritic.com/game/hello-kitty-island-adventure-friendship-bundle/",
-   "meta": null,
-   "plats": [
-    {
-     "n": "NS2",
-     "s": null,
-     "c": 0,
-     "d": "2026-10-15"
-    }
-   ],
-   "dev": "",
-   "pub": "Sunblink",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1268022-17.jpg"
-  },
-  {
-   "slug": "robot-city-delivery",
-   "title": "Robot City: Delivery",
-   "date": "2026-10-15",
-   "url": "https://www.metacritic.com/game/robot-city-delivery/",
+   "slug": "night-blood-w-cutthroat-wolf",
+   "title": "Night Blood W : Cutthroat Wolf",
+   "date": "2026-10-16",
+   "url": "https://www.metacritic.com/game/night-blood-w-cutthroat-wolf/",
    "meta": null,
    "plats": [
     {
      "n": "PC",
      "s": null,
      "c": 0,
-     "d": "2026-10-15"
+     "d": "2026-10-16"
     }
    ],
-   "dev": "DESU",
-   "pub": "DESU",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1273929-52.jpg"
-  },
-  {
-   "slug": "cuboy-adventure",
-   "title": "Cuboy Adventure",
-   "date": "2026-10-15",
-   "url": "https://www.metacritic.com/game/cuboy-adventure/",
-   "meta": null,
-   "plats": [
-    {
-     "n": "PC",
-     "s": null,
-     "c": 0,
-     "d": "2026-10-15"
-    },
-    {
-     "n": "XSX",
-     "s": null,
-     "c": 0,
-     "d": "2026-07-10"
-    },
-    {
-     "n": "XB1",
-     "s": null,
-     "c": 0,
-     "d": "2026-07-10"
-    }
-   ],
-   "dev": "Andgo Games",
-   "pub": "Andgo Games",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1204430-52.jpg"
-  },
-  {
-   "slug": "tribal-trouble-resurrected",
-   "title": "Tribal Trouble: Resurrected",
-   "date": "2026-10-15",
-   "url": "https://www.metacritic.com/game/tribal-trouble-resurrected/",
-   "meta": null,
-   "plats": [
-    {
-     "n": "PC",
-     "s": null,
-     "c": 0,
-     "d": "2026-10-15"
-    }
-   ],
-   "dev": "Ryan Linehan",
-   "pub": "Stray Software",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1225735-52.jpg"
+   "dev": "Midnight Fantasy Games",
+   "pub": "HARRISONWORLD",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1035678-52.jpg"
   }
  ],
  "annual": [
@@ -1591,7 +1715,7 @@
      "meta": 89,
      "meta_count": 99,
      "user": 8.6,
-     "user_count": 236,
+     "user_count": 257,
      "scores": {}
     },
     {
@@ -1834,6 +1958,11 @@
    26,
    8.9
   ],
+  "enshrouded": [
+   89,
+   7,
+   null
+  ],
   "fire-emblem-fortunes-weave": [
    89,
    99,
@@ -1874,15 +2003,15 @@
    7,
    null
   ],
+  "castlevania-belmonts-curse": [
+   85,
+   55,
+   null
+  ],
   "planet-zoo-2": [
    85,
    15,
    null
-  ],
-  "dragons-dogma-2-dark-arisen": [
-   84,
-   29,
-   9.4
   ],
   "control-resonant": [
    83,
@@ -1904,6 +2033,11 @@
    16,
    3.1
   ],
+  "dragons-dogma-2-dark-arisen": [
+   83,
+   30,
+   9.3
+  ],
   "nighthawks": [
    82,
    7,
@@ -1913,6 +2047,11 @@
    81,
    15,
    7.7
+  ],
+  "warhammer-40000-boltgun-2": [
+   81,
+   15,
+   null
   ],
   "silent-hill-townfall": [
    80,
@@ -1930,8 +2069,8 @@
    7.1
   ],
   "valor-mortis": [
-   77,
-   45,
+   78,
+   48,
    null
   ],
   "nivalis-nights": [
@@ -1949,6 +2088,11 @@
    8,
    null
   ],
+  "ratatan": [
+   76,
+   8,
+   null
+  ],
   "runescape-dragonwilds": [
    75,
    10,
@@ -1961,18 +2105,13 @@
   ],
   "minecraft-dungeons-ii": [
    75,
-   36,
+   37,
    7.7
   ],
   "end-of-abyss": [
    75,
    19,
    7.6
-  ],
-  "another-eden-begins": [
-   75,
-   16,
-   5
   ],
   "ea-sports-fc-27": [
    74,
@@ -1982,7 +2121,12 @@
   "forever-ago": [
    74,
    18,
-   7.4
+   7.7
+  ],
+  "another-eden-begins": [
+   73,
+   17,
+   5
   ],
   "graveyard-keeper-2": [
    72,
@@ -2001,13 +2145,18 @@
   ],
   "clive-barkers-hellraiser-revival": [
    69,
-   36,
-   8.7
+   37,
+   8.5
   ],
   "garfield-escape-from-monday": [
-   67,
-   9,
+   68,
+   10,
    8.1
+  ],
+  "over-the-hill": [
+   68,
+   10,
+   null
   ],
   "the-walking-dead-streets-of-survival": [
    63,
@@ -2019,9 +2168,19 @@
    8,
    null
   ],
-  "total-war-shogun-2-complete-edition": [
-   86,
+  "blueys-happy-snaps": [
+   77,
+   6,
+   null
+  ],
+  "disney-pixar-toy-story-3-complete-edition": [
+   75,
    4,
+   null
+  ],
+  "disney-pixar-toy-story-retro-roundup": [
+   80,
+   5,
    null
   ]
  }
