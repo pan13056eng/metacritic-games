@@ -1,10 +1,10 @@
 {
- "updated": "2026-10-16 07:10",
+ "updated": "2026-10-17 06:58",
  "window": [
-  "2026-09-16",
-  "2026-10-16"
+  "2026-09-17",
+  "2026-10-17"
  ],
- "total": 45,
+ "total": 47,
  "released": [
   {
    "slug": "dragons-dogma-2-dark-arisen",
@@ -165,7 +165,7 @@
    "meta": 83,
    "meta_count": 87,
    "user": 8.8,
-   "user_count": 182,
+   "user_count": 198,
    "scores": {
     "Push Square": 80,
     "IGN": 80
@@ -202,7 +202,7 @@
    "meta": 87,
    "meta_count": 72,
    "user": 8.7,
-   "user_count": 29,
+   "user_count": 40,
    "scores": {
     "Push Square": 80
    }
@@ -338,7 +338,7 @@
    "dev": "Nintendo",
    "pub": "Nintendo",
    "meta": 89,
-   "meta_count": 99,
+   "meta_count": 100,
    "user": 8.5,
    "user_count": 257,
    "scores": {
@@ -383,7 +383,7 @@
    "dev": "Saber Interactive",
    "pub": "Saber Interactive",
    "meta": 69,
-   "meta_count": 38,
+   "meta_count": 39,
    "user": 8.5,
    "user_count": 56,
    "scores": {
@@ -422,49 +422,11 @@
    "meta": 88,
    "meta_count": 74,
    "user": 8.3,
-   "user_count": 22,
+   "user_count": 35,
    "scores": {
     "Eurogamer": 100,
     "GameSpot": 90,
     "Push Square": 90
-   }
-  },
-  {
-   "slug": "valor-mortis",
-   "title": "Valor Mortis",
-   "date": "2026-10-13",
-   "url": "https://www.metacritic.com/game/valor-mortis/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1791784978.jpg",
-   "plats": [
-    {
-     "n": "PS5",
-     "s": 81,
-     "c": 10,
-     "d": "2026-10-13"
-    },
-    {
-     "n": "XSX",
-     "s": null,
-     "c": 0,
-     "d": "2026-10-13"
-    },
-    {
-     "n": "PC",
-     "s": 77,
-     "c": 40,
-     "d": "2026-10-13"
-    }
-   ],
-   "dev": "ONE MORE LEVEL",
-   "pub": "Lyrical Games",
-   "meta": 78,
-   "meta_count": 48,
-   "user": 8.3,
-   "user_count": 0,
-   "scores": {
-    "Eurogamer": 80,
-    "IGN": 70,
-    "GameSpot": 60
    }
   },
   {
@@ -496,11 +458,49 @@
    "dev": "Thekla, Inc",
    "pub": "Arc Games",
    "meta": 83,
-   "meta_count": 15,
+   "meta_count": 17,
    "user": 8,
    "user_count": 17,
    "scores": {
     "GameSpot": 80
+   }
+  },
+  {
+   "slug": "valor-mortis",
+   "title": "Valor Mortis",
+   "date": "2026-10-13",
+   "url": "https://www.metacritic.com/game/valor-mortis/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1791784978.jpg",
+   "plats": [
+    {
+     "n": "PS5",
+     "s": 81,
+     "c": 10,
+     "d": "2026-10-13"
+    },
+    {
+     "n": "XSX",
+     "s": null,
+     "c": 0,
+     "d": "2026-10-13"
+    },
+    {
+     "n": "PC",
+     "s": 77,
+     "c": 40,
+     "d": "2026-10-13"
+    }
+   ],
+   "dev": "ONE MORE LEVEL",
+   "pub": "Lyrical Games",
+   "meta": 78,
+   "meta_count": 50,
+   "user": 7.8,
+   "user_count": 0,
+   "scores": {
+    "Eurogamer": 80,
+    "IGN": 70,
+    "GameSpot": 60
    }
   },
   {
@@ -657,8 +657,8 @@
    ],
    "dev": "Capcom",
    "pub": "Capcom",
-   "meta": 93,
-   "meta_count": 9,
+   "meta": 92,
+   "meta_count": 12,
    "user": null,
    "user_count": 0,
    "scores": {
@@ -706,7 +706,7 @@
    "dev": "Capcom",
    "pub": "Capcom",
    "meta": 90,
-   "meta_count": 8,
+   "meta_count": 10,
    "user": null,
    "user_count": 0,
    "scores": {
@@ -748,7 +748,7 @@
    "dev": "Evil Empire",
    "pub": "Konami",
    "meta": 84,
-   "meta_count": 57,
+   "meta_count": 60,
    "user": null,
    "user_count": 0,
    "scores": {
@@ -787,8 +787,8 @@
    "dev": "Square Enix",
    "pub": "Square Enix",
    "meta": 88,
-   "meta_count": 20,
-   "user": 8.8,
+   "meta_count": 22,
+   "user": 9.1,
    "user_count": 2,
    "scores": {}
   },
@@ -832,8 +832,8 @@
    ],
    "dev": "Wych Elm",
    "pub": "Team17",
-   "meta": 86,
-   "meta_count": 22,
+   "meta": 85,
+   "meta_count": 23,
    "user": 8.4,
    "user_count": 7,
    "scores": {}
@@ -934,8 +934,8 @@
    ],
    "dev": "Third Shift",
    "pub": "Annapurna Interactive",
-   "meta": 74,
-   "meta_count": 18,
+   "meta": 75,
+   "meta_count": 19,
    "user": 7.8,
    "user_count": 0,
    "scores": {}
@@ -1049,80 +1049,6 @@
    "scores": {}
   },
   {
-   "slug": "aniimo",
-   "title": "Aniimo",
-   "date": "2026-09-16",
-   "url": "https://www.metacritic.com/game/aniimo/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1789446769.jpg",
-   "plats": [
-    {
-     "n": "PC",
-     "s": 78,
-     "c": 8,
-     "d": "2026-09-16"
-    },
-    {
-     "n": "XSX",
-     "s": null,
-     "c": 0,
-     "d": "2026-09-16"
-    },
-    {
-     "n": "iOS",
-     "s": null,
-     "c": 0,
-     "d": "2026-09-16"
-    },
-    {
-     "n": "PS5",
-     "s": null,
-     "c": 0,
-     "d": "2026-09-16"
-    }
-   ],
-   "dev": "Pawprint Studio",
-   "pub": "Pawprint Studio",
-   "meta": 78,
-   "meta_count": 15,
-   "user": 7.1,
-   "user_count": 16,
-   "scores": {}
-  },
-  {
-   "slug": "another-eden-begins",
-   "title": "Another Eden Begins",
-   "date": "2026-09-16",
-   "url": "https://www.metacritic.com/game/another-eden-begins/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1789365702.jpg",
-   "plats": [
-    {
-     "n": "NS",
-     "s": null,
-     "c": 0,
-     "d": "2026-09-17"
-    },
-    {
-     "n": "PC",
-     "s": 75,
-     "c": 9,
-     "d": "2026-09-16"
-    },
-    {
-     "n": "NS2",
-     "s": null,
-     "c": 1,
-     "d": "2026-09-17"
-    }
-   ],
-   "dev": "Wright Flyer Studios",
-   "pub": "Wright Flyer Studios",
-   "meta": 73,
-   "meta_count": 17,
-   "user": 5,
-   "user_count": 2,
-   "scores": {}
-  },
-  {
    "slug": "transport-fever-3",
    "title": "Transport Fever 3",
    "date": "2026-09-29",
@@ -1185,7 +1111,7 @@
    "dev": "Frontier Developments",
    "pub": "Frontier Developments",
    "meta": 85,
-   "meta_count": 15,
+   "meta_count": 16,
    "user": null,
    "user_count": 0,
    "scores": {}
@@ -1225,7 +1151,7 @@
    "dev": "Auroch Digital",
    "pub": "Big Fan Games",
    "meta": 81,
-   "meta_count": 18,
+   "meta_count": 19,
    "user": null,
    "user_count": 0,
    "scores": {}
@@ -1277,7 +1203,7 @@
    "dev": "TOSE",
    "pub": "Bandai Namco Games",
    "meta": 76,
-   "meta_count": 12,
+   "meta_count": 13,
    "user": null,
    "user_count": 0,
    "scores": {}
@@ -1287,7 +1213,7 @@
    "title": "over the hill",
    "date": "2026-10-14",
    "url": "https://www.metacritic.com/game/over-the-hill/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1087502-52.jpg",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1792139150.jpg",
    "plats": [
     {
      "n": "PC",
@@ -1325,6 +1251,42 @@
  ],
  "upcoming": [
   {
+   "slug": "call-of-duty-modern-warfare-4",
+   "title": "Call of Duty: Modern Warfare 4",
+   "date": "2026-10-23",
+   "url": "https://www.metacritic.com/game/call-of-duty-modern-warfare-4/",
+   "meta": null,
+   "plats": [
+    {
+     "n": "XSX",
+     "s": null,
+     "c": 0,
+     "d": "2026-10-23"
+    },
+    {
+     "n": "PS5",
+     "s": null,
+     "c": 1,
+     "d": "2026-10-23"
+    },
+    {
+     "n": "NS2",
+     "s": null,
+     "c": 1,
+     "d": "2026-10-23"
+    },
+    {
+     "n": "PC",
+     "s": null,
+     "c": 10,
+     "d": "2026-10-23"
+    }
+   ],
+   "dev": "Infinity Ward",
+   "pub": "Activision",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1792136722.jpg"
+  },
+  {
    "slug": "the-legend-of-zelda-ocarina-of-time-2026",
    "title": "The Legend of Zelda: Ocarina of Time",
    "date": "2026-11-05",
@@ -1361,78 +1323,6 @@
    "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1787246452.jpg"
   },
   {
-   "slug": "numenume",
-   "title": "NumeNume",
-   "date": "2026-10-17",
-   "url": "https://www.metacritic.com/game/numenume/",
-   "meta": null,
-   "plats": [
-    {
-     "n": "PC",
-     "s": null,
-     "c": 0,
-     "d": "2026-10-17"
-    }
-   ],
-   "dev": "Phuriko",
-   "pub": "Phuriko",
-   "img": ""
-  },
-  {
-   "slug": "delivery-simulator",
-   "title": "Delivery Simulator",
-   "date": "2026-10-17",
-   "url": "https://www.metacritic.com/game/delivery-simulator/",
-   "meta": null,
-   "plats": [
-    {
-     "n": "NS",
-     "s": null,
-     "c": 0,
-     "d": "2026-10-17"
-    }
-   ],
-   "dev": "Nerd Games",
-   "pub": "Nerd Games",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1210071-52.jpg"
-  },
-  {
-   "slug": "fishing-valley-remastered",
-   "title": "Fishing Valley Remastered",
-   "date": "2026-10-17",
-   "url": "https://www.metacritic.com/game/fishing-valley-remastered/",
-   "meta": null,
-   "plats": [
-    {
-     "n": "NS",
-     "s": null,
-     "c": 0,
-     "d": "2026-10-17"
-    }
-   ],
-   "dev": "Pancake Games",
-   "pub": "Pancake Games",
-   "img": ""
-  },
-  {
-   "slug": "counter-squad",
-   "title": "Counter Squad",
-   "date": "2026-10-17",
-   "url": "https://www.metacritic.com/game/counter-squad/",
-   "meta": null,
-   "plats": [
-    {
-     "n": "NS",
-     "s": null,
-     "c": 0,
-     "d": "2026-10-17"
-    }
-   ],
-   "dev": "Global Games Publisher",
-   "pub": "Global Games Publisher",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1296610-52.jpg"
-  },
-  {
    "slug": "kings-call-2",
    "title": "Kings Call 2",
    "date": "2026-10-18",
@@ -1451,6 +1341,24 @@
    "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1234794-52.jpg"
   },
   {
+   "slug": "arbiter-2",
+   "title": "Arbiter",
+   "date": "2026-10-18",
+   "url": "https://www.metacritic.com/game/arbiter-2/",
+   "meta": null,
+   "plats": [
+    {
+     "n": "PC",
+     "s": null,
+     "c": 0,
+     "d": "2026-10-18"
+    }
+   ],
+   "dev": "Tyro, LLC",
+   "pub": "Tyro, LLC",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1289402-52.jpg"
+  },
+  {
    "slug": "a-journey-through-the-light",
    "title": "A Journey Through the Light",
    "date": "2026-10-18",
@@ -1467,6 +1375,24 @@
    "dev": "Fluorescent Studio",
    "pub": "Fluorescent Studio",
    "img": ""
+  },
+  {
+   "slug": "decisive-decks",
+   "title": "Decisive Decks",
+   "date": "2026-10-18",
+   "url": "https://www.metacritic.com/game/decisive-decks/",
+   "meta": null,
+   "plats": [
+    {
+     "n": "PC",
+     "s": null,
+     "c": 0,
+     "d": "2026-10-18"
+    }
+   ],
+   "dev": "Pick Huang",
+   "pub": "Pick Huang",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1291408-52.jpg"
   },
   {
    "slug": "storebot-tidy-up-pc-parts",
@@ -1502,6 +1428,24 @@
    ],
    "dev": "INECT",
    "pub": "INECT",
+   "img": ""
+  },
+  {
+   "slug": "demonator",
+   "title": "Demonator",
+   "date": "2026-10-18",
+   "url": "https://www.metacritic.com/game/demonator/",
+   "meta": null,
+   "plats": [
+    {
+     "n": "PC",
+     "s": null,
+     "c": 0,
+     "d": "2026-10-18"
+    }
+   ],
+   "dev": "Marcello Studios",
+   "pub": "Valkeala Software",
    "img": ""
   }
  ],
@@ -1714,7 +1658,7 @@
      "dev": "Nintendo",
      "pub": "Nintendo",
      "meta": 89,
-     "meta_count": 99,
+     "meta_count": 100,
      "user": 8.5,
      "user_count": 257,
      "scores": {}
@@ -1745,6 +1689,40 @@
      "meta_count": 74,
      "user": 8.6,
      "user_count": 662,
+     "scores": {}
+    },
+    {
+     "slug": "star-wars-galactic-racer",
+     "title": "Star Wars: Galactic Racer",
+     "date": "2026-10-06",
+     "url": "https://www.metacritic.com/game/star-wars-galactic-racer/",
+     "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1782239544.jpg",
+     "plats": [
+      {
+       "n": "PC",
+       "s": 84,
+       "c": 16,
+       "d": "2026-10-06"
+      },
+      {
+       "n": "XSX",
+       "s": 86,
+       "c": 12,
+       "d": "2026-10-06"
+      },
+      {
+       "n": "PS5",
+       "s": 88,
+       "c": 60,
+       "d": "2026-10-06"
+      }
+     ],
+     "dev": "Fuse Games",
+     "pub": "Secret Mode",
+     "meta": 88,
+     "meta_count": 74,
+     "user": 8.3,
+     "user_count": 35,
      "scores": {}
     },
     {
@@ -1785,6 +1763,40 @@
      "meta_count": 58,
      "user": 8.2,
      "user_count": 87,
+     "scores": {}
+    },
+    {
+     "slug": "ace-combat-8-wings-of-theve",
+     "title": "Ace Combat 8: Wings of Theve",
+     "date": "2026-10-02",
+     "url": "https://www.metacritic.com/game/ace-combat-8-wings-of-theve/",
+     "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1788987138.jpg",
+     "plats": [
+      {
+       "n": "PC",
+       "s": 86,
+       "c": 28,
+       "d": "2026-10-02"
+      },
+      {
+       "n": "XSX",
+       "s": 90,
+       "c": 4,
+       "d": "2026-10-02"
+      },
+      {
+       "n": "PS5",
+       "s": 87,
+       "c": 55,
+       "d": "2026-10-02"
+      }
+     ],
+     "dev": "Bandai Namco Aces Inc.",
+     "pub": "Bandai Namco Games",
+     "meta": 87,
+     "meta_count": 72,
+     "user": 8.7,
+     "user_count": 40,
      "scores": {}
     },
     {
@@ -1898,7 +1910,7 @@
      "meta": 83,
      "meta_count": 87,
      "user": 8.8,
-     "user_count": 182,
+     "user_count": 198,
      "scores": {}
     },
     {
@@ -1949,19 +1961,19 @@
   }
  ],
  "sig": {
-  "resident-evil-2-deluxe-edition": [
-   93,
-   9,
-   null
-  ],
   "the-witcher-3-wild-hunt-remastered": [
    92,
    13,
    8.6
   ],
+  "resident-evil-2-deluxe-edition": [
+   92,
+   12,
+   null
+  ],
   "resident-evil-4-gold-edition": [
    90,
-   8,
+   10,
    null
   ],
   "trails-in-the-sky-2nd-chapter": [
@@ -1976,7 +1988,7 @@
   ],
   "fire-emblem-fortunes-weave": [
    89,
-   99,
+   100,
    8.5
   ],
   "well-dweller": [
@@ -1984,15 +1996,15 @@
    12,
    8.6
   ],
+  "kingdom-hearts-collection-i-iii": [
+   88,
+   22,
+   9.1
+  ],
   "star-wars-galactic-racer": [
    88,
    74,
    8.3
-  ],
-  "kingdom-hearts-collection-i-iii": [
-   88,
-   20,
-   8.8
   ],
   "gears-of-war-e-day": [
    88,
@@ -2004,30 +2016,40 @@
    72,
    8.7
   ],
-  "silver-pines": [
-   86,
-   22,
-   8.4
-  ],
   "dressmaker": [
+   86,
+   8,
+   7.8
+  ],
+  "silver-pines": [
    85,
-   7,
-   null
+   23,
+   8.4
   ],
   "planet-zoo-2": [
    85,
-   15,
+   16,
    null
   ],
   "castlevania-belmonts-curse": [
    84,
-   57,
+   60,
    null
+  ],
+  "order-of-the-sinking-star": [
+   83,
+   17,
+   8
   ],
   "control-resonant": [
    83,
    87,
    8.8
+  ],
+  "middle-earth-shadow-bundle": [
+   83,
+   8,
+   7
   ],
   "transport-fever-3": [
    83,
@@ -2038,11 +2060,6 @@
    83,
    30,
    9.3
-  ],
-  "order-of-the-sinking-star": [
-   83,
-   15,
-   8
   ],
   "nighthawks": [
    82,
@@ -2056,7 +2073,7 @@
   ],
   "warhammer-40000-boltgun-2": [
    81,
-   18,
+   19,
    null
   ],
   "silent-hill-townfall": [
@@ -2064,20 +2081,25 @@
    97,
    7.1
   ],
+  "disney-pixar-toy-story-retro-roundup": [
+   79,
+   7,
+   null
+  ],
   "dynasty-warriors-3-complete-edition-remastered": [
    79,
    8,
    9
   ],
-  "aniimo": [
-   78,
-   15,
-   7.1
-  ],
   "valor-mortis": [
    78,
-   48,
-   8.3
+   50,
+   7.8
+  ],
+  "blueys-happy-snaps": [
+   77,
+   7,
+   null
   ],
   "nivalis-nights": [
    77,
@@ -2089,9 +2111,19 @@
    11,
    7.6
   ],
+  "penguin-colony": [
+   76,
+   8,
+   null
+  ],
   "ratatan": [
    76,
    9,
+   null
+  ],
+  "tales-of-eternia-remastered": [
+   76,
+   13,
    null
   ],
   "nascar-26": [
@@ -2099,35 +2131,25 @@
    8,
    null
   ],
-  "tales-of-eternia-remastered": [
-   76,
-   12,
-   null
-  ],
   "minecraft-dungeons-ii": [
    75,
    37,
    7.7
+  ],
+  "forever-ago": [
+   75,
+   19,
+   7.8
   ],
   "ea-sports-fc-27": [
    74,
    65,
    2.2
   ],
-  "forever-ago": [
-   74,
-   18,
-   7.8
-  ],
   "end-of-abyss": [
    73,
    20,
    7.2
-  ],
-  "another-eden-begins": [
-   73,
-   17,
-   5
   ],
   "graveyard-keeper-2": [
    72,
@@ -2151,7 +2173,7 @@
   ],
   "clive-barkers-hellraiser-revival": [
    69,
-   38,
+   39,
    8.5
   ],
   "garfield-escape-from-monday": [
