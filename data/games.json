@@ -1,10 +1,10 @@
 {
- "updated": "2026-10-17 06:58",
+ "updated": "2026-10-18 07:15",
  "window": [
-  "2026-09-17",
-  "2026-10-17"
+  "2026-09-18",
+  "2026-10-18"
  ],
- "total": 47,
+ "total": 46,
  "released": [
   {
    "slug": "dragons-dogma-2-dark-arisen",
@@ -41,8 +41,8 @@
    "dev": "Capcom",
    "pub": "Capcom",
    "meta": 83,
-   "meta_count": 30,
-   "user": 9.3,
+   "meta_count": 32,
+   "user": 8.9,
    "user_count": 6,
    "scores": {
     "Push Square": 90,
@@ -85,53 +85,10 @@
    "pub": "Koei Tecmo Games",
    "meta": 79,
    "meta_count": 8,
-   "user": 9,
+   "user": 8.9,
    "user_count": 10,
    "scores": {
     "Push Square": 70
-   }
-  },
-  {
-   "slug": "trails-in-the-sky-2nd-chapter",
-   "title": "Trails in the Sky 2nd Chapter",
-   "date": "2026-09-17",
-   "url": "https://www.metacritic.com/game/trails-in-the-sky-2nd-chapter/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1789495679.jpg",
-   "plats": [
-    {
-     "n": "PC",
-     "s": 93,
-     "c": 10,
-     "d": "2026-09-17"
-    },
-    {
-     "n": "NS2",
-     "s": 84,
-     "c": 5,
-     "d": "2026-09-17"
-    },
-    {
-     "n": "NS",
-     "s": null,
-     "c": 0,
-     "d": "2026-09-17"
-    },
-    {
-     "n": "PS5",
-     "s": 92,
-     "c": 14,
-     "d": "2026-09-17"
-    }
-   ],
-   "dev": "Falcom",
-   "pub": "GungHo",
-   "meta": 90,
-   "meta_count": 26,
-   "user": 8.9,
-   "user_count": 44,
-   "scores": {
-    "IGN": 90,
-    "Push Square": 90
    }
   },
   {
@@ -162,14 +119,42 @@
    ],
    "dev": "Remedy Entertainment",
    "pub": "Remedy Entertainment",
-   "meta": 83,
-   "meta_count": 87,
+   "meta": 84,
+   "meta_count": 88,
    "user": 8.8,
    "user_count": 198,
    "scores": {
     "Push Square": 80,
     "IGN": 80
    }
+  },
+  {
+   "slug": "gears-of-war-e-day",
+   "title": "Gears of War: E-Day",
+   "date": "2026-10-06",
+   "url": "https://www.metacritic.com/game/gears-of-war-e-day/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1788246859.jpg",
+   "plats": [
+    {
+     "n": "XSX",
+     "s": 87,
+     "c": 53,
+     "d": "2026-10-06"
+    },
+    {
+     "n": "PC",
+     "s": 84,
+     "c": 27,
+     "d": "2026-10-06"
+    }
+   ],
+   "dev": "The Coalition",
+   "pub": "Xbox Game Studios",
+   "meta": 87,
+   "meta_count": 75,
+   "user": 8.7,
+   "user_count": 662,
+   "scores": {}
   },
   {
    "slug": "ace-combat-8-wings-of-theve",
@@ -289,64 +274,9 @@
    "pub": "Kyle Thompson",
    "meta": 89,
    "meta_count": 12,
-   "user": 8.6,
+   "user": 8.5,
    "user_count": 21,
    "scores": {}
-  },
-  {
-   "slug": "gears-of-war-e-day",
-   "title": "Gears of War: E-Day",
-   "date": "2026-10-06",
-   "url": "https://www.metacritic.com/game/gears-of-war-e-day/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1788246859.jpg",
-   "plats": [
-    {
-     "n": "XSX",
-     "s": 87,
-     "c": 53,
-     "d": "2026-10-06"
-    },
-    {
-     "n": "PC",
-     "s": 84,
-     "c": 27,
-     "d": "2026-10-06"
-    }
-   ],
-   "dev": "The Coalition",
-   "pub": "Xbox Game Studios",
-   "meta": 88,
-   "meta_count": 74,
-   "user": 8.6,
-   "user_count": 662,
-   "scores": {}
-  },
-  {
-   "slug": "fire-emblem-fortunes-weave",
-   "title": "Fire Emblem: Fortune's Weave",
-   "date": "2026-09-17",
-   "url": "https://www.metacritic.com/game/fire-emblem-fortunes-weave/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1781630867.jpg",
-   "plats": [
-    {
-     "n": "NS2",
-     "s": null,
-     "c": 24,
-     "d": null
-    }
-   ],
-   "dev": "Nintendo",
-   "pub": "Nintendo",
-   "meta": 89,
-   "meta_count": 100,
-   "user": 8.5,
-   "user_count": 257,
-   "scores": {
-    "IGN": 100,
-    "Eurogamer": 100,
-    "GameSpot": 90,
-    "Nintendo Life": 80
-   }
   },
   {
    "slug": "clive-barkers-hellraiser-revival",
@@ -384,7 +314,7 @@
    "pub": "Saber Interactive",
    "meta": 69,
    "meta_count": 39,
-   "user": 8.5,
+   "user": 8.4,
    "user_count": 56,
    "scores": {
     "IGN": 60,
@@ -421,7 +351,7 @@
    "pub": "Secret Mode",
    "meta": 88,
    "meta_count": 74,
-   "user": 8.3,
+   "user": 8.2,
    "user_count": 35,
    "scores": {
     "Eurogamer": 100,
@@ -459,10 +389,53 @@
    "pub": "Arc Games",
    "meta": 83,
    "meta_count": 17,
-   "user": 8,
+   "user": 8.1,
    "user_count": 17,
    "scores": {
     "GameSpot": 80
+   }
+  },
+  {
+   "slug": "castlevania-belmonts-curse",
+   "title": "Castlevania: Belmont's Curse",
+   "date": "2026-10-15",
+   "url": "https://www.metacritic.com/game/castlevania-belmonts-curse/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1791874027.jpg",
+   "plats": [
+    {
+     "n": "PS5",
+     "s": 86,
+     "c": 45,
+     "d": "2026-10-15"
+    },
+    {
+     "n": "PC",
+     "s": 85,
+     "c": 15,
+     "d": "2026-10-15"
+    },
+    {
+     "n": "NS",
+     "s": null,
+     "c": 4,
+     "d": "2026-10-15"
+    },
+    {
+     "n": "XSX",
+     "s": 88,
+     "c": 6,
+     "d": "2026-10-15"
+    }
+   ],
+   "dev": "Evil Empire",
+   "pub": "Konami",
+   "meta": 84,
+   "meta_count": 61,
+   "user": 8,
+   "user_count": 0,
+   "scores": {
+    "IGN": 80,
+    "Push Square": 70
    }
   },
   {
@@ -494,7 +467,7 @@
    "dev": "ONE MORE LEVEL",
    "pub": "Lyrical Games",
    "meta": 78,
-   "meta_count": 50,
+   "meta_count": 51,
    "user": 7.8,
    "user_count": 0,
    "scores": {
@@ -575,7 +548,7 @@
    "dev": "Screen Burn",
    "pub": "Konami",
    "meta": 80,
-   "meta_count": 97,
+   "meta_count": 99,
    "user": 7.1,
    "user_count": 151,
    "scores": {
@@ -636,8 +609,8 @@
    "dev": "EA Canada",
    "pub": "Electronic Arts",
    "meta": 74,
-   "meta_count": 65,
-   "user": 2.2,
+   "meta_count": 66,
+   "user": 2.1,
    "user_count": 84,
    "scores": {}
   },
@@ -712,49 +685,6 @@
    "scores": {
     "Nintendo Life": 90
    }
-  },
-  {
-   "slug": "castlevania-belmonts-curse",
-   "title": "Castlevania: Belmont's Curse",
-   "date": "2026-10-15",
-   "url": "https://www.metacritic.com/game/castlevania-belmonts-curse/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1791874027.jpg",
-   "plats": [
-    {
-     "n": "PS5",
-     "s": 86,
-     "c": 45,
-     "d": "2026-10-15"
-    },
-    {
-     "n": "PC",
-     "s": 85,
-     "c": 15,
-     "d": "2026-10-15"
-    },
-    {
-     "n": "NS",
-     "s": null,
-     "c": 4,
-     "d": "2026-10-15"
-    },
-    {
-     "n": "XSX",
-     "s": 88,
-     "c": 6,
-     "d": "2026-10-15"
-    }
-   ],
-   "dev": "Evil Empire",
-   "pub": "Konami",
-   "meta": 84,
-   "meta_count": 60,
-   "user": null,
-   "user_count": 0,
-   "scores": {
-    "IGN": 80,
-    "Push Square": 70
-   }
   }
  ],
  "watch": [
@@ -790,6 +720,40 @@
    "meta_count": 22,
    "user": 9.1,
    "user_count": 2,
+   "scores": {}
+  },
+  {
+   "slug": "enshrouded",
+   "title": "Enshrouded",
+   "date": "2026-10-15",
+   "url": "https://www.metacritic.com/game/enshrouded/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1792084682.jpg",
+   "plats": [
+    {
+     "n": "PC",
+     "s": 89,
+     "c": 10,
+     "d": "2026-10-15"
+    },
+    {
+     "n": "XSX",
+     "s": null,
+     "c": 0,
+     "d": null
+    },
+    {
+     "n": "PS5",
+     "s": null,
+     "c": 3,
+     "d": "2026-10-15"
+    }
+   ],
+   "dev": "Keen Games",
+   "pub": "Keen Games",
+   "meta": 89,
+   "meta_count": 10,
+   "user": 8.8,
+   "user_count": 4,
    "scores": {}
   },
   {
@@ -874,7 +838,7 @@
    "pub": "Microids",
    "meta": 68,
    "meta_count": 10,
-   "user": 8.1,
+   "user": 8.4,
    "user_count": 1,
    "scores": {}
   },
@@ -896,8 +860,48 @@
    "pub": "505 Games",
    "meta": 77,
    "meta_count": 10,
-   "user": 8,
+   "user": 8.1,
    "user_count": 4,
+   "scores": {}
+  },
+  {
+   "slug": "toem-2",
+   "title": "TOEM 2",
+   "date": "2026-09-29",
+   "url": "https://www.metacritic.com/game/toem-2/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1790597595.jpg",
+   "plats": [
+    {
+     "n": "PC",
+     "s": null,
+     "c": 0,
+     "d": "2026-09-29"
+    },
+    {
+     "n": "PS5",
+     "s": null,
+     "c": 0,
+     "d": "2026-09-29"
+    },
+    {
+     "n": "NS",
+     "s": null,
+     "c": 0,
+     "d": "2026-09-29"
+    },
+    {
+     "n": "NS2",
+     "s": null,
+     "c": 0,
+     "d": "2026-09-29"
+    }
+   ],
+   "dev": "Something We Made",
+   "pub": "Something We Made",
+   "meta": 81,
+   "meta_count": 16,
+   "user": 7.9,
+   "user_count": 2,
    "scores": {}
   },
   {
@@ -941,80 +945,6 @@
    "scores": {}
   },
   {
-   "slug": "toem-2",
-   "title": "TOEM 2",
-   "date": "2026-09-29",
-   "url": "https://www.metacritic.com/game/toem-2/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1790597595.jpg",
-   "plats": [
-    {
-     "n": "PC",
-     "s": null,
-     "c": 0,
-     "d": "2026-09-29"
-    },
-    {
-     "n": "PS5",
-     "s": null,
-     "c": 0,
-     "d": "2026-09-29"
-    },
-    {
-     "n": "NS",
-     "s": null,
-     "c": 0,
-     "d": "2026-09-29"
-    },
-    {
-     "n": "NS2",
-     "s": null,
-     "c": 0,
-     "d": "2026-09-29"
-    }
-   ],
-   "dev": "Something We Made",
-   "pub": "Something We Made",
-   "meta": 81,
-   "meta_count": 15,
-   "user": 7.7,
-   "user_count": 2,
-   "scores": {}
-  },
-  {
-   "slug": "endless-legend-2",
-   "title": "ENDLESS Legend 2",
-   "date": "2026-09-17",
-   "url": "https://www.metacritic.com/game/endless-legend-2/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1786085068.jpg",
-   "plats": [
-    {
-     "n": "PC",
-     "s": 77,
-     "c": 10,
-     "d": "2026-09-17"
-    },
-    {
-     "n": "XSX",
-     "s": null,
-     "c": 0,
-     "d": "2026-09-17"
-    },
-    {
-     "n": "PS5",
-     "s": null,
-     "c": 0,
-     "d": "2026-09-17"
-    }
-   ],
-   "dev": "Amplitude Studios",
-   "pub": "Hooded Horse",
-   "meta": 77,
-   "meta_count": 11,
-   "user": 7.6,
-   "user_count": 4,
-   "scores": {}
-  },
-  {
    "slug": "end-of-abyss",
    "title": "End of Abyss",
    "date": "2026-10-01",
@@ -1044,76 +974,8 @@
    "pub": "Epic Games",
    "meta": 73,
    "meta_count": 20,
-   "user": 7.2,
+   "user": 7.1,
    "user_count": 14,
-   "scores": {}
-  },
-  {
-   "slug": "transport-fever-3",
-   "title": "Transport Fever 3",
-   "date": "2026-09-29",
-   "url": "https://www.metacritic.com/game/transport-fever-3/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1790317355.jpg",
-   "plats": [
-    {
-     "n": "XSX",
-     "s": null,
-     "c": 0,
-     "d": "2026-09-29"
-    },
-    {
-     "n": "PS5",
-     "s": 77,
-     "c": 5,
-     "d": "2026-09-29"
-    },
-    {
-     "n": "PC",
-     "s": 84,
-     "c": 10,
-     "d": "2026-09-29"
-    }
-   ],
-   "dev": "Urban Games",
-   "pub": "Paradox Interactive",
-   "meta": 83,
-   "meta_count": 16,
-   "user": 3,
-   "user_count": 13,
-   "scores": {}
-  },
-  {
-   "slug": "planet-zoo-2",
-   "title": "Planet Zoo 2",
-   "date": "2026-10-13",
-   "url": "https://www.metacritic.com/game/planet-zoo-2/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1791918063.jpg",
-   "plats": [
-    {
-     "n": "XSX",
-     "s": null,
-     "c": 1,
-     "d": "2026-10-13"
-    },
-    {
-     "n": "PS5",
-     "s": null,
-     "c": 3,
-     "d": "2026-10-13"
-    },
-    {
-     "n": "PC",
-     "s": 85,
-     "c": 15,
-     "d": "2026-10-13"
-    }
-   ],
-   "dev": "Frontier Developments",
-   "pub": "Frontier Developments",
-   "meta": 85,
-   "meta_count": 16,
-   "user": null,
-   "user_count": 0,
    "scores": {}
   },
   {
@@ -1151,9 +1013,77 @@
    "dev": "Auroch Digital",
    "pub": "Big Fan Games",
    "meta": 81,
-   "meta_count": 19,
-   "user": null,
+   "meta_count": 21,
+   "user": 6,
    "user_count": 0,
+   "scores": {}
+  },
+  {
+   "slug": "planet-zoo-2",
+   "title": "Planet Zoo 2",
+   "date": "2026-10-13",
+   "url": "https://www.metacritic.com/game/planet-zoo-2/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1791918063.jpg",
+   "plats": [
+    {
+     "n": "XSX",
+     "s": null,
+     "c": 1,
+     "d": "2026-10-13"
+    },
+    {
+     "n": "PS5",
+     "s": null,
+     "c": 3,
+     "d": "2026-10-13"
+    },
+    {
+     "n": "PC",
+     "s": 85,
+     "c": 15,
+     "d": "2026-10-13"
+    }
+   ],
+   "dev": "Frontier Developments",
+   "pub": "Frontier Developments",
+   "meta": 85,
+   "meta_count": 16,
+   "user": 5.1,
+   "user_count": 0,
+   "scores": {}
+  },
+  {
+   "slug": "transport-fever-3",
+   "title": "Transport Fever 3",
+   "date": "2026-09-29",
+   "url": "https://www.metacritic.com/game/transport-fever-3/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1790317355.jpg",
+   "plats": [
+    {
+     "n": "XSX",
+     "s": null,
+     "c": 0,
+     "d": "2026-09-29"
+    },
+    {
+     "n": "PS5",
+     "s": 77,
+     "c": 5,
+     "d": "2026-09-29"
+    },
+    {
+     "n": "PC",
+     "s": 84,
+     "c": 10,
+     "d": "2026-09-29"
+    }
+   ],
+   "dev": "Urban Games",
+   "pub": "Paradox Interactive",
+   "meta": 83,
+   "meta_count": 16,
+   "user": 2.9,
+   "user_count": 13,
    "scores": {}
   },
   {
@@ -1203,9 +1133,49 @@
    "dev": "TOSE",
    "pub": "Bandai Namco Games",
    "meta": 76,
-   "meta_count": 13,
+   "meta_count": 16,
    "user": null,
    "user_count": 0,
+   "scores": {}
+  },
+  {
+   "slug": "ratatan",
+   "title": "RATATAN",
+   "date": "2026-10-15",
+   "url": "https://www.metacritic.com/game/ratatan/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1777421279.jpg",
+   "plats": [
+    {
+     "n": "PC",
+     "s": null,
+     "c": 2,
+     "d": "2026-10-15"
+    },
+    {
+     "n": "NS2",
+     "s": 76,
+     "c": 10,
+     "d": "2026-10-15"
+    },
+    {
+     "n": "PS5",
+     "s": null,
+     "c": 3,
+     "d": "2026-10-15"
+    },
+    {
+     "n": "XSX",
+     "s": null,
+     "c": 2,
+     "d": "2026-10-15"
+    }
+   ],
+   "dev": "Ratata Arts",
+   "pub": "Game Source Entertainment",
+   "meta": 76,
+   "meta_count": 10,
+   "user": null,
+   "user_count": 1,
    "scores": {}
   },
   {
@@ -1242,8 +1212,8 @@
    ],
    "dev": "Funselektor Labs Inc.",
    "pub": "Funselektor Labs Inc.",
-   "meta": 71,
-   "meta_count": 16,
+   "meta": 72,
+   "meta_count": 17,
    "user": null,
    "user_count": 0,
    "scores": {}
@@ -1323,130 +1293,130 @@
    "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1787246452.jpg"
   },
   {
-   "slug": "kings-call-2",
-   "title": "Kings Call 2",
-   "date": "2026-10-18",
-   "url": "https://www.metacritic.com/game/kings-call-2/",
+   "slug": "reborn-a-zombie-2-entwined-hearts",
+   "title": "Reborn a Zombie 2: Entwined Hearts",
+   "date": "2026-10-19",
+   "url": "https://www.metacritic.com/game/reborn-a-zombie-2-entwined-hearts/",
    "meta": null,
    "plats": [
     {
      "n": "PC",
      "s": null,
      "c": 0,
-     "d": "2026-10-18"
+     "d": "2026-10-19"
     }
    ],
-   "dev": "X Star Game Limited",
-   "pub": "X Star Game Limited",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1234794-52.jpg"
+   "dev": "Asminae",
+   "pub": "Asminae",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-991504-52.jpg"
   },
   {
-   "slug": "arbiter-2",
-   "title": "Arbiter",
-   "date": "2026-10-18",
-   "url": "https://www.metacritic.com/game/arbiter-2/",
+   "slug": "warding-witches",
+   "title": "Warding Witches",
+   "date": "2026-10-19",
+   "url": "https://www.metacritic.com/game/warding-witches/",
    "meta": null,
    "plats": [
     {
      "n": "PC",
      "s": null,
      "c": 0,
-     "d": "2026-10-18"
+     "d": "2026-10-19"
     }
    ],
-   "dev": "Tyro, LLC",
-   "pub": "Tyro, LLC",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1289402-52.jpg"
+   "dev": "Sonorode",
+   "pub": "Headup Games",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1102207-52.jpg"
   },
   {
-   "slug": "a-journey-through-the-light",
-   "title": "A Journey Through the Light",
-   "date": "2026-10-18",
-   "url": "https://www.metacritic.com/game/a-journey-through-the-light/",
+   "slug": "my-name-is",
+   "title": "My Name Is...",
+   "date": "2026-10-19",
+   "url": "https://www.metacritic.com/game/my-name-is/",
    "meta": null,
    "plats": [
     {
      "n": "PC",
      "s": null,
      "c": 0,
-     "d": "2026-10-18"
+     "d": "2026-10-19"
     }
    ],
-   "dev": "Fluorescent Studio",
-   "pub": "Fluorescent Studio",
-   "img": ""
+   "dev": "Omegan's Domain",
+   "pub": "Omegan's Domain",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1164157-52.jpg"
   },
   {
-   "slug": "decisive-decks",
-   "title": "Decisive Decks",
-   "date": "2026-10-18",
-   "url": "https://www.metacritic.com/game/decisive-decks/",
+   "slug": "big-dig",
+   "title": "Big Dig",
+   "date": "2026-10-19",
+   "url": "https://www.metacritic.com/game/big-dig/",
    "meta": null,
    "plats": [
     {
      "n": "PC",
      "s": null,
      "c": 0,
-     "d": "2026-10-18"
+     "d": "2026-10-19"
     }
    ],
-   "dev": "Pick Huang",
-   "pub": "Pick Huang",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1291408-52.jpg"
+   "dev": "Dan Schumacher",
+   "pub": "Dan Schumacher",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1201307-52.jpg"
   },
   {
-   "slug": "storebot-tidy-up-pc-parts",
-   "title": "STOREBOT: Tidy Up PC Parts",
-   "date": "2026-10-18",
-   "url": "https://www.metacritic.com/game/storebot-tidy-up-pc-parts/",
+   "slug": "coin-harvest",
+   "title": "Coin Harvest",
+   "date": "2026-10-19",
+   "url": "https://www.metacritic.com/game/coin-harvest/",
    "meta": null,
    "plats": [
     {
      "n": "PC",
      "s": null,
      "c": 0,
-     "d": "2026-10-18"
+     "d": "2026-10-19"
     }
    ],
-   "dev": "Studio Maechuragi",
-   "pub": "Studio Maechuragi",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1293281-52.jpg"
+   "dev": "Dumbbell Games",
+   "pub": "Beindie",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1202478-52.jpg"
   },
   {
-   "slug": "slup",
-   "title": "SLUP",
-   "date": "2026-10-18",
-   "url": "https://www.metacritic.com/game/slup/",
+   "slug": "loop-dungeon-incremental",
+   "title": "Loop Dungeon - Incremental",
+   "date": "2026-10-19",
+   "url": "https://www.metacritic.com/game/loop-dungeon-incremental/",
    "meta": null,
    "plats": [
     {
      "n": "PC",
      "s": null,
      "c": 0,
-     "d": "2026-10-18"
+     "d": "2026-10-19"
     }
    ],
-   "dev": "INECT",
-   "pub": "INECT",
-   "img": ""
+   "dev": "Playsect",
+   "pub": "Playsect",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1231161-52.jpg"
   },
   {
-   "slug": "demonator",
-   "title": "Demonator",
-   "date": "2026-10-18",
-   "url": "https://www.metacritic.com/game/demonator/",
+   "slug": "puzzmao-puzzle-and-magical-overlord-",
+   "title": "PuzzMao ~ Puzzle and Magical Overlord ~",
+   "date": "2026-10-19",
+   "url": "https://www.metacritic.com/game/puzzmao-puzzle-and-magical-overlord-/",
    "meta": null,
    "plats": [
     {
      "n": "PC",
      "s": null,
      "c": 0,
-     "d": "2026-10-18"
+     "d": "2026-10-19"
     }
    ],
-   "dev": "Marcello Studios",
-   "pub": "Valkeala Software",
-   "img": ""
+   "dev": "SERIALGAMES Inc.",
+   "pub": "SERIALGAMES Inc.",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1196558-52.jpg"
   }
  ],
  "annual": [
@@ -1534,7 +1504,7 @@
      "dev": "Yacht Club Games",
      "pub": "Yacht Club Games",
      "meta": 90,
-     "meta_count": 73,
+     "meta_count": 74,
      "user": 8.1,
      "user_count": 93,
      "scores": {}
@@ -1574,9 +1544,31 @@
      "dev": "Capcom",
      "pub": "Capcom",
      "meta": 89,
-     "meta_count": 140,
+     "meta_count": 141,
      "user": 9.3,
      "user_count": 4070,
+     "scores": {}
+    },
+    {
+     "slug": "pokemon-pokopia",
+     "title": "Pokemon Pokopia",
+     "date": "2026-03-05",
+     "url": "https://www.metacritic.com/game/pokemon-pokopia/",
+     "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1763427281.jpg",
+     "plats": [
+      {
+       "n": "NS2",
+       "s": 89,
+       "c": 121,
+       "d": "2026-03-05"
+      }
+     ],
+     "dev": "Omega Force",
+     "pub": "Nintendo",
+     "meta": 89,
+     "meta_count": 121,
+     "user": 8.6,
+     "user_count": 571,
      "scores": {}
     },
     {
@@ -1615,30 +1607,8 @@
      "pub": "Square Enix",
      "meta": 89,
      "meta_count": 58,
-     "user": 8.6,
+     "user": 8.5,
      "user_count": 40,
-     "scores": {}
-    },
-    {
-     "slug": "pokemon-pokopia",
-     "title": "Pokemon Pokopia",
-     "date": "2026-03-05",
-     "url": "https://www.metacritic.com/game/pokemon-pokopia/",
-     "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1763427281.jpg",
-     "plats": [
-      {
-       "n": "NS2",
-       "s": 89,
-       "c": 121,
-       "d": "2026-03-05"
-      }
-     ],
-     "dev": "Omega Force",
-     "pub": "Nintendo",
-     "meta": 89,
-     "meta_count": 121,
-     "user": 8.6,
-     "user_count": 571,
      "scores": {}
     },
     {
@@ -1658,71 +1628,9 @@
      "dev": "Nintendo",
      "pub": "Nintendo",
      "meta": 89,
-     "meta_count": 100,
+     "meta_count": 102,
      "user": 8.5,
      "user_count": 257,
-     "scores": {}
-    },
-    {
-     "slug": "gears-of-war-e-day",
-     "title": "Gears of War: E-Day",
-     "date": "2026-10-06",
-     "url": "https://www.metacritic.com/game/gears-of-war-e-day/",
-     "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1788246859.jpg",
-     "plats": [
-      {
-       "n": "XSX",
-       "s": 87,
-       "c": 53,
-       "d": "2026-10-06"
-      },
-      {
-       "n": "PC",
-       "s": 84,
-       "c": 27,
-       "d": "2026-10-06"
-      }
-     ],
-     "dev": "The Coalition",
-     "pub": "Xbox Game Studios",
-     "meta": 88,
-     "meta_count": 74,
-     "user": 8.6,
-     "user_count": 662,
-     "scores": {}
-    },
-    {
-     "slug": "star-wars-galactic-racer",
-     "title": "Star Wars: Galactic Racer",
-     "date": "2026-10-06",
-     "url": "https://www.metacritic.com/game/star-wars-galactic-racer/",
-     "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1782239544.jpg",
-     "plats": [
-      {
-       "n": "PC",
-       "s": 84,
-       "c": 16,
-       "d": "2026-10-06"
-      },
-      {
-       "n": "XSX",
-       "s": 86,
-       "c": 12,
-       "d": "2026-10-06"
-      },
-      {
-       "n": "PS5",
-       "s": 88,
-       "c": 60,
-       "d": "2026-10-06"
-      }
-     ],
-     "dev": "Fuse Games",
-     "pub": "Secret Mode",
-     "meta": 88,
-     "meta_count": 74,
-     "user": 8.3,
-     "user_count": 35,
      "scores": {}
     },
     {
@@ -1766,6 +1674,40 @@
      "scores": {}
     },
     {
+     "slug": "star-wars-galactic-racer",
+     "title": "Star Wars: Galactic Racer",
+     "date": "2026-10-06",
+     "url": "https://www.metacritic.com/game/star-wars-galactic-racer/",
+     "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1782239544.jpg",
+     "plats": [
+      {
+       "n": "PC",
+       "s": 84,
+       "c": 16,
+       "d": "2026-10-06"
+      },
+      {
+       "n": "XSX",
+       "s": 86,
+       "c": 12,
+       "d": "2026-10-06"
+      },
+      {
+       "n": "PS5",
+       "s": 88,
+       "c": 60,
+       "d": "2026-10-06"
+      }
+     ],
+     "dev": "Fuse Games",
+     "pub": "Secret Mode",
+     "meta": 88,
+     "meta_count": 74,
+     "user": 8.2,
+     "user_count": 35,
+     "scores": {}
+    },
+    {
      "slug": "ace-combat-8-wings-of-theve",
      "title": "Ace Combat 8: Wings of Theve",
      "date": "2026-10-02",
@@ -1797,6 +1739,34 @@
      "meta_count": 72,
      "user": 8.7,
      "user_count": 40,
+     "scores": {}
+    },
+    {
+     "slug": "gears-of-war-e-day",
+     "title": "Gears of War: E-Day",
+     "date": "2026-10-06",
+     "url": "https://www.metacritic.com/game/gears-of-war-e-day/",
+     "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1788246859.jpg",
+     "plats": [
+      {
+       "n": "XSX",
+       "s": 87,
+       "c": 53,
+       "d": "2026-10-06"
+      },
+      {
+       "n": "PC",
+       "s": 84,
+       "c": 27,
+       "d": "2026-10-06"
+      }
+     ],
+     "dev": "The Coalition",
+     "pub": "Xbox Game Studios",
+     "meta": 87,
+     "meta_count": 75,
+     "user": 8.7,
+     "user_count": 662,
      "scores": {}
     },
     {
@@ -1834,7 +1804,7 @@
      "dev": "Capcom",
      "pub": "Capcom",
      "meta": 85,
-     "meta_count": 109,
+     "meta_count": 110,
      "user": 8.7,
      "user_count": 482,
      "scores": {}
@@ -1874,7 +1844,7 @@
      "dev": "Capcom",
      "pub": "Capcom",
      "meta": 85,
-     "meta_count": 106,
+     "meta_count": 107,
      "user": 8.5,
      "user_count": 192,
      "scores": {}
@@ -1907,8 +1877,8 @@
      ],
      "dev": "Remedy Entertainment",
      "pub": "Remedy Entertainment",
-     "meta": 83,
-     "meta_count": 87,
+     "meta": 84,
+     "meta_count": 88,
      "user": 8.8,
      "user_count": 198,
      "scores": {}
@@ -1976,25 +1946,15 @@
    10,
    null
   ],
-  "trails-in-the-sky-2nd-chapter": [
-   90,
-   26,
-   8.9
-  ],
   "enshrouded": [
    89,
-   9,
-   null
-  ],
-  "fire-emblem-fortunes-weave": [
-   89,
-   100,
-   8.5
+   10,
+   8.8
   ],
   "well-dweller": [
    89,
    12,
-   8.6
+   8.5
   ],
   "kingdom-hearts-collection-i-iii": [
    88,
@@ -2004,12 +1964,12 @@
   "star-wars-galactic-racer": [
    88,
    74,
-   8.3
+   8.2
   ],
   "gears-of-war-e-day": [
-   88,
-   74,
-   8.6
+   87,
+   75,
+   8.7
   ],
   "ace-combat-8-wings-of-theve": [
    87,
@@ -2019,7 +1979,7 @@
   "dressmaker": [
    86,
    8,
-   7.8
+   8.3
   ],
   "silver-pines": [
    85,
@@ -2029,22 +1989,27 @@
   "planet-zoo-2": [
    85,
    16,
-   null
+   5.1
   ],
   "castlevania-belmonts-curse": [
    84,
-   60,
-   null
+   61,
+   8
+  ],
+  "control-resonant": [
+   84,
+   88,
+   8.8
   ],
   "order-of-the-sinking-star": [
    83,
    17,
-   8
+   8.1
   ],
-  "control-resonant": [
+  "dragons-dogma-2-dark-arisen": [
    83,
-   87,
-   8.8
+   32,
+   8.9
   ],
   "middle-earth-shadow-bundle": [
    83,
@@ -2054,12 +2019,7 @@
   "transport-fever-3": [
    83,
    16,
-   3
-  ],
-  "dragons-dogma-2-dark-arisen": [
-   83,
-   30,
-   9.3
+   2.9
   ],
   "nighthawks": [
    82,
@@ -2068,17 +2028,17 @@
   ],
   "toem-2": [
    81,
-   15,
-   7.7
+   16,
+   7.9
   ],
   "warhammer-40000-boltgun-2": [
    81,
-   19,
-   null
+   21,
+   6
   ],
   "silent-hill-townfall": [
    80,
-   97,
+   99,
    7.1
   ],
   "disney-pixar-toy-story-retro-roundup": [
@@ -2089,11 +2049,11 @@
   "dynasty-warriors-3-complete-edition-remastered": [
    79,
    8,
-   9
+   8.9
   ],
   "valor-mortis": [
    78,
-   50,
+   51,
    7.8
   ],
   "blueys-happy-snaps": [
@@ -2104,31 +2064,26 @@
   "nivalis-nights": [
    77,
    10,
-   8
-  ],
-  "endless-legend-2": [
-   77,
-   11,
-   7.6
+   8.1
   ],
   "penguin-colony": [
    76,
    8,
    null
   ],
-  "ratatan": [
-   76,
-   9,
-   null
-  ],
   "tales-of-eternia-remastered": [
    76,
-   13,
+   16,
    null
   ],
   "nascar-26": [
    76,
    8,
+   null
+  ],
+  "ratatan": [
+   76,
+   10,
    null
   ],
   "minecraft-dungeons-ii": [
@@ -2143,23 +2098,23 @@
   ],
   "ea-sports-fc-27": [
    74,
-   65,
-   2.2
+   66,
+   2.1
   ],
   "end-of-abyss": [
    73,
    20,
-   7.2
+   7.1
+  ],
+  "over-the-hill": [
+   72,
+   17,
+   null
   ],
   "graveyard-keeper-2": [
    72,
    9,
    6.8
-  ],
-  "over-the-hill": [
-   71,
-   16,
-   null
   ],
   "fallen-tear-the-ascension": [
    71,
@@ -2174,26 +2129,36 @@
   "clive-barkers-hellraiser-revival": [
    69,
    39,
-   8.5
+   8.4
   ],
   "garfield-escape-from-monday": [
    68,
    10,
-   8.1
+   8.4
   ],
   "the-walking-dead-streets-of-survival": [
    63,
    8,
-   7.3
+   7
   ],
   "qliphah-in-providences-shadow": [
    61,
    8,
-   null
+   5.3
   ],
   "tenebris-somnia": [
    79,
    5,
+   null
+  ],
+  "disney-pixar-toy-story-3-complete-edition": [
+   78,
+   5,
+   null
+  ],
+  "the-jackbox-party-pack-12": [
+   78,
+   4,
    null
   ]
  }
