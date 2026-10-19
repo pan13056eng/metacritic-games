@@ -1,10 +1,10 @@
 {
- "updated": "2026-10-18 07:15",
+ "updated": "2026-10-19 07:46",
  "window": [
-  "2026-09-18",
-  "2026-10-18"
+  "2026-09-19",
+  "2026-10-19"
  ],
- "total": 46,
+ "total": 41,
  "released": [
   {
    "slug": "dragons-dogma-2-dark-arisen",
@@ -313,7 +313,7 @@
    "dev": "Saber Interactive",
    "pub": "Saber Interactive",
    "meta": 69,
-   "meta_count": 39,
+   "meta_count": 40,
    "user": 8.4,
    "user_count": 56,
    "scores": {
@@ -723,37 +723,55 @@
    "scores": {}
   },
   {
-   "slug": "enshrouded",
-   "title": "Enshrouded",
-   "date": "2026-10-15",
-   "url": "https://www.metacritic.com/game/enshrouded/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1792084682.jpg",
+   "slug": "tales-of-eternia-remastered",
+   "title": "Tales of Eternia Remastered",
+   "date": "2026-10-16",
+   "url": "https://www.metacritic.com/game/tales-of-eternia-remastered/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1791946499.jpg",
    "plats": [
     {
+     "n": "NS",
+     "s": null,
+     "c": 0,
+     "d": "2026-10-16"
+    },
+    {
+     "n": "NS2",
+     "s": null,
+     "c": 2,
+     "d": "2026-10-16"
+    },
+    {
+     "n": "PS4",
+     "s": null,
+     "c": 0,
+     "d": "2026-10-16"
+    },
+    {
+     "n": "PS5",
+     "s": 77,
+     "c": 11,
+     "d": "2026-10-16"
+    },
+    {
      "n": "PC",
-     "s": 89,
-     "c": 10,
-     "d": "2026-10-15"
+     "s": null,
+     "c": 0,
+     "d": "2026-10-16"
     },
     {
      "n": "XSX",
      "s": null,
      "c": 0,
-     "d": null
-    },
-    {
-     "n": "PS5",
-     "s": null,
-     "c": 3,
-     "d": "2026-10-15"
+     "d": "2026-10-16"
     }
    ],
-   "dev": "Keen Games",
-   "pub": "Keen Games",
-   "meta": 89,
-   "meta_count": 10,
-   "user": 8.8,
-   "user_count": 4,
+   "dev": "TOSE",
+   "pub": "Bandai Namco Games",
+   "meta": 76,
+   "meta_count": 16,
+   "user": 9,
+   "user_count": 0,
    "scores": {}
   },
   {
@@ -840,6 +858,40 @@
    "meta_count": 10,
    "user": 8.4,
    "user_count": 1,
+   "scores": {}
+  },
+  {
+   "slug": "enshrouded",
+   "title": "Enshrouded",
+   "date": "2026-10-15",
+   "url": "https://www.metacritic.com/game/enshrouded/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1792084682.jpg",
+   "plats": [
+    {
+     "n": "PC",
+     "s": 89,
+     "c": 10,
+     "d": "2026-10-15"
+    },
+    {
+     "n": "XSX",
+     "s": null,
+     "c": 0,
+     "d": null
+    },
+    {
+     "n": "PS5",
+     "s": null,
+     "c": 3,
+     "d": "2026-10-15"
+    }
+   ],
+   "dev": "Keen Games",
+   "pub": "Keen Games",
+   "meta": 89,
+   "meta_count": 10,
+   "user": 8.2,
+   "user_count": 4,
    "scores": {}
   },
   {
@@ -1087,58 +1139,6 @@
    "scores": {}
   },
   {
-   "slug": "tales-of-eternia-remastered",
-   "title": "Tales of Eternia Remastered",
-   "date": "2026-10-16",
-   "url": "https://www.metacritic.com/game/tales-of-eternia-remastered/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1791946499.jpg",
-   "plats": [
-    {
-     "n": "NS",
-     "s": null,
-     "c": 0,
-     "d": "2026-10-16"
-    },
-    {
-     "n": "NS2",
-     "s": null,
-     "c": 2,
-     "d": "2026-10-16"
-    },
-    {
-     "n": "PS4",
-     "s": null,
-     "c": 0,
-     "d": "2026-10-16"
-    },
-    {
-     "n": "PS5",
-     "s": 77,
-     "c": 11,
-     "d": "2026-10-16"
-    },
-    {
-     "n": "PC",
-     "s": null,
-     "c": 0,
-     "d": "2026-10-16"
-    },
-    {
-     "n": "XSX",
-     "s": null,
-     "c": 0,
-     "d": "2026-10-16"
-    }
-   ],
-   "dev": "TOSE",
-   "pub": "Bandai Namco Games",
-   "meta": 76,
-   "meta_count": 16,
-   "user": null,
-   "user_count": 0,
-   "scores": {}
-  },
-  {
    "slug": "ratatan",
    "title": "RATATAN",
    "date": "2026-10-15",
@@ -1293,130 +1293,160 @@
    "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1787246452.jpg"
   },
   {
-   "slug": "reborn-a-zombie-2-entwined-hearts",
-   "title": "Reborn a Zombie 2: Entwined Hearts",
-   "date": "2026-10-19",
-   "url": "https://www.metacritic.com/game/reborn-a-zombie-2-entwined-hearts/",
+   "slug": "fall-of-bali",
+   "title": "Fall of Bali",
+   "date": "2026-10-20",
+   "url": "https://www.metacritic.com/game/fall-of-bali/",
    "meta": null,
    "plats": [
     {
      "n": "PC",
      "s": null,
      "c": 0,
-     "d": "2026-10-19"
+     "d": "2026-10-20"
     }
    ],
-   "dev": "Asminae",
-   "pub": "Asminae",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-991504-52.jpg"
+   "dev": "Sengkala Dev",
+   "pub": "CRX Entertainment",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-897107-52.jpg"
   },
   {
-   "slug": "warding-witches",
-   "title": "Warding Witches",
-   "date": "2026-10-19",
-   "url": "https://www.metacritic.com/game/warding-witches/",
+   "slug": "mycopunk",
+   "title": "Mycopunk",
+   "date": "2026-10-20",
+   "url": "https://www.metacritic.com/game/mycopunk/",
    "meta": null,
    "plats": [
     {
      "n": "PC",
      "s": null,
-     "c": 0,
-     "d": "2026-10-19"
+     "c": 6,
+     "d": "2026-10-20"
     }
    ],
-   "dev": "Sonorode",
-   "pub": "Headup Games",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1102207-52.jpg"
+   "dev": "Pigeons at Play",
+   "pub": "Devolver Digital",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1117297-52.jpg"
   },
   {
-   "slug": "my-name-is",
-   "title": "My Name Is...",
-   "date": "2026-10-19",
-   "url": "https://www.metacritic.com/game/my-name-is/",
+   "slug": "a-sisters-journey",
+   "title": "A Sister's Journey",
+   "date": "2026-10-20",
+   "url": "https://www.metacritic.com/game/a-sisters-journey/",
    "meta": null,
    "plats": [
     {
      "n": "PC",
      "s": null,
      "c": 0,
-     "d": "2026-10-19"
+     "d": "2026-10-20"
     }
    ],
-   "dev": "Omegan's Domain",
-   "pub": "Omegan's Domain",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1164157-52.jpg"
+   "dev": "Florian Lackner",
+   "pub": "Florian Lackner",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-830686-52.jpg"
   },
   {
-   "slug": "big-dig",
-   "title": "Big Dig",
-   "date": "2026-10-19",
-   "url": "https://www.metacritic.com/game/big-dig/",
+   "slug": "hypernet-explorer",
+   "title": "Hypernet Explorer",
+   "date": "2026-10-20",
+   "url": "https://www.metacritic.com/game/hypernet-explorer/",
    "meta": null,
    "plats": [
     {
      "n": "PC",
      "s": null,
      "c": 0,
-     "d": "2026-10-19"
+     "d": "2026-10-20"
     }
    ],
-   "dev": "Dan Schumacher",
-   "pub": "Dan Schumacher",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1201307-52.jpg"
+   "dev": "Nocoldiz",
+   "pub": "Esoteric Heavy Industries",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1183925-52.jpg"
   },
   {
-   "slug": "coin-harvest",
-   "title": "Coin Harvest",
-   "date": "2026-10-19",
-   "url": "https://www.metacritic.com/game/coin-harvest/",
+   "slug": "dreams-of-a-visionary",
+   "title": "Dreams Of A Visionary",
+   "date": "2026-10-20",
+   "url": "https://www.metacritic.com/game/dreams-of-a-visionary/",
    "meta": null,
    "plats": [
     {
      "n": "PC",
      "s": null,
      "c": 0,
-     "d": "2026-10-19"
+     "d": "2026-10-20"
     }
    ],
-   "dev": "Dumbbell Games",
-   "pub": "Beindie",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1202478-52.jpg"
+   "dev": "Flunder Games",
+   "pub": "Flunder Games",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1209254-52.jpg"
   },
   {
-   "slug": "loop-dungeon-incremental",
-   "title": "Loop Dungeon - Incremental",
-   "date": "2026-10-19",
-   "url": "https://www.metacritic.com/game/loop-dungeon-incremental/",
+   "slug": "we-were-here-tomorrow",
+   "title": "We Were Here Tomorrow",
+   "date": "2026-10-20",
+   "url": "https://www.metacritic.com/game/we-were-here-tomorrow/",
    "meta": null,
    "plats": [
+    {
+     "n": "PS5",
+     "s": null,
+     "c": 0,
+     "d": "2026-10-20"
+    },
     {
      "n": "PC",
      "s": null,
      "c": 0,
-     "d": "2026-10-19"
+     "d": "2026-10-20"
+    },
+    {
+     "n": "XSX",
+     "s": null,
+     "c": 0,
+     "d": "2026-10-20"
     }
    ],
-   "dev": "Playsect",
-   "pub": "Playsect",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1231161-52.jpg"
+   "dev": "Total Mayhem Games",
+   "pub": "Total Mayhem Games",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1209800-52.jpg"
   },
   {
-   "slug": "puzzmao-puzzle-and-magical-overlord-",
-   "title": "PuzzMao ~ Puzzle and Magical Overlord ~",
-   "date": "2026-10-19",
-   "url": "https://www.metacritic.com/game/puzzmao-puzzle-and-magical-overlord-/",
-   "meta": null,
+   "slug": "akiba-lost",
+   "title": "AKIBA LOST",
+   "date": "2026-10-20",
+   "url": "https://www.metacritic.com/game/akiba-lost/",
+   "meta": 81,
    "plats": [
     {
-     "n": "PC",
+     "n": "PS5",
      "s": null,
      "c": 0,
-     "d": "2026-10-19"
+     "d": "2026-09-16"
+    },
+    {
+     "n": "PC",
+     "s": 81,
+     "c": 4,
+     "d": "2026-10-20"
+    },
+    {
+     "n": "NS2",
+     "s": null,
+     "c": 1,
+     "d": "2026-09-16"
+    },
+    {
+     "n": "NS",
+     "s": null,
+     "c": 0,
+     "d": "2026-09-16"
     }
    ],
-   "dev": "SERIALGAMES Inc.",
-   "pub": "SERIALGAMES Inc.",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1196558-52.jpg"
+   "dev": "IzanagiGames",
+   "pub": "IzanagiGames",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1790263313.jpg"
   }
  ],
  "annual": [
@@ -1949,7 +1979,7 @@
   "enshrouded": [
    89,
    10,
-   8.8
+   8.2
   ],
   "well-dweller": [
    89,
@@ -2074,12 +2104,7 @@
   "tales-of-eternia-remastered": [
    76,
    16,
-   null
-  ],
-  "nascar-26": [
-   76,
-   8,
-   null
+   9
   ],
   "ratatan": [
    76,
@@ -2128,7 +2153,7 @@
   ],
   "clive-barkers-hellraiser-revival": [
    69,
-   39,
+   40,
    8.4
   ],
   "garfield-escape-from-monday": [
@@ -2136,30 +2161,10 @@
    10,
    8.4
   ],
-  "the-walking-dead-streets-of-survival": [
-   63,
-   8,
-   7
-  ],
   "qliphah-in-providences-shadow": [
    61,
    8,
    5.3
-  ],
-  "tenebris-somnia": [
-   79,
-   5,
-   null
-  ],
-  "disney-pixar-toy-story-3-complete-edition": [
-   78,
-   5,
-   null
-  ],
-  "the-jackbox-party-pack-12": [
-   78,
-   4,
-   null
   ]
  }
 }
