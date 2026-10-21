@@ -1,11 +1,35 @@
 {
- "updated": "2026-10-20 07:38",
+ "updated": "2026-10-21 07:40",
  "window": [
-  "2026-09-20",
-  "2026-10-20"
+  "2026-09-21",
+  "2026-10-21"
  ],
- "total": 43,
+ "total": 44,
  "released": [
+  {
+   "slug": "resident-evil-2-deluxe-edition",
+   "title": "Resident Evil 2: Deluxe Edition",
+   "date": "2026-10-16",
+   "url": "https://www.metacritic.com/game/resident-evil-2-deluxe-edition/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1282312-52.jpg",
+   "plats": [
+    {
+     "n": "NS2",
+     "s": 93,
+     "c": 8,
+     "d": "2026-10-16"
+    }
+   ],
+   "dev": "Capcom",
+   "pub": "Capcom",
+   "meta": 93,
+   "meta_count": 13,
+   "user": 9.4,
+   "user_count": 0,
+   "scores": {
+    "Nintendo Life": 90
+   }
+  },
   {
    "slug": "dragons-dogma-2-dark-arisen",
    "title": "Dragon's Dogma 2: Dark Arisen",
@@ -50,11 +74,48 @@
    }
   },
   {
+   "slug": "control-resonant",
+   "title": "CONTROL Resonant",
+   "date": "2026-09-24",
+   "url": "https://www.metacritic.com/game/control-resonant/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1781551532.jpg",
+   "plats": [
+    {
+     "n": "PC",
+     "s": 83,
+     "c": 34,
+     "d": "2026-09-24"
+    },
+    {
+     "n": "PS5",
+     "s": 84,
+     "c": 63,
+     "d": "2026-09-24"
+    },
+    {
+     "n": "XSX",
+     "s": 81,
+     "c": 10,
+     "d": "2026-09-24"
+    }
+   ],
+   "dev": "Remedy Entertainment",
+   "pub": "Remedy Entertainment",
+   "meta": 83,
+   "meta_count": 89,
+   "user": 8.8,
+   "user_count": 198,
+   "scores": {
+    "Push Square": 80,
+    "IGN": 80
+   }
+  },
+  {
    "slug": "dynasty-warriors-3-complete-edition-remastered",
    "title": "Dynasty Warriors 3 Complete Edition Remastered",
    "date": "2026-10-01",
    "url": "https://www.metacritic.com/game/dynasty-warriors-3-complete-edition-remastered/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1790740776.jpg",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1790740754.jpg",
    "plats": [
     {
      "n": "PS5",
@@ -83,49 +144,12 @@
    ],
    "dev": "Omega Force",
    "pub": "Koei Tecmo Games",
-   "meta": 79,
-   "meta_count": 8,
-   "user": 8.9,
+   "meta": 73,
+   "meta_count": 13,
+   "user": 8.8,
    "user_count": 10,
    "scores": {
     "Push Square": 70
-   }
-  },
-  {
-   "slug": "control-resonant",
-   "title": "CONTROL Resonant",
-   "date": "2026-09-24",
-   "url": "https://www.metacritic.com/game/control-resonant/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1781551532.jpg",
-   "plats": [
-    {
-     "n": "PC",
-     "s": 83,
-     "c": 34,
-     "d": "2026-09-24"
-    },
-    {
-     "n": "PS5",
-     "s": 84,
-     "c": 63,
-     "d": "2026-09-24"
-    },
-    {
-     "n": "XSX",
-     "s": 81,
-     "c": 10,
-     "d": "2026-09-24"
-    }
-   ],
-   "dev": "Remedy Entertainment",
-   "pub": "Remedy Entertainment",
-   "meta": 84,
-   "meta_count": 88,
-   "user": 8.8,
-   "user_count": 198,
-   "scores": {
-    "Push Square": 80,
-    "IGN": 80
    }
   },
   {
@@ -157,7 +181,7 @@
    "dev": "Bandai Namco Aces Inc.",
    "pub": "Bandai Namco Games",
    "meta": 87,
-   "meta_count": 72,
+   "meta_count": 71,
    "user": 8.7,
    "user_count": 40,
    "scores": {
@@ -350,7 +374,7 @@
    "dev": "Fuse Games",
    "pub": "Secret Mode",
    "meta": 88,
-   "meta_count": 75,
+   "meta_count": 76,
    "user": 8.2,
    "user_count": 35,
    "scores": {
@@ -424,13 +448,56 @@
    "dev": "ONE MORE LEVEL",
    "pub": "Lyrical Games",
    "meta": 78,
-   "meta_count": 51,
+   "meta_count": 52,
    "user": 7.8,
    "user_count": 35,
    "scores": {
     "Eurogamer": 80,
     "IGN": 70,
     "GameSpot": 60
+   }
+  },
+  {
+   "slug": "castlevania-belmonts-curse",
+   "title": "Castlevania: Belmont's Curse",
+   "date": "2026-10-15",
+   "url": "https://www.metacritic.com/game/castlevania-belmonts-curse/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1791874027.jpg",
+   "plats": [
+    {
+     "n": "PS5",
+     "s": 86,
+     "c": 45,
+     "d": "2026-10-15"
+    },
+    {
+     "n": "PC",
+     "s": 85,
+     "c": 15,
+     "d": "2026-10-15"
+    },
+    {
+     "n": "NS",
+     "s": null,
+     "c": 4,
+     "d": "2026-10-15"
+    },
+    {
+     "n": "XSX",
+     "s": 88,
+     "c": 6,
+     "d": "2026-10-15"
+    }
+   ],
+   "dev": "Evil Empire",
+   "pub": "Konami",
+   "meta": 84,
+   "meta_count": 62,
+   "user": 7.7,
+   "user_count": 69,
+   "scores": {
+    "IGN": 80,
+    "Push Square": 70
    }
   },
   {
@@ -480,49 +547,6 @@
    "scores": {
     "GameSpot": 70,
     "IGN": 60
-   }
-  },
-  {
-   "slug": "castlevania-belmonts-curse",
-   "title": "Castlevania: Belmont's Curse",
-   "date": "2026-10-15",
-   "url": "https://www.metacritic.com/game/castlevania-belmonts-curse/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1791874027.jpg",
-   "plats": [
-    {
-     "n": "PS5",
-     "s": 86,
-     "c": 45,
-     "d": "2026-10-15"
-    },
-    {
-     "n": "PC",
-     "s": 85,
-     "c": 15,
-     "d": "2026-10-15"
-    },
-    {
-     "n": "NS",
-     "s": null,
-     "c": 4,
-     "d": "2026-10-15"
-    },
-    {
-     "n": "XSX",
-     "s": 88,
-     "c": 6,
-     "d": "2026-10-15"
-    }
-   ],
-   "dev": "Evil Empire",
-   "pub": "Konami",
-   "meta": 84,
-   "meta_count": 61,
-   "user": 7.6,
-   "user_count": 0,
-   "scores": {
-    "IGN": 80,
-    "Push Square": 70
    }
   },
   {
@@ -613,30 +637,6 @@
    "user": 2.1,
    "user_count": 84,
    "scores": {}
-  },
-  {
-   "slug": "resident-evil-2-deluxe-edition",
-   "title": "Resident Evil 2: Deluxe Edition",
-   "date": "2026-10-16",
-   "url": "https://www.metacritic.com/game/resident-evil-2-deluxe-edition/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1282312-52.jpg",
-   "plats": [
-    {
-     "n": "NS2",
-     "s": 93,
-     "c": 8,
-     "d": "2026-10-16"
-    }
-   ],
-   "dev": "Capcom",
-   "pub": "Capcom",
-   "meta": 92,
-   "meta_count": 12,
-   "user": null,
-   "user_count": 0,
-   "scores": {
-    "Nintendo Life": 90
-   }
   }
  ],
  "watch": [
@@ -681,8 +681,8 @@
    "dev": "Capcom",
    "pub": "Capcom",
    "meta": 89,
-   "meta_count": 11,
-   "user": 9.1,
+   "meta_count": 12,
+   "user": 9.2,
    "user_count": 0,
    "scores": {}
   },
@@ -761,8 +761,8 @@
    "dev": "Wych Elm",
    "pub": "Team17",
    "meta": 85,
-   "meta_count": 23,
-   "user": 8.4,
+   "meta_count": 24,
+   "user": 8.5,
    "user_count": 7,
    "scores": {}
   },
@@ -807,6 +807,46 @@
    "scores": {}
   },
   {
+   "slug": "ratatan",
+   "title": "RATATAN",
+   "date": "2026-10-15",
+   "url": "https://www.metacritic.com/game/ratatan/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1777421279.jpg",
+   "plats": [
+    {
+     "n": "PC",
+     "s": null,
+     "c": 2,
+     "d": "2026-10-15"
+    },
+    {
+     "n": "NS2",
+     "s": 76,
+     "c": 10,
+     "d": "2026-10-15"
+    },
+    {
+     "n": "PS5",
+     "s": null,
+     "c": 3,
+     "d": "2026-10-15"
+    },
+    {
+     "n": "XSX",
+     "s": null,
+     "c": 2,
+     "d": "2026-10-15"
+    }
+   ],
+   "dev": "Ratata Arts",
+   "pub": "Game Source Entertainment",
+   "meta": 76,
+   "meta_count": 13,
+   "user": 8.2,
+   "user_count": 1,
+   "scores": {}
+  },
+  {
    "slug": "enshrouded",
    "title": "Enshrouded",
    "date": "2026-10-15",
@@ -834,9 +874,9 @@
    ],
    "dev": "Keen Games",
    "pub": "Keen Games",
-   "meta": 89,
-   "meta_count": 10,
-   "user": 8.2,
+   "meta": 88,
+   "meta_count": 12,
+   "user": 8.1,
    "user_count": 4,
    "scores": {}
   },
@@ -857,9 +897,9 @@
    "dev": "ION LANDS",
    "pub": "505 Games",
    "meta": 75,
-   "meta_count": 11,
+   "meta_count": 12,
    "user": 8.1,
-   "user_count": 4,
+   "user_count": 5,
    "scores": {}
   },
   {
@@ -938,7 +978,7 @@
    "pub": "Annapurna Interactive",
    "meta": 75,
    "meta_count": 19,
-   "user": 7.8,
+   "user": 7.5,
    "user_count": 0,
    "scores": {}
   },
@@ -988,50 +1028,10 @@
    ],
    "dev": "TOSE",
    "pub": "Bandai Namco Games",
-   "meta": 76,
-   "meta_count": 19,
-   "user": 7.7,
-   "user_count": 0,
-   "scores": {}
-  },
-  {
-   "slug": "ratatan",
-   "title": "RATATAN",
-   "date": "2026-10-15",
-   "url": "https://www.metacritic.com/game/ratatan/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1777421279.jpg",
-   "plats": [
-    {
-     "n": "PC",
-     "s": null,
-     "c": 2,
-     "d": "2026-10-15"
-    },
-    {
-     "n": "NS2",
-     "s": 76,
-     "c": 10,
-     "d": "2026-10-15"
-    },
-    {
-     "n": "PS5",
-     "s": null,
-     "c": 3,
-     "d": "2026-10-15"
-    },
-    {
-     "n": "XSX",
-     "s": null,
-     "c": 2,
-     "d": "2026-10-15"
-    }
-   ],
-   "dev": "Ratata Arts",
-   "pub": "Game Source Entertainment",
-   "meta": 76,
-   "meta_count": 13,
+   "meta": 77,
+   "meta_count": 22,
    "user": 7.3,
-   "user_count": 1,
+   "user_count": 0,
    "scores": {}
   },
   {
@@ -1102,9 +1102,9 @@
    ],
    "dev": "Funselektor Labs Inc.",
    "pub": "Funselektor Labs Inc.",
-   "meta": 71,
-   "meta_count": 18,
-   "user": 6,
+   "meta": 72,
+   "meta_count": 19,
+   "user": 6.4,
    "user_count": 0,
    "scores": {}
   },
@@ -1176,10 +1176,10 @@
    ],
    "dev": "Frontier Developments",
    "pub": "Frontier Developments",
-   "meta": 85,
-   "meta_count": 17,
-   "user": 5.1,
-   "user_count": 0,
+   "meta": 84,
+   "meta_count": 18,
+   "user": 5.3,
+   "user_count": 2,
    "scores": {}
   },
   {
@@ -1212,18 +1212,16 @@
    "pub": "Paradox Interactive",
    "meta": 83,
    "meta_count": 16,
-   "user": 2.9,
+   "user": 2.8,
    "user_count": 13,
    "scores": {}
-  }
- ],
- "upcoming": [
+  },
   {
    "slug": "stupid-never-dies",
    "title": "Stupid Never Dies",
    "date": "2026-10-21",
    "url": "https://www.metacritic.com/game/stupid-never-dies/",
-   "meta": 65,
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1792342907.jpg",
    "plats": [
     {
      "n": "PC",
@@ -1240,7 +1238,73 @@
    ],
    "dev": "GPTRACK50",
    "pub": "GPTRACK50",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1792342907.jpg"
+   "meta": 66,
+   "meta_count": 29,
+   "user": null,
+   "user_count": 0,
+   "scores": {}
+  }
+ ],
+ "upcoming": [
+  {
+   "slug": "final-fantasy-resonance",
+   "title": "Final Fantasy Resonance",
+   "date": "2026-10-22",
+   "url": "https://www.metacritic.com/game/final-fantasy-resonance/",
+   "meta": 85,
+   "plats": [
+    {
+     "n": "NS2",
+     "s": 83,
+     "c": 32,
+     "d": "2026-10-22"
+    },
+    {
+     "n": "NS",
+     "s": null,
+     "c": 0,
+     "d": "2026-10-22"
+    },
+    {
+     "n": "PC",
+     "s": 85,
+     "c": 16,
+     "d": "2026-10-22"
+    },
+    {
+     "n": "PS5",
+     "s": 85,
+     "c": 46,
+     "d": "2026-10-22"
+    },
+    {
+     "n": "XSX",
+     "s": 86,
+     "c": 5,
+     "d": "2026-10-22"
+    }
+   ],
+   "dev": "Lancarse",
+   "pub": "Square Enix",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1790044932.jpg"
+  },
+  {
+   "slug": "nintendo-switch-sports-resort",
+   "title": "Nintendo Switch Sports Resort",
+   "date": "2026-10-22",
+   "url": "https://www.metacritic.com/game/nintendo-switch-sports-resort/",
+   "meta": 79,
+   "plats": [
+    {
+     "n": "NS2",
+     "s": 79,
+     "c": 57,
+     "d": "2026-10-22"
+    }
+   ],
+   "dev": "Nintendo",
+   "pub": "Nintendo",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1790045084.jpg"
   },
   {
    "slug": "call-of-duty-modern-warfare-4",
@@ -1315,112 +1379,106 @@
    "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1787246452.jpg"
   },
   {
-   "slug": "kings-quarters",
-   "title": "KINGS QUARTERS",
-   "date": "2026-10-21",
-   "url": "https://www.metacritic.com/game/kings-quarters/",
+   "slug": "mimic-alert",
+   "title": "Mimic Alert",
+   "date": "2026-10-22",
+   "url": "https://www.metacritic.com/game/mimic-alert/",
    "meta": null,
    "plats": [
     {
      "n": "PC",
      "s": null,
      "c": 0,
-     "d": "2026-10-21"
+     "d": "2026-10-22"
     }
    ],
-   "dev": "Zion D. Hill",
-   "pub": "Zion D. Hill",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1232104-52.jpg"
+   "dev": "HiddenGames",
+   "pub": "HiddenGames",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1062758-52.jpg"
   },
   {
-   "slug": "wartide",
-   "title": "Wartide",
-   "date": "2026-10-21",
-   "url": "https://www.metacritic.com/game/wartide/",
+   "slug": "cotton-reboot-high-tension",
+   "title": "Cotton Reboot! High Tension!",
+   "date": "2026-10-22",
+   "url": "https://www.metacritic.com/game/cotton-reboot-high-tension/",
    "meta": null,
    "plats": [
     {
-     "n": "PC",
+     "n": "PS5",
      "s": null,
      "c": 0,
-     "d": "2026-10-21"
+     "d": "2026-10-22"
+    },
+    {
+     "n": "PS4",
+     "s": null,
+     "c": 0,
+     "d": "2026-10-22"
+    },
+    {
+     "n": "NS",
+     "s": null,
+     "c": 0,
+     "d": "2026-10-22"
     }
    ],
-   "dev": "Dumbbell Games",
-   "pub": "Dumbbell Games",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1199859-52.jpg"
+   "dev": "Success",
+   "pub": "Clear River Games",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1023947-59.jpg"
   },
   {
-   "slug": "gemcraft-legacy-collection",
-   "title": "GemCraft - Legacy Collection",
-   "date": "2026-10-21",
-   "url": "https://www.metacritic.com/game/gemcraft-legacy-collection/",
+   "slug": "death-rabbit",
+   "title": "Death Rabbit",
+   "date": "2026-10-22",
+   "url": "https://www.metacritic.com/game/death-rabbit/",
    "meta": null,
    "plats": [
     {
      "n": "PC",
      "s": null,
      "c": 0,
-     "d": "2026-10-21"
+     "d": "2026-10-22"
     }
    ],
-   "dev": "Game in a Bottle",
-   "pub": "Armor Games",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1206282-52.jpg"
+   "dev": "Rabbit Studios",
+   "pub": "Rabbit Studios",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-974357-52.jpg"
   },
   {
-   "slug": "woim",
-   "title": "WOIM",
-   "date": "2026-10-21",
-   "url": "https://www.metacritic.com/game/woim/",
+   "slug": "tow-game",
+   "title": "Tow Game",
+   "date": "2026-10-22",
+   "url": "https://www.metacritic.com/game/tow-game/",
    "meta": null,
    "plats": [
     {
      "n": "PC",
      "s": null,
      "c": 0,
-     "d": "2026-10-21"
+     "d": "2026-10-22"
     }
    ],
-   "dev": "Dogspawn",
-   "pub": "Dogspawn",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1201645-52.jpg"
+   "dev": "Korion Interactive",
+   "pub": "Korion Interactive",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1121616-52.jpg"
   },
   {
-   "slug": "dearbnb",
-   "title": "Dearbnb",
-   "date": "2026-10-21",
-   "url": "https://www.metacritic.com/game/dearbnb/",
+   "slug": "lost-liminal",
+   "title": "Lost Liminal",
+   "date": "2026-10-22",
+   "url": "https://www.metacritic.com/game/lost-liminal/",
    "meta": null,
    "plats": [
     {
      "n": "PC",
      "s": null,
      "c": 0,
-     "d": "2026-10-21"
+     "d": "2026-10-22"
     }
    ],
-   "dev": "Gameshaft Studio",
-   "pub": "Gameshaft Studio",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1198441-52.jpg"
-  },
-  {
-   "slug": "bloodville",
-   "title": "BLOODVILLE",
-   "date": "2026-10-21",
-   "url": "https://www.metacritic.com/game/bloodville/",
-   "meta": null,
-   "plats": [
-    {
-     "n": "PC",
-     "s": null,
-     "c": 0,
-     "d": "2026-10-21"
-    }
-   ],
-   "dev": "Horia Andrei",
-   "pub": "Horia Andrei",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1157649-52.jpg"
+   "dev": "TuJi Game",
+   "pub": "TuJi Game",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1121183-52.jpg"
   }
  ],
  "annual": [
@@ -1632,7 +1690,7 @@
      "dev": "Nintendo",
      "pub": "Nintendo",
      "meta": 89,
-     "meta_count": 102,
+     "meta_count": 104,
      "user": 8.5,
      "user_count": 257,
      "scores": {}
@@ -1706,7 +1764,7 @@
      "dev": "Fuse Games",
      "pub": "Secret Mode",
      "meta": 88,
-     "meta_count": 75,
+     "meta_count": 76,
      "user": 8.2,
      "user_count": 35,
      "scores": {}
@@ -1740,7 +1798,7 @@
      "dev": "Bandai Namco Aces Inc.",
      "pub": "Bandai Namco Games",
      "meta": 87,
-     "meta_count": 72,
+     "meta_count": 71,
      "user": 8.7,
      "user_count": 40,
      "scores": {}
@@ -1881,8 +1939,8 @@
      ],
      "dev": "Remedy Entertainment",
      "pub": "Remedy Entertainment",
-     "meta": 84,
-     "meta_count": 88,
+     "meta": 83,
+     "meta_count": 89,
      "user": 8.8,
      "user_count": 198,
      "scores": {}
@@ -1935,25 +1993,20 @@
   }
  ],
  "sig": {
+  "resident-evil-2-deluxe-edition": [
+   93,
+   13,
+   9.4
+  ],
   "the-witcher-3-wild-hunt-remastered": [
    92,
    13,
    8.6
   ],
-  "resident-evil-2-deluxe-edition": [
-   92,
-   12,
-   null
-  ],
   "resident-evil-4-gold-edition": [
    89,
-   11,
-   9.1
-  ],
-  "enshrouded": [
-   89,
-   10,
-   8.2
+   12,
+   9.2
   ],
   "well-dweller": [
    89,
@@ -1967,8 +2020,13 @@
   ],
   "star-wars-galactic-racer": [
    88,
-   75,
+   76,
    8.2
+  ],
+  "enshrouded": [
+   88,
+   12,
+   8.1
   ],
   "gears-of-war-e-day": [
    87,
@@ -1977,7 +2035,7 @@
   ],
   "ace-combat-8-wings-of-theve": [
    87,
-   72,
+   71,
    8.7
   ],
   "dressmaker": [
@@ -1987,28 +2045,28 @@
   ],
   "silver-pines": [
    85,
-   23,
-   8.4
+   24,
+   8.5
   ],
   "planet-zoo-2": [
-   85,
-   17,
-   5.1
+   84,
+   18,
+   5.3
   ],
   "castlevania-belmonts-curse": [
    84,
-   61,
-   7.6
-  ],
-  "control-resonant": [
-   84,
-   88,
-   8.8
+   62,
+   7.7
   ],
   "order-of-the-sinking-star": [
    83,
    17,
    8.1
+  ],
+  "control-resonant": [
+   83,
+   89,
+   8.8
   ],
   "dragons-dogma-2-dark-arisen": [
    83,
@@ -2018,7 +2076,7 @@
   "transport-fever-3": [
    83,
    16,
-   2.9
+   2.8
   ],
   "nighthawks": [
    82,
@@ -2045,40 +2103,40 @@
    99,
    7.1
   ],
-  "disney-pixar-toy-story-retro-roundup": [
+  "tenebris-somnia": [
    79,
    7,
-   null
-  ],
-  "dynasty-warriors-3-complete-edition-remastered": [
-   79,
-   8,
-   8.9
+   8.3
   ],
   "valor-mortis": [
    78,
-   51,
+   52,
    7.8
+  ],
+  "disney-pixar-toy-story-retro-roundup": [
+   78,
+   9,
+   6.4
   ],
   "blueys-happy-snaps": [
    77,
    7,
    null
   ],
-  "penguin-colony": [
-   76,
-   8,
-   null
-  ],
   "tales-of-eternia-remastered": [
-   76,
-   19,
-   7.7
+   77,
+   22,
+   7.3
   ],
   "ratatan": [
    76,
    13,
-   7.3
+   8.2
+  ],
+  "nivalis-nights": [
+   75,
+   12,
+   8.1
   ],
   "minecraft-dungeons-ii": [
    75,
@@ -2088,22 +2146,32 @@
   "forever-ago": [
    75,
    19,
-   7.8
-  ],
-  "nivalis-nights": [
-   75,
-   11,
-   8.1
+   7.5
   ],
   "ea-sports-fc-27": [
    75,
    67,
    2.1
   ],
+  "penguin-colony": [
+   74,
+   9,
+   null
+  ],
+  "dynasty-warriors-3-complete-edition-remastered": [
+   73,
+   13,
+   8.8
+  ],
   "end-of-abyss": [
    73,
    21,
    7.2
+  ],
+  "over-the-hill": [
+   72,
+   19,
+   6.4
   ],
   "graveyard-keeper-2": [
    72,
@@ -2114,11 +2182,6 @@
    71,
    8,
    null
-  ],
-  "over-the-hill": [
-   71,
-   18,
-   6
   ],
   "doggy-dont-care": [
    70,
@@ -2135,6 +2198,11 @@
    10,
    8.4
   ],
+  "stupid-never-dies": [
+   66,
+   29,
+   null
+  ],
   "qliphah-in-providences-shadow": [
    61,
    8,
@@ -2144,11 +2212,6 @@
    81,
    4,
    null
-  ],
-  "tenebris-somnia": [
-   79,
-   5,
-   9.2
   ]
  }
 }
