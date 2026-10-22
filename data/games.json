@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-21 07:40",
+ "updated": "2026-10-22 07:36",
  "window": [
-  "2026-09-21",
-  "2026-10-21"
+  "2026-09-22",
+  "2026-10-22"
  ],
  "total": 44,
  "released": [
@@ -181,7 +181,7 @@
    "dev": "Bandai Namco Aces Inc.",
    "pub": "Bandai Namco Games",
    "meta": 87,
-   "meta_count": 71,
+   "meta_count": 72,
    "user": 8.7,
    "user_count": 40,
    "scores": {
@@ -303,6 +303,52 @@
    "scores": {}
   },
   {
+   "slug": "silver-pines",
+   "title": "Silver Pines",
+   "date": "2026-10-08",
+   "url": "https://www.metacritic.com/game/silver-pines/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1791257353.jpg",
+   "plats": [
+    {
+     "n": "PC",
+     "s": 85,
+     "c": 14,
+     "d": "2026-10-08"
+    },
+    {
+     "n": "NS",
+     "s": null,
+     "c": 0,
+     "d": "2026-10-08"
+    },
+    {
+     "n": "XSX",
+     "s": null,
+     "c": 1,
+     "d": "2026-10-08"
+    },
+    {
+     "n": "PS5",
+     "s": 91,
+     "c": 6,
+     "d": "2026-10-08"
+    },
+    {
+     "n": "NS2",
+     "s": null,
+     "c": 2,
+     "d": "2026-10-08"
+    }
+   ],
+   "dev": "Wych Elm",
+   "pub": "Team17",
+   "meta": 85,
+   "meta_count": 24,
+   "user": 8.5,
+   "user_count": 10,
+   "scores": {}
+  },
+  {
    "slug": "clive-barkers-hellraiser-revival",
    "title": "Clive Barker's Hellraiser: Revival",
    "date": "2026-10-08",
@@ -414,7 +460,7 @@
    "meta": 83,
    "meta_count": 17,
    "user": 8.1,
-   "user_count": 17,
+   "user_count": 16,
    "scores": {
     "GameSpot": 80
    }
@@ -637,6 +683,81 @@
    "user": 2.1,
    "user_count": 84,
    "scores": {}
+  },
+  {
+   "slug": "final-fantasy-resonance",
+   "title": "Final Fantasy Resonance",
+   "date": "2026-10-22",
+   "url": "https://www.metacritic.com/game/final-fantasy-resonance/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1790044932.jpg",
+   "plats": [
+    {
+     "n": "NS2",
+     "s": 83,
+     "c": 32,
+     "d": "2026-10-22"
+    },
+    {
+     "n": "NS",
+     "s": null,
+     "c": 0,
+     "d": "2026-10-22"
+    },
+    {
+     "n": "PC",
+     "s": 85,
+     "c": 16,
+     "d": "2026-10-22"
+    },
+    {
+     "n": "PS5",
+     "s": 85,
+     "c": 46,
+     "d": "2026-10-22"
+    },
+    {
+     "n": "XSX",
+     "s": 86,
+     "c": 5,
+     "d": "2026-10-22"
+    }
+   ],
+   "dev": "Lancarse",
+   "pub": "Square Enix",
+   "meta": 85,
+   "meta_count": 46,
+   "user": null,
+   "user_count": 0,
+   "scores": {
+    "Push Square": 80
+   }
+  },
+  {
+   "slug": "nintendo-switch-sports-resort",
+   "title": "Nintendo Switch Sports Resort",
+   "date": "2026-10-22",
+   "url": "https://www.metacritic.com/game/nintendo-switch-sports-resort/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1790045084.jpg",
+   "plats": [
+    {
+     "n": "NS2",
+     "s": 79,
+     "c": 57,
+     "d": "2026-10-22"
+    }
+   ],
+   "dev": "Nintendo",
+   "pub": "Nintendo",
+   "meta": 79,
+   "meta_count": 58,
+   "user": null,
+   "user_count": 0,
+   "scores": {
+    "Nintendo Life": 90,
+    "GameSpot": 90,
+    "Eurogamer": 80,
+    "IGN": 70
+   }
   }
  ],
  "watch": [
@@ -721,52 +842,6 @@
    "scores": {}
   },
   {
-   "slug": "silver-pines",
-   "title": "Silver Pines",
-   "date": "2026-10-08",
-   "url": "https://www.metacritic.com/game/silver-pines/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1791257353.jpg",
-   "plats": [
-    {
-     "n": "PC",
-     "s": 85,
-     "c": 14,
-     "d": "2026-10-08"
-    },
-    {
-     "n": "NS",
-     "s": null,
-     "c": 0,
-     "d": "2026-10-08"
-    },
-    {
-     "n": "XSX",
-     "s": null,
-     "c": 1,
-     "d": "2026-10-08"
-    },
-    {
-     "n": "PS5",
-     "s": 91,
-     "c": 6,
-     "d": "2026-10-08"
-    },
-    {
-     "n": "NS2",
-     "s": null,
-     "c": 2,
-     "d": "2026-10-08"
-    }
-   ],
-   "dev": "Wych Elm",
-   "pub": "Team17",
-   "meta": 85,
-   "meta_count": 24,
-   "user": 8.5,
-   "user_count": 7,
-   "scores": {}
-  },
-  {
    "slug": "garfield-escape-from-monday",
    "title": "Garfield: Escape from Monday",
    "date": "2026-09-24",
@@ -803,46 +878,6 @@
    "meta": 68,
    "meta_count": 10,
    "user": 8.4,
-   "user_count": 1,
-   "scores": {}
-  },
-  {
-   "slug": "ratatan",
-   "title": "RATATAN",
-   "date": "2026-10-15",
-   "url": "https://www.metacritic.com/game/ratatan/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1777421279.jpg",
-   "plats": [
-    {
-     "n": "PC",
-     "s": null,
-     "c": 2,
-     "d": "2026-10-15"
-    },
-    {
-     "n": "NS2",
-     "s": 76,
-     "c": 10,
-     "d": "2026-10-15"
-    },
-    {
-     "n": "PS5",
-     "s": null,
-     "c": 3,
-     "d": "2026-10-15"
-    },
-    {
-     "n": "XSX",
-     "s": null,
-     "c": 2,
-     "d": "2026-10-15"
-    }
-   ],
-   "dev": "Ratata Arts",
-   "pub": "Game Source Entertainment",
-   "meta": 76,
-   "meta_count": 13,
-   "user": 8.2,
    "user_count": 1,
    "scores": {}
   },
@@ -943,6 +978,46 @@
    "scores": {}
   },
   {
+   "slug": "ratatan",
+   "title": "RATATAN",
+   "date": "2026-10-15",
+   "url": "https://www.metacritic.com/game/ratatan/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1777421279.jpg",
+   "plats": [
+    {
+     "n": "PC",
+     "s": null,
+     "c": 2,
+     "d": "2026-10-15"
+    },
+    {
+     "n": "NS2",
+     "s": 76,
+     "c": 10,
+     "d": "2026-10-15"
+    },
+    {
+     "n": "PS5",
+     "s": null,
+     "c": 3,
+     "d": "2026-10-15"
+    },
+    {
+     "n": "XSX",
+     "s": null,
+     "c": 2,
+     "d": "2026-10-15"
+    }
+   ],
+   "dev": "Ratata Arts",
+   "pub": "Game Source Entertainment",
+   "meta": 76,
+   "meta_count": 13,
+   "user": 7.7,
+   "user_count": 1,
+   "scores": {}
+  },
+  {
    "slug": "forever-ago",
    "title": "Forever Ago",
    "date": "2026-10-08",
@@ -979,7 +1054,7 @@
    "meta": 75,
    "meta_count": 19,
    "user": 7.5,
-   "user_count": 0,
+   "user_count": 1,
    "scores": {}
   },
   {
@@ -1030,7 +1105,7 @@
    "pub": "Bandai Namco Games",
    "meta": 77,
    "meta_count": 22,
-   "user": 7.3,
+   "user": 7.2,
    "user_count": 0,
    "scores": {}
   },
@@ -1065,7 +1140,7 @@
    "meta": 73,
    "meta_count": 21,
    "user": 7.2,
-   "user_count": 14,
+   "user_count": 17,
    "scores": {}
   },
   {
@@ -1105,7 +1180,7 @@
    "meta": 72,
    "meta_count": 19,
    "user": 6.4,
-   "user_count": 0,
+   "user_count": 2,
    "scores": {}
   },
   {
@@ -1145,7 +1220,7 @@
    "meta": 81,
    "meta_count": 22,
    "user": 5.7,
-   "user_count": 0,
+   "user_count": 2,
    "scores": {}
   },
   {
@@ -1213,7 +1288,7 @@
    "meta": 83,
    "meta_count": 16,
    "user": 2.8,
-   "user_count": 13,
+   "user_count": 14,
    "scores": {}
   },
   {
@@ -1247,64 +1322,40 @@
  ],
  "upcoming": [
   {
-   "slug": "final-fantasy-resonance",
-   "title": "Final Fantasy Resonance",
-   "date": "2026-10-22",
-   "url": "https://www.metacritic.com/game/final-fantasy-resonance/",
-   "meta": 85,
+   "slug": "one-piece-grand-gourmet",
+   "title": "ONE PIECE: Grand Gourmet",
+   "date": "2026-10-23",
+   "url": "https://www.metacritic.com/game/one-piece-grand-gourmet/",
+   "meta": 72,
    "plats": [
     {
      "n": "NS2",
-     "s": 83,
-     "c": 32,
-     "d": "2026-10-22"
+     "s": 73,
+     "c": 9,
+     "d": "2026-10-23"
     },
     {
      "n": "NS",
      "s": null,
      "c": 0,
-     "d": "2026-10-22"
+     "d": "2026-10-23"
     },
     {
      "n": "PC",
-     "s": 85,
-     "c": 16,
-     "d": "2026-10-22"
+     "s": null,
+     "c": 3,
+     "d": "2026-10-23"
     },
     {
-     "n": "PS5",
-     "s": 85,
-     "c": 46,
-     "d": "2026-10-22"
-    },
-    {
-     "n": "XSX",
-     "s": 86,
-     "c": 5,
-     "d": "2026-10-22"
+     "n": "iOS",
+     "s": null,
+     "c": 0,
+     "d": "2026-10-23"
     }
    ],
-   "dev": "Lancarse",
-   "pub": "Square Enix",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1790044932.jpg"
-  },
-  {
-   "slug": "nintendo-switch-sports-resort",
-   "title": "Nintendo Switch Sports Resort",
-   "date": "2026-10-22",
-   "url": "https://www.metacritic.com/game/nintendo-switch-sports-resort/",
-   "meta": 79,
-   "plats": [
-    {
-     "n": "NS2",
-     "s": 79,
-     "c": 57,
-     "d": "2026-10-22"
-    }
-   ],
-   "dev": "Nintendo",
-   "pub": "Nintendo",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1790045084.jpg"
+   "dev": "Kairosoft Co. Ltd",
+   "pub": "Bandai Namco Games",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1249890-17.jpg"
   },
   {
    "slug": "call-of-duty-modern-warfare-4",
@@ -1377,108 +1428,6 @@
    "dev": "From Software",
    "pub": "Nintendo",
    "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1787246452.jpg"
-  },
-  {
-   "slug": "mimic-alert",
-   "title": "Mimic Alert",
-   "date": "2026-10-22",
-   "url": "https://www.metacritic.com/game/mimic-alert/",
-   "meta": null,
-   "plats": [
-    {
-     "n": "PC",
-     "s": null,
-     "c": 0,
-     "d": "2026-10-22"
-    }
-   ],
-   "dev": "HiddenGames",
-   "pub": "HiddenGames",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1062758-52.jpg"
-  },
-  {
-   "slug": "cotton-reboot-high-tension",
-   "title": "Cotton Reboot! High Tension!",
-   "date": "2026-10-22",
-   "url": "https://www.metacritic.com/game/cotton-reboot-high-tension/",
-   "meta": null,
-   "plats": [
-    {
-     "n": "PS5",
-     "s": null,
-     "c": 0,
-     "d": "2026-10-22"
-    },
-    {
-     "n": "PS4",
-     "s": null,
-     "c": 0,
-     "d": "2026-10-22"
-    },
-    {
-     "n": "NS",
-     "s": null,
-     "c": 0,
-     "d": "2026-10-22"
-    }
-   ],
-   "dev": "Success",
-   "pub": "Clear River Games",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1023947-59.jpg"
-  },
-  {
-   "slug": "death-rabbit",
-   "title": "Death Rabbit",
-   "date": "2026-10-22",
-   "url": "https://www.metacritic.com/game/death-rabbit/",
-   "meta": null,
-   "plats": [
-    {
-     "n": "PC",
-     "s": null,
-     "c": 0,
-     "d": "2026-10-22"
-    }
-   ],
-   "dev": "Rabbit Studios",
-   "pub": "Rabbit Studios",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-974357-52.jpg"
-  },
-  {
-   "slug": "tow-game",
-   "title": "Tow Game",
-   "date": "2026-10-22",
-   "url": "https://www.metacritic.com/game/tow-game/",
-   "meta": null,
-   "plats": [
-    {
-     "n": "PC",
-     "s": null,
-     "c": 0,
-     "d": "2026-10-22"
-    }
-   ],
-   "dev": "Korion Interactive",
-   "pub": "Korion Interactive",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1121616-52.jpg"
-  },
-  {
-   "slug": "lost-liminal",
-   "title": "Lost Liminal",
-   "date": "2026-10-22",
-   "url": "https://www.metacritic.com/game/lost-liminal/",
-   "meta": null,
-   "plats": [
-    {
-     "n": "PC",
-     "s": null,
-     "c": 0,
-     "d": "2026-10-22"
-    }
-   ],
-   "dev": "TuJi Game",
-   "pub": "TuJi Game",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1121183-52.jpg"
   }
  ],
  "annual": [
@@ -1692,7 +1641,7 @@
      "meta": 89,
      "meta_count": 104,
      "user": 8.5,
-     "user_count": 257,
+     "user_count": 287,
      "scores": {}
     },
     {
@@ -1798,7 +1747,7 @@
      "dev": "Bandai Namco Aces Inc.",
      "pub": "Bandai Namco Games",
      "meta": 87,
-     "meta_count": 71,
+     "meta_count": 72,
      "user": 8.7,
      "user_count": 40,
      "scores": {}
@@ -2035,18 +1984,18 @@
   ],
   "ace-combat-8-wings-of-theve": [
    87,
-   71,
+   72,
    8.7
-  ],
-  "dressmaker": [
-   86,
-   8,
-   8.3
   ],
   "silver-pines": [
    85,
    24,
    8.5
+  ],
+  "final-fantasy-resonance": [
+   85,
+   46,
+   null
   ],
   "planet-zoo-2": [
    84,
@@ -2108,6 +2057,11 @@
    7,
    8.3
   ],
+  "nintendo-switch-sports-resort": [
+   79,
+   58,
+   null
+  ],
   "valor-mortis": [
    78,
    52,
@@ -2116,7 +2070,7 @@
   "disney-pixar-toy-story-retro-roundup": [
    78,
    9,
-   6.4
+   6.6
   ],
   "blueys-happy-snaps": [
    77,
@@ -2126,12 +2080,12 @@
   "tales-of-eternia-remastered": [
    77,
    22,
-   7.3
+   7.2
   ],
   "ratatan": [
    76,
    13,
-   8.2
+   7.7
   ],
   "nivalis-nights": [
    75,
@@ -2207,11 +2161,6 @@
    61,
    8,
    5.3
-  ],
-  "akiba-lost": [
-   81,
-   4,
-   null
   ]
  }
 }
