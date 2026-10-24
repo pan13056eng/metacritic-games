@@ -1,10 +1,10 @@
 {
- "updated": "2026-10-23 07:33",
+ "updated": "2026-10-24 07:17",
  "window": [
-  "2026-09-23",
-  "2026-10-23"
+  "2026-09-24",
+  "2026-10-24"
  ],
- "total": 43,
+ "total": 44,
  "released": [
   {
    "slug": "resident-evil-2-deluxe-edition",
@@ -104,7 +104,7 @@
    "meta": 83,
    "meta_count": 89,
    "user": 8.8,
-   "user_count": 198,
+   "user_count": 207,
    "scores": {
     "Push Square": 80,
     "IGN": 80
@@ -183,7 +183,7 @@
    "meta": 87,
    "meta_count": 72,
    "user": 8.7,
-   "user_count": 40,
+   "user_count": 44,
    "scores": {
     "Push Square": 80
    }
@@ -337,7 +337,7 @@
    "dev": "Saber Interactive",
    "pub": "Saber Interactive",
    "meta": 69,
-   "meta_count": 41,
+   "meta_count": 42,
    "user": 8.3,
    "user_count": 71,
    "scores": {
@@ -376,7 +376,7 @@
    "meta": 88,
    "meta_count": 76,
    "user": 8.2,
-   "user_count": 35,
+   "user_count": 40,
    "scores": {
     "Eurogamer": 100,
     "GameSpot": 90,
@@ -412,7 +412,7 @@
    "dev": "Thekla, Inc",
    "pub": "Arc Games",
    "meta": 84,
-   "meta_count": 18,
+   "meta_count": 19,
    "user": 8,
    "user_count": 16,
    "scores": {
@@ -463,6 +463,44 @@
    }
   },
   {
+   "slug": "valor-mortis",
+   "title": "Valor Mortis",
+   "date": "2026-10-13",
+   "url": "https://www.metacritic.com/game/valor-mortis/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1791784978.jpg",
+   "plats": [
+    {
+     "n": "PS5",
+     "s": 81,
+     "c": 10,
+     "d": "2026-10-13"
+    },
+    {
+     "n": "XSX",
+     "s": null,
+     "c": 0,
+     "d": "2026-10-13"
+    },
+    {
+     "n": "PC",
+     "s": 77,
+     "c": 40,
+     "d": "2026-10-13"
+    }
+   ],
+   "dev": "ONE MORE LEVEL",
+   "pub": "Lyrical Games",
+   "meta": 78,
+   "meta_count": 53,
+   "user": 7.6,
+   "user_count": 35,
+   "scores": {
+    "Eurogamer": 80,
+    "IGN": 70,
+    "GameSpot": 60
+   }
+  },
+  {
    "slug": "minecraft-dungeons-ii",
    "title": "Minecraft Dungeons II",
    "date": "2026-09-29",
@@ -503,50 +541,12 @@
    "dev": "Mojang AB",
    "pub": "Xbox Game Studios",
    "meta": 75,
-   "meta_count": 37,
-   "user": 7.7,
+   "meta_count": 38,
+   "user": 7.6,
    "user_count": 21,
    "scores": {
     "GameSpot": 70,
     "IGN": 60
-   }
-  },
-  {
-   "slug": "valor-mortis",
-   "title": "Valor Mortis",
-   "date": "2026-10-13",
-   "url": "https://www.metacritic.com/game/valor-mortis/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1791784978.jpg",
-   "plats": [
-    {
-     "n": "PS5",
-     "s": 81,
-     "c": 10,
-     "d": "2026-10-13"
-    },
-    {
-     "n": "XSX",
-     "s": null,
-     "c": 0,
-     "d": "2026-10-13"
-    },
-    {
-     "n": "PC",
-     "s": 77,
-     "c": 40,
-     "d": "2026-10-13"
-    }
-   ],
-   "dev": "ONE MORE LEVEL",
-   "pub": "Lyrical Games",
-   "meta": 78,
-   "meta_count": 53,
-   "user": 7.6,
-   "user_count": 35,
-   "scores": {
-    "Eurogamer": 80,
-    "IGN": 70,
-    "GameSpot": 60
    }
   },
   {
@@ -578,6 +578,37 @@
    "scores": {
     "IGN": 80,
     "Push Square": 70
+   }
+  },
+  {
+   "slug": "stupid-never-dies",
+   "title": "Stupid Never Dies",
+   "date": "2026-10-21",
+   "url": "https://www.metacritic.com/game/stupid-never-dies/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1792342907.jpg",
+   "plats": [
+    {
+     "n": "PC",
+     "s": 66,
+     "c": 10,
+     "d": "2026-10-21"
+    },
+    {
+     "n": "PS5",
+     "s": 65,
+     "c": 23,
+     "d": "2026-10-21"
+    }
+   ],
+   "dev": "GPTRACK50",
+   "pub": "GPTRACK50",
+   "meta": 66,
+   "meta_count": 34,
+   "user": 5.2,
+   "user_count": 0,
+   "scores": {
+    "Push Square": 70,
+    "GameSpot": 60
    }
   },
   {
@@ -712,37 +743,6 @@
     "Eurogamer": 80,
     "IGN": 70
    }
-  },
-  {
-   "slug": "stupid-never-dies",
-   "title": "Stupid Never Dies",
-   "date": "2026-10-21",
-   "url": "https://www.metacritic.com/game/stupid-never-dies/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1792342907.jpg",
-   "plats": [
-    {
-     "n": "PC",
-     "s": 66,
-     "c": 10,
-     "d": "2026-10-21"
-    },
-    {
-     "n": "PS5",
-     "s": 65,
-     "c": 23,
-     "d": "2026-10-21"
-    }
-   ],
-   "dev": "GPTRACK50",
-   "pub": "GPTRACK50",
-   "meta": 66,
-   "meta_count": 33,
-   "user": null,
-   "user_count": 0,
-   "scores": {
-    "Push Square": 70,
-    "GameSpot": 60
-   }
   }
  ],
  "watch": [
@@ -866,9 +866,9 @@
    ],
    "dev": "Saibot Studios",
    "pub": "New Blood Interactive",
-   "meta": 82,
-   "meta_count": 10,
-   "user": 8.5,
+   "meta": 81,
+   "meta_count": 11,
+   "user": 8.6,
    "user_count": 1,
    "scores": {}
   },
@@ -947,98 +947,6 @@
    "scores": {}
   },
   {
-   "slug": "tales-of-eternia-remastered",
-   "title": "Tales of Eternia Remastered",
-   "date": "2026-10-16",
-   "url": "https://www.metacritic.com/game/tales-of-eternia-remastered/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1791946499.jpg",
-   "plats": [
-    {
-     "n": "NS",
-     "s": null,
-     "c": 0,
-     "d": "2026-10-16"
-    },
-    {
-     "n": "NS2",
-     "s": null,
-     "c": 2,
-     "d": "2026-10-16"
-    },
-    {
-     "n": "PS4",
-     "s": null,
-     "c": 0,
-     "d": "2026-10-16"
-    },
-    {
-     "n": "PS5",
-     "s": 77,
-     "c": 11,
-     "d": "2026-10-16"
-    },
-    {
-     "n": "PC",
-     "s": null,
-     "c": 0,
-     "d": "2026-10-16"
-    },
-    {
-     "n": "XSX",
-     "s": null,
-     "c": 0,
-     "d": "2026-10-16"
-    }
-   ],
-   "dev": "TOSE",
-   "pub": "Bandai Namco Games",
-   "meta": 77,
-   "meta_count": 22,
-   "user": 7.8,
-   "user_count": 3,
-   "scores": {}
-  },
-  {
-   "slug": "ratatan",
-   "title": "RATATAN",
-   "date": "2026-10-15",
-   "url": "https://www.metacritic.com/game/ratatan/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1777421279.jpg",
-   "plats": [
-    {
-     "n": "PC",
-     "s": null,
-     "c": 2,
-     "d": "2026-10-15"
-    },
-    {
-     "n": "NS2",
-     "s": 76,
-     "c": 10,
-     "d": "2026-10-15"
-    },
-    {
-     "n": "PS5",
-     "s": null,
-     "c": 3,
-     "d": "2026-10-15"
-    },
-    {
-     "n": "XSX",
-     "s": null,
-     "c": 2,
-     "d": "2026-10-15"
-    }
-   ],
-   "dev": "Ratata Arts",
-   "pub": "Game Source Entertainment",
-   "meta": 76,
-   "meta_count": 13,
-   "user": 7.7,
-   "user_count": 1,
-   "scores": {}
-  },
-  {
    "slug": "nivalis-nights",
    "title": "Nivalis Nights",
    "date": "2026-09-29",
@@ -1098,6 +1006,58 @@
    "meta_count": 19,
    "user": 7.5,
    "user_count": 1,
+   "scores": {}
+  },
+  {
+   "slug": "tales-of-eternia-remastered",
+   "title": "Tales of Eternia Remastered",
+   "date": "2026-10-16",
+   "url": "https://www.metacritic.com/game/tales-of-eternia-remastered/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1791946499.jpg",
+   "plats": [
+    {
+     "n": "NS",
+     "s": null,
+     "c": 0,
+     "d": "2026-10-16"
+    },
+    {
+     "n": "NS2",
+     "s": null,
+     "c": 2,
+     "d": "2026-10-16"
+    },
+    {
+     "n": "PS4",
+     "s": null,
+     "c": 0,
+     "d": "2026-10-16"
+    },
+    {
+     "n": "PS5",
+     "s": 77,
+     "c": 11,
+     "d": "2026-10-16"
+    },
+    {
+     "n": "PC",
+     "s": null,
+     "c": 0,
+     "d": "2026-10-16"
+    },
+    {
+     "n": "XSX",
+     "s": null,
+     "c": 0,
+     "d": "2026-10-16"
+    }
+   ],
+   "dev": "TOSE",
+   "pub": "Bandai Namco Games",
+   "meta": 77,
+   "meta_count": 23,
+   "user": 7.2,
+   "user_count": 3,
    "scores": {}
   },
   {
@@ -1175,6 +1135,46 @@
    "scores": {}
   },
   {
+   "slug": "ratatan",
+   "title": "RATATAN",
+   "date": "2026-10-15",
+   "url": "https://www.metacritic.com/game/ratatan/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1777421279.jpg",
+   "plats": [
+    {
+     "n": "PC",
+     "s": null,
+     "c": 2,
+     "d": "2026-10-15"
+    },
+    {
+     "n": "NS2",
+     "s": 76,
+     "c": 10,
+     "d": "2026-10-15"
+    },
+    {
+     "n": "PS5",
+     "s": null,
+     "c": 3,
+     "d": "2026-10-15"
+    },
+    {
+     "n": "XSX",
+     "s": null,
+     "c": 2,
+     "d": "2026-10-15"
+    }
+   ],
+   "dev": "Ratata Arts",
+   "pub": "Game Source Entertainment",
+   "meta": 75,
+   "meta_count": 14,
+   "user": 6.7,
+   "user_count": 1,
+   "scores": {}
+  },
+  {
    "slug": "over-the-hill",
    "title": "over the hill",
    "date": "2026-10-14",
@@ -1212,6 +1212,28 @@
    "meta_count": 19,
    "user": 6.4,
    "user_count": 2,
+   "scores": {}
+  },
+  {
+   "slug": "aion-2",
+   "title": "AION 2",
+   "date": "2026-10-05",
+   "url": "https://www.metacritic.com/game/aion-2/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1791233822.jpg",
+   "plats": [
+    {
+     "n": "PC",
+     "s": 62,
+     "c": 7,
+     "d": "2026-10-05"
+    }
+   ],
+   "dev": "NC",
+   "pub": "NC",
+   "meta": 62,
+   "meta_count": 7,
+   "user": 6.3,
+   "user_count": 13,
    "scores": {}
   },
   {
@@ -1356,8 +1378,8 @@
    ],
    "dev": "Infinity Ward",
    "pub": "Activision",
-   "meta": 84,
-   "meta_count": 19,
+   "meta": 86,
+   "meta_count": 25,
    "user": null,
    "user_count": 0,
    "scores": {}
@@ -1396,14 +1418,32 @@
    ],
    "dev": "Kairosoft Co. Ltd",
    "pub": "Bandai Namco Games",
-   "meta": 73,
-   "meta_count": 13,
+   "meta": 72,
+   "meta_count": 17,
    "user": null,
    "user_count": 0,
    "scores": {}
   }
  ],
  "upcoming": [
+  {
+   "slug": "ghost-of-yotei-echoes-of-sekigahara",
+   "title": "Ghost of Yotei: Echoes of Sekigahara",
+   "date": "2026-11-01",
+   "url": "https://www.metacritic.com/game/ghost-of-yotei-echoes-of-sekigahara/",
+   "meta": 84,
+   "plats": [
+    {
+     "n": "PS5",
+     "s": 84,
+     "c": 7,
+     "d": "2026-11-01"
+    }
+   ],
+   "dev": "Sucker Punch",
+   "pub": "Sony Interactive Entertainment",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1790799510.jpg"
+  },
   {
    "slug": "the-legend-of-zelda-ocarina-of-time-2026",
    "title": "The Legend of Zelda: Ocarina of Time",
@@ -1726,7 +1766,7 @@
      "meta": 88,
      "meta_count": 76,
      "user": 8.2,
-     "user_count": 35,
+     "user_count": 40,
      "scores": {}
     },
     {
@@ -1760,7 +1800,7 @@
      "meta": 87,
      "meta_count": 72,
      "user": 8.7,
-     "user_count": 40,
+     "user_count": 44,
      "scores": {}
     },
     {
@@ -1902,7 +1942,7 @@
      "meta": 83,
      "meta_count": 89,
      "user": 8.8,
-     "user_count": 198,
+     "user_count": 207,
      "scores": {}
     },
     {
@@ -1993,6 +2033,11 @@
    72,
    8.7
   ],
+  "call-of-duty-modern-warfare-4": [
+   86,
+   25,
+   null
+  ],
   "final-fantasy-resonance": [
    86,
    51,
@@ -2003,20 +2048,15 @@
    24,
    8.5
   ],
-  "call-of-duty-modern-warfare-4": [
+  "order-of-the-sinking-star": [
    84,
    19,
-   null
+   8
   ],
   "castlevania-belmonts-curse": [
    84,
    65,
    7.8
-  ],
-  "order-of-the-sinking-star": [
-   84,
-   18,
-   8
   ],
   "planet-zoo-2": [
    84,
@@ -2038,11 +2078,6 @@
    16,
    2.8
   ],
-  "tenebris-somnia": [
-   82,
-   10,
-   8.5
-  ],
   "middle-earth-shadow-bundle": [
    81,
    9,
@@ -2057,6 +2092,11 @@
    81,
    25,
    6.1
+  ],
+  "tenebris-somnia": [
+   81,
+   11,
+   8.6
   ],
   "silent-hill-townfall": [
    80,
@@ -2085,13 +2125,13 @@
   ],
   "tales-of-eternia-remastered": [
    77,
-   22,
-   7.8
+   23,
+   7.2
   ],
   "ratatan": [
-   76,
-   13,
-   7.7
+   75,
+   14,
+   6.7
   ],
   "nivalis-nights": [
    75,
@@ -2100,8 +2140,8 @@
   ],
   "minecraft-dungeons-ii": [
    75,
-   37,
-   7.7
+   38,
+   7.6
   ],
   "forever-ago": [
    75,
@@ -2118,30 +2158,30 @@
    9,
    null
   ],
+  "the-jackbox-party-pack-12": [
+   73,
+   7,
+   null
+  ],
   "dynasty-warriors-3-complete-edition-remastered": [
    73,
    13,
    8.8
-  ],
-  "one-piece-grand-gourmet": [
-   73,
-   13,
-   null
   ],
   "end-of-abyss": [
    73,
    21,
    7.2
   ],
+  "one-piece-grand-gourmet": [
+   72,
+   17,
+   null
+  ],
   "over-the-hill": [
    72,
    19,
    6.4
-  ],
-  "fallen-tear-the-ascension": [
-   71,
-   8,
-   null
   ],
   "doggy-dont-care": [
    70,
@@ -2150,7 +2190,7 @@
   ],
   "clive-barkers-hellraiser-revival": [
    69,
-   41,
+   42,
    8.3
   ],
   "garfield-escape-from-monday": [
@@ -2160,8 +2200,13 @@
   ],
   "stupid-never-dies": [
    66,
-   33,
-   null
+   34,
+   5.2
+  ],
+  "aion-2": [
+   62,
+   7,
+   6.3
   ],
   "qliphah-in-providences-shadow": [
    61,
