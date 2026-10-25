@@ -1,10 +1,10 @@
 {
- "updated": "2026-10-24 07:17",
+ "updated": "2026-10-25 07:35",
  "window": [
-  "2026-09-24",
-  "2026-10-24"
+  "2026-09-25",
+  "2026-10-25"
  ],
- "total": 44,
+ "total": 39,
  "released": [
   {
    "slug": "resident-evil-2-deluxe-edition",
@@ -24,10 +24,136 @@
    "pub": "Capcom",
    "meta": 93,
    "meta_count": 13,
-   "user": 9.4,
+   "user": 9,
    "user_count": 4,
    "scores": {
     "Nintendo Life": 90
+   }
+  },
+  {
+   "slug": "final-fantasy-resonance",
+   "title": "Final Fantasy Resonance",
+   "date": "2026-10-22",
+   "url": "https://www.metacritic.com/game/final-fantasy-resonance/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1790044932.jpg",
+   "plats": [
+    {
+     "n": "NS2",
+     "s": 83,
+     "c": 32,
+     "d": "2026-10-22"
+    },
+    {
+     "n": "NS",
+     "s": null,
+     "c": 0,
+     "d": "2026-10-22"
+    },
+    {
+     "n": "PC",
+     "s": 85,
+     "c": 16,
+     "d": "2026-10-22"
+    },
+    {
+     "n": "PS5",
+     "s": 85,
+     "c": 46,
+     "d": "2026-10-22"
+    },
+    {
+     "n": "XSX",
+     "s": 86,
+     "c": 5,
+     "d": "2026-10-22"
+    }
+   ],
+   "dev": "Lancarse",
+   "pub": "Square Enix",
+   "meta": 86,
+   "meta_count": 51,
+   "user": 9,
+   "user_count": 0,
+   "scores": {
+    "Push Square": 80
+   }
+  },
+  {
+   "slug": "dynasty-warriors-3-complete-edition-remastered",
+   "title": "Dynasty Warriors 3 Complete Edition Remastered",
+   "date": "2026-10-01",
+   "url": "https://www.metacritic.com/game/dynasty-warriors-3-complete-edition-remastered/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1790740754.jpg",
+   "plats": [
+    {
+     "n": "PS5",
+     "s": 72,
+     "c": 10,
+     "d": "2026-10-01"
+    },
+    {
+     "n": "NS2",
+     "s": 79,
+     "c": 8,
+     "d": "2026-10-01"
+    },
+    {
+     "n": "PC",
+     "s": 80,
+     "c": 8,
+     "d": "2026-10-01"
+    },
+    {
+     "n": "XSX",
+     "s": null,
+     "c": 2,
+     "d": "2026-10-01"
+    }
+   ],
+   "dev": "Omega Force",
+   "pub": "Koei Tecmo Games",
+   "meta": 73,
+   "meta_count": 15,
+   "user": 8.9,
+   "user_count": 10,
+   "scores": {
+    "Push Square": 70
+   }
+  },
+  {
+   "slug": "ace-combat-8-wings-of-theve",
+   "title": "Ace Combat 8: Wings of Theve",
+   "date": "2026-10-02",
+   "url": "https://www.metacritic.com/game/ace-combat-8-wings-of-theve/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1788987138.jpg",
+   "plats": [
+    {
+     "n": "PC",
+     "s": 86,
+     "c": 28,
+     "d": "2026-10-02"
+    },
+    {
+     "n": "XSX",
+     "s": 90,
+     "c": 4,
+     "d": "2026-10-02"
+    },
+    {
+     "n": "PS5",
+     "s": 87,
+     "c": 55,
+     "d": "2026-10-02"
+    }
+   ],
+   "dev": "Bandai Namco Aces Inc.",
+   "pub": "Bandai Namco Games",
+   "meta": 87,
+   "meta_count": 72,
+   "user": 8.8,
+   "user_count": 44,
+   "scores": {
+    "Push Square": 80
    }
   },
   {
@@ -66,126 +192,11 @@
    "pub": "Capcom",
    "meta": 83,
    "meta_count": 32,
-   "user": 8.9,
+   "user": 8.7,
    "user_count": 12,
    "scores": {
     "Push Square": 90,
     "IGN": 80
-   }
-  },
-  {
-   "slug": "control-resonant",
-   "title": "CONTROL Resonant",
-   "date": "2026-09-24",
-   "url": "https://www.metacritic.com/game/control-resonant/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1781551532.jpg",
-   "plats": [
-    {
-     "n": "PC",
-     "s": 83,
-     "c": 34,
-     "d": "2026-09-24"
-    },
-    {
-     "n": "PS5",
-     "s": 84,
-     "c": 63,
-     "d": "2026-09-24"
-    },
-    {
-     "n": "XSX",
-     "s": 81,
-     "c": 10,
-     "d": "2026-09-24"
-    }
-   ],
-   "dev": "Remedy Entertainment",
-   "pub": "Remedy Entertainment",
-   "meta": 83,
-   "meta_count": 89,
-   "user": 8.8,
-   "user_count": 207,
-   "scores": {
-    "Push Square": 80,
-    "IGN": 80
-   }
-  },
-  {
-   "slug": "dynasty-warriors-3-complete-edition-remastered",
-   "title": "Dynasty Warriors 3 Complete Edition Remastered",
-   "date": "2026-10-01",
-   "url": "https://www.metacritic.com/game/dynasty-warriors-3-complete-edition-remastered/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1790740754.jpg",
-   "plats": [
-    {
-     "n": "PS5",
-     "s": 72,
-     "c": 10,
-     "d": "2026-10-01"
-    },
-    {
-     "n": "NS2",
-     "s": 79,
-     "c": 8,
-     "d": "2026-10-01"
-    },
-    {
-     "n": "PC",
-     "s": 80,
-     "c": 8,
-     "d": "2026-10-01"
-    },
-    {
-     "n": "XSX",
-     "s": null,
-     "c": 2,
-     "d": "2026-10-01"
-    }
-   ],
-   "dev": "Omega Force",
-   "pub": "Koei Tecmo Games",
-   "meta": 73,
-   "meta_count": 13,
-   "user": 8.8,
-   "user_count": 10,
-   "scores": {
-    "Push Square": 70
-   }
-  },
-  {
-   "slug": "ace-combat-8-wings-of-theve",
-   "title": "Ace Combat 8: Wings of Theve",
-   "date": "2026-10-02",
-   "url": "https://www.metacritic.com/game/ace-combat-8-wings-of-theve/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1788987138.jpg",
-   "plats": [
-    {
-     "n": "PC",
-     "s": 86,
-     "c": 28,
-     "d": "2026-10-02"
-    },
-    {
-     "n": "XSX",
-     "s": 90,
-     "c": 4,
-     "d": "2026-10-02"
-    },
-    {
-     "n": "PS5",
-     "s": 87,
-     "c": 55,
-     "d": "2026-10-02"
-    }
-   ],
-   "dev": "Bandai Namco Aces Inc.",
-   "pub": "Bandai Namco Games",
-   "meta": 87,
-   "meta_count": 72,
-   "user": 8.7,
-   "user_count": 44,
-   "scores": {
-    "Push Square": 80
    }
   },
   {
@@ -251,7 +262,7 @@
    "dev": "The Coalition",
    "pub": "Xbox Game Studios",
    "meta": 87,
-   "meta_count": 76,
+   "meta_count": 78,
    "user": 8.6,
    "user_count": 709,
    "scores": {}
@@ -301,6 +312,33 @@
    "user": 8.5,
    "user_count": 10,
    "scores": {}
+  },
+  {
+   "slug": "nintendo-switch-sports-resort",
+   "title": "Nintendo Switch Sports Resort",
+   "date": "2026-10-22",
+   "url": "https://www.metacritic.com/game/nintendo-switch-sports-resort/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1790045084.jpg",
+   "plats": [
+    {
+     "n": "NS2",
+     "s": 79,
+     "c": 57,
+     "d": "2026-10-22"
+    }
+   ],
+   "dev": "Nintendo",
+   "pub": "Nintendo",
+   "meta": 79,
+   "meta_count": 64,
+   "user": 8.3,
+   "user_count": 0,
+   "scores": {
+    "Nintendo Life": 90,
+    "GameSpot": 90,
+    "Eurogamer": 80,
+    "IGN": 70
+   }
   },
   {
    "slug": "clive-barkers-hellraiser-revival",
@@ -384,42 +422,6 @@
    }
   },
   {
-   "slug": "order-of-the-sinking-star",
-   "title": "Order of the Sinking Star",
-   "date": "2026-10-08",
-   "url": "https://www.metacritic.com/game/order-of-the-sinking-star/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1791232616.jpg",
-   "plats": [
-    {
-     "n": "PC",
-     "s": 87,
-     "c": 11,
-     "d": "2026-10-08"
-    },
-    {
-     "n": "NS2",
-     "s": 85,
-     "c": 5,
-     "d": "2026-10-08"
-    },
-    {
-     "n": "PS5",
-     "s": 86,
-     "c": 9,
-     "d": null
-    }
-   ],
-   "dev": "Thekla, Inc",
-   "pub": "Arc Games",
-   "meta": 84,
-   "meta_count": 19,
-   "user": 8,
-   "user_count": 16,
-   "scores": {
-    "GameSpot": 80
-   }
-  },
-  {
    "slug": "castlevania-belmonts-curse",
    "title": "Castlevania: Belmont's Curse",
    "date": "2026-10-15",
@@ -455,7 +457,7 @@
    "pub": "Konami",
    "meta": 84,
    "meta_count": 65,
-   "user": 7.8,
+   "user": 7.7,
    "user_count": 69,
    "scores": {
     "IGN": 80,
@@ -550,37 +552,6 @@
    }
   },
   {
-   "slug": "silent-hill-townfall",
-   "title": "Silent Hill: Townfall",
-   "date": "2026-09-24",
-   "url": "https://www.metacritic.com/game/silent-hill-townfall/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1781631206.jpg",
-   "plats": [
-    {
-     "n": "PS5",
-     "s": null,
-     "c": 12,
-     "d": null
-    },
-    {
-     "n": "PC",
-     "s": null,
-     "c": 0,
-     "d": null
-    }
-   ],
-   "dev": "Screen Burn",
-   "pub": "Konami",
-   "meta": 80,
-   "meta_count": 99,
-   "user": 7.1,
-   "user_count": 156,
-   "scores": {
-    "IGN": 80,
-    "Push Square": 70
-   }
-  },
-  {
    "slug": "stupid-never-dies",
    "title": "Stupid Never Dies",
    "date": "2026-10-21",
@@ -604,7 +575,7 @@
    "pub": "GPTRACK50",
    "meta": 66,
    "meta_count": 34,
-   "user": 5.2,
+   "user": 6.9,
    "user_count": 0,
    "scores": {
     "Push Square": 70,
@@ -664,85 +635,10 @@
    "dev": "EA Canada",
    "pub": "Electronic Arts",
    "meta": 75,
-   "meta_count": 67,
+   "meta_count": 68,
    "user": 2.1,
    "user_count": 97,
    "scores": {}
-  },
-  {
-   "slug": "final-fantasy-resonance",
-   "title": "Final Fantasy Resonance",
-   "date": "2026-10-22",
-   "url": "https://www.metacritic.com/game/final-fantasy-resonance/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1790044932.jpg",
-   "plats": [
-    {
-     "n": "NS2",
-     "s": 83,
-     "c": 32,
-     "d": "2026-10-22"
-    },
-    {
-     "n": "NS",
-     "s": null,
-     "c": 0,
-     "d": "2026-10-22"
-    },
-    {
-     "n": "PC",
-     "s": 85,
-     "c": 16,
-     "d": "2026-10-22"
-    },
-    {
-     "n": "PS5",
-     "s": 85,
-     "c": 46,
-     "d": "2026-10-22"
-    },
-    {
-     "n": "XSX",
-     "s": 86,
-     "c": 5,
-     "d": "2026-10-22"
-    }
-   ],
-   "dev": "Lancarse",
-   "pub": "Square Enix",
-   "meta": 86,
-   "meta_count": 51,
-   "user": null,
-   "user_count": 0,
-   "scores": {
-    "Push Square": 80
-   }
-  },
-  {
-   "slug": "nintendo-switch-sports-resort",
-   "title": "Nintendo Switch Sports Resort",
-   "date": "2026-10-22",
-   "url": "https://www.metacritic.com/game/nintendo-switch-sports-resort/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1790045084.jpg",
-   "plats": [
-    {
-     "n": "NS2",
-     "s": 79,
-     "c": 57,
-     "d": "2026-10-22"
-    }
-   ],
-   "dev": "Nintendo",
-   "pub": "Nintendo",
-   "meta": 79,
-   "meta_count": 64,
-   "user": null,
-   "user_count": 0,
-   "scores": {
-    "Nintendo Life": 90,
-    "GameSpot": 90,
-    "Eurogamer": 80,
-    "IGN": 70
-   }
   }
  ],
  "watch": [
@@ -788,42 +684,8 @@
    "pub": "Capcom",
    "meta": 89,
    "meta_count": 12,
-   "user": 9.2,
+   "user": 9,
    "user_count": 3,
-   "scores": {}
-  },
-  {
-   "slug": "kingdom-hearts-collection-i-iii",
-   "title": "Kingdom Hearts Collection I ~ III",
-   "date": "2026-10-08",
-   "url": "https://www.metacritic.com/game/kingdom-hearts-collection-i-iii/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1791168642.jpg",
-   "plats": [
-    {
-     "n": "NS2",
-     "s": 89,
-     "c": 13,
-     "d": "2026-10-08"
-    },
-    {
-     "n": "PS5",
-     "s": 79,
-     "c": 6,
-     "d": "2026-10-06"
-    },
-    {
-     "n": "XSX",
-     "s": null,
-     "c": 0,
-     "d": "2026-10-08"
-    }
-   ],
-   "dev": "Square Enix",
-   "pub": "Square Enix",
-   "meta": 88,
-   "meta_count": 22,
-   "user": 9.1,
-   "user_count": 2,
    "scores": {}
   },
   {
@@ -868,48 +730,76 @@
    "pub": "New Blood Interactive",
    "meta": 81,
    "meta_count": 11,
-   "user": 8.6,
+   "user": 8.8,
    "user_count": 1,
    "scores": {}
   },
   {
-   "slug": "garfield-escape-from-monday",
-   "title": "Garfield: Escape from Monday",
-   "date": "2026-09-24",
-   "url": "https://www.metacritic.com/game/garfield-escape-from-monday/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1234351-52.jpg",
+   "slug": "kingdom-hearts-collection-i-iii",
+   "title": "Kingdom Hearts Collection I ~ III",
+   "date": "2026-10-08",
+   "url": "https://www.metacritic.com/game/kingdom-hearts-collection-i-iii/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1791168642.jpg",
    "plats": [
     {
-     "n": "NS",
-     "s": 68,
-     "c": 5,
-     "d": "2026-09-24"
+     "n": "NS2",
+     "s": 89,
+     "c": 13,
+     "d": "2026-10-08"
+    },
+    {
+     "n": "PS5",
+     "s": 79,
+     "c": 6,
+     "d": "2026-10-06"
     },
     {
      "n": "XSX",
      "s": null,
-     "c": 3,
-     "d": "2026-09-24"
-    },
+     "c": 0,
+     "d": "2026-10-08"
+    }
+   ],
+   "dev": "Square Enix",
+   "pub": "Square Enix",
+   "meta": 88,
+   "meta_count": 22,
+   "user": 8.6,
+   "user_count": 2,
+   "scores": {}
+  },
+  {
+   "slug": "order-of-the-sinking-star",
+   "title": "Order of the Sinking Star",
+   "date": "2026-10-08",
+   "url": "https://www.metacritic.com/game/order-of-the-sinking-star/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1791232616.jpg",
+   "plats": [
     {
      "n": "PC",
-     "s": 64,
-     "c": 9,
-     "d": "2026-09-24"
+     "s": 87,
+     "c": 11,
+     "d": "2026-10-08"
+    },
+    {
+     "n": "NS2",
+     "s": 85,
+     "c": 5,
+     "d": "2026-10-08"
     },
     {
      "n": "PS5",
-     "s": 68,
-     "c": 10,
-     "d": "2026-09-24"
+     "s": 86,
+     "c": 9,
+     "d": null
     }
    ],
-   "dev": "OSome Studio",
-   "pub": "Microids",
-   "meta": 68,
-   "meta_count": 10,
-   "user": 8.4,
-   "user_count": 1,
+   "dev": "Thekla, Inc",
+   "pub": "Arc Games",
+   "meta": 84,
+   "meta_count": 19,
+   "user": 7.9,
+   "user_count": 16,
    "scores": {}
   },
   {
@@ -942,8 +832,48 @@
    "pub": "Keen Games",
    "meta": 88,
    "meta_count": 12,
-   "user": 8.1,
-   "user_count": 4,
+   "user": 7.8,
+   "user_count": 9,
+   "scores": {}
+  },
+  {
+   "slug": "call-of-duty-modern-warfare-4",
+   "title": "Call of Duty: Modern Warfare 4",
+   "date": "2026-10-23",
+   "url": "https://www.metacritic.com/game/call-of-duty-modern-warfare-4/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1792136722.jpg",
+   "plats": [
+    {
+     "n": "XSX",
+     "s": null,
+     "c": 0,
+     "d": "2026-10-23"
+    },
+    {
+     "n": "PS5",
+     "s": null,
+     "c": 1,
+     "d": "2026-10-23"
+    },
+    {
+     "n": "NS2",
+     "s": null,
+     "c": 1,
+     "d": "2026-10-23"
+    },
+    {
+     "n": "PC",
+     "s": null,
+     "c": 10,
+     "d": "2026-10-23"
+    }
+   ],
+   "dev": "Infinity Ward",
+   "pub": "Activision",
+   "meta": 86,
+   "meta_count": 25,
+   "user": 7.7,
+   "user_count": 0,
    "scores": {}
   },
   {
@@ -1004,8 +934,30 @@
    "pub": "Annapurna Interactive",
    "meta": 75,
    "meta_count": 19,
-   "user": 7.5,
+   "user": 7.6,
    "user_count": 1,
+   "scores": {}
+  },
+  {
+   "slug": "middle-earth-shadow-bundle",
+   "title": "Middle-earth: Shadow Bundle",
+   "date": "2026-09-30",
+   "url": "https://www.metacritic.com/game/middle-earth-shadow-bundle/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1790740099.jpg",
+   "plats": [
+    {
+     "n": "NS2",
+     "s": 82,
+     "c": 10,
+     "d": "2026-09-30"
+    }
+   ],
+   "dev": "Aspyr",
+   "pub": "Aspyr",
+   "meta": 82,
+   "meta_count": 10,
+   "user": 7.2,
+   "user_count": 0,
    "scores": {}
   },
   {
@@ -1089,7 +1041,7 @@
    "dev": "Section 9 Interactive",
    "pub": "Epic Games",
    "meta": 73,
-   "meta_count": 21,
+   "meta_count": 22,
    "user": 7.2,
    "user_count": 17,
    "scores": {}
@@ -1170,8 +1122,8 @@
    "pub": "Game Source Entertainment",
    "meta": 75,
    "meta_count": 14,
-   "user": 6.7,
-   "user_count": 1,
+   "user": 7,
+   "user_count": 2,
    "scores": {}
   },
   {
@@ -1210,7 +1162,7 @@
    "pub": "Funselektor Labs Inc.",
    "meta": 72,
    "meta_count": 19,
-   "user": 6.4,
+   "user": 6.7,
    "user_count": 2,
    "scores": {}
   },
@@ -1340,48 +1292,8 @@
    "pub": "Paradox Interactive",
    "meta": 83,
    "meta_count": 16,
-   "user": 2.8,
+   "user": 2.9,
    "user_count": 14,
-   "scores": {}
-  },
-  {
-   "slug": "call-of-duty-modern-warfare-4",
-   "title": "Call of Duty: Modern Warfare 4",
-   "date": "2026-10-23",
-   "url": "https://www.metacritic.com/game/call-of-duty-modern-warfare-4/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1792136722.jpg",
-   "plats": [
-    {
-     "n": "XSX",
-     "s": null,
-     "c": 0,
-     "d": "2026-10-23"
-    },
-    {
-     "n": "PS5",
-     "s": null,
-     "c": 1,
-     "d": "2026-10-23"
-    },
-    {
-     "n": "NS2",
-     "s": null,
-     "c": 1,
-     "d": "2026-10-23"
-    },
-    {
-     "n": "PC",
-     "s": null,
-     "c": 10,
-     "d": "2026-10-23"
-    }
-   ],
-   "dev": "Infinity Ward",
-   "pub": "Activision",
-   "meta": 86,
-   "meta_count": 25,
-   "user": null,
-   "user_count": 0,
    "scores": {}
   },
   {
@@ -1634,6 +1546,28 @@
      "scores": {}
     },
     {
+     "slug": "fire-emblem-fortunes-weave",
+     "title": "Fire Emblem: Fortune's Weave",
+     "date": "2026-09-17",
+     "url": "https://www.metacritic.com/game/fire-emblem-fortunes-weave/",
+     "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1781630867.jpg",
+     "plats": [
+      {
+       "n": "NS2",
+       "s": null,
+       "c": 24,
+       "d": null
+      }
+     ],
+     "dev": "Nintendo",
+     "pub": "Nintendo",
+     "meta": 89,
+     "meta_count": 105,
+     "user": 8.5,
+     "user_count": 287,
+     "scores": {}
+    },
+    {
      "slug": "final-fantasy-vii-remake-intergrade",
      "title": "Final Fantasy VII Remake Intergrade",
      "date": "2026-01-22",
@@ -1669,30 +1603,8 @@
      "pub": "Square Enix",
      "meta": 89,
      "meta_count": 58,
-     "user": 8.5,
+     "user": 8.4,
      "user_count": 42,
-     "scores": {}
-    },
-    {
-     "slug": "fire-emblem-fortunes-weave",
-     "title": "Fire Emblem: Fortune's Weave",
-     "date": "2026-09-17",
-     "url": "https://www.metacritic.com/game/fire-emblem-fortunes-weave/",
-     "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1781630867.jpg",
-     "plats": [
-      {
-       "n": "NS2",
-       "s": null,
-       "c": 24,
-       "d": null
-      }
-     ],
-     "dev": "Nintendo",
-     "pub": "Nintendo",
-     "meta": 89,
-     "meta_count": 105,
-     "user": 8.5,
-     "user_count": 287,
      "scores": {}
     },
     {
@@ -1799,7 +1711,7 @@
      "pub": "Bandai Namco Games",
      "meta": 87,
      "meta_count": 72,
-     "user": 8.7,
+     "user": 8.8,
      "user_count": 44,
      "scores": {}
     },
@@ -1826,7 +1738,7 @@
      "dev": "The Coalition",
      "pub": "Xbox Game Studios",
      "meta": 87,
-     "meta_count": 76,
+     "meta_count": 78,
      "user": 8.6,
      "user_count": 709,
      "scores": {}
@@ -1996,7 +1908,7 @@
   "resident-evil-2-deluxe-edition": [
    93,
    13,
-   9.4
+   9
   ],
   "the-witcher-3-wild-hunt-remastered": [
    92,
@@ -2006,12 +1918,12 @@
   "resident-evil-4-gold-edition": [
    89,
    12,
-   9.2
+   9
   ],
   "kingdom-hearts-collection-i-iii": [
    88,
    22,
-   9.1
+   8.6
   ],
   "star-wars-galactic-racer": [
    88,
@@ -2021,27 +1933,27 @@
   "enshrouded": [
    88,
    12,
-   8.1
-  ],
-  "gears-of-war-e-day": [
-   87,
-   76,
-   8.6
+   7.8
   ],
   "ace-combat-8-wings-of-theve": [
    87,
    72,
-   8.7
+   8.8
+  ],
+  "gears-of-war-e-day": [
+   87,
+   78,
+   8.6
   ],
   "call-of-duty-modern-warfare-4": [
    86,
    25,
-   null
+   7.7
   ],
   "final-fantasy-resonance": [
    86,
    51,
-   null
+   9
   ],
   "silver-pines": [
    85,
@@ -2051,37 +1963,32 @@
   "order-of-the-sinking-star": [
    84,
    19,
-   8
+   7.9
   ],
   "castlevania-belmonts-curse": [
    84,
    65,
-   7.8
+   7.7
   ],
   "planet-zoo-2": [
    84,
    20,
    5.1
   ],
-  "control-resonant": [
-   83,
-   89,
-   8.8
-  ],
   "dragons-dogma-2-dark-arisen": [
    83,
    32,
-   8.9
+   8.7
   ],
   "transport-fever-3": [
    83,
    16,
-   2.8
+   2.9
   ],
   "middle-earth-shadow-bundle": [
-   81,
-   9,
-   7
+   82,
+   10,
+   7.2
   ],
   "toem-2": [
    81,
@@ -2096,17 +2003,12 @@
   "tenebris-somnia": [
    81,
    11,
-   8.6
-  ],
-  "silent-hill-townfall": [
-   80,
-   99,
-   7.1
+   8.8
   ],
   "nintendo-switch-sports-resort": [
    79,
    64,
-   null
+   8.3
   ],
   "valor-mortis": [
    78,
@@ -2131,7 +2033,7 @@
   "ratatan": [
    75,
    14,
-   6.7
+   7
   ],
   "nivalis-nights": [
    75,
@@ -2146,17 +2048,17 @@
   "forever-ago": [
    75,
    19,
-   7.5
+   7.6
   ],
   "ea-sports-fc-27": [
    75,
-   67,
+   68,
    2.1
   ],
   "penguin-colony": [
    74,
    9,
-   null
+   6.8
   ],
   "the-jackbox-party-pack-12": [
    73,
@@ -2165,12 +2067,12 @@
   ],
   "dynasty-warriors-3-complete-edition-remastered": [
    73,
-   13,
-   8.8
+   15,
+   8.9
   ],
   "end-of-abyss": [
    73,
-   21,
+   22,
    7.2
   ],
   "one-piece-grand-gourmet": [
@@ -2181,37 +2083,22 @@
   "over-the-hill": [
    72,
    19,
-   6.4
-  ],
-  "doggy-dont-care": [
-   70,
-   7,
-   null
+   6.7
   ],
   "clive-barkers-hellraiser-revival": [
    69,
    42,
    8.3
   ],
-  "garfield-escape-from-monday": [
-   68,
-   10,
-   8.4
-  ],
   "stupid-never-dies": [
    66,
    34,
-   5.2
+   6.9
   ],
   "aion-2": [
    62,
    7,
    6.3
-  ],
-  "qliphah-in-providences-shadow": [
-   61,
-   8,
-   5.3
   ]
  }
 }
