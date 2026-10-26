@@ -1,10 +1,10 @@
 {
- "updated": "2026-10-25 07:35",
+ "updated": "2026-10-26 07:48",
  "window": [
-  "2026-09-25",
-  "2026-10-25"
+  "2026-09-26",
+  "2026-10-26"
  ],
- "total": 39,
+ "total": 38,
  "released": [
   {
    "slug": "resident-evil-2-deluxe-edition",
@@ -581,64 +581,6 @@
     "Push Square": 70,
     "GameSpot": 60
    }
-  },
-  {
-   "slug": "ea-sports-fc-27",
-   "title": "EA Sports FC 27",
-   "date": "2026-09-25",
-   "url": "https://www.metacritic.com/game/ea-sports-fc-27/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1789745465.jpg",
-   "plats": [
-    {
-     "n": "PC",
-     "s": null,
-     "c": 2,
-     "d": "2026-09-25"
-    },
-    {
-     "n": "NS",
-     "s": null,
-     "c": 0,
-     "d": "2026-09-25"
-    },
-    {
-     "n": "XSX",
-     "s": null,
-     "c": 2,
-     "d": "2026-09-25"
-    },
-    {
-     "n": "PS5",
-     "s": 75,
-     "c": 10,
-     "d": "2026-09-25"
-    },
-    {
-     "n": "NS2",
-     "s": null,
-     "c": 0,
-     "d": "2026-09-25"
-    },
-    {
-     "n": "PS4",
-     "s": null,
-     "c": 0,
-     "d": "2026-09-25"
-    },
-    {
-     "n": "XB1",
-     "s": null,
-     "c": 0,
-     "d": "2026-09-25"
-    }
-   ],
-   "dev": "EA Canada",
-   "pub": "Electronic Arts",
-   "meta": 75,
-   "meta_count": 68,
-   "user": 2.1,
-   "user_count": 97,
-   "scores": {}
   }
  ],
  "watch": [
@@ -1339,6 +1281,30 @@
  ],
  "upcoming": [
   {
+   "slug": "phantom-blade-zero",
+   "title": "Phantom Blade Zero",
+   "date": "2026-10-29",
+   "url": "https://www.metacritic.com/game/phantom-blade-zero/",
+   "meta": 88,
+   "plats": [
+    {
+     "n": "PS5",
+     "s": 88,
+     "c": 25,
+     "d": "2026-10-29"
+    },
+    {
+     "n": "PC",
+     "s": 88,
+     "c": 33,
+     "d": "2026-10-29"
+    }
+   ],
+   "dev": "S-Game",
+   "pub": "S-Game",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1792649966.jpg"
+  },
+  {
    "slug": "ghost-of-yotei-echoes-of-sekigahara",
    "title": "Ghost of Yotei: Echoes of Sekigahara",
    "date": "2026-11-01",
@@ -1562,7 +1528,7 @@
      "dev": "Nintendo",
      "pub": "Nintendo",
      "meta": 89,
-     "meta_count": 105,
+     "meta_count": 106,
      "user": 8.5,
      "user_count": 287,
      "scores": {}
@@ -2049,11 +2015,6 @@
    75,
    19,
    7.6
-  ],
-  "ea-sports-fc-27": [
-   75,
-   68,
-   2.1
   ],
   "penguin-colony": [
    74,
