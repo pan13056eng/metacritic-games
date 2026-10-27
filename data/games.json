@@ -1,35 +1,11 @@
 {
- "updated": "2026-10-26 07:48",
+ "updated": "2026-10-27 07:52",
  "window": [
-  "2026-09-26",
-  "2026-10-26"
+  "2026-09-27",
+  "2026-10-27"
  ],
- "total": 38,
+ "total": 40,
  "released": [
-  {
-   "slug": "resident-evil-2-deluxe-edition",
-   "title": "Resident Evil 2: Deluxe Edition",
-   "date": "2026-10-16",
-   "url": "https://www.metacritic.com/game/resident-evil-2-deluxe-edition/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1282312-52.jpg",
-   "plats": [
-    {
-     "n": "NS2",
-     "s": 93,
-     "c": 8,
-     "d": "2026-10-16"
-    }
-   ],
-   "dev": "Capcom",
-   "pub": "Capcom",
-   "meta": 93,
-   "meta_count": 13,
-   "user": 9,
-   "user_count": 4,
-   "scores": {
-    "Nintendo Life": 90
-   }
-  },
   {
    "slug": "final-fantasy-resonance",
    "title": "Final Fantasy Resonance",
@@ -71,7 +47,7 @@
    "dev": "Lancarse",
    "pub": "Square Enix",
    "meta": 86,
-   "meta_count": 51,
+   "meta_count": 52,
    "user": 9,
    "user_count": 0,
    "scores": {
@@ -149,7 +125,7 @@
    "dev": "Bandai Namco Aces Inc.",
    "pub": "Bandai Namco Games",
    "meta": 87,
-   "meta_count": 72,
+   "meta_count": 73,
    "user": 8.8,
    "user_count": 44,
    "scores": {
@@ -191,12 +167,36 @@
    "dev": "Capcom",
    "pub": "Capcom",
    "meta": 83,
-   "meta_count": 32,
-   "user": 8.7,
+   "meta_count": 33,
+   "user": 8.8,
    "user_count": 12,
    "scores": {
     "Push Square": 90,
     "IGN": 80
+   }
+  },
+  {
+   "slug": "resident-evil-2-deluxe-edition",
+   "title": "Resident Evil 2: Deluxe Edition",
+   "date": "2026-10-16",
+   "url": "https://www.metacritic.com/game/resident-evil-2-deluxe-edition/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1282312-52.jpg",
+   "plats": [
+    {
+     "n": "NS2",
+     "s": 93,
+     "c": 8,
+     "d": "2026-10-16"
+    }
+   ],
+   "dev": "Capcom",
+   "pub": "Capcom",
+   "meta": 93,
+   "meta_count": 15,
+   "user": 8.6,
+   "user_count": 4,
+   "scores": {
+    "Nintendo Life": 90
    }
   },
   {
@@ -236,7 +236,7 @@
    "meta": 92,
    "meta_count": 13,
    "user": 8.6,
-   "user_count": 78,
+   "user_count": 86,
    "scores": {}
   },
   {
@@ -262,7 +262,7 @@
    "dev": "The Coalition",
    "pub": "Xbox Game Studios",
    "meta": 87,
-   "meta_count": 78,
+   "meta_count": 80,
    "user": 8.6,
    "user_count": 709,
    "scores": {}
@@ -308,8 +308,8 @@
    "dev": "Wych Elm",
    "pub": "Team17",
    "meta": 85,
-   "meta_count": 24,
-   "user": 8.5,
+   "meta_count": 25,
+   "user": 8.6,
    "user_count": 10,
    "scores": {}
   },
@@ -330,8 +330,8 @@
    "dev": "Nintendo",
    "pub": "Nintendo",
    "meta": 79,
-   "meta_count": 64,
-   "user": 8.3,
+   "meta_count": 71,
+   "user": 8.4,
    "user_count": 0,
    "scores": {
     "Nintendo Life": 90,
@@ -375,7 +375,7 @@
    "dev": "Saber Interactive",
    "pub": "Saber Interactive",
    "meta": 69,
-   "meta_count": 42,
+   "meta_count": 43,
    "user": 8.3,
    "user_count": 71,
    "scores": {
@@ -413,12 +413,90 @@
    "pub": "Secret Mode",
    "meta": 88,
    "meta_count": 76,
-   "user": 8.2,
+   "user": 8.1,
    "user_count": 40,
    "scores": {
     "Eurogamer": 100,
     "GameSpot": 90,
     "Push Square": 90
+   }
+  },
+  {
+   "slug": "order-of-the-sinking-star",
+   "title": "Order of the Sinking Star",
+   "date": "2026-10-08",
+   "url": "https://www.metacritic.com/game/order-of-the-sinking-star/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1791232616.jpg",
+   "plats": [
+    {
+     "n": "PC",
+     "s": 87,
+     "c": 11,
+     "d": "2026-10-08"
+    },
+    {
+     "n": "NS2",
+     "s": 85,
+     "c": 5,
+     "d": "2026-10-08"
+    },
+    {
+     "n": "PS5",
+     "s": 86,
+     "c": 9,
+     "d": null
+    }
+   ],
+   "dev": "Thekla, Inc",
+   "pub": "Arc Games",
+   "meta": 84,
+   "meta_count": 19,
+   "user": 8,
+   "user_count": 16,
+   "scores": {
+    "GameSpot": 80
+   }
+  },
+  {
+   "slug": "call-of-duty-modern-warfare-4",
+   "title": "Call of Duty: Modern Warfare 4",
+   "date": "2026-10-23",
+   "url": "https://www.metacritic.com/game/call-of-duty-modern-warfare-4/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1792136722.jpg",
+   "plats": [
+    {
+     "n": "XSX",
+     "s": null,
+     "c": 0,
+     "d": "2026-10-23"
+    },
+    {
+     "n": "PS5",
+     "s": null,
+     "c": 1,
+     "d": "2026-10-23"
+    },
+    {
+     "n": "NS2",
+     "s": null,
+     "c": 1,
+     "d": "2026-10-23"
+    },
+    {
+     "n": "PC",
+     "s": null,
+     "c": 10,
+     "d": "2026-10-23"
+    }
+   ],
+   "dev": "Infinity Ward",
+   "pub": "Activision",
+   "meta": 86,
+   "meta_count": 32,
+   "user": 7.9,
+   "user_count": 0,
+   "scores": {
+    "GameSpot": 80
    }
   },
   {
@@ -456,7 +534,7 @@
    "dev": "Evil Empire",
    "pub": "Konami",
    "meta": 84,
-   "meta_count": 65,
+   "meta_count": 67,
    "user": 7.7,
    "user_count": 69,
    "scores": {
@@ -495,7 +573,7 @@
    "meta": 78,
    "meta_count": 53,
    "user": 7.6,
-   "user_count": 35,
+   "user_count": 47,
    "scores": {
     "Eurogamer": 80,
     "IGN": 70,
@@ -545,7 +623,7 @@
    "meta": 75,
    "meta_count": 38,
    "user": 7.6,
-   "user_count": 21,
+   "user_count": 22,
    "scores": {
     "GameSpot": 70,
     "IGN": 60
@@ -575,7 +653,7 @@
    "pub": "GPTRACK50",
    "meta": 66,
    "meta_count": 34,
-   "user": 6.9,
+   "user": 6.5,
    "user_count": 0,
    "scores": {
     "Push Square": 70,
@@ -625,7 +703,7 @@
    "dev": "Capcom",
    "pub": "Capcom",
    "meta": 89,
-   "meta_count": 12,
+   "meta_count": 13,
    "user": 9,
    "user_count": 3,
    "scores": {}
@@ -705,43 +783,9 @@
    "dev": "Square Enix",
    "pub": "Square Enix",
    "meta": 88,
-   "meta_count": 22,
+   "meta_count": 23,
    "user": 8.6,
    "user_count": 2,
-   "scores": {}
-  },
-  {
-   "slug": "order-of-the-sinking-star",
-   "title": "Order of the Sinking Star",
-   "date": "2026-10-08",
-   "url": "https://www.metacritic.com/game/order-of-the-sinking-star/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1791232616.jpg",
-   "plats": [
-    {
-     "n": "PC",
-     "s": 87,
-     "c": 11,
-     "d": "2026-10-08"
-    },
-    {
-     "n": "NS2",
-     "s": 85,
-     "c": 5,
-     "d": "2026-10-08"
-    },
-    {
-     "n": "PS5",
-     "s": 86,
-     "c": 9,
-     "d": null
-    }
-   ],
-   "dev": "Thekla, Inc",
-   "pub": "Arc Games",
-   "meta": 84,
-   "meta_count": 19,
-   "user": 7.9,
-   "user_count": 16,
    "scores": {}
   },
   {
@@ -773,49 +817,9 @@
    "dev": "Keen Games",
    "pub": "Keen Games",
    "meta": 88,
-   "meta_count": 12,
+   "meta_count": 13,
    "user": 7.8,
    "user_count": 9,
-   "scores": {}
-  },
-  {
-   "slug": "call-of-duty-modern-warfare-4",
-   "title": "Call of Duty: Modern Warfare 4",
-   "date": "2026-10-23",
-   "url": "https://www.metacritic.com/game/call-of-duty-modern-warfare-4/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1792136722.jpg",
-   "plats": [
-    {
-     "n": "XSX",
-     "s": null,
-     "c": 0,
-     "d": "2026-10-23"
-    },
-    {
-     "n": "PS5",
-     "s": null,
-     "c": 1,
-     "d": "2026-10-23"
-    },
-    {
-     "n": "NS2",
-     "s": null,
-     "c": 1,
-     "d": "2026-10-23"
-    },
-    {
-     "n": "PC",
-     "s": null,
-     "c": 10,
-     "d": "2026-10-23"
-    }
-   ],
-   "dev": "Infinity Ward",
-   "pub": "Activision",
-   "meta": 86,
-   "meta_count": 25,
-   "user": 7.7,
-   "user_count": 0,
    "scores": {}
   },
   {
@@ -834,8 +838,8 @@
    ],
    "dev": "ION LANDS",
    "pub": "505 Games",
-   "meta": 75,
-   "meta_count": 13,
+   "meta": 76,
+   "meta_count": 14,
    "user": 7.7,
    "user_count": 5,
    "scores": {}
@@ -948,8 +952,8 @@
    ],
    "dev": "TOSE",
    "pub": "Bandai Namco Games",
-   "meta": 77,
-   "meta_count": 23,
+   "meta": 76,
+   "meta_count": 25,
    "user": 7.2,
    "user_count": 3,
    "scores": {}
@@ -983,7 +987,7 @@
    "dev": "Section 9 Interactive",
    "pub": "Epic Games",
    "meta": 73,
-   "meta_count": 22,
+   "meta_count": 24,
    "user": 7.2,
    "user_count": 17,
    "scores": {}
@@ -1062,10 +1066,38 @@
    ],
    "dev": "Ratata Arts",
    "pub": "Game Source Entertainment",
-   "meta": 75,
-   "meta_count": 14,
+   "meta": 76,
+   "meta_count": 15,
    "user": 7,
    "user_count": 2,
+   "scores": {}
+  },
+  {
+   "slug": "penguin-colony",
+   "title": "Penguin Colony",
+   "date": "2026-10-16",
+   "url": "https://www.metacritic.com/game/penguin-colony/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1127953-52.jpg",
+   "plats": [
+    {
+     "n": "PC",
+     "s": 76,
+     "c": 10,
+     "d": "2026-10-16"
+    },
+    {
+     "n": "NS2",
+     "s": null,
+     "c": 0,
+     "d": null
+    }
+   ],
+   "dev": "ORIGAME DIGITAL",
+   "pub": "Fellow Traveller",
+   "meta": 76,
+   "meta_count": 10,
+   "user": 6.8,
+   "user_count": 0,
    "scores": {}
   },
   {
@@ -1102,32 +1134,10 @@
    ],
    "dev": "Funselektor Labs Inc.",
    "pub": "Funselektor Labs Inc.",
-   "meta": 72,
-   "meta_count": 19,
-   "user": 6.7,
+   "meta": 73,
+   "meta_count": 20,
+   "user": 6.8,
    "user_count": 2,
-   "scores": {}
-  },
-  {
-   "slug": "aion-2",
-   "title": "AION 2",
-   "date": "2026-10-05",
-   "url": "https://www.metacritic.com/game/aion-2/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1791233822.jpg",
-   "plats": [
-    {
-     "n": "PC",
-     "s": 62,
-     "c": 7,
-     "d": "2026-10-05"
-    }
-   ],
-   "dev": "NC",
-   "pub": "NC",
-   "meta": 62,
-   "meta_count": 7,
-   "user": 6.3,
-   "user_count": 13,
    "scores": {}
   },
   {
@@ -1165,9 +1175,31 @@
    "dev": "Auroch Digital",
    "pub": "Big Fan Games",
    "meta": 81,
-   "meta_count": 25,
-   "user": 6.1,
+   "meta_count": 27,
+   "user": 6.4,
    "user_count": 2,
+   "scores": {}
+  },
+  {
+   "slug": "aion-2",
+   "title": "AION 2",
+   "date": "2026-10-05",
+   "url": "https://www.metacritic.com/game/aion-2/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1791233822.jpg",
+   "plats": [
+    {
+     "n": "PC",
+     "s": 62,
+     "c": 7,
+     "d": "2026-10-05"
+    }
+   ],
+   "dev": "NC",
+   "pub": "NC",
+   "meta": 62,
+   "meta_count": 7,
+   "user": 6.3,
+   "user_count": 13,
    "scores": {}
   },
   {
@@ -1239,6 +1271,92 @@
    "scores": {}
   },
   {
+   "slug": "mycopunk",
+   "title": "Mycopunk",
+   "date": "2026-10-20",
+   "url": "https://www.metacritic.com/game/mycopunk/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1117297-52.jpg",
+   "plats": [
+    {
+     "n": "PC",
+     "s": 83,
+     "c": 10,
+     "d": "2026-10-20"
+    },
+    {
+     "n": "PS5",
+     "s": null,
+     "c": 1,
+     "d": "2026-10-20"
+    }
+   ],
+   "dev": "Pigeons at Play",
+   "pub": "Devolver Digital",
+   "meta": 83,
+   "meta_count": 10,
+   "user": null,
+   "user_count": 0,
+   "scores": {}
+  },
+  {
+   "slug": "blueys-happy-snaps",
+   "title": "Bluey's Happy Snaps",
+   "date": "2026-10-15",
+   "url": "https://www.metacritic.com/game/blueys-happy-snaps/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/3/6-1-1257570-13.jpg",
+   "plats": [
+    {
+     "n": "PS5",
+     "s": 85,
+     "c": 4,
+     "d": "2026-10-15"
+    },
+    {
+     "n": "XSX",
+     "s": null,
+     "c": 1,
+     "d": "2026-10-15"
+    },
+    {
+     "n": "NS2",
+     "s": 78,
+     "c": 10,
+     "d": "2026-10-15"
+    },
+    {
+     "n": "PC",
+     "s": null,
+     "c": 0,
+     "d": "2026-10-15"
+    },
+    {
+     "n": "XB1",
+     "s": null,
+     "c": 0,
+     "d": "2026-10-15"
+    },
+    {
+     "n": "NS",
+     "s": null,
+     "c": 0,
+     "d": "2026-10-15"
+    },
+    {
+     "n": "PS4",
+     "s": null,
+     "c": 0,
+     "d": "2026-10-15"
+    }
+   ],
+   "dev": "Gameloft",
+   "pub": "Gameloft",
+   "meta": 78,
+   "meta_count": 10,
+   "user": null,
+   "user_count": 0,
+   "scores": {}
+  },
+  {
    "slug": "one-piece-grand-gourmet",
    "title": "ONE PIECE: Grand Gourmet",
    "date": "2026-10-23",
@@ -1272,8 +1390,8 @@
    ],
    "dev": "Kairosoft Co. Ltd",
    "pub": "Bandai Namco Games",
-   "meta": 72,
-   "meta_count": 17,
+   "meta": 73,
+   "meta_count": 19,
    "user": null,
    "user_count": 0,
    "scores": {}
@@ -1394,7 +1512,7 @@
      "meta": 90,
      "meta_count": 83,
      "user": 8.2,
-     "user_count": 222,
+     "user_count": 221,
      "scores": {}
     },
     {
@@ -1486,7 +1604,7 @@
      "meta": 89,
      "meta_count": 141,
      "user": 9.3,
-     "user_count": 4076,
+     "user_count": 4083,
      "scores": {}
     },
     {
@@ -1508,7 +1626,7 @@
      "meta": 89,
      "meta_count": 121,
      "user": 8.6,
-     "user_count": 572,
+     "user_count": 573,
      "scores": {}
     },
     {
@@ -1528,7 +1646,7 @@
      "dev": "Nintendo",
      "pub": "Nintendo",
      "meta": 89,
-     "meta_count": 106,
+     "meta_count": 108,
      "user": 8.5,
      "user_count": 287,
      "scores": {}
@@ -1643,7 +1761,7 @@
      "pub": "Secret Mode",
      "meta": 88,
      "meta_count": 76,
-     "user": 8.2,
+     "user": 8.1,
      "user_count": 40,
      "scores": {}
     },
@@ -1676,7 +1794,7 @@
      "dev": "Bandai Namco Aces Inc.",
      "pub": "Bandai Namco Games",
      "meta": 87,
-     "meta_count": 72,
+     "meta_count": 73,
      "user": 8.8,
      "user_count": 44,
      "scores": {}
@@ -1704,7 +1822,7 @@
      "dev": "The Coalition",
      "pub": "Xbox Game Studios",
      "meta": 87,
-     "meta_count": 78,
+     "meta_count": 80,
      "user": 8.6,
      "user_count": 709,
      "scores": {}
@@ -1746,7 +1864,7 @@
      "meta": 85,
      "meta_count": 110,
      "user": 8.7,
-     "user_count": 484,
+     "user_count": 485,
      "scores": {}
     },
     {
@@ -1786,7 +1904,7 @@
      "meta": 85,
      "meta_count": 107,
      "user": 8.5,
-     "user_count": 202,
+     "user_count": 212,
      "scores": {}
     },
     {
@@ -1818,7 +1936,7 @@
      "dev": "Remedy Entertainment",
      "pub": "Remedy Entertainment",
      "meta": 83,
-     "meta_count": 89,
+     "meta_count": 90,
      "user": 8.8,
      "user_count": 207,
      "scores": {}
@@ -1873,8 +1991,8 @@
  "sig": {
   "resident-evil-2-deluxe-edition": [
    93,
-   13,
-   9
+   15,
+   8.6
   ],
   "the-witcher-3-wild-hunt-remastered": [
    92,
@@ -1883,57 +2001,57 @@
   ],
   "resident-evil-4-gold-edition": [
    89,
-   12,
+   13,
    9
-  ],
-  "kingdom-hearts-collection-i-iii": [
-   88,
-   22,
-   8.6
   ],
   "star-wars-galactic-racer": [
    88,
    76,
-   8.2
+   8.1
   ],
   "enshrouded": [
    88,
-   12,
+   13,
    7.8
   ],
-  "ace-combat-8-wings-of-theve": [
-   87,
-   72,
-   8.8
+  "kingdom-hearts-collection-i-iii": [
+   88,
+   23,
+   8.6
   ],
   "gears-of-war-e-day": [
    87,
-   78,
+   80,
    8.6
+  ],
+  "ace-combat-8-wings-of-theve": [
+   87,
+   73,
+   8.8
   ],
   "call-of-duty-modern-warfare-4": [
    86,
-   25,
-   7.7
+   32,
+   7.9
   ],
   "final-fantasy-resonance": [
    86,
-   51,
+   52,
    9
   ],
   "silver-pines": [
    85,
-   24,
-   8.5
+   25,
+   8.6
   ],
   "order-of-the-sinking-star": [
    84,
    19,
-   7.9
+   8
   ],
   "castlevania-belmonts-curse": [
    84,
-   65,
+   67,
    7.7
   ],
   "planet-zoo-2": [
@@ -1943,13 +2061,18 @@
   ],
   "dragons-dogma-2-dark-arisen": [
    83,
-   32,
-   8.7
+   33,
+   8.8
   ],
   "transport-fever-3": [
    83,
    16,
    2.9
+  ],
+  "mycopunk": [
+   83,
+   10,
+   null
   ],
   "middle-earth-shadow-bundle": [
    82,
@@ -1963,8 +2086,8 @@
   ],
   "warhammer-40000-boltgun-2": [
    81,
-   25,
-   6.1
+   27,
+   6.4
   ],
   "tenebris-somnia": [
    81,
@@ -1973,37 +2096,47 @@
   ],
   "nintendo-switch-sports-resort": [
    79,
-   64,
-   8.3
+   71,
+   8.4
   ],
   "valor-mortis": [
    78,
    53,
    7.6
   ],
+  "blueys-happy-snaps": [
+   78,
+   10,
+   null
+  ],
   "disney-pixar-toy-story-retro-roundup": [
    78,
    9,
-   6.6
+   6.5
   ],
-  "blueys-happy-snaps": [
+  "just-dance-decades-of-hits": [
    77,
-   9,
-   null
+   7,
+   6.8
   ],
   "tales-of-eternia-remastered": [
-   77,
-   23,
+   76,
+   25,
    7.2
   ],
   "ratatan": [
-   75,
-   14,
+   76,
+   15,
    7
   ],
+  "penguin-colony": [
+   76,
+   10,
+   6.8
+  ],
   "nivalis-nights": [
-   75,
-   13,
+   76,
+   14,
    7.7
   ],
   "minecraft-dungeons-ii": [
@@ -2016,11 +2149,6 @@
    19,
    7.6
   ],
-  "penguin-colony": [
-   74,
-   9,
-   6.8
-  ],
   "the-jackbox-party-pack-12": [
    73,
    7,
@@ -2031,30 +2159,30 @@
    15,
    8.9
   ],
-  "end-of-abyss": [
-   73,
-   22,
-   7.2
-  ],
   "one-piece-grand-gourmet": [
-   72,
-   17,
+   73,
+   19,
    null
   ],
   "over-the-hill": [
-   72,
-   19,
-   6.7
+   73,
+   20,
+   6.8
+  ],
+  "end-of-abyss": [
+   73,
+   24,
+   7.2
   ],
   "clive-barkers-hellraiser-revival": [
    69,
-   42,
+   43,
    8.3
   ],
   "stupid-never-dies": [
    66,
    34,
-   6.9
+   6.5
   ],
   "aion-2": [
    62,
