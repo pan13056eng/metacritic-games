@@ -1,10 +1,10 @@
 {
- "updated": "2026-10-27 07:52",
+ "updated": "2026-10-28 08:32",
  "window": [
-  "2026-09-27",
-  "2026-10-27"
+  "2026-09-28",
+  "2026-10-28"
  ],
- "total": 40,
+ "total": 41,
  "released": [
   {
    "slug": "final-fantasy-resonance",
@@ -47,8 +47,8 @@
    "dev": "Lancarse",
    "pub": "Square Enix",
    "meta": 86,
-   "meta_count": 52,
-   "user": 9,
+   "meta_count": 53,
+   "user": 9.1,
    "user_count": 0,
    "scores": {
     "Push Square": 80
@@ -176,30 +176,6 @@
    }
   },
   {
-   "slug": "resident-evil-2-deluxe-edition",
-   "title": "Resident Evil 2: Deluxe Edition",
-   "date": "2026-10-16",
-   "url": "https://www.metacritic.com/game/resident-evil-2-deluxe-edition/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1282312-52.jpg",
-   "plats": [
-    {
-     "n": "NS2",
-     "s": 93,
-     "c": 8,
-     "d": "2026-10-16"
-    }
-   ],
-   "dev": "Capcom",
-   "pub": "Capcom",
-   "meta": 93,
-   "meta_count": 15,
-   "user": 8.6,
-   "user_count": 4,
-   "scores": {
-    "Nintendo Life": 90
-   }
-  },
-  {
    "slug": "the-witcher-3-wild-hunt-remastered",
    "title": "The Witcher 3: Wild Hunt - Remastered",
    "date": "2026-09-29",
@@ -314,6 +290,30 @@
    "scores": {}
   },
   {
+   "slug": "resident-evil-2-deluxe-edition",
+   "title": "Resident Evil 2: Deluxe Edition",
+   "date": "2026-10-16",
+   "url": "https://www.metacritic.com/game/resident-evil-2-deluxe-edition/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1282312-52.jpg",
+   "plats": [
+    {
+     "n": "NS2",
+     "s": 93,
+     "c": 8,
+     "d": "2026-10-16"
+    }
+   ],
+   "dev": "Capcom",
+   "pub": "Capcom",
+   "meta": 93,
+   "meta_count": 16,
+   "user": 8.5,
+   "user_count": 4,
+   "scores": {
+    "Nintendo Life": 90
+   }
+  },
+  {
    "slug": "nintendo-switch-sports-resort",
    "title": "Nintendo Switch Sports Resort",
    "date": "2026-10-22",
@@ -330,8 +330,8 @@
    "dev": "Nintendo",
    "pub": "Nintendo",
    "meta": 79,
-   "meta_count": 71,
-   "user": 8.4,
+   "meta_count": 73,
+   "user": 8.5,
    "user_count": 0,
    "scores": {
     "Nintendo Life": 90,
@@ -450,7 +450,7 @@
    "dev": "Thekla, Inc",
    "pub": "Arc Games",
    "meta": 84,
-   "meta_count": 19,
+   "meta_count": 20,
    "user": 8,
    "user_count": 16,
    "scores": {
@@ -492,7 +492,7 @@
    "dev": "Infinity Ward",
    "pub": "Activision",
    "meta": 86,
-   "meta_count": 32,
+   "meta_count": 36,
    "user": 7.9,
    "user_count": 0,
    "scores": {
@@ -536,7 +536,7 @@
    "meta": 84,
    "meta_count": 67,
    "user": 7.7,
-   "user_count": 69,
+   "user_count": 98,
    "scores": {
     "IGN": 80,
     "Push Square": 70
@@ -652,9 +652,9 @@
    "dev": "GPTRACK50",
    "pub": "GPTRACK50",
    "meta": 66,
-   "meta_count": 34,
-   "user": 6.5,
-   "user_count": 0,
+   "meta_count": 36,
+   "user": 6.3,
+   "user_count": 1,
    "scores": {
     "Push Square": 70,
     "GameSpot": 60
@@ -749,7 +749,7 @@
    "dev": "Saibot Studios",
    "pub": "New Blood Interactive",
    "meta": 81,
-   "meta_count": 11,
+   "meta_count": 13,
    "user": 8.8,
    "user_count": 1,
    "scores": {}
@@ -783,8 +783,8 @@
    "dev": "Square Enix",
    "pub": "Square Enix",
    "meta": 88,
-   "meta_count": 23,
-   "user": 8.6,
+   "meta_count": 24,
+   "user": 8.3,
    "user_count": 2,
    "scores": {}
   },
@@ -817,8 +817,8 @@
    "dev": "Keen Games",
    "pub": "Keen Games",
    "meta": 88,
-   "meta_count": 13,
-   "user": 7.8,
+   "meta_count": 14,
+   "user": 7.9,
    "user_count": 9,
    "scores": {}
   },
@@ -841,7 +841,7 @@
    "meta": 76,
    "meta_count": 14,
    "user": 7.7,
-   "user_count": 5,
+   "user_count": 6,
    "scores": {}
   },
   {
@@ -882,28 +882,6 @@
    "meta_count": 19,
    "user": 7.6,
    "user_count": 1,
-   "scores": {}
-  },
-  {
-   "slug": "middle-earth-shadow-bundle",
-   "title": "Middle-earth: Shadow Bundle",
-   "date": "2026-09-30",
-   "url": "https://www.metacritic.com/game/middle-earth-shadow-bundle/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1790740099.jpg",
-   "plats": [
-    {
-     "n": "NS2",
-     "s": 82,
-     "c": 10,
-     "d": "2026-09-30"
-    }
-   ],
-   "dev": "Aspyr",
-   "pub": "Aspyr",
-   "meta": 82,
-   "meta_count": 10,
-   "user": 7.2,
-   "user_count": 0,
    "scores": {}
   },
   {
@@ -954,8 +932,30 @@
    "pub": "Bandai Namco Games",
    "meta": 76,
    "meta_count": 25,
-   "user": 7.2,
+   "user": 7.4,
    "user_count": 3,
+   "scores": {}
+  },
+  {
+   "slug": "middle-earth-shadow-bundle",
+   "title": "Middle-earth: Shadow Bundle",
+   "date": "2026-09-30",
+   "url": "https://www.metacritic.com/game/middle-earth-shadow-bundle/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1790740099.jpg",
+   "plats": [
+    {
+     "n": "NS2",
+     "s": 82,
+     "c": 10,
+     "d": "2026-09-30"
+    }
+   ],
+   "dev": "Aspyr",
+   "pub": "Aspyr",
+   "meta": 82,
+   "meta_count": 10,
+   "user": 7.2,
+   "user_count": 0,
    "scores": {}
   },
   {
@@ -1174,8 +1174,8 @@
    ],
    "dev": "Auroch Digital",
    "pub": "Big Fan Games",
-   "meta": 81,
-   "meta_count": 27,
+   "meta": 82,
+   "meta_count": 29,
    "user": 6.4,
    "user_count": 2,
    "scores": {}
@@ -1198,7 +1198,7 @@
    "pub": "NC",
    "meta": 62,
    "meta_count": 7,
-   "user": 6.3,
+   "user": 6.2,
    "user_count": 13,
    "scores": {}
   },
@@ -1233,7 +1233,7 @@
    "meta": 84,
    "meta_count": 20,
    "user": 5.1,
-   "user_count": 2,
+   "user_count": 3,
    "scores": {}
   },
   {
@@ -1294,6 +1294,28 @@
    "pub": "Devolver Digital",
    "meta": 83,
    "meta_count": 10,
+   "user": null,
+   "user_count": 0,
+   "scores": {}
+  },
+  {
+   "slug": "virtue-and-a-sledgehammer",
+   "title": "Virtue and a Sledgehammer",
+   "date": "2026-10-27",
+   "url": "https://www.metacritic.com/game/virtue-and-a-sledgehammer/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1793116470.jpg",
+   "plats": [
+    {
+     "n": "PC",
+     "s": 79,
+     "c": 11,
+     "d": "2026-10-27"
+    }
+   ],
+   "dev": "Deconstructeam",
+   "pub": "Devolver Digital",
+   "meta": 79,
+   "meta_count": 11,
    "user": null,
    "user_count": 0,
    "scores": {}
@@ -1391,7 +1413,7 @@
    "dev": "Kairosoft Co. Ltd",
    "pub": "Bandai Namco Games",
    "meta": 73,
-   "meta_count": 19,
+   "meta_count": 20,
    "user": null,
    "user_count": 0,
    "scores": {}
@@ -1421,6 +1443,48 @@
    "dev": "S-Game",
    "pub": "S-Game",
    "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1792649966.jpg"
+  },
+  {
+   "slug": "the-wolf-among-us-remastered",
+   "title": "The Wolf Among Us Remastered",
+   "date": "2026-10-29",
+   "url": "https://www.metacritic.com/game/the-wolf-among-us-remastered/",
+   "meta": 85,
+   "plats": [
+    {
+     "n": "PC",
+     "s": 86,
+     "c": 5,
+     "d": "2026-10-29"
+    },
+    {
+     "n": "NS2",
+     "s": null,
+     "c": 0,
+     "d": null
+    },
+    {
+     "n": "PS5",
+     "s": 85,
+     "c": 8,
+     "d": "2026-10-29"
+    },
+    {
+     "n": "XB1",
+     "s": null,
+     "c": 3,
+     "d": "2026-10-29"
+    },
+    {
+     "n": "NS",
+     "s": null,
+     "c": 0,
+     "d": null
+    }
+   ],
+   "dev": "Telltale Games",
+   "pub": "Telltale Games",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1790868342.jpg"
   },
   {
    "slug": "ghost-of-yotei-echoes-of-sekigahara",
@@ -1991,8 +2055,8 @@
  "sig": {
   "resident-evil-2-deluxe-edition": [
    93,
-   15,
-   8.6
+   16,
+   8.5
   ],
   "the-witcher-3-wild-hunt-remastered": [
    92,
@@ -2009,15 +2073,15 @@
    76,
    8.1
   ],
-  "enshrouded": [
-   88,
-   13,
-   7.8
-  ],
   "kingdom-hearts-collection-i-iii": [
    88,
-   23,
-   8.6
+   24,
+   8.3
+  ],
+  "enshrouded": [
+   88,
+   14,
+   7.9
   ],
   "gears-of-war-e-day": [
    87,
@@ -2031,13 +2095,13 @@
   ],
   "call-of-duty-modern-warfare-4": [
    86,
-   32,
+   36,
    7.9
   ],
   "final-fantasy-resonance": [
    86,
-   52,
-   9
+   53,
+   9.1
   ],
   "silver-pines": [
    85,
@@ -2046,7 +2110,7 @@
   ],
   "order-of-the-sinking-star": [
    84,
-   19,
+   20,
    8
   ],
   "castlevania-belmonts-curse": [
@@ -2079,25 +2143,30 @@
    10,
    7.2
   ],
+  "warhammer-40000-boltgun-2": [
+   82,
+   29,
+   6.4
+  ],
   "toem-2": [
    81,
    16,
    7
   ],
-  "warhammer-40000-boltgun-2": [
-   81,
-   27,
-   6.4
-  ],
   "tenebris-somnia": [
    81,
-   11,
+   13,
    8.8
+  ],
+  "virtue-and-a-sledgehammer": [
+   79,
+   11,
+   null
   ],
   "nintendo-switch-sports-resort": [
    79,
-   71,
-   8.4
+   73,
+   8.5
   ],
   "valor-mortis": [
    78,
@@ -2122,7 +2191,7 @@
   "tales-of-eternia-remastered": [
    76,
    25,
-   7.2
+   7.4
   ],
   "ratatan": [
    76,
@@ -2161,7 +2230,7 @@
   ],
   "one-piece-grand-gourmet": [
    73,
-   19,
+   20,
    null
   ],
   "over-the-hill": [
@@ -2181,13 +2250,13 @@
   ],
   "stupid-never-dies": [
    66,
-   34,
-   6.5
+   36,
+   6.3
   ],
   "aion-2": [
    62,
    7,
-   6.3
+   6.2
   ]
  }
 }
