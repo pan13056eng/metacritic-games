@@ -1,10 +1,10 @@
 {
- "updated": "2026-10-29 08:29",
+ "updated": "2026-10-30 08:39",
  "window": [
-  "2026-09-29",
-  "2026-10-29"
+  "2026-09-30",
+  "2026-10-30"
  ],
- "total": 46,
+ "total": 42,
  "released": [
   {
    "slug": "final-fantasy-resonance",
@@ -47,8 +47,8 @@
    "dev": "Lancarse",
    "pub": "Square Enix",
    "meta": 86,
-   "meta_count": 54,
-   "user": 9.1,
+   "meta_count": 55,
+   "user": 9,
    "user_count": 50,
    "scores": {
     "Push Square": 80
@@ -97,42 +97,6 @@
    }
   },
   {
-   "slug": "ace-combat-8-wings-of-theve",
-   "title": "Ace Combat 8: Wings of Theve",
-   "date": "2026-10-02",
-   "url": "https://www.metacritic.com/game/ace-combat-8-wings-of-theve/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1788987138.jpg",
-   "plats": [
-    {
-     "n": "PC",
-     "s": 86,
-     "c": 28,
-     "d": "2026-10-02"
-    },
-    {
-     "n": "XSX",
-     "s": 90,
-     "c": 4,
-     "d": "2026-10-02"
-    },
-    {
-     "n": "PS5",
-     "s": 87,
-     "c": 55,
-     "d": "2026-10-02"
-    }
-   ],
-   "dev": "Bandai Namco Aces Inc.",
-   "pub": "Bandai Namco Games",
-   "meta": 87,
-   "meta_count": 73,
-   "user": 8.8,
-   "user_count": 44,
-   "scores": {
-    "Push Square": 80
-   }
-  },
-  {
    "slug": "dragons-dogma-2-dark-arisen",
    "title": "Dragon's Dogma 2: Dark Arisen",
    "date": "2026-10-09",
@@ -167,12 +131,48 @@
    "dev": "Capcom",
    "pub": "Capcom",
    "meta": 83,
-   "meta_count": 33,
+   "meta_count": 34,
    "user": 8.8,
-   "user_count": 12,
+   "user_count": 15,
    "scores": {
     "Push Square": 90,
     "IGN": 80
+   }
+  },
+  {
+   "slug": "ace-combat-8-wings-of-theve",
+   "title": "Ace Combat 8: Wings of Theve",
+   "date": "2026-10-02",
+   "url": "https://www.metacritic.com/game/ace-combat-8-wings-of-theve/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1788987138.jpg",
+   "plats": [
+    {
+     "n": "PC",
+     "s": 86,
+     "c": 28,
+     "d": "2026-10-02"
+    },
+    {
+     "n": "XSX",
+     "s": 90,
+     "c": 4,
+     "d": "2026-10-02"
+    },
+    {
+     "n": "PS5",
+     "s": 87,
+     "c": 55,
+     "d": "2026-10-02"
+    }
+   ],
+   "dev": "Bandai Namco Aces Inc.",
+   "pub": "Bandai Namco Games",
+   "meta": 87,
+   "meta_count": 75,
+   "user": 8.7,
+   "user_count": 44,
+   "scores": {
+    "Push Square": 80
    }
   },
   {
@@ -194,50 +194,10 @@
    "meta": 93,
    "meta_count": 16,
    "user": 8.6,
-   "user_count": 4,
+   "user_count": 7,
    "scores": {
     "Nintendo Life": 90
    }
-  },
-  {
-   "slug": "the-witcher-3-wild-hunt-remastered",
-   "title": "The Witcher 3: Wild Hunt - Remastered",
-   "date": "2026-09-29",
-   "url": "https://www.metacritic.com/game/the-witcher-3-wild-hunt-remastered/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1788246748.jpg",
-   "plats": [
-    {
-     "n": "NS2",
-     "s": null,
-     "c": 3,
-     "d": "2026-09-29"
-    },
-    {
-     "n": "PS5",
-     "s": null,
-     "c": 2,
-     "d": "2026-09-29"
-    },
-    {
-     "n": "PC",
-     "s": 94,
-     "c": 8,
-     "d": "2026-09-29"
-    },
-    {
-     "n": "XSX",
-     "s": null,
-     "c": 2,
-     "d": "2026-09-29"
-    }
-   ],
-   "dev": "CD Projekt Red Studio",
-   "pub": "CD Projekt Red Studio",
-   "meta": 92,
-   "meta_count": 13,
-   "user": 8.6,
-   "user_count": 86,
-   "scores": {}
   },
   {
    "slug": "gears-of-war-e-day",
@@ -262,9 +222,9 @@
    "dev": "The Coalition",
    "pub": "Xbox Game Studios",
    "meta": 87,
-   "meta_count": 80,
+   "meta_count": 81,
    "user": 8.6,
-   "user_count": 709,
+   "user_count": 723,
    "scores": {}
   },
   {
@@ -307,8 +267,8 @@
    ],
    "dev": "Wych Elm",
    "pub": "Team17",
-   "meta": 85,
-   "meta_count": 25,
+   "meta": 83,
+   "meta_count": 26,
    "user": 8.5,
    "user_count": 21,
    "scores": {}
@@ -330,7 +290,7 @@
    "dev": "Nintendo",
    "pub": "Nintendo",
    "meta": 79,
-   "meta_count": 73,
+   "meta_count": 74,
    "user": 8.4,
    "user_count": 22,
    "scores": {
@@ -377,7 +337,7 @@
    "meta": 69,
    "meta_count": 44,
    "user": 8.3,
-   "user_count": 71,
+   "user_count": 74,
    "scores": {
     "IGN": 60,
     "Push Square": 50
@@ -412,55 +372,13 @@
    "dev": "Fuse Games",
    "pub": "Secret Mode",
    "meta": 88,
-   "meta_count": 77,
+   "meta_count": 79,
    "user": 8.1,
    "user_count": 40,
    "scores": {
     "Eurogamer": 100,
     "GameSpot": 90,
     "Push Square": 90
-   }
-  },
-  {
-   "slug": "call-of-duty-modern-warfare-4",
-   "title": "Call of Duty: Modern Warfare 4",
-   "date": "2026-10-23",
-   "url": "https://www.metacritic.com/game/call-of-duty-modern-warfare-4/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1792136722.jpg",
-   "plats": [
-    {
-     "n": "XSX",
-     "s": null,
-     "c": 0,
-     "d": "2026-10-23"
-    },
-    {
-     "n": "PS5",
-     "s": null,
-     "c": 1,
-     "d": "2026-10-23"
-    },
-    {
-     "n": "NS2",
-     "s": null,
-     "c": 1,
-     "d": "2026-10-23"
-    },
-    {
-     "n": "PC",
-     "s": null,
-     "c": 10,
-     "d": "2026-10-23"
-    }
-   ],
-   "dev": "Infinity Ward",
-   "pub": "Activision",
-   "meta": 86,
-   "meta_count": 43,
-   "user": 8,
-   "user_count": 0,
-   "scores": {
-    "GameSpot": 80
    }
   },
   {
@@ -500,6 +418,48 @@
    }
   },
   {
+   "slug": "call-of-duty-modern-warfare-4",
+   "title": "Call of Duty: Modern Warfare 4",
+   "date": "2026-10-23",
+   "url": "https://www.metacritic.com/game/call-of-duty-modern-warfare-4/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1792136722.jpg",
+   "plats": [
+    {
+     "n": "XSX",
+     "s": null,
+     "c": 0,
+     "d": "2026-10-23"
+    },
+    {
+     "n": "PS5",
+     "s": null,
+     "c": 1,
+     "d": "2026-10-23"
+    },
+    {
+     "n": "NS2",
+     "s": null,
+     "c": 1,
+     "d": "2026-10-23"
+    },
+    {
+     "n": "PC",
+     "s": null,
+     "c": 10,
+     "d": "2026-10-23"
+    }
+   ],
+   "dev": "Infinity Ward",
+   "pub": "Activision",
+   "meta": 85,
+   "meta_count": 46,
+   "user": 7.8,
+   "user_count": 117,
+   "scores": {
+    "GameSpot": 80
+   }
+  },
+  {
    "slug": "castlevania-belmonts-curse",
    "title": "Castlevania: Belmont's Curse",
    "date": "2026-10-15",
@@ -533,8 +493,8 @@
    ],
    "dev": "Evil Empire",
    "pub": "Konami",
-   "meta": 84,
-   "meta_count": 68,
+   "meta": 83,
+   "meta_count": 70,
    "user": 7.7,
    "user_count": 98,
    "scores": {
@@ -570,9 +530,9 @@
    ],
    "dev": "ONE MORE LEVEL",
    "pub": "Lyrical Games",
-   "meta": 78,
-   "meta_count": 54,
-   "user": 7.6,
+   "meta": 77,
+   "meta_count": 55,
+   "user": 7.5,
    "user_count": 47,
    "scores": {
     "Eurogamer": 80,
@@ -581,52 +541,45 @@
    }
   },
   {
-   "slug": "minecraft-dungeons-ii",
-   "title": "Minecraft Dungeons II",
-   "date": "2026-09-29",
-   "url": "https://www.metacritic.com/game/minecraft-dungeons-ii/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1781632154.jpg",
+   "slug": "warhammer-40000-boltgun-2",
+   "title": "Warhammer 40,000: Boltgun 2",
+   "date": "2026-10-14",
+   "url": "https://www.metacritic.com/game/warhammer-40000-boltgun-2/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1790043784.jpg",
    "plats": [
     {
+     "n": "PC",
+     "s": 81,
+     "c": 15,
+     "d": "2026-10-14"
+    },
+    {
      "n": "PS5",
-     "s": null,
-     "c": 2,
-     "d": "2026-09-29"
+     "s": 76,
+     "c": 4,
+     "d": "2026-10-14"
     },
     {
      "n": "NS2",
      "s": null,
-     "c": 1,
-     "d": "2026-09-29"
+     "c": 0,
+     "d": null
     },
     {
      "n": "XSX",
-     "s": 76,
-     "c": 26,
-     "d": "2026-09-29"
-    },
-    {
-     "n": "NS",
      "s": null,
-     "c": 0,
-     "d": "2026-09-29"
-    },
-    {
-     "n": "PC",
-     "s": 73,
-     "c": 15,
-     "d": "2026-09-29"
+     "c": 2,
+     "d": "2026-10-14"
     }
    ],
-   "dev": "Mojang AB",
-   "pub": "Xbox Game Studios",
-   "meta": 75,
-   "meta_count": 38,
-   "user": 7.6,
-   "user_count": 22,
+   "dev": "Auroch Digital",
+   "pub": "Big Fan Games",
+   "meta": 81,
+   "meta_count": 30,
+   "user": 6.7,
+   "user_count": 3,
    "scores": {
-    "GameSpot": 70,
-    "IGN": 60
+    "IGN": 80
    }
   },
   {
@@ -683,7 +636,7 @@
    "dev": "S-Game",
    "pub": "S-Game",
    "meta": 88,
-   "meta_count": 45,
+   "meta_count": 46,
    "user": null,
    "user_count": 0,
    "scores": {
@@ -735,9 +688,9 @@
    "dev": "Capcom",
    "pub": "Capcom",
    "meta": 89,
-   "meta_count": 13,
+   "meta_count": 14,
    "user": 8.9,
-   "user_count": 3,
+   "user_count": 4,
    "scores": {}
   },
   {
@@ -855,28 +808,6 @@
    "scores": {}
   },
   {
-   "slug": "nivalis-nights",
-   "title": "Nivalis Nights",
-   "date": "2026-09-29",
-   "url": "https://www.metacritic.com/game/nivalis-nights/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-875774-52.jpg",
-   "plats": [
-    {
-     "n": "PC",
-     "s": 77,
-     "c": 10,
-     "d": "2026-09-29"
-    }
-   ],
-   "dev": "ION LANDS",
-   "pub": "505 Games",
-   "meta": 76,
-   "meta_count": 14,
-   "user": 7.7,
-   "user_count": 6,
-   "scores": {}
-  },
-  {
    "slug": "forever-ago",
    "title": "Forever Ago",
    "date": "2026-10-08",
@@ -965,7 +896,7 @@
    "meta": 76,
    "meta_count": 25,
    "user": 7.5,
-   "user_count": 3,
+   "user_count": 4,
    "scores": {}
   },
   {
@@ -1076,50 +1007,10 @@
    ],
    "dev": "Section 9 Interactive",
    "pub": "Epic Games",
-   "meta": 73,
-   "meta_count": 24,
+   "meta": 70,
+   "meta_count": 25,
    "user": 7.2,
    "user_count": 18,
-   "scores": {}
-  },
-  {
-   "slug": "toem-2",
-   "title": "TOEM 2",
-   "date": "2026-09-29",
-   "url": "https://www.metacritic.com/game/toem-2/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1790597595.jpg",
-   "plats": [
-    {
-     "n": "PC",
-     "s": null,
-     "c": 0,
-     "d": "2026-09-29"
-    },
-    {
-     "n": "PS5",
-     "s": null,
-     "c": 0,
-     "d": "2026-09-29"
-    },
-    {
-     "n": "NS",
-     "s": null,
-     "c": 0,
-     "d": "2026-09-29"
-    },
-    {
-     "n": "NS2",
-     "s": null,
-     "c": 0,
-     "d": "2026-09-29"
-    }
-   ],
-   "dev": "Something We Made",
-   "pub": "Something We Made",
-   "meta": 81,
-   "meta_count": 16,
-   "user": 7,
-   "user_count": 2,
    "scores": {}
   },
   {
@@ -1163,34 +1054,6 @@
    "scores": {}
   },
   {
-   "slug": "penguin-colony",
-   "title": "Penguin Colony",
-   "date": "2026-10-16",
-   "url": "https://www.metacritic.com/game/penguin-colony/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1127953-52.jpg",
-   "plats": [
-    {
-     "n": "PC",
-     "s": 76,
-     "c": 10,
-     "d": "2026-10-16"
-    },
-    {
-     "n": "NS2",
-     "s": null,
-     "c": 0,
-     "d": null
-    }
-   ],
-   "dev": "ORIGAME DIGITAL",
-   "pub": "Fellow Traveller",
-   "meta": 76,
-   "meta_count": 10,
-   "user": 6.8,
-   "user_count": 0,
-   "scores": {}
-  },
-  {
    "slug": "over-the-hill",
    "title": "over the hill",
    "date": "2026-10-14",
@@ -1225,49 +1088,77 @@
    "dev": "Funselektor Labs Inc.",
    "pub": "Funselektor Labs Inc.",
    "meta": 73,
-   "meta_count": 20,
+   "meta_count": 22,
    "user": 6.8,
    "user_count": 2,
    "scores": {}
   },
   {
-   "slug": "warhammer-40000-boltgun-2",
-   "title": "Warhammer 40,000: Boltgun 2",
-   "date": "2026-10-14",
-   "url": "https://www.metacritic.com/game/warhammer-40000-boltgun-2/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1790043784.jpg",
+   "slug": "penguin-colony",
+   "title": "Penguin Colony",
+   "date": "2026-10-16",
+   "url": "https://www.metacritic.com/game/penguin-colony/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1127953-52.jpg",
    "plats": [
     {
      "n": "PC",
-     "s": 81,
-     "c": 15,
-     "d": "2026-10-14"
-    },
-    {
-     "n": "PS5",
      "s": 76,
-     "c": 4,
-     "d": "2026-10-14"
+     "c": 10,
+     "d": "2026-10-16"
     },
     {
      "n": "NS2",
      "s": null,
      "c": 0,
      "d": null
-    },
-    {
-     "n": "XSX",
-     "s": null,
-     "c": 2,
-     "d": "2026-10-14"
     }
    ],
-   "dev": "Auroch Digital",
-   "pub": "Big Fan Games",
-   "meta": 82,
-   "meta_count": 29,
-   "user": 6.7,
-   "user_count": 3,
+   "dev": "ORIGAME DIGITAL",
+   "pub": "Fellow Traveller",
+   "meta": 72,
+   "meta_count": 11,
+   "user": 6.8,
+   "user_count": 0,
+   "scores": {}
+  },
+  {
+   "slug": "one-piece-grand-gourmet",
+   "title": "ONE PIECE: Grand Gourmet",
+   "date": "2026-10-23",
+   "url": "https://www.metacritic.com/game/one-piece-grand-gourmet/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1249890-17.jpg",
+   "plats": [
+    {
+     "n": "NS2",
+     "s": 73,
+     "c": 9,
+     "d": "2026-10-23"
+    },
+    {
+     "n": "NS",
+     "s": null,
+     "c": 0,
+     "d": "2026-10-23"
+    },
+    {
+     "n": "PC",
+     "s": null,
+     "c": 3,
+     "d": "2026-10-23"
+    },
+    {
+     "n": "iOS",
+     "s": null,
+     "c": 0,
+     "d": "2026-10-23"
+    }
+   ],
+   "dev": "Kairosoft Co. Ltd",
+   "pub": "Bandai Namco Games",
+   "meta": 70,
+   "meta_count": 24,
+   "user": 6.6,
+   "user_count": 0,
    "scores": {}
   },
   {
@@ -1351,46 +1242,6 @@
    "scores": {}
   },
   {
-   "slug": "one-piece-grand-gourmet",
-   "title": "ONE PIECE: Grand Gourmet",
-   "date": "2026-10-23",
-   "url": "https://www.metacritic.com/game/one-piece-grand-gourmet/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1249890-17.jpg",
-   "plats": [
-    {
-     "n": "NS2",
-     "s": 73,
-     "c": 9,
-     "d": "2026-10-23"
-    },
-    {
-     "n": "NS",
-     "s": null,
-     "c": 0,
-     "d": "2026-10-23"
-    },
-    {
-     "n": "PC",
-     "s": null,
-     "c": 3,
-     "d": "2026-10-23"
-    },
-    {
-     "n": "iOS",
-     "s": null,
-     "c": 0,
-     "d": "2026-10-23"
-    }
-   ],
-   "dev": "Kairosoft Co. Ltd",
-   "pub": "Bandai Namco Games",
-   "meta": 73,
-   "meta_count": 23,
-   "user": 6,
-   "user_count": 0,
-   "scores": {}
-  },
-  {
    "slug": "planet-zoo-2",
    "title": "Planet Zoo 2",
    "date": "2026-10-13",
@@ -1419,43 +1270,55 @@
    "dev": "Frontier Developments",
    "pub": "Frontier Developments",
    "meta": 84,
-   "meta_count": 21,
-   "user": 5.1,
+   "meta_count": 22,
+   "user": 5.3,
    "user_count": 3,
    "scores": {}
   },
   {
-   "slug": "transport-fever-3",
-   "title": "Transport Fever 3",
-   "date": "2026-09-29",
-   "url": "https://www.metacritic.com/game/transport-fever-3/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1790317355.jpg",
+   "slug": "the-wolf-among-us-remastered",
+   "title": "The Wolf Among Us Remastered",
+   "date": "2026-10-29",
+   "url": "https://www.metacritic.com/game/the-wolf-among-us-remastered/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1790868342.jpg",
    "plats": [
-    {
-     "n": "XSX",
-     "s": null,
-     "c": 0,
-     "d": "2026-09-29"
-    },
-    {
-     "n": "PS5",
-     "s": 77,
-     "c": 5,
-     "d": "2026-09-29"
-    },
     {
      "n": "PC",
      "s": 84,
-     "c": 10,
-     "d": "2026-09-29"
+     "c": 8,
+     "d": "2026-10-29"
+    },
+    {
+     "n": "NS2",
+     "s": null,
+     "c": 0,
+     "d": null
+    },
+    {
+     "n": "PS5",
+     "s": 85,
+     "c": 11,
+     "d": "2026-10-29"
+    },
+    {
+     "n": "XB1",
+     "s": null,
+     "c": 3,
+     "d": "2026-10-29"
+    },
+    {
+     "n": "NS",
+     "s": null,
+     "c": 0,
+     "d": null
     }
    ],
-   "dev": "Urban Games",
-   "pub": "Paradox Interactive",
-   "meta": 83,
-   "meta_count": 16,
-   "user": 2.9,
-   "user_count": 14,
+   "dev": "Telltale Games",
+   "pub": "Telltale Games",
+   "meta": 85,
+   "meta_count": 11,
+   "user": null,
+   "user_count": 0,
    "scores": {}
   },
   {
@@ -1463,7 +1326,7 @@
    "title": "Mycopunk",
    "date": "2026-10-20",
    "url": "https://www.metacritic.com/game/mycopunk/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1117297-52.jpg",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1793332672.jpg",
    "plats": [
     {
      "n": "PC",
@@ -1502,8 +1365,8 @@
    ],
    "dev": "Deconstructeam",
    "pub": "Devolver Digital",
-   "meta": 80,
-   "meta_count": 14,
+   "meta": 77,
+   "meta_count": 15,
    "user": null,
    "user_count": 0,
    "scores": {}
@@ -1545,24 +1408,6 @@
    "dev": "Nintendo",
    "pub": "Nintendo",
    "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1788926816.jpg"
-  },
-  {
-   "slug": "the-duskbloods",
-   "title": "The Duskbloods",
-   "date": "2026-12-31",
-   "url": "https://www.metacritic.com/game/the-duskbloods/",
-   "meta": null,
-   "plats": [
-    {
-     "n": "NS2",
-     "s": null,
-     "c": 7,
-     "d": null
-    }
-   ],
-   "dev": "From Software",
-   "pub": "Nintendo",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1787246452.jpg"
   }
  ],
  "annual": [
@@ -1848,7 +1693,7 @@
      "dev": "Fuse Games",
      "pub": "Secret Mode",
      "meta": 88,
-     "meta_count": 77,
+     "meta_count": 79,
      "user": 8.1,
      "user_count": 40,
      "scores": {}
@@ -1882,8 +1727,8 @@
      "dev": "Bandai Namco Aces Inc.",
      "pub": "Bandai Namco Games",
      "meta": 87,
-     "meta_count": 73,
-     "user": 8.8,
+     "meta_count": 75,
+     "user": 8.7,
      "user_count": 44,
      "scores": {}
     },
@@ -1910,9 +1755,9 @@
      "dev": "The Coalition",
      "pub": "Xbox Game Studios",
      "meta": 87,
-     "meta_count": 80,
+     "meta_count": 81,
      "user": 8.6,
-     "user_count": 709,
+     "user_count": 723,
      "scores": {}
     },
     {
@@ -1956,8 +1801,8 @@
      "dev": "Lancarse",
      "pub": "Square Enix",
      "meta": 86,
-     "meta_count": 54,
-     "user": 9.1,
+     "meta_count": 55,
+     "user": 9,
      "user_count": 50,
      "scores": {}
     },
@@ -2092,7 +1937,7 @@
      "dev": "Nintendo",
      "pub": "Nintendo",
      "meta": 82,
-     "meta_count": 123,
+     "meta_count": 124,
      "user": 9.2,
      "user_count": 770,
      "scores": {}
@@ -2128,25 +1973,20 @@
    16,
    8.6
   ],
-  "the-witcher-3-wild-hunt-remastered": [
-   92,
-   13,
-   8.6
-  ],
   "resident-evil-4-gold-edition": [
    89,
-   13,
+   14,
    8.9
-  ],
-  "star-wars-galactic-racer": [
-   88,
-   77,
-   8.1
   ],
   "phantom-blade-zero": [
    88,
-   45,
+   46,
    null
+  ],
+  "star-wars-galactic-racer": [
+   88,
+   79,
+   8.1
   ],
   "kingdom-hearts-collection-i-iii": [
    88,
@@ -2160,18 +2000,13 @@
   ],
   "gears-of-war-e-day": [
    87,
-   80,
+   81,
    8.6
   ],
   "ace-combat-8-wings-of-theve": [
    87,
-   73,
-   8.8
-  ],
-  "call-of-duty-modern-warfare-4": [
-   86,
-   43,
-   8
+   75,
+   8.7
   ],
   "village-in-the-shade": [
    86,
@@ -2180,43 +2015,43 @@
   ],
   "final-fantasy-resonance": [
    86,
-   54,
-   9.1
+   55,
+   9
+  ],
+  "call-of-duty-modern-warfare-4": [
+   85,
+   46,
+   7.8
   ],
   "the-wolf-among-us-remastered": [
    85,
-   9,
+   11,
    null
-  ],
-  "silver-pines": [
-   85,
-   25,
-   8.5
-  ],
-  "planet-zoo-2": [
-   84,
-   21,
-   5.1
   ],
   "order-of-the-sinking-star": [
    84,
    20,
    8
   ],
-  "castlevania-belmonts-curse": [
+  "planet-zoo-2": [
    84,
-   68,
+   22,
+   5.3
+  ],
+  "silver-pines": [
+   83,
+   26,
+   8.5
+  ],
+  "castlevania-belmonts-curse": [
+   83,
+   70,
    7.7
   ],
   "dragons-dogma-2-dark-arisen": [
    83,
-   33,
+   34,
    8.8
-  ],
-  "transport-fever-3": [
-   83,
-   16,
-   2.9
   ],
   "mycopunk": [
    83,
@@ -2229,34 +2064,19 @@
    7.2
   ],
   "warhammer-40000-boltgun-2": [
-   82,
-   29,
-   6.7
-  ],
-  "toem-2": [
    81,
-   16,
-   7
+   30,
+   6.7
   ],
   "tenebris-somnia": [
    81,
    13,
    8.8
   ],
-  "virtue-and-a-sledgehammer": [
-   80,
-   14,
-   null
-  ],
   "nintendo-switch-sports-resort": [
    79,
-   73,
+   74,
    8.4
-  ],
-  "valor-mortis": [
-   78,
-   54,
-   7.6
   ],
   "just-dance-decades-of-hits": [
    78,
@@ -2273,6 +2093,16 @@
    10,
    7.4
   ],
+  "valor-mortis": [
+   77,
+   55,
+   7.5
+  ],
+  "virtue-and-a-sledgehammer": [
+   77,
+   15,
+   null
+  ],
   "tales-of-eternia-remastered": [
    76,
    25,
@@ -2282,21 +2112,6 @@
    76,
    15,
    7
-  ],
-  "penguin-colony": [
-   76,
-   10,
-   6.8
-  ],
-  "nivalis-nights": [
-   76,
-   14,
-   7.7
-  ],
-  "minecraft-dungeons-ii": [
-   75,
-   38,
-   7.6
   ],
   "forever-ago": [
    75,
@@ -2308,30 +2123,45 @@
    8,
    null
   ],
+  "over-the-hill": [
+   73,
+   22,
+   6.8
+  ],
   "dynasty-warriors-3-complete-edition-remastered": [
    73,
    15,
    8.9
   ],
-  "one-piece-grand-gourmet": [
-   73,
-   23,
-   6
-  ],
-  "over-the-hill": [
-   73,
-   20,
+  "penguin-colony": [
+   72,
+   11,
    6.8
   ],
-  "end-of-abyss": [
-   73,
+  "we-were-here-tomorrow": [
+   71,
+   7,
+   8.9
+  ],
+  "one-piece-grand-gourmet": [
+   70,
    24,
+   6.6
+  ],
+  "end-of-abyss": [
+   70,
+   25,
    7.2
   ],
   "clive-barkers-hellraiser-revival": [
    69,
    44,
    8.3
+  ],
+  "anomalith": [
+   69,
+   7,
+   null
   ],
   "truckful": [
    68,
@@ -2347,11 +2177,6 @@
    62,
    7,
    6.2
-  ],
-  "terrible-lizards": [
-   78,
-   4,
-   null
   ]
  }
 }
