@@ -1,8 +1,8 @@
 {
- "updated": "2026-10-30 08:39",
+ "updated": "2026-10-31 08:26",
  "window": [
-  "2026-09-30",
-  "2026-10-30"
+  "2026-10-01",
+  "2026-10-31"
  ],
  "total": 42,
  "released": [
@@ -47,11 +47,59 @@
    "dev": "Lancarse",
    "pub": "Square Enix",
    "meta": 86,
-   "meta_count": 55,
-   "user": 9,
+   "meta_count": 56,
+   "user": 9.1,
    "user_count": 50,
    "scores": {
     "Push Square": 80
+   }
+  },
+  {
+   "slug": "resident-evil-4-gold-edition",
+   "title": "Resident Evil 4: Gold Edition",
+   "date": "2026-10-16",
+   "url": "https://www.metacritic.com/game/resident-evil-4-gold-edition/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1282314-52.jpg",
+   "plats": [
+    {
+     "n": "PS5",
+     "s": null,
+     "c": 0,
+     "d": "2024-02-09"
+    },
+    {
+     "n": "PC",
+     "s": null,
+     "c": 0,
+     "d": "2024-02-09"
+    },
+    {
+     "n": "PS4",
+     "s": null,
+     "c": 0,
+     "d": "2024-02-09"
+    },
+    {
+     "n": "XSX",
+     "s": null,
+     "c": 0,
+     "d": "2024-02-09"
+    },
+    {
+     "n": "NS2",
+     "s": 90,
+     "c": 8,
+     "d": "2026-10-16"
+    }
+   ],
+   "dev": "Capcom",
+   "pub": "Capcom",
+   "meta": 90,
+   "meta_count": 15,
+   "user": 8.9,
+   "user_count": 4,
+   "scores": {
+    "Nintendo Life": 90
    }
   },
   {
@@ -168,9 +216,9 @@
    "dev": "Bandai Namco Aces Inc.",
    "pub": "Bandai Namco Games",
    "meta": 87,
-   "meta_count": 75,
+   "meta_count": 76,
    "user": 8.7,
-   "user_count": 44,
+   "user_count": 48,
    "scores": {
     "Push Square": 80
    }
@@ -290,7 +338,7 @@
    "dev": "Nintendo",
    "pub": "Nintendo",
    "meta": 79,
-   "meta_count": 74,
+   "meta_count": 76,
    "user": 8.4,
    "user_count": 22,
    "scores": {
@@ -374,7 +422,7 @@
    "meta": 88,
    "meta_count": 79,
    "user": 8.1,
-   "user_count": 40,
+   "user_count": 46,
    "scores": {
     "Eurogamer": 100,
     "GameSpot": 90,
@@ -605,7 +653,7 @@
    "dev": "GPTRACK50",
    "pub": "GPTRACK50",
    "meta": 66,
-   "meta_count": 36,
+   "meta_count": 37,
    "user": 6.3,
    "user_count": 1,
    "scores": {
@@ -647,52 +695,6 @@
   }
  ],
  "watch": [
-  {
-   "slug": "resident-evil-4-gold-edition",
-   "title": "Resident Evil 4: Gold Edition",
-   "date": "2026-10-16",
-   "url": "https://www.metacritic.com/game/resident-evil-4-gold-edition/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1282314-52.jpg",
-   "plats": [
-    {
-     "n": "PS5",
-     "s": null,
-     "c": 0,
-     "d": "2024-02-09"
-    },
-    {
-     "n": "PC",
-     "s": null,
-     "c": 0,
-     "d": "2024-02-09"
-    },
-    {
-     "n": "PS4",
-     "s": null,
-     "c": 0,
-     "d": "2024-02-09"
-    },
-    {
-     "n": "XSX",
-     "s": null,
-     "c": 0,
-     "d": "2024-02-09"
-    },
-    {
-     "n": "NS2",
-     "s": 90,
-     "c": 8,
-     "d": "2026-10-16"
-    }
-   ],
-   "dev": "Capcom",
-   "pub": "Capcom",
-   "meta": 89,
-   "meta_count": 14,
-   "user": 8.9,
-   "user_count": 4,
-   "scores": {}
-  },
   {
    "slug": "tenebris-somnia",
    "title": "Tenebris Somnia",
@@ -958,28 +960,6 @@
    "scores": {}
   },
   {
-   "slug": "middle-earth-shadow-bundle",
-   "title": "Middle-earth: Shadow Bundle",
-   "date": "2026-09-30",
-   "url": "https://www.metacritic.com/game/middle-earth-shadow-bundle/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1790740099.jpg",
-   "plats": [
-    {
-     "n": "NS2",
-     "s": 82,
-     "c": 10,
-     "d": "2026-09-30"
-    }
-   ],
-   "dev": "Aspyr",
-   "pub": "Aspyr",
-   "meta": 82,
-   "meta_count": 10,
-   "user": 7.2,
-   "user_count": 0,
-   "scores": {}
-  },
-  {
    "slug": "end-of-abyss",
    "title": "End of Abyss",
    "date": "2026-10-01",
@@ -1011,46 +991,6 @@
    "meta_count": 25,
    "user": 7.2,
    "user_count": 18,
-   "scores": {}
-  },
-  {
-   "slug": "ratatan",
-   "title": "RATATAN",
-   "date": "2026-10-15",
-   "url": "https://www.metacritic.com/game/ratatan/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1777421279.jpg",
-   "plats": [
-    {
-     "n": "PC",
-     "s": null,
-     "c": 2,
-     "d": "2026-10-15"
-    },
-    {
-     "n": "NS2",
-     "s": 76,
-     "c": 10,
-     "d": "2026-10-15"
-    },
-    {
-     "n": "PS5",
-     "s": null,
-     "c": 3,
-     "d": "2026-10-15"
-    },
-    {
-     "n": "XSX",
-     "s": null,
-     "c": 2,
-     "d": "2026-10-15"
-    }
-   ],
-   "dev": "Ratata Arts",
-   "pub": "Game Source Entertainment",
-   "meta": 76,
-   "meta_count": 15,
-   "user": 7,
-   "user_count": 2,
    "scores": {}
   },
   {
@@ -1119,6 +1059,46 @@
    "meta_count": 11,
    "user": 6.8,
    "user_count": 0,
+   "scores": {}
+  },
+  {
+   "slug": "ratatan",
+   "title": "RATATAN",
+   "date": "2026-10-15",
+   "url": "https://www.metacritic.com/game/ratatan/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1777421279.jpg",
+   "plats": [
+    {
+     "n": "PC",
+     "s": null,
+     "c": 2,
+     "d": "2026-10-15"
+    },
+    {
+     "n": "NS2",
+     "s": 76,
+     "c": 10,
+     "d": "2026-10-15"
+    },
+    {
+     "n": "PS5",
+     "s": null,
+     "c": 3,
+     "d": "2026-10-15"
+    },
+    {
+     "n": "XSX",
+     "s": null,
+     "c": 2,
+     "d": "2026-10-15"
+    }
+   ],
+   "dev": "Ratata Arts",
+   "pub": "Game Source Entertainment",
+   "meta": 75,
+   "meta_count": 16,
+   "user": 6.7,
+   "user_count": 2,
    "scores": {}
   },
   {
@@ -1238,7 +1218,7 @@
    "meta": 62,
    "meta_count": 7,
    "user": 6.2,
-   "user_count": 13,
+   "user_count": 15,
    "scores": {}
   },
   {
@@ -1695,7 +1675,7 @@
      "meta": 88,
      "meta_count": 79,
      "user": 8.1,
-     "user_count": 40,
+     "user_count": 46,
      "scores": {}
     },
     {
@@ -1727,9 +1707,9 @@
      "dev": "Bandai Namco Aces Inc.",
      "pub": "Bandai Namco Games",
      "meta": 87,
-     "meta_count": 75,
+     "meta_count": 76,
      "user": 8.7,
-     "user_count": 44,
+     "user_count": 48,
      "scores": {}
     },
     {
@@ -1801,8 +1781,8 @@
      "dev": "Lancarse",
      "pub": "Square Enix",
      "meta": 86,
-     "meta_count": 55,
-     "user": 9,
+     "meta_count": 56,
+     "user": 9.1,
      "user_count": 50,
      "scores": {}
     },
@@ -1917,7 +1897,7 @@
      "meta": 83,
      "meta_count": 90,
      "user": 8.8,
-     "user_count": 207,
+     "user_count": 225,
      "scores": {}
     },
     {
@@ -1974,8 +1954,8 @@
    8.6
   ],
   "resident-evil-4-gold-edition": [
-   89,
-   14,
+   90,
+   15,
    8.9
   ],
   "phantom-blade-zero": [
@@ -2005,7 +1985,7 @@
   ],
   "ace-combat-8-wings-of-theve": [
    87,
-   75,
+   76,
    8.7
   ],
   "village-in-the-shade": [
@@ -2015,8 +1995,8 @@
   ],
   "final-fantasy-resonance": [
    86,
-   55,
-   9
+   56,
+   9.1
   ],
   "call-of-duty-modern-warfare-4": [
    85,
@@ -2058,11 +2038,6 @@
    10,
    null
   ],
-  "middle-earth-shadow-bundle": [
-   82,
-   10,
-   7.2
-  ],
   "warhammer-40000-boltgun-2": [
    81,
    30,
@@ -2075,7 +2050,7 @@
   ],
   "nintendo-switch-sports-resort": [
    79,
-   74,
+   76,
    8.4
   ],
   "just-dance-decades-of-hits": [
@@ -2109,14 +2084,19 @@
    7.5
   ],
   "ratatan": [
-   76,
-   15,
-   7
+   75,
+   16,
+   6.7
   ],
   "forever-ago": [
    75,
    19,
    7.6
+  ],
+  "remothered-red-nuns-legacy": [
+   74,
+   8,
+   7.9
   ],
   "the-jackbox-party-pack-12": [
    74,
@@ -2170,7 +2150,7 @@
   ],
   "stupid-never-dies": [
    66,
-   36,
+   37,
    6.3
   ],
   "aion-2": [
