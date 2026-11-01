@@ -1,10 +1,10 @@
 {
- "updated": "2026-10-31 08:26",
+ "updated": "2026-11-01 09:16",
  "window": [
-  "2026-10-01",
-  "2026-10-31"
+  "2026-10-02",
+  "2026-11-01"
  ],
- "total": 42,
+ "total": 41,
  "released": [
   {
    "slug": "final-fantasy-resonance",
@@ -48,7 +48,7 @@
    "pub": "Square Enix",
    "meta": 86,
    "meta_count": 56,
-   "user": 9.1,
+   "user": 9,
    "user_count": 50,
    "scores": {
     "Push Square": 80
@@ -103,45 +103,35 @@
    }
   },
   {
-   "slug": "dynasty-warriors-3-complete-edition-remastered",
-   "title": "Dynasty Warriors 3 Complete Edition Remastered",
-   "date": "2026-10-01",
-   "url": "https://www.metacritic.com/game/dynasty-warriors-3-complete-edition-remastered/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1790740754.jpg",
+   "slug": "phantom-blade-zero",
+   "title": "Phantom Blade Zero",
+   "date": "2026-10-29",
+   "url": "https://www.metacritic.com/game/phantom-blade-zero/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1792649966.jpg",
    "plats": [
     {
      "n": "PS5",
-     "s": 72,
-     "c": 10,
-     "d": "2026-10-01"
-    },
-    {
-     "n": "NS2",
-     "s": 79,
-     "c": 8,
-     "d": "2026-10-01"
+     "s": 88,
+     "c": 25,
+     "d": "2026-10-29"
     },
     {
      "n": "PC",
-     "s": 80,
-     "c": 8,
-     "d": "2026-10-01"
-    },
-    {
-     "n": "XSX",
-     "s": null,
-     "c": 2,
-     "d": "2026-10-01"
+     "s": 88,
+     "c": 33,
+     "d": "2026-10-29"
     }
    ],
-   "dev": "Omega Force",
-   "pub": "Koei Tecmo Games",
-   "meta": 73,
-   "meta_count": 15,
+   "dev": "S-Game",
+   "pub": "S-Game",
+   "meta": 88,
+   "meta_count": 46,
    "user": 8.9,
-   "user_count": 10,
+   "user_count": 0,
    "scores": {
-    "Push Square": 70
+    "IGN": 90,
+    "GameSpot": 80,
+    "Eurogamer": 60
    }
   },
   {
@@ -188,6 +178,30 @@
    }
   },
   {
+   "slug": "resident-evil-2-deluxe-edition",
+   "title": "Resident Evil 2: Deluxe Edition",
+   "date": "2026-10-16",
+   "url": "https://www.metacritic.com/game/resident-evil-2-deluxe-edition/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1282312-52.jpg",
+   "plats": [
+    {
+     "n": "NS2",
+     "s": 93,
+     "c": 8,
+     "d": "2026-10-16"
+    }
+   ],
+   "dev": "Capcom",
+   "pub": "Capcom",
+   "meta": 93,
+   "meta_count": 16,
+   "user": 8.7,
+   "user_count": 7,
+   "scores": {
+    "Nintendo Life": 90
+   }
+  },
+  {
    "slug": "ace-combat-8-wings-of-theve",
    "title": "Ace Combat 8: Wings of Theve",
    "date": "2026-10-02",
@@ -221,30 +235,6 @@
    "user_count": 48,
    "scores": {
     "Push Square": 80
-   }
-  },
-  {
-   "slug": "resident-evil-2-deluxe-edition",
-   "title": "Resident Evil 2: Deluxe Edition",
-   "date": "2026-10-16",
-   "url": "https://www.metacritic.com/game/resident-evil-2-deluxe-edition/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1282312-52.jpg",
-   "plats": [
-    {
-     "n": "NS2",
-     "s": 93,
-     "c": 8,
-     "d": "2026-10-16"
-    }
-   ],
-   "dev": "Capcom",
-   "pub": "Capcom",
-   "meta": 93,
-   "meta_count": 16,
-   "user": 8.6,
-   "user_count": 7,
-   "scores": {
-    "Nintendo Life": 90
    }
   },
   {
@@ -338,7 +328,7 @@
    "dev": "Nintendo",
    "pub": "Nintendo",
    "meta": 79,
-   "meta_count": 76,
+   "meta_count": 77,
    "user": 8.4,
    "user_count": 22,
    "scores": {
@@ -430,42 +420,6 @@
    }
   },
   {
-   "slug": "order-of-the-sinking-star",
-   "title": "Order of the Sinking Star",
-   "date": "2026-10-08",
-   "url": "https://www.metacritic.com/game/order-of-the-sinking-star/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1791232616.jpg",
-   "plats": [
-    {
-     "n": "PC",
-     "s": 87,
-     "c": 11,
-     "d": "2026-10-08"
-    },
-    {
-     "n": "NS2",
-     "s": 85,
-     "c": 5,
-     "d": "2026-10-08"
-    },
-    {
-     "n": "PS5",
-     "s": 86,
-     "c": 9,
-     "d": null
-    }
-   ],
-   "dev": "Thekla, Inc",
-   "pub": "Arc Games",
-   "meta": 84,
-   "meta_count": 20,
-   "user": 8,
-   "user_count": 16,
-   "scores": {
-    "GameSpot": 80
-   }
-  },
-  {
    "slug": "call-of-duty-modern-warfare-4",
    "title": "Call of Duty: Modern Warfare 4",
    "date": "2026-10-23",
@@ -501,7 +455,7 @@
    "pub": "Activision",
    "meta": 85,
    "meta_count": 46,
-   "user": 7.8,
+   "user": 7.7,
    "user_count": 117,
    "scores": {
     "GameSpot": 80
@@ -624,7 +578,7 @@
    "pub": "Big Fan Games",
    "meta": 81,
    "meta_count": 30,
-   "user": 6.7,
+   "user": 6.3,
    "user_count": 3,
    "scores": {
     "IGN": 80
@@ -659,38 +613,6 @@
    "scores": {
     "Push Square": 70,
     "GameSpot": 60
-   }
-  },
-  {
-   "slug": "phantom-blade-zero",
-   "title": "Phantom Blade Zero",
-   "date": "2026-10-29",
-   "url": "https://www.metacritic.com/game/phantom-blade-zero/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1792649966.jpg",
-   "plats": [
-    {
-     "n": "PS5",
-     "s": 88,
-     "c": 25,
-     "d": "2026-10-29"
-    },
-    {
-     "n": "PC",
-     "s": 88,
-     "c": 33,
-     "d": "2026-10-29"
-    }
-   ],
-   "dev": "S-Game",
-   "pub": "S-Game",
-   "meta": 88,
-   "meta_count": 46,
-   "user": null,
-   "user_count": 0,
-   "scores": {
-    "IGN": 90,
-    "GameSpot": 80,
-    "Eurogamer": 60
    }
   }
  ],
@@ -737,7 +659,7 @@
    "pub": "New Blood Interactive",
    "meta": 81,
    "meta_count": 13,
-   "user": 8.8,
+   "user": 8.9,
    "user_count": 1,
    "scores": {}
   },
@@ -771,134 +693,42 @@
    "pub": "Square Enix",
    "meta": 88,
    "meta_count": 24,
-   "user": 8.3,
+   "user": 8.4,
    "user_count": 2,
    "scores": {}
   },
   {
-   "slug": "enshrouded",
-   "title": "Enshrouded",
-   "date": "2026-10-15",
-   "url": "https://www.metacritic.com/game/enshrouded/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1792084682.jpg",
-   "plats": [
-    {
-     "n": "PC",
-     "s": 89,
-     "c": 10,
-     "d": "2026-10-15"
-    },
-    {
-     "n": "XSX",
-     "s": null,
-     "c": 0,
-     "d": null
-    },
-    {
-     "n": "PS5",
-     "s": null,
-     "c": 3,
-     "d": "2026-10-15"
-    }
-   ],
-   "dev": "Keen Games",
-   "pub": "Keen Games",
-   "meta": 88,
-   "meta_count": 14,
-   "user": 7.8,
-   "user_count": 9,
-   "scores": {}
-  },
-  {
-   "slug": "forever-ago",
-   "title": "Forever Ago",
+   "slug": "order-of-the-sinking-star",
+   "title": "Order of the Sinking Star",
    "date": "2026-10-08",
-   "url": "https://www.metacritic.com/game/forever-ago/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1791317775.jpg",
+   "url": "https://www.metacritic.com/game/order-of-the-sinking-star/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1791232616.jpg",
    "plats": [
     {
      "n": "PC",
-     "s": 75,
-     "c": 8,
-     "d": "2026-10-08"
-    },
-    {
-     "n": "NS2",
-     "s": null,
-     "c": 1,
-     "d": "2026-10-08"
-    },
-    {
-     "n": "XSX",
-     "s": null,
-     "c": 3,
-     "d": "2026-10-08"
-    },
-    {
-     "n": "PS5",
-     "s": 73,
-     "c": 10,
-     "d": "2026-10-08"
-    }
-   ],
-   "dev": "Third Shift",
-   "pub": "Annapurna Interactive",
-   "meta": 75,
-   "meta_count": 19,
-   "user": 7.6,
-   "user_count": 1,
-   "scores": {}
-  },
-  {
-   "slug": "tales-of-eternia-remastered",
-   "title": "Tales of Eternia Remastered",
-   "date": "2026-10-16",
-   "url": "https://www.metacritic.com/game/tales-of-eternia-remastered/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1791946499.jpg",
-   "plats": [
-    {
-     "n": "NS",
-     "s": null,
-     "c": 0,
-     "d": "2026-10-16"
-    },
-    {
-     "n": "NS2",
-     "s": null,
-     "c": 2,
-     "d": "2026-10-16"
-    },
-    {
-     "n": "PS4",
-     "s": null,
-     "c": 0,
-     "d": "2026-10-16"
-    },
-    {
-     "n": "PS5",
-     "s": 77,
+     "s": 87,
      "c": 11,
-     "d": "2026-10-16"
+     "d": "2026-10-08"
     },
     {
-     "n": "PC",
-     "s": null,
-     "c": 0,
-     "d": "2026-10-16"
+     "n": "NS2",
+     "s": 85,
+     "c": 5,
+     "d": "2026-10-08"
     },
     {
-     "n": "XSX",
-     "s": null,
-     "c": 0,
-     "d": "2026-10-16"
+     "n": "PS5",
+     "s": 86,
+     "c": 9,
+     "d": null
     }
    ],
-   "dev": "TOSE",
-   "pub": "Bandai Namco Games",
-   "meta": 76,
-   "meta_count": 25,
-   "user": 7.5,
-   "user_count": 4,
+   "dev": "Thekla, Inc",
+   "pub": "Arc Games",
+   "meta": 84,
+   "meta_count": 20,
+   "user": 7.9,
+   "user_count": 16,
    "scores": {}
   },
   {
@@ -955,42 +785,174 @@
    "pub": "Gameloft",
    "meta": 78,
    "meta_count": 10,
-   "user": 7.4,
+   "user": 7.6,
    "user_count": 0,
    "scores": {}
   },
   {
-   "slug": "end-of-abyss",
-   "title": "End of Abyss",
-   "date": "2026-10-01",
-   "url": "https://www.metacritic.com/game/end-of-abyss/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1790725727.jpg",
+   "slug": "enshrouded",
+   "title": "Enshrouded",
+   "date": "2026-10-15",
+   "url": "https://www.metacritic.com/game/enshrouded/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1792084682.jpg",
    "plats": [
     {
      "n": "PC",
-     "s": 66,
-     "c": 5,
-     "d": "2026-10-01"
-    },
-    {
-     "n": "PS5",
-     "s": 78,
+     "s": 89,
      "c": 10,
-     "d": "2026-10-01"
+     "d": "2026-10-15"
     },
     {
      "n": "XSX",
      "s": null,
-     "c": 1,
-     "d": "2026-10-01"
+     "c": 0,
+     "d": null
+    },
+    {
+     "n": "PS5",
+     "s": null,
+     "c": 3,
+     "d": "2026-10-15"
     }
    ],
-   "dev": "Section 9 Interactive",
-   "pub": "Epic Games",
-   "meta": 70,
+   "dev": "Keen Games",
+   "pub": "Keen Games",
+   "meta": 88,
+   "meta_count": 14,
+   "user": 7.5,
+   "user_count": 10,
+   "scores": {}
+  },
+  {
+   "slug": "tales-of-eternia-remastered",
+   "title": "Tales of Eternia Remastered",
+   "date": "2026-10-16",
+   "url": "https://www.metacritic.com/game/tales-of-eternia-remastered/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1791946499.jpg",
+   "plats": [
+    {
+     "n": "NS",
+     "s": null,
+     "c": 0,
+     "d": "2026-10-16"
+    },
+    {
+     "n": "NS2",
+     "s": null,
+     "c": 2,
+     "d": "2026-10-16"
+    },
+    {
+     "n": "PS4",
+     "s": null,
+     "c": 0,
+     "d": "2026-10-16"
+    },
+    {
+     "n": "PS5",
+     "s": 77,
+     "c": 11,
+     "d": "2026-10-16"
+    },
+    {
+     "n": "PC",
+     "s": null,
+     "c": 0,
+     "d": "2026-10-16"
+    },
+    {
+     "n": "XSX",
+     "s": null,
+     "c": 0,
+     "d": "2026-10-16"
+    }
+   ],
+   "dev": "TOSE",
+   "pub": "Bandai Namco Games",
+   "meta": 76,
    "meta_count": 25,
-   "user": 7.2,
-   "user_count": 18,
+   "user": 7.5,
+   "user_count": 4,
+   "scores": {}
+  },
+  {
+   "slug": "forever-ago",
+   "title": "Forever Ago",
+   "date": "2026-10-08",
+   "url": "https://www.metacritic.com/game/forever-ago/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1791317775.jpg",
+   "plats": [
+    {
+     "n": "PC",
+     "s": 75,
+     "c": 8,
+     "d": "2026-10-08"
+    },
+    {
+     "n": "NS2",
+     "s": null,
+     "c": 1,
+     "d": "2026-10-08"
+    },
+    {
+     "n": "XSX",
+     "s": null,
+     "c": 3,
+     "d": "2026-10-08"
+    },
+    {
+     "n": "PS5",
+     "s": 73,
+     "c": 10,
+     "d": "2026-10-08"
+    }
+   ],
+   "dev": "Third Shift",
+   "pub": "Annapurna Interactive",
+   "meta": 75,
+   "meta_count": 19,
+   "user": 7.4,
+   "user_count": 1,
+   "scores": {}
+  },
+  {
+   "slug": "ratatan",
+   "title": "RATATAN",
+   "date": "2026-10-15",
+   "url": "https://www.metacritic.com/game/ratatan/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1777421279.jpg",
+   "plats": [
+    {
+     "n": "PC",
+     "s": null,
+     "c": 2,
+     "d": "2026-10-15"
+    },
+    {
+     "n": "NS2",
+     "s": 76,
+     "c": 10,
+     "d": "2026-10-15"
+    },
+    {
+     "n": "PS5",
+     "s": null,
+     "c": 3,
+     "d": "2026-10-15"
+    },
+    {
+     "n": "XSX",
+     "s": null,
+     "c": 2,
+     "d": "2026-10-15"
+    }
+   ],
+   "dev": "Ratata Arts",
+   "pub": "Game Source Entertainment",
+   "meta": 75,
+   "meta_count": 16,
+   "user": 6.9,
+   "user_count": 2,
    "scores": {}
   },
   {
@@ -1062,46 +1024,6 @@
    "scores": {}
   },
   {
-   "slug": "ratatan",
-   "title": "RATATAN",
-   "date": "2026-10-15",
-   "url": "https://www.metacritic.com/game/ratatan/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1777421279.jpg",
-   "plats": [
-    {
-     "n": "PC",
-     "s": null,
-     "c": 2,
-     "d": "2026-10-15"
-    },
-    {
-     "n": "NS2",
-     "s": 76,
-     "c": 10,
-     "d": "2026-10-15"
-    },
-    {
-     "n": "PS5",
-     "s": null,
-     "c": 3,
-     "d": "2026-10-15"
-    },
-    {
-     "n": "XSX",
-     "s": null,
-     "c": 2,
-     "d": "2026-10-15"
-    }
-   ],
-   "dev": "Ratata Arts",
-   "pub": "Game Source Entertainment",
-   "meta": 75,
-   "meta_count": 16,
-   "user": 6.7,
-   "user_count": 2,
-   "scores": {}
-  },
-  {
    "slug": "one-piece-grand-gourmet",
    "title": "ONE PIECE: Grand Gourmet",
    "date": "2026-10-23",
@@ -1138,6 +1060,52 @@
    "meta": 70,
    "meta_count": 24,
    "user": 6.6,
+   "user_count": 0,
+   "scores": {}
+  },
+  {
+   "slug": "the-wolf-among-us-remastered",
+   "title": "The Wolf Among Us Remastered",
+   "date": "2026-10-29",
+   "url": "https://www.metacritic.com/game/the-wolf-among-us-remastered/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1790868342.jpg",
+   "plats": [
+    {
+     "n": "PC",
+     "s": 84,
+     "c": 8,
+     "d": "2026-10-29"
+    },
+    {
+     "n": "NS2",
+     "s": null,
+     "c": 0,
+     "d": null
+    },
+    {
+     "n": "PS5",
+     "s": 85,
+     "c": 11,
+     "d": "2026-10-29"
+    },
+    {
+     "n": "XB1",
+     "s": null,
+     "c": 3,
+     "d": "2026-10-29"
+    },
+    {
+     "n": "NS",
+     "s": null,
+     "c": 0,
+     "d": null
+    }
+   ],
+   "dev": "Telltale Games",
+   "pub": "Telltale Games",
+   "meta": 85,
+   "meta_count": 11,
+   "user": 6.5,
    "user_count": 0,
    "scores": {}
   },
@@ -1217,8 +1185,30 @@
    "pub": "NC",
    "meta": 62,
    "meta_count": 7,
-   "user": 6.2,
+   "user": 6.1,
    "user_count": 15,
+   "scores": {}
+  },
+  {
+   "slug": "virtue-and-a-sledgehammer",
+   "title": "Virtue and a Sledgehammer",
+   "date": "2026-10-27",
+   "url": "https://www.metacritic.com/game/virtue-and-a-sledgehammer/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1793116470.jpg",
+   "plats": [
+    {
+     "n": "PC",
+     "s": 79,
+     "c": 11,
+     "d": "2026-10-27"
+    }
+   ],
+   "dev": "Deconstructeam",
+   "pub": "Devolver Digital",
+   "meta": 76,
+   "meta_count": 16,
+   "user": 5.4,
+   "user_count": 0,
    "scores": {}
   },
   {
@@ -1251,54 +1241,8 @@
    "pub": "Frontier Developments",
    "meta": 84,
    "meta_count": 22,
-   "user": 5.3,
+   "user": 5.1,
    "user_count": 3,
-   "scores": {}
-  },
-  {
-   "slug": "the-wolf-among-us-remastered",
-   "title": "The Wolf Among Us Remastered",
-   "date": "2026-10-29",
-   "url": "https://www.metacritic.com/game/the-wolf-among-us-remastered/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1790868342.jpg",
-   "plats": [
-    {
-     "n": "PC",
-     "s": 84,
-     "c": 8,
-     "d": "2026-10-29"
-    },
-    {
-     "n": "NS2",
-     "s": null,
-     "c": 0,
-     "d": null
-    },
-    {
-     "n": "PS5",
-     "s": 85,
-     "c": 11,
-     "d": "2026-10-29"
-    },
-    {
-     "n": "XB1",
-     "s": null,
-     "c": 3,
-     "d": "2026-10-29"
-    },
-    {
-     "n": "NS",
-     "s": null,
-     "c": 0,
-     "d": null
-    }
-   ],
-   "dev": "Telltale Games",
-   "pub": "Telltale Games",
-   "meta": 85,
-   "meta_count": 11,
-   "user": null,
-   "user_count": 0,
    "scores": {}
   },
   {
@@ -1328,49 +1272,9 @@
    "user": null,
    "user_count": 0,
    "scores": {}
-  },
-  {
-   "slug": "virtue-and-a-sledgehammer",
-   "title": "Virtue and a Sledgehammer",
-   "date": "2026-10-27",
-   "url": "https://www.metacritic.com/game/virtue-and-a-sledgehammer/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1793116470.jpg",
-   "plats": [
-    {
-     "n": "PC",
-     "s": 79,
-     "c": 11,
-     "d": "2026-10-27"
-    }
-   ],
-   "dev": "Deconstructeam",
-   "pub": "Devolver Digital",
-   "meta": 77,
-   "meta_count": 15,
-   "user": null,
-   "user_count": 0,
-   "scores": {}
   }
  ],
  "upcoming": [
-  {
-   "slug": "ghost-of-yotei-echoes-of-sekigahara",
-   "title": "Ghost of Yotei: Echoes of Sekigahara",
-   "date": "2026-11-01",
-   "url": "https://www.metacritic.com/game/ghost-of-yotei-echoes-of-sekigahara/",
-   "meta": 84,
-   "plats": [
-    {
-     "n": "PS5",
-     "s": 84,
-     "c": 7,
-     "d": "2026-11-01"
-    }
-   ],
-   "dev": "Sucker Punch",
-   "pub": "Sony Interactive Entertainment",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1790799510.jpg"
-  },
   {
    "slug": "the-legend-of-zelda-ocarina-of-time-2026",
    "title": "The Legend of Zelda: Ocarina of Time",
@@ -1543,28 +1447,6 @@
      "scores": {}
     },
     {
-     "slug": "fire-emblem-fortunes-weave",
-     "title": "Fire Emblem: Fortune's Weave",
-     "date": "2026-09-17",
-     "url": "https://www.metacritic.com/game/fire-emblem-fortunes-weave/",
-     "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1781630867.jpg",
-     "plats": [
-      {
-       "n": "NS2",
-       "s": null,
-       "c": 24,
-       "d": null
-      }
-     ],
-     "dev": "Nintendo",
-     "pub": "Nintendo",
-     "meta": 89,
-     "meta_count": 109,
-     "user": 8.5,
-     "user_count": 298,
-     "scores": {}
-    },
-    {
      "slug": "final-fantasy-vii-remake-intergrade",
      "title": "Final Fantasy VII Remake Intergrade",
      "date": "2026-01-22",
@@ -1602,6 +1484,28 @@
      "meta_count": 58,
      "user": 8.4,
      "user_count": 42,
+     "scores": {}
+    },
+    {
+     "slug": "fire-emblem-fortunes-weave",
+     "title": "Fire Emblem: Fortune's Weave",
+     "date": "2026-09-17",
+     "url": "https://www.metacritic.com/game/fire-emblem-fortunes-weave/",
+     "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1781630867.jpg",
+     "plats": [
+      {
+       "n": "NS2",
+       "s": null,
+       "c": 24,
+       "d": null
+      }
+     ],
+     "dev": "Nintendo",
+     "pub": "Nintendo",
+     "meta": 89,
+     "meta_count": 109,
+     "user": 8.4,
+     "user_count": 298,
      "scores": {}
     },
     {
@@ -1782,7 +1686,7 @@
      "pub": "Square Enix",
      "meta": 86,
      "meta_count": 56,
-     "user": 9.1,
+     "user": 9,
      "user_count": 50,
      "scores": {}
     },
@@ -1918,7 +1822,7 @@
      "pub": "Nintendo",
      "meta": 82,
      "meta_count": 124,
-     "user": 9.2,
+     "user": 9.3,
      "user_count": 770,
      "scores": {}
     },
@@ -1951,7 +1855,7 @@
   "resident-evil-2-deluxe-edition": [
    93,
    16,
-   8.6
+   8.7
   ],
   "resident-evil-4-gold-edition": [
    90,
@@ -1961,7 +1865,7 @@
   "phantom-blade-zero": [
    88,
    46,
-   null
+   8.9
   ],
   "star-wars-galactic-racer": [
    88,
@@ -1971,12 +1875,12 @@
   "kingdom-hearts-collection-i-iii": [
    88,
    24,
-   8.3
+   8.4
   ],
   "enshrouded": [
    88,
    14,
-   7.8
+   7.5
   ],
   "gears-of-war-e-day": [
    87,
@@ -1991,32 +1895,37 @@
   "village-in-the-shade": [
    86,
    7,
-   null
+   8.8
   ],
   "final-fantasy-resonance": [
    86,
    56,
-   9.1
+   9
   ],
   "call-of-duty-modern-warfare-4": [
    85,
    46,
-   7.8
+   7.7
   ],
   "the-wolf-among-us-remastered": [
    85,
    11,
+   6.5
+  ],
+  "ghost-of-yotei-echoes-of-sekigahara": [
+   84,
+   7,
    null
   ],
   "order-of-the-sinking-star": [
    84,
    20,
-   8
+   7.9
   ],
   "planet-zoo-2": [
    84,
    22,
-   5.3
+   5.1
   ],
   "silver-pines": [
    83,
@@ -2041,22 +1950,22 @@
   "warhammer-40000-boltgun-2": [
    81,
    30,
-   6.7
+   6.3
   ],
   "tenebris-somnia": [
    81,
    13,
-   8.8
+   8.9
   ],
   "nintendo-switch-sports-resort": [
    79,
-   76,
+   77,
    8.4
   ],
   "just-dance-decades-of-hits": [
    78,
    8,
-   7.5
+   7.9
   ],
   "disney-pixar-toy-story-retro-roundup": [
    78,
@@ -2066,37 +1975,37 @@
   "blueys-happy-snaps": [
    78,
    10,
-   7.4
+   7.6
   ],
   "valor-mortis": [
    77,
    55,
    7.5
   ],
-  "virtue-and-a-sledgehammer": [
-   77,
-   15,
-   null
-  ],
   "tales-of-eternia-remastered": [
    76,
    25,
    7.5
   ],
+  "virtue-and-a-sledgehammer": [
+   76,
+   16,
+   5.4
+  ],
   "ratatan": [
    75,
    16,
-   6.7
+   6.9
   ],
   "forever-ago": [
    75,
    19,
-   7.6
+   7.4
   ],
   "remothered-red-nuns-legacy": [
    74,
    8,
-   7.9
+   8.1
   ],
   "the-jackbox-party-pack-12": [
    74,
@@ -2107,11 +2016,6 @@
    73,
    22,
    6.8
-  ],
-  "dynasty-warriors-3-complete-edition-remastered": [
-   73,
-   15,
-   8.9
   ],
   "penguin-colony": [
    72,
@@ -2127,11 +2031,6 @@
    70,
    24,
    6.6
-  ],
-  "end-of-abyss": [
-   70,
-   25,
-   7.2
   ],
   "clive-barkers-hellraiser-revival": [
    69,
@@ -2156,7 +2055,7 @@
   "aion-2": [
    62,
    7,
-   6.2
+   6.1
   ]
  }
 }
