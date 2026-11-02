@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-01 09:16",
+ "updated": "2026-11-02 09:30",
  "window": [
-  "2026-10-02",
-  "2026-11-01"
+  "2026-10-03",
+  "2026-11-02"
  ],
  "total": 41,
  "released": [
@@ -47,7 +47,7 @@
    "dev": "Lancarse",
    "pub": "Square Enix",
    "meta": 86,
-   "meta_count": 56,
+   "meta_count": 57,
    "user": 9,
    "user_count": 50,
    "scores": {
@@ -202,42 +202,6 @@
    }
   },
   {
-   "slug": "ace-combat-8-wings-of-theve",
-   "title": "Ace Combat 8: Wings of Theve",
-   "date": "2026-10-02",
-   "url": "https://www.metacritic.com/game/ace-combat-8-wings-of-theve/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1788987138.jpg",
-   "plats": [
-    {
-     "n": "PC",
-     "s": 86,
-     "c": 28,
-     "d": "2026-10-02"
-    },
-    {
-     "n": "XSX",
-     "s": 90,
-     "c": 4,
-     "d": "2026-10-02"
-    },
-    {
-     "n": "PS5",
-     "s": 87,
-     "c": 55,
-     "d": "2026-10-02"
-    }
-   ],
-   "dev": "Bandai Namco Aces Inc.",
-   "pub": "Bandai Namco Games",
-   "meta": 87,
-   "meta_count": 76,
-   "user": 8.7,
-   "user_count": 48,
-   "scores": {
-    "Push Square": 80
-   }
-  },
-  {
    "slug": "gears-of-war-e-day",
    "title": "Gears of War: E-Day",
    "date": "2026-10-06",
@@ -306,8 +270,8 @@
    "dev": "Wych Elm",
    "pub": "Team17",
    "meta": 83,
-   "meta_count": 26,
-   "user": 8.5,
+   "meta_count": 27,
+   "user": 8.6,
    "user_count": 21,
    "scores": {}
   },
@@ -454,7 +418,7 @@
    "dev": "Infinity Ward",
    "pub": "Activision",
    "meta": 85,
-   "meta_count": 46,
+   "meta_count": 48,
    "user": 7.7,
    "user_count": 117,
    "scores": {
@@ -1058,7 +1022,7 @@
    "dev": "Kairosoft Co. Ltd",
    "pub": "Bandai Namco Games",
    "meta": 70,
-   "meta_count": 24,
+   "meta_count": 25,
    "user": 6.6,
    "user_count": 0,
    "scores": {}
@@ -1161,8 +1125,8 @@
    ],
    "dev": "Digital Eclipse",
    "pub": "Atari",
-   "meta": 78,
-   "meta_count": 10,
+   "meta": 77,
+   "meta_count": 11,
    "user": 6.5,
    "user_count": 1,
    "scores": {}
@@ -1685,7 +1649,7 @@
      "dev": "Lancarse",
      "pub": "Square Enix",
      "meta": 86,
-     "meta_count": 56,
+     "meta_count": 57,
      "user": 9,
      "user_count": 50,
      "scores": {}
@@ -1887,24 +1851,19 @@
    81,
    8.6
   ],
-  "ace-combat-8-wings-of-theve": [
-   87,
-   76,
-   8.7
-  ],
   "village-in-the-shade": [
    86,
-   7,
-   8.8
+   8,
+   9
   ],
   "final-fantasy-resonance": [
    86,
-   56,
+   57,
    9
   ],
   "call-of-duty-modern-warfare-4": [
    85,
-   46,
+   48,
    7.7
   ],
   "the-wolf-among-us-remastered": [
@@ -1929,8 +1888,8 @@
   ],
   "silver-pines": [
    83,
-   26,
-   8.5
+   27,
+   8.6
   ],
   "castlevania-belmonts-curse": [
    83,
@@ -1967,11 +1926,6 @@
    8,
    7.9
   ],
-  "disney-pixar-toy-story-retro-roundup": [
-   78,
-   10,
-   6.5
-  ],
   "blueys-happy-snaps": [
    78,
    10,
@@ -1981,6 +1935,11 @@
    77,
    55,
    7.5
+  ],
+  "disney-pixar-toy-story-retro-roundup": [
+   77,
+   11,
+   6.5
   ],
   "tales-of-eternia-remastered": [
    76,
@@ -2029,7 +1988,7 @@
   ],
   "one-piece-grand-gourmet": [
    70,
-   24,
+   25,
    6.6
   ],
   "clive-barkers-hellraiser-revival": [
@@ -2056,6 +2015,11 @@
    62,
    7,
    6.1
+  ],
+  "where-the-light-sleeps": [
+   70,
+   4,
+   null
   ]
  }
 }
