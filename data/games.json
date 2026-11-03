@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-02 09:30",
+ "updated": "2026-11-03 09:33",
  "window": [
-  "2026-10-03",
-  "2026-11-02"
+  "2026-10-04",
+  "2026-11-03"
  ],
- "total": 41,
+ "total": 43,
  "released": [
   {
    "slug": "final-fantasy-resonance",
@@ -135,6 +135,30 @@
    }
   },
   {
+   "slug": "resident-evil-2-deluxe-edition",
+   "title": "Resident Evil 2: Deluxe Edition",
+   "date": "2026-10-16",
+   "url": "https://www.metacritic.com/game/resident-evil-2-deluxe-edition/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1282312-52.jpg",
+   "plats": [
+    {
+     "n": "NS2",
+     "s": 93,
+     "c": 8,
+     "d": "2026-10-16"
+    }
+   ],
+   "dev": "Capcom",
+   "pub": "Capcom",
+   "meta": 93,
+   "meta_count": 16,
+   "user": 8.7,
+   "user_count": 7,
+   "scores": {
+    "Nintendo Life": 90
+   }
+  },
+  {
    "slug": "dragons-dogma-2-dark-arisen",
    "title": "Dragon's Dogma 2: Dark Arisen",
    "date": "2026-10-09",
@@ -170,35 +194,11 @@
    "pub": "Capcom",
    "meta": 83,
    "meta_count": 34,
-   "user": 8.8,
+   "user": 8.7,
    "user_count": 15,
    "scores": {
     "Push Square": 90,
     "IGN": 80
-   }
-  },
-  {
-   "slug": "resident-evil-2-deluxe-edition",
-   "title": "Resident Evil 2: Deluxe Edition",
-   "date": "2026-10-16",
-   "url": "https://www.metacritic.com/game/resident-evil-2-deluxe-edition/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1282312-52.jpg",
-   "plats": [
-    {
-     "n": "NS2",
-     "s": 93,
-     "c": 8,
-     "d": "2026-10-16"
-    }
-   ],
-   "dev": "Capcom",
-   "pub": "Capcom",
-   "meta": 93,
-   "meta_count": 16,
-   "user": 8.7,
-   "user_count": 7,
-   "scores": {
-    "Nintendo Life": 90
    }
   },
   {
@@ -292,7 +292,7 @@
    "dev": "Nintendo",
    "pub": "Nintendo",
    "meta": 79,
-   "meta_count": 77,
+   "meta_count": 81,
    "user": 8.4,
    "user_count": 22,
    "scores": {
@@ -460,7 +460,7 @@
    "dev": "Evil Empire",
    "pub": "Konami",
    "meta": 83,
-   "meta_count": 70,
+   "meta_count": 71,
    "user": 7.7,
    "user_count": 98,
    "scores": {
@@ -499,7 +499,7 @@
    "meta": 77,
    "meta_count": 55,
    "user": 7.5,
-   "user_count": 47,
+   "user_count": 50,
    "scores": {
     "Eurogamer": 80,
     "IGN": 70,
@@ -662,6 +662,46 @@
    "scores": {}
   },
   {
+   "slug": "just-dance-decades-of-hits",
+   "title": "Just Dance: Decades of Hits",
+   "date": "2026-10-13",
+   "url": "https://www.metacritic.com/game/just-dance-decades-of-hits/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/3/6-1-1256680-13.jpg",
+   "plats": [
+    {
+     "n": "NS",
+     "s": 76,
+     "c": 12,
+     "d": "2026-10-13"
+    },
+    {
+     "n": "PS5",
+     "s": 78,
+     "c": 6,
+     "d": "2026-10-13"
+    },
+    {
+     "n": "XSX",
+     "s": null,
+     "c": 3,
+     "d": "2026-10-13"
+    },
+    {
+     "n": "NS2",
+     "s": null,
+     "c": 0,
+     "d": "2026-11-10"
+    }
+   ],
+   "dev": "Ubisoft",
+   "pub": "Ubisoft",
+   "meta": 76,
+   "meta_count": 12,
+   "user": 7.9,
+   "user_count": 3,
+   "scores": {}
+  },
+  {
    "slug": "order-of-the-sinking-star",
    "title": "Order of the Sinking Star",
    "date": "2026-10-08",
@@ -690,8 +730,8 @@
    "dev": "Thekla, Inc",
    "pub": "Arc Games",
    "meta": 84,
-   "meta_count": 20,
-   "user": 7.9,
+   "meta_count": 21,
+   "user": 7.7,
    "user_count": 16,
    "scores": {}
   },
@@ -782,7 +822,7 @@
    "dev": "Keen Games",
    "pub": "Keen Games",
    "meta": 88,
-   "meta_count": 14,
+   "meta_count": 15,
    "user": 7.5,
    "user_count": 10,
    "scores": {}
@@ -920,6 +960,34 @@
    "scores": {}
   },
   {
+   "slug": "penguin-colony",
+   "title": "Penguin Colony",
+   "date": "2026-10-16",
+   "url": "https://www.metacritic.com/game/penguin-colony/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1127953-52.jpg",
+   "plats": [
+    {
+     "n": "PC",
+     "s": 76,
+     "c": 10,
+     "d": "2026-10-16"
+    },
+    {
+     "n": "NS2",
+     "s": null,
+     "c": 0,
+     "d": null
+    }
+   ],
+   "dev": "ORIGAME DIGITAL",
+   "pub": "Fellow Traveller",
+   "meta": 72,
+   "meta_count": 11,
+   "user": 6.8,
+   "user_count": 0,
+   "scores": {}
+  },
+  {
    "slug": "over-the-hill",
    "title": "over the hill",
    "date": "2026-10-14",
@@ -953,38 +1021,10 @@
    ],
    "dev": "Funselektor Labs Inc.",
    "pub": "Funselektor Labs Inc.",
-   "meta": 73,
-   "meta_count": 22,
-   "user": 6.8,
+   "meta": 74,
+   "meta_count": 23,
+   "user": 6.6,
    "user_count": 2,
-   "scores": {}
-  },
-  {
-   "slug": "penguin-colony",
-   "title": "Penguin Colony",
-   "date": "2026-10-16",
-   "url": "https://www.metacritic.com/game/penguin-colony/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1127953-52.jpg",
-   "plats": [
-    {
-     "n": "PC",
-     "s": 76,
-     "c": 10,
-     "d": "2026-10-16"
-    },
-    {
-     "n": "NS2",
-     "s": null,
-     "c": 0,
-     "d": null
-    }
-   ],
-   "dev": "ORIGAME DIGITAL",
-   "pub": "Fellow Traveller",
-   "meta": 72,
-   "meta_count": 11,
-   "user": 6.8,
-   "user_count": 0,
    "scores": {}
   },
   {
@@ -1170,7 +1210,7 @@
    "dev": "Deconstructeam",
    "pub": "Devolver Digital",
    "meta": 76,
-   "meta_count": 16,
+   "meta_count": 18,
    "user": 5.4,
    "user_count": 0,
    "scores": {}
@@ -1240,6 +1280,42 @@
  ],
  "upcoming": [
   {
+   "slug": "marvels-guardians-of-the-galaxy-encore-edition",
+   "title": "Marvel's Guardians of the Galaxy: Encore Edition",
+   "date": "2026-11-05",
+   "url": "https://www.metacritic.com/game/marvels-guardians-of-the-galaxy-encore-edition/",
+   "meta": 82,
+   "plats": [
+    {
+     "n": "NS2",
+     "s": 82,
+     "c": 8,
+     "d": "2026-11-05"
+    }
+   ],
+   "dev": "Eidos Montreal",
+   "pub": "Square Enix",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1793640532.jpg"
+  },
+  {
+   "slug": "stellar-blade-complete-edition",
+   "title": "Stellar Blade: Complete Edition",
+   "date": "2026-11-05",
+   "url": "https://www.metacritic.com/game/stellar-blade-complete-edition/",
+   "meta": 81,
+   "plats": [
+    {
+     "n": "NS2",
+     "s": 81,
+     "c": 7,
+     "d": "2026-11-05"
+    }
+   ],
+   "dev": "SHIFT UP Corporation",
+   "pub": "SHIFT UP Corporation",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1793661090.jpg"
+  },
+  {
    "slug": "the-legend-of-zelda-ocarina-of-time-2026",
    "title": "The Legend of Zelda: Ocarina of Time",
    "date": "2026-11-05",
@@ -1293,7 +1369,7 @@
      "meta": 90,
      "meta_count": 83,
      "user": 8.2,
-     "user_count": 221,
+     "user_count": 224,
      "scores": {}
     },
     {
@@ -1385,7 +1461,7 @@
      "meta": 89,
      "meta_count": 141,
      "user": 9.3,
-     "user_count": 4083,
+     "user_count": 4091,
      "scores": {}
     },
     {
@@ -1691,7 +1767,7 @@
      "meta": 85,
      "meta_count": 110,
      "user": 8.7,
-     "user_count": 485,
+     "user_count": 487,
      "scores": {}
     },
     {
@@ -1731,7 +1807,7 @@
      "meta": 85,
      "meta_count": 107,
      "user": 8.5,
-     "user_count": 212,
+     "user_count": 219,
      "scores": {}
     },
     {
@@ -1787,7 +1863,7 @@
      "meta": 82,
      "meta_count": 124,
      "user": 9.3,
-     "user_count": 770,
+     "user_count": 773,
      "scores": {}
     },
     {
@@ -1836,15 +1912,15 @@
    79,
    8.1
   ],
+  "enshrouded": [
+   88,
+   15,
+   7.5
+  ],
   "kingdom-hearts-collection-i-iii": [
    88,
    24,
    8.4
-  ],
-  "enshrouded": [
-   88,
-   14,
-   7.5
   ],
   "gears-of-war-e-day": [
    87,
@@ -1871,15 +1947,15 @@
    11,
    6.5
   ],
+  "order-of-the-sinking-star": [
+   84,
+   21,
+   7.7
+  ],
   "ghost-of-yotei-echoes-of-sekigahara": [
    84,
    7,
    null
-  ],
-  "order-of-the-sinking-star": [
-   84,
-   20,
-   7.9
   ],
   "planet-zoo-2": [
    84,
@@ -1893,13 +1969,13 @@
   ],
   "castlevania-belmonts-curse": [
    83,
-   70,
+   71,
    7.7
   ],
   "dragons-dogma-2-dark-arisen": [
    83,
    34,
-   8.8
+   8.7
   ],
   "mycopunk": [
    83,
@@ -1918,13 +1994,8 @@
   ],
   "nintendo-switch-sports-resort": [
    79,
-   77,
+   81,
    8.4
-  ],
-  "just-dance-decades-of-hits": [
-   78,
-   8,
-   7.9
   ],
   "blueys-happy-snaps": [
    78,
@@ -1948,8 +2019,13 @@
   ],
   "virtue-and-a-sledgehammer": [
    76,
-   16,
+   18,
    5.4
+  ],
+  "just-dance-decades-of-hits": [
+   76,
+   12,
+   7.9
   ],
   "ratatan": [
    75,
@@ -1966,20 +2042,30 @@
    8,
    8.1
   ],
+  "over-the-hill": [
+   74,
+   23,
+   6.6
+  ],
   "the-jackbox-party-pack-12": [
    74,
    8,
    null
   ],
-  "over-the-hill": [
+  "godzilla-destroy-all-monsters-melee-remastered": [
    73,
-   22,
-   6.8
+   7,
+   null
   ],
   "penguin-colony": [
    72,
    11,
    6.8
+  ],
+  "disney-pixar-toy-story-3-complete-edition": [
+   71,
+   7,
+   null
   ],
   "we-were-here-tomorrow": [
    71,
@@ -2006,6 +2092,11 @@
    7,
    null
   ],
+  "croc-2-kingdom-of-the-gobbos": [
+   67,
+   7,
+   null
+  ],
   "stupid-never-dies": [
    66,
    37,
@@ -2015,11 +2106,6 @@
    62,
    7,
    6.1
-  ],
-  "where-the-light-sleeps": [
-   70,
-   4,
-   null
   ]
  }
 }
