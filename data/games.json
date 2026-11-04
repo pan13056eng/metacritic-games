@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-03 09:33",
+ "updated": "2026-11-04 09:12",
  "window": [
-  "2026-10-04",
-  "2026-11-03"
+  "2026-10-05",
+  "2026-11-04"
  ],
- "total": 43,
+ "total": 45,
  "released": [
   {
    "slug": "final-fantasy-resonance",
@@ -125,8 +125,8 @@
    "dev": "S-Game",
    "pub": "S-Game",
    "meta": 88,
-   "meta_count": 46,
-   "user": 8.9,
+   "meta_count": 47,
+   "user": 8.8,
    "user_count": 0,
    "scores": {
     "IGN": 90,
@@ -224,7 +224,7 @@
    "dev": "The Coalition",
    "pub": "Xbox Game Studios",
    "meta": 87,
-   "meta_count": 81,
+   "meta_count": 82,
    "user": 8.6,
    "user_count": 723,
    "scores": {}
@@ -292,7 +292,7 @@
    "dev": "Nintendo",
    "pub": "Nintendo",
    "meta": 79,
-   "meta_count": 81,
+   "meta_count": 83,
    "user": 8.4,
    "user_count": 22,
    "scores": {
@@ -374,8 +374,8 @@
    "dev": "Fuse Games",
    "pub": "Secret Mode",
    "meta": 88,
-   "meta_count": 79,
-   "user": 8.1,
+   "meta_count": 80,
+   "user": 8.2,
    "user_count": 46,
    "scores": {
     "Eurogamer": 100,
@@ -462,7 +462,7 @@
    "meta": 83,
    "meta_count": 71,
    "user": 7.7,
-   "user_count": 98,
+   "user_count": 118,
    "scores": {
     "IGN": 80,
     "Push Square": 70
@@ -571,9 +571,9 @@
    "dev": "GPTRACK50",
    "pub": "GPTRACK50",
    "meta": 66,
-   "meta_count": 37,
+   "meta_count": 39,
    "user": 6.3,
-   "user_count": 1,
+   "user_count": 2,
    "scores": {
     "Push Square": 70,
     "GameSpot": 60
@@ -699,6 +699,52 @@
    "meta_count": 12,
    "user": 7.9,
    "user_count": 3,
+   "scores": {}
+  },
+  {
+   "slug": "the-wolf-among-us-remastered",
+   "title": "The Wolf Among Us Remastered",
+   "date": "2026-10-29",
+   "url": "https://www.metacritic.com/game/the-wolf-among-us-remastered/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1790868342.jpg",
+   "plats": [
+    {
+     "n": "PC",
+     "s": 84,
+     "c": 8,
+     "d": "2026-10-29"
+    },
+    {
+     "n": "NS2",
+     "s": null,
+     "c": 0,
+     "d": null
+    },
+    {
+     "n": "PS5",
+     "s": 85,
+     "c": 11,
+     "d": "2026-10-29"
+    },
+    {
+     "n": "XB1",
+     "s": null,
+     "c": 3,
+     "d": "2026-10-29"
+    },
+    {
+     "n": "NS",
+     "s": null,
+     "c": 0,
+     "d": null
+    }
+   ],
+   "dev": "Telltale Games",
+   "pub": "Telltale Games",
+   "meta": 85,
+   "meta_count": 11,
+   "user": 7.7,
+   "user_count": 0,
    "scores": {}
   },
   {
@@ -1022,95 +1068,9 @@
    "dev": "Funselektor Labs Inc.",
    "pub": "Funselektor Labs Inc.",
    "meta": 74,
-   "meta_count": 23,
-   "user": 6.6,
-   "user_count": 2,
-   "scores": {}
-  },
-  {
-   "slug": "one-piece-grand-gourmet",
-   "title": "ONE PIECE: Grand Gourmet",
-   "date": "2026-10-23",
-   "url": "https://www.metacritic.com/game/one-piece-grand-gourmet/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1249890-17.jpg",
-   "plats": [
-    {
-     "n": "NS2",
-     "s": 73,
-     "c": 9,
-     "d": "2026-10-23"
-    },
-    {
-     "n": "NS",
-     "s": null,
-     "c": 0,
-     "d": "2026-10-23"
-    },
-    {
-     "n": "PC",
-     "s": null,
-     "c": 3,
-     "d": "2026-10-23"
-    },
-    {
-     "n": "iOS",
-     "s": null,
-     "c": 0,
-     "d": "2026-10-23"
-    }
-   ],
-   "dev": "Kairosoft Co. Ltd",
-   "pub": "Bandai Namco Games",
-   "meta": 70,
    "meta_count": 25,
    "user": 6.6,
-   "user_count": 0,
-   "scores": {}
-  },
-  {
-   "slug": "the-wolf-among-us-remastered",
-   "title": "The Wolf Among Us Remastered",
-   "date": "2026-10-29",
-   "url": "https://www.metacritic.com/game/the-wolf-among-us-remastered/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1790868342.jpg",
-   "plats": [
-    {
-     "n": "PC",
-     "s": 84,
-     "c": 8,
-     "d": "2026-10-29"
-    },
-    {
-     "n": "NS2",
-     "s": null,
-     "c": 0,
-     "d": null
-    },
-    {
-     "n": "PS5",
-     "s": 85,
-     "c": 11,
-     "d": "2026-10-29"
-    },
-    {
-     "n": "XB1",
-     "s": null,
-     "c": 3,
-     "d": "2026-10-29"
-    },
-    {
-     "n": "NS",
-     "s": null,
-     "c": 0,
-     "d": null
-    }
-   ],
-   "dev": "Telltale Games",
-   "pub": "Telltale Games",
-   "meta": 85,
-   "meta_count": 11,
-   "user": 6.5,
-   "user_count": 0,
+   "user_count": 2,
    "scores": {}
   },
   {
@@ -1209,9 +1169,49 @@
    ],
    "dev": "Deconstructeam",
    "pub": "Devolver Digital",
-   "meta": 76,
-   "meta_count": 18,
-   "user": 5.4,
+   "meta": 77,
+   "meta_count": 20,
+   "user": 5.9,
+   "user_count": 3,
+   "scores": {}
+  },
+  {
+   "slug": "one-piece-grand-gourmet",
+   "title": "ONE PIECE: Grand Gourmet",
+   "date": "2026-10-23",
+   "url": "https://www.metacritic.com/game/one-piece-grand-gourmet/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1249890-17.jpg",
+   "plats": [
+    {
+     "n": "NS2",
+     "s": 73,
+     "c": 9,
+     "d": "2026-10-23"
+    },
+    {
+     "n": "NS",
+     "s": null,
+     "c": 0,
+     "d": "2026-10-23"
+    },
+    {
+     "n": "PC",
+     "s": null,
+     "c": 3,
+     "d": "2026-10-23"
+    },
+    {
+     "n": "iOS",
+     "s": null,
+     "c": 0,
+     "d": "2026-10-23"
+    }
+   ],
+   "dev": "Kairosoft Co. Ltd",
+   "pub": "Bandai Namco Games",
+   "meta": 71,
+   "meta_count": 26,
+   "user": 5.9,
    "user_count": 0,
    "scores": {}
   },
@@ -1276,27 +1276,55 @@
    "user": null,
    "user_count": 0,
    "scores": {}
+  },
+  {
+   "slug": "godzilla-destroy-all-monsters-melee-remastered",
+   "title": "Godzilla: Destroy All Monsters Melee Remastered",
+   "date": "2026-11-03",
+   "url": "https://www.metacritic.com/game/godzilla-destroy-all-monsters-melee-remastered/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1790868499.jpg",
+   "plats": [
+    {
+     "n": "PS5",
+     "s": 76,
+     "c": 11,
+     "d": "2026-11-03"
+    },
+    {
+     "n": "XSX",
+     "s": null,
+     "c": 1,
+     "d": "2026-11-03"
+    },
+    {
+     "n": "PC",
+     "s": 70,
+     "c": 8,
+     "d": "2026-11-03"
+    },
+    {
+     "n": "NS2",
+     "s": 69,
+     "c": 9,
+     "d": "2026-11-03"
+    },
+    {
+     "n": "NS",
+     "s": null,
+     "c": 0,
+     "d": "2026-11-03"
+    }
+   ],
+   "dev": "Pipeworks Software, Inc.",
+   "pub": "Atari",
+   "meta": 76,
+   "meta_count": 11,
+   "user": null,
+   "user_count": 0,
+   "scores": {}
   }
  ],
  "upcoming": [
-  {
-   "slug": "marvels-guardians-of-the-galaxy-encore-edition",
-   "title": "Marvel's Guardians of the Galaxy: Encore Edition",
-   "date": "2026-11-05",
-   "url": "https://www.metacritic.com/game/marvels-guardians-of-the-galaxy-encore-edition/",
-   "meta": 82,
-   "plats": [
-    {
-     "n": "NS2",
-     "s": 82,
-     "c": 8,
-     "d": "2026-11-05"
-    }
-   ],
-   "dev": "Eidos Montreal",
-   "pub": "Square Enix",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1793640532.jpg"
-  },
   {
    "slug": "stellar-blade-complete-edition",
    "title": "Stellar Blade: Complete Edition",
@@ -1316,22 +1344,22 @@
    "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1793661090.jpg"
   },
   {
-   "slug": "the-legend-of-zelda-ocarina-of-time-2026",
-   "title": "The Legend of Zelda: Ocarina of Time",
+   "slug": "marvels-guardians-of-the-galaxy-encore-edition",
+   "title": "Marvel's Guardians of the Galaxy: Encore Edition",
    "date": "2026-11-05",
-   "url": "https://www.metacritic.com/game/the-legend-of-zelda-ocarina-of-time-2026/",
-   "meta": null,
+   "url": "https://www.metacritic.com/game/marvels-guardians-of-the-galaxy-encore-edition/",
+   "meta": 81,
    "plats": [
     {
      "n": "NS2",
-     "s": null,
-     "c": 20,
+     "s": 82,
+     "c": 8,
      "d": "2026-11-05"
     }
    ],
-   "dev": "Nintendo",
-   "pub": "Nintendo",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1788926816.jpg"
+   "dev": "Eidos Montreal",
+   "pub": "Square Enix",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1793640532.jpg"
   }
  ],
  "annual": [
@@ -1487,6 +1515,28 @@
      "scores": {}
     },
     {
+     "slug": "fire-emblem-fortunes-weave",
+     "title": "Fire Emblem: Fortune's Weave",
+     "date": "2026-09-17",
+     "url": "https://www.metacritic.com/game/fire-emblem-fortunes-weave/",
+     "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1781630867.jpg",
+     "plats": [
+      {
+       "n": "NS2",
+       "s": null,
+       "c": 24,
+       "d": null
+      }
+     ],
+     "dev": "Nintendo",
+     "pub": "Nintendo",
+     "meta": 89,
+     "meta_count": 110,
+     "user": 8.5,
+     "user_count": 298,
+     "scores": {}
+    },
+    {
      "slug": "final-fantasy-vii-remake-intergrade",
      "title": "Final Fantasy VII Remake Intergrade",
      "date": "2026-01-22",
@@ -1524,28 +1574,6 @@
      "meta_count": 58,
      "user": 8.4,
      "user_count": 42,
-     "scores": {}
-    },
-    {
-     "slug": "fire-emblem-fortunes-weave",
-     "title": "Fire Emblem: Fortune's Weave",
-     "date": "2026-09-17",
-     "url": "https://www.metacritic.com/game/fire-emblem-fortunes-weave/",
-     "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1781630867.jpg",
-     "plats": [
-      {
-       "n": "NS2",
-       "s": null,
-       "c": 24,
-       "d": null
-      }
-     ],
-     "dev": "Nintendo",
-     "pub": "Nintendo",
-     "meta": 89,
-     "meta_count": 109,
-     "user": 8.4,
-     "user_count": 298,
      "scores": {}
     },
     {
@@ -1617,8 +1645,8 @@
      "dev": "Fuse Games",
      "pub": "Secret Mode",
      "meta": 88,
-     "meta_count": 79,
-     "user": 8.1,
+     "meta_count": 80,
+     "user": 8.2,
      "user_count": 46,
      "scores": {}
     },
@@ -1679,7 +1707,7 @@
      "dev": "The Coalition",
      "pub": "Xbox Game Studios",
      "meta": 87,
-     "meta_count": 81,
+     "meta_count": 82,
      "user": 8.6,
      "user_count": 723,
      "scores": {}
@@ -1904,13 +1932,13 @@
   ],
   "phantom-blade-zero": [
    88,
-   46,
-   8.9
+   47,
+   8.8
   ],
   "star-wars-galactic-racer": [
    88,
-   79,
-   8.1
+   80,
+   8.2
   ],
   "enshrouded": [
    88,
@@ -1924,7 +1952,7 @@
   ],
   "gears-of-war-e-day": [
    87,
-   81,
+   82,
    8.6
   ],
   "village-in-the-shade": [
@@ -1945,7 +1973,7 @@
   "the-wolf-among-us-remastered": [
    85,
    11,
-   6.5
+   7.7
   ],
   "order-of-the-sinking-star": [
    84,
@@ -1994,7 +2022,7 @@
   ],
   "nintendo-switch-sports-resort": [
    79,
-   81,
+   83,
    8.4
   ],
   "blueys-happy-snaps": [
@@ -2007,6 +2035,11 @@
    55,
    7.5
   ],
+  "virtue-and-a-sledgehammer": [
+   77,
+   20,
+   5.9
+  ],
   "disney-pixar-toy-story-retro-roundup": [
    77,
    11,
@@ -2017,14 +2050,19 @@
    25,
    7.5
   ],
-  "virtue-and-a-sledgehammer": [
+  "godzilla-destroy-all-monsters-melee-remastered": [
    76,
-   18,
-   5.4
+   11,
+   null
   ],
   "just-dance-decades-of-hits": [
    76,
    12,
+   7.9
+  ],
+  "remothered-red-nuns-legacy": [
+   76,
+   9,
    7.9
   ],
   "ratatan": [
@@ -2037,24 +2075,14 @@
    19,
    7.4
   ],
-  "remothered-red-nuns-legacy": [
-   74,
-   8,
-   8.1
-  ],
   "over-the-hill": [
    74,
-   23,
+   25,
    6.6
   ],
   "the-jackbox-party-pack-12": [
    74,
    8,
-   null
-  ],
-  "godzilla-destroy-all-monsters-melee-remastered": [
-   73,
-   7,
    null
   ],
   "penguin-colony": [
@@ -2067,15 +2095,20 @@
    7,
    null
   ],
+  "croc-2-kingdom-of-the-gobbos": [
+   71,
+   9,
+   null
+  ],
   "we-were-here-tomorrow": [
    71,
    7,
    8.9
   ],
   "one-piece-grand-gourmet": [
-   70,
-   25,
-   6.6
+   71,
+   26,
+   5.9
   ],
   "clive-barkers-hellraiser-revival": [
    69,
@@ -2092,20 +2125,25 @@
    7,
    null
   ],
-  "croc-2-kingdom-of-the-gobbos": [
-   67,
-   7,
-   null
-  ],
   "stupid-never-dies": [
    66,
-   37,
+   39,
    6.3
+  ],
+  "hunters-moon": [
+   63,
+   7,
+   null
   ],
   "aion-2": [
    62,
    7,
    6.1
+  ],
+  "cozy-game-restoration": [
+   75,
+   4,
+   null
   ]
  }
 }
