@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-04 09:12",
+ "updated": "2026-11-05 09:29",
  "window": [
-  "2026-10-05",
-  "2026-11-04"
+  "2026-10-06",
+  "2026-11-05"
  ],
- "total": 45,
+ "total": 46,
  "released": [
   {
    "slug": "final-fantasy-resonance",
@@ -47,9 +47,9 @@
    "dev": "Lancarse",
    "pub": "Square Enix",
    "meta": 86,
-   "meta_count": 57,
+   "meta_count": 58,
    "user": 9,
-   "user_count": 50,
+   "user_count": 64,
    "scores": {
     "Push Square": 80
    }
@@ -127,7 +127,7 @@
    "meta": 88,
    "meta_count": 47,
    "user": 8.8,
-   "user_count": 0,
+   "user_count": 285,
    "scores": {
     "IGN": 90,
     "GameSpot": 80,
@@ -272,7 +272,7 @@
    "meta": 83,
    "meta_count": 27,
    "user": 8.6,
-   "user_count": 21,
+   "user_count": 27,
    "scores": {}
   },
   {
@@ -292,9 +292,9 @@
    "dev": "Nintendo",
    "pub": "Nintendo",
    "meta": 79,
-   "meta_count": 83,
+   "meta_count": 86,
    "user": 8.4,
-   "user_count": 22,
+   "user_count": 26,
    "scores": {
     "Nintendo Life": 90,
     "GameSpot": 90,
@@ -418,7 +418,7 @@
    "dev": "Infinity Ward",
    "pub": "Activision",
    "meta": 85,
-   "meta_count": 48,
+   "meta_count": 49,
    "user": 7.7,
    "user_count": 117,
    "scores": {
@@ -543,7 +543,7 @@
    "meta": 81,
    "meta_count": 30,
    "user": 6.3,
-   "user_count": 3,
+   "user_count": 4,
    "scores": {
     "IGN": 80
    }
@@ -577,6 +577,33 @@
    "scores": {
     "Push Square": 70,
     "GameSpot": 60
+   }
+  },
+  {
+   "slug": "the-legend-of-zelda-ocarina-of-time-2026",
+   "title": "The Legend of Zelda: Ocarina of Time",
+   "date": "2026-11-05",
+   "url": "https://www.metacritic.com/game/the-legend-of-zelda-ocarina-of-time-2026/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1788926816.jpg",
+   "plats": [
+    {
+     "n": "NS2",
+     "s": 96,
+     "c": 87,
+     "d": "2026-11-05"
+    }
+   ],
+   "dev": "Nintendo",
+   "pub": "Nintendo",
+   "meta": 96,
+   "meta_count": 87,
+   "user": null,
+   "user_count": 1,
+   "scores": {
+    "Eurogamer": 100,
+    "GameSpot": 90,
+    "Nintendo Life": 90,
+    "IGN": 90
    }
   }
  ],
@@ -778,7 +805,7 @@
    "meta": 84,
    "meta_count": 21,
    "user": 7.7,
-   "user_count": 16,
+   "user_count": 18,
    "scores": {}
   },
   {
@@ -962,7 +989,7 @@
    "meta": 75,
    "meta_count": 19,
    "user": 7.4,
-   "user_count": 1,
+   "user_count": 2,
    "scores": {}
   },
   {
@@ -1067,8 +1094,8 @@
    ],
    "dev": "Funselektor Labs Inc.",
    "pub": "Funselektor Labs Inc.",
-   "meta": 74,
-   "meta_count": 25,
+   "meta": 75,
+   "meta_count": 26,
    "user": 6.6,
    "user_count": 2,
    "scores": {}
@@ -1132,28 +1159,6 @@
    "scores": {}
   },
   {
-   "slug": "aion-2",
-   "title": "AION 2",
-   "date": "2026-10-05",
-   "url": "https://www.metacritic.com/game/aion-2/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1791233822.jpg",
-   "plats": [
-    {
-     "n": "PC",
-     "s": 62,
-     "c": 7,
-     "d": "2026-10-05"
-    }
-   ],
-   "dev": "NC",
-   "pub": "NC",
-   "meta": 62,
-   "meta_count": 7,
-   "user": 6.1,
-   "user_count": 15,
-   "scores": {}
-  },
-  {
    "slug": "virtue-and-a-sledgehammer",
    "title": "Virtue and a Sledgehammer",
    "date": "2026-10-27",
@@ -1169,8 +1174,8 @@
    ],
    "dev": "Deconstructeam",
    "pub": "Devolver Digital",
-   "meta": 77,
-   "meta_count": 20,
+   "meta": 78,
+   "meta_count": 22,
    "user": 5.9,
    "user_count": 3,
    "scores": {}
@@ -1209,8 +1214,8 @@
    ],
    "dev": "Kairosoft Co. Ltd",
    "pub": "Bandai Namco Games",
-   "meta": 71,
-   "meta_count": 26,
+   "meta": 70,
+   "meta_count": 27,
    "user": 5.9,
    "user_count": 0,
    "scores": {}
@@ -1278,6 +1283,50 @@
    "scores": {}
   },
   {
+   "slug": "stellar-blade-complete-edition",
+   "title": "Stellar Blade: Complete Edition",
+   "date": "2026-11-05",
+   "url": "https://www.metacritic.com/game/stellar-blade-complete-edition/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1793661090.jpg",
+   "plats": [
+    {
+     "n": "NS2",
+     "s": 81,
+     "c": 7,
+     "d": "2026-11-05"
+    }
+   ],
+   "dev": "SHIFT UP Corporation",
+   "pub": "SHIFT UP Corporation",
+   "meta": 81,
+   "meta_count": 15,
+   "user": null,
+   "user_count": 1,
+   "scores": {}
+  },
+  {
+   "slug": "marvels-guardians-of-the-galaxy-encore-edition",
+   "title": "Marvel's Guardians of the Galaxy: Encore Edition",
+   "date": "2026-11-05",
+   "url": "https://www.metacritic.com/game/marvels-guardians-of-the-galaxy-encore-edition/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1793640532.jpg",
+   "plats": [
+    {
+     "n": "NS2",
+     "s": 82,
+     "c": 8,
+     "d": "2026-11-05"
+    }
+   ],
+   "dev": "Eidos Montreal",
+   "pub": "Square Enix",
+   "meta": 81,
+   "meta_count": 11,
+   "user": null,
+   "user_count": 0,
+   "scores": {}
+  },
+  {
    "slug": "godzilla-destroy-all-monsters-melee-remastered",
    "title": "Godzilla: Destroy All Monsters Melee Remastered",
    "date": "2026-11-03",
@@ -1317,51 +1366,14 @@
    ],
    "dev": "Pipeworks Software, Inc.",
    "pub": "Atari",
-   "meta": 76,
-   "meta_count": 11,
+   "meta": 75,
+   "meta_count": 12,
    "user": null,
    "user_count": 0,
    "scores": {}
   }
  ],
- "upcoming": [
-  {
-   "slug": "stellar-blade-complete-edition",
-   "title": "Stellar Blade: Complete Edition",
-   "date": "2026-11-05",
-   "url": "https://www.metacritic.com/game/stellar-blade-complete-edition/",
-   "meta": 81,
-   "plats": [
-    {
-     "n": "NS2",
-     "s": 81,
-     "c": 7,
-     "d": "2026-11-05"
-    }
-   ],
-   "dev": "SHIFT UP Corporation",
-   "pub": "SHIFT UP Corporation",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1793661090.jpg"
-  },
-  {
-   "slug": "marvels-guardians-of-the-galaxy-encore-edition",
-   "title": "Marvel's Guardians of the Galaxy: Encore Edition",
-   "date": "2026-11-05",
-   "url": "https://www.metacritic.com/game/marvels-guardians-of-the-galaxy-encore-edition/",
-   "meta": 81,
-   "plats": [
-    {
-     "n": "NS2",
-     "s": 82,
-     "c": 8,
-     "d": "2026-11-05"
-    }
-   ],
-   "dev": "Eidos Montreal",
-   "pub": "Square Enix",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1793640532.jpg"
-  }
- ],
+ "upcoming": [],
  "annual": [
   {
    "year": 2026,
@@ -1533,7 +1545,7 @@
      "meta": 89,
      "meta_count": 110,
      "user": 8.5,
-     "user_count": 298,
+     "user_count": 307,
      "scores": {}
     },
     {
@@ -1753,9 +1765,9 @@
      "dev": "Lancarse",
      "pub": "Square Enix",
      "meta": 86,
-     "meta_count": 57,
+     "meta_count": 58,
      "user": 9,
-     "user_count": 50,
+     "user_count": 64,
      "scores": {}
     },
     {
@@ -1920,6 +1932,11 @@
   }
  ],
  "sig": {
+  "the-legend-of-zelda-ocarina-of-time-2026": [
+   96,
+   87,
+   null
+  ],
   "resident-evil-2-deluxe-edition": [
    93,
    16,
@@ -1962,17 +1979,17 @@
   ],
   "final-fantasy-resonance": [
    86,
-   57,
+   58,
    9
-  ],
-  "call-of-duty-modern-warfare-4": [
-   85,
-   48,
-   7.7
   ],
   "the-wolf-among-us-remastered": [
    85,
    11,
+   7.7
+  ],
+  "call-of-duty-modern-warfare-4": [
+   85,
+   49,
    7.7
   ],
   "order-of-the-sinking-star": [
@@ -2015,6 +2032,16 @@
    30,
    6.3
   ],
+  "stellar-blade-complete-edition": [
+   81,
+   15,
+   null
+  ],
+  "marvels-guardians-of-the-galaxy-encore-edition": [
+   81,
+   11,
+   null
+  ],
   "tenebris-somnia": [
    81,
    13,
@@ -2022,8 +2049,13 @@
   ],
   "nintendo-switch-sports-resort": [
    79,
-   83,
+   86,
    8.4
+  ],
+  "virtue-and-a-sledgehammer": [
+   78,
+   22,
+   5.9
   ],
   "blueys-happy-snaps": [
    78,
@@ -2035,11 +2067,6 @@
    55,
    7.5
   ],
-  "virtue-and-a-sledgehammer": [
-   77,
-   20,
-   5.9
-  ],
   "disney-pixar-toy-story-retro-roundup": [
    77,
    11,
@@ -2049,11 +2076,6 @@
    76,
    25,
    7.5
-  ],
-  "godzilla-destroy-all-monsters-melee-remastered": [
-   76,
-   11,
-   null
   ],
   "just-dance-decades-of-hits": [
    76,
@@ -2070,15 +2092,20 @@
    16,
    6.9
   ],
+  "godzilla-destroy-all-monsters-melee-remastered": [
+   75,
+   12,
+   null
+  ],
+  "over-the-hill": [
+   75,
+   26,
+   6.6
+  ],
   "forever-ago": [
    75,
    19,
    7.4
-  ],
-  "over-the-hill": [
-   74,
-   25,
-   6.6
   ],
   "the-jackbox-party-pack-12": [
    74,
@@ -2106,8 +2133,8 @@
    8.9
   ],
   "one-piece-grand-gourmet": [
-   71,
-   26,
+   70,
+   27,
    5.9
   ],
   "clive-barkers-hellraiser-revival": [
@@ -2133,16 +2160,6 @@
   "hunters-moon": [
    63,
    7,
-   null
-  ],
-  "aion-2": [
-   62,
-   7,
-   6.1
-  ],
-  "cozy-game-restoration": [
-   75,
-   4,
    null
   ]
  }
