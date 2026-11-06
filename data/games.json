@@ -1,59 +1,11 @@
 {
- "updated": "2026-11-05 09:29",
+ "updated": "2026-11-06 09:24",
  "window": [
-  "2026-10-06",
-  "2026-11-05"
+  "2026-10-07",
+  "2026-11-06"
  ],
- "total": 46,
+ "total": 44,
  "released": [
-  {
-   "slug": "final-fantasy-resonance",
-   "title": "Final Fantasy Resonance",
-   "date": "2026-10-22",
-   "url": "https://www.metacritic.com/game/final-fantasy-resonance/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1790044932.jpg",
-   "plats": [
-    {
-     "n": "NS2",
-     "s": 83,
-     "c": 32,
-     "d": "2026-10-22"
-    },
-    {
-     "n": "NS",
-     "s": null,
-     "c": 0,
-     "d": "2026-10-22"
-    },
-    {
-     "n": "PC",
-     "s": 85,
-     "c": 16,
-     "d": "2026-10-22"
-    },
-    {
-     "n": "PS5",
-     "s": 85,
-     "c": 46,
-     "d": "2026-10-22"
-    },
-    {
-     "n": "XSX",
-     "s": 86,
-     "c": 5,
-     "d": "2026-10-22"
-    }
-   ],
-   "dev": "Lancarse",
-   "pub": "Square Enix",
-   "meta": 86,
-   "meta_count": 58,
-   "user": 9,
-   "user_count": 64,
-   "scores": {
-    "Push Square": 80
-   }
-  },
   {
    "slug": "resident-evil-4-gold-edition",
    "title": "Resident Evil 4: Gold Edition",
@@ -95,9 +47,81 @@
    "dev": "Capcom",
    "pub": "Capcom",
    "meta": 90,
-   "meta_count": 15,
+   "meta_count": 16,
+   "user": 9,
+   "user_count": 5,
+   "scores": {
+    "Nintendo Life": 90
+   }
+  },
+  {
+   "slug": "final-fantasy-resonance",
+   "title": "Final Fantasy Resonance",
+   "date": "2026-10-22",
+   "url": "https://www.metacritic.com/game/final-fantasy-resonance/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1790044932.jpg",
+   "plats": [
+    {
+     "n": "NS2",
+     "s": 83,
+     "c": 32,
+     "d": "2026-10-22"
+    },
+    {
+     "n": "NS",
+     "s": null,
+     "c": 0,
+     "d": "2026-10-22"
+    },
+    {
+     "n": "PC",
+     "s": 85,
+     "c": 16,
+     "d": "2026-10-22"
+    },
+    {
+     "n": "PS5",
+     "s": 85,
+     "c": 46,
+     "d": "2026-10-22"
+    },
+    {
+     "n": "XSX",
+     "s": 86,
+     "c": 5,
+     "d": "2026-10-22"
+    }
+   ],
+   "dev": "Lancarse",
+   "pub": "Square Enix",
+   "meta": 85,
+   "meta_count": 60,
    "user": 8.9,
-   "user_count": 4,
+   "user_count": 64,
+   "scores": {
+    "Push Square": 80
+   }
+  },
+  {
+   "slug": "resident-evil-2-deluxe-edition",
+   "title": "Resident Evil 2: Deluxe Edition",
+   "date": "2026-10-16",
+   "url": "https://www.metacritic.com/game/resident-evil-2-deluxe-edition/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1282312-52.jpg",
+   "plats": [
+    {
+     "n": "NS2",
+     "s": 93,
+     "c": 8,
+     "d": "2026-10-16"
+    }
+   ],
+   "dev": "Capcom",
+   "pub": "Capcom",
+   "meta": 93,
+   "meta_count": 16,
+   "user": 8.7,
+   "user_count": 9,
    "scores": {
     "Nintendo Life": 90
    }
@@ -125,37 +149,13 @@
    "dev": "S-Game",
    "pub": "S-Game",
    "meta": 88,
-   "meta_count": 47,
-   "user": 8.8,
+   "meta_count": 52,
+   "user": 8.7,
    "user_count": 285,
    "scores": {
     "IGN": 90,
     "GameSpot": 80,
     "Eurogamer": 60
-   }
-  },
-  {
-   "slug": "resident-evil-2-deluxe-edition",
-   "title": "Resident Evil 2: Deluxe Edition",
-   "date": "2026-10-16",
-   "url": "https://www.metacritic.com/game/resident-evil-2-deluxe-edition/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1282312-52.jpg",
-   "plats": [
-    {
-     "n": "NS2",
-     "s": 93,
-     "c": 8,
-     "d": "2026-10-16"
-    }
-   ],
-   "dev": "Capcom",
-   "pub": "Capcom",
-   "meta": 93,
-   "meta_count": 16,
-   "user": 8.7,
-   "user_count": 7,
-   "scores": {
-    "Nintendo Life": 90
    }
   },
   {
@@ -200,34 +200,6 @@
     "Push Square": 90,
     "IGN": 80
    }
-  },
-  {
-   "slug": "gears-of-war-e-day",
-   "title": "Gears of War: E-Day",
-   "date": "2026-10-06",
-   "url": "https://www.metacritic.com/game/gears-of-war-e-day/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1788246859.jpg",
-   "plats": [
-    {
-     "n": "XSX",
-     "s": 87,
-     "c": 53,
-     "d": "2026-10-06"
-    },
-    {
-     "n": "PC",
-     "s": 84,
-     "c": 27,
-     "d": "2026-10-06"
-    }
-   ],
-   "dev": "The Coalition",
-   "pub": "Xbox Game Studios",
-   "meta": 87,
-   "meta_count": 82,
-   "user": 8.6,
-   "user_count": 723,
-   "scores": {}
   },
   {
    "slug": "silver-pines",
@@ -292,7 +264,7 @@
    "dev": "Nintendo",
    "pub": "Nintendo",
    "meta": 79,
-   "meta_count": 86,
+   "meta_count": 88,
    "user": 8.4,
    "user_count": 26,
    "scores": {
@@ -339,48 +311,10 @@
    "meta": 69,
    "meta_count": 44,
    "user": 8.3,
-   "user_count": 74,
+   "user_count": 75,
    "scores": {
     "IGN": 60,
     "Push Square": 50
-   }
-  },
-  {
-   "slug": "star-wars-galactic-racer",
-   "title": "Star Wars: Galactic Racer",
-   "date": "2026-10-06",
-   "url": "https://www.metacritic.com/game/star-wars-galactic-racer/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1782239544.jpg",
-   "plats": [
-    {
-     "n": "PC",
-     "s": 84,
-     "c": 16,
-     "d": "2026-10-06"
-    },
-    {
-     "n": "XSX",
-     "s": 86,
-     "c": 12,
-     "d": "2026-10-06"
-    },
-    {
-     "n": "PS5",
-     "s": 88,
-     "c": 60,
-     "d": "2026-10-06"
-    }
-   ],
-   "dev": "Fuse Games",
-   "pub": "Secret Mode",
-   "meta": 88,
-   "meta_count": 80,
-   "user": 8.2,
-   "user_count": 46,
-   "scores": {
-    "Eurogamer": 100,
-    "GameSpot": 90,
-    "Push Square": 90
    }
   },
   {
@@ -418,9 +352,9 @@
    "dev": "Infinity Ward",
    "pub": "Activision",
    "meta": 85,
-   "meta_count": 49,
+   "meta_count": 50,
    "user": 7.7,
-   "user_count": 117,
+   "user_count": 159,
    "scores": {
     "GameSpot": 80
    }
@@ -460,7 +394,7 @@
    "dev": "Evil Empire",
    "pub": "Konami",
    "meta": 83,
-   "meta_count": 71,
+   "meta_count": 72,
    "user": 7.7,
    "user_count": 118,
    "scores": {
@@ -497,7 +431,7 @@
    "dev": "ONE MORE LEVEL",
    "pub": "Lyrical Games",
    "meta": 77,
-   "meta_count": 55,
+   "meta_count": 56,
    "user": 7.5,
    "user_count": 50,
    "scores": {
@@ -541,7 +475,7 @@
    "dev": "Auroch Digital",
    "pub": "Big Fan Games",
    "meta": 81,
-   "meta_count": 30,
+   "meta_count": 31,
    "user": 6.3,
    "user_count": 4,
    "scores": {
@@ -596,7 +530,7 @@
    "dev": "Nintendo",
    "pub": "Nintendo",
    "meta": 96,
-   "meta_count": 87,
+   "meta_count": 88,
    "user": null,
    "user_count": 1,
    "scores": {
@@ -649,9 +583,55 @@
    "dev": "Saibot Studios",
    "pub": "New Blood Interactive",
    "meta": 81,
-   "meta_count": 13,
-   "user": 8.9,
+   "meta_count": 14,
+   "user": 8.8,
    "user_count": 1,
+   "scores": {}
+  },
+  {
+   "slug": "godzilla-destroy-all-monsters-melee-remastered",
+   "title": "Godzilla: Destroy All Monsters Melee Remastered",
+   "date": "2026-11-03",
+   "url": "https://www.metacritic.com/game/godzilla-destroy-all-monsters-melee-remastered/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1790868499.jpg",
+   "plats": [
+    {
+     "n": "PS5",
+     "s": 76,
+     "c": 11,
+     "d": "2026-11-03"
+    },
+    {
+     "n": "XSX",
+     "s": null,
+     "c": 1,
+     "d": "2026-11-03"
+    },
+    {
+     "n": "PC",
+     "s": 70,
+     "c": 8,
+     "d": "2026-11-03"
+    },
+    {
+     "n": "NS2",
+     "s": 69,
+     "c": 9,
+     "d": "2026-11-03"
+    },
+    {
+     "n": "NS",
+     "s": null,
+     "c": 0,
+     "d": "2026-11-03"
+    }
+   ],
+   "dev": "Pipeworks Software, Inc.",
+   "pub": "Atari",
+   "meta": 75,
+   "meta_count": 12,
+   "user": 8.8,
+   "user_count": 0,
    "scores": {}
   },
   {
@@ -771,7 +751,7 @@
    "meta": 85,
    "meta_count": 11,
    "user": 7.7,
-   "user_count": 0,
+   "user_count": 7,
    "scores": {}
   },
   {
@@ -947,9 +927,49 @@
    "dev": "TOSE",
    "pub": "Bandai Namco Games",
    "meta": 76,
-   "meta_count": 25,
+   "meta_count": 26,
    "user": 7.5,
    "user_count": 4,
+   "scores": {}
+  },
+  {
+   "slug": "remothered-red-nuns-legacy",
+   "title": "Remothered: Red Nun's Legacy",
+   "date": "2026-10-27",
+   "url": "https://www.metacritic.com/game/remothered-red-nuns-legacy/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1793083817.jpg",
+   "plats": [
+    {
+     "n": "PC",
+     "s": 76,
+     "c": 10,
+     "d": "2026-10-27"
+    },
+    {
+     "n": "PS5",
+     "s": 73,
+     "c": 6,
+     "d": "2026-10-27"
+    },
+    {
+     "n": "NS2",
+     "s": null,
+     "c": 0,
+     "d": "2026-12-03"
+    },
+    {
+     "n": "XSX",
+     "s": null,
+     "c": 3,
+     "d": "2026-10-27"
+    }
+   ],
+   "dev": "Stormind Games",
+   "pub": "Stormind Games",
+   "meta": 76,
+   "meta_count": 10,
+   "user": 7.4,
+   "user_count": 0,
    "scores": {}
   },
   {
@@ -1175,7 +1195,7 @@
    "dev": "Deconstructeam",
    "pub": "Devolver Digital",
    "meta": 78,
-   "meta_count": 22,
+   "meta_count": 23,
    "user": 5.9,
    "user_count": 3,
    "scores": {}
@@ -1283,28 +1303,6 @@
    "scores": {}
   },
   {
-   "slug": "stellar-blade-complete-edition",
-   "title": "Stellar Blade: Complete Edition",
-   "date": "2026-11-05",
-   "url": "https://www.metacritic.com/game/stellar-blade-complete-edition/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1793661090.jpg",
-   "plats": [
-    {
-     "n": "NS2",
-     "s": 81,
-     "c": 7,
-     "d": "2026-11-05"
-    }
-   ],
-   "dev": "SHIFT UP Corporation",
-   "pub": "SHIFT UP Corporation",
-   "meta": 81,
-   "meta_count": 15,
-   "user": null,
-   "user_count": 1,
-   "scores": {}
-  },
-  {
    "slug": "marvels-guardians-of-the-galaxy-encore-edition",
    "title": "Marvel's Guardians of the Galaxy: Encore Edition",
    "date": "2026-11-05",
@@ -1327,47 +1325,103 @@
    "scores": {}
   },
   {
-   "slug": "godzilla-destroy-all-monsters-melee-remastered",
-   "title": "Godzilla: Destroy All Monsters Melee Remastered",
-   "date": "2026-11-03",
-   "url": "https://www.metacritic.com/game/godzilla-destroy-all-monsters-melee-remastered/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1790868499.jpg",
+   "slug": "stellar-blade-complete-edition",
+   "title": "Stellar Blade: Complete Edition",
+   "date": "2026-11-05",
+   "url": "https://www.metacritic.com/game/stellar-blade-complete-edition/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1793661090.jpg",
+   "plats": [
+    {
+     "n": "NS2",
+     "s": 81,
+     "c": 7,
+     "d": "2026-11-05"
+    }
+   ],
+   "dev": "SHIFT UP Corporation",
+   "pub": "SHIFT UP Corporation",
+   "meta": 81,
+   "meta_count": 20,
+   "user": null,
+   "user_count": 1,
+   "scores": {}
+  },
+  {
+   "slug": "lightyear-frontier",
+   "title": "Lightyear Frontier",
+   "date": "2026-11-04",
+   "url": "https://www.metacritic.com/game/lightyear-frontier/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-890837-52.jpg",
+   "plats": [
+    {
+     "n": "PC",
+     "s": 78,
+     "c": 10,
+     "d": "2026-11-04"
+    },
+    {
+     "n": "XSX",
+     "s": null,
+     "c": 2,
+     "d": "2026-11-04"
+    }
+   ],
+   "dev": "Frame Break",
+   "pub": "Frame Break",
+   "meta": 78,
+   "meta_count": 10,
+   "user": null,
+   "user_count": 1,
+   "scores": {}
+  },
+  {
+   "slug": "croc-2-kingdom-of-the-gobbos",
+   "title": "Croc 2 Kingdom of the Gobbos",
+   "date": "2026-10-29",
+   "url": "https://www.metacritic.com/game/croc-2-kingdom-of-the-gobbos/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1793329957.jpg",
    "plats": [
     {
      "n": "PS5",
-     "s": 76,
-     "c": 11,
-     "d": "2026-11-03"
+     "s": 71,
+     "c": 10,
+     "d": "2026-10-29"
     },
     {
      "n": "XSX",
      "s": null,
      "c": 1,
-     "d": "2026-11-03"
+     "d": "2026-10-29"
     },
     {
      "n": "PC",
-     "s": 70,
-     "c": 8,
-     "d": "2026-11-03"
+     "s": null,
+     "c": 3,
+     "d": "2026-10-29"
     },
     {
-     "n": "NS2",
-     "s": 69,
-     "c": 9,
-     "d": "2026-11-03"
+     "n": "PS4",
+     "s": null,
+     "c": 0,
+     "d": "2026-10-29"
     },
     {
      "n": "NS",
      "s": null,
+     "c": 2,
+     "d": "2026-10-29"
+    },
+    {
+     "n": "NS2",
+     "s": null,
      "c": 0,
-     "d": "2026-11-03"
+     "d": null
     }
    ],
-   "dev": "Pipeworks Software, Inc.",
-   "pub": "Atari",
-   "meta": 75,
-   "meta_count": 12,
+   "dev": "Titanium Studios",
+   "pub": "Argonaut Games",
+   "meta": 71,
+   "meta_count": 10,
    "user": null,
    "user_count": 0,
    "scores": {}
@@ -1543,7 +1597,7 @@
      "dev": "Nintendo",
      "pub": "Nintendo",
      "meta": 89,
-     "meta_count": 110,
+     "meta_count": 111,
      "user": 8.5,
      "user_count": 307,
      "scores": {}
@@ -1586,6 +1640,34 @@
      "meta_count": 58,
      "user": 8.4,
      "user_count": 42,
+     "scores": {}
+    },
+    {
+     "slug": "phantom-blade-zero",
+     "title": "Phantom Blade Zero",
+     "date": "2026-10-29",
+     "url": "https://www.metacritic.com/game/phantom-blade-zero/",
+     "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1792649966.jpg",
+     "plats": [
+      {
+       "n": "PS5",
+       "s": 88,
+       "c": 25,
+       "d": "2026-10-29"
+      },
+      {
+       "n": "PC",
+       "s": 88,
+       "c": 33,
+       "d": "2026-10-29"
+      }
+     ],
+     "dev": "S-Game",
+     "pub": "S-Game",
+     "meta": 88,
+     "meta_count": 52,
+     "user": 8.7,
+     "user_count": 285,
      "scores": {}
     },
     {
@@ -1721,7 +1803,7 @@
      "meta": 87,
      "meta_count": 82,
      "user": 8.6,
-     "user_count": 723,
+     "user_count": 739,
      "scores": {}
     },
     {
@@ -1764,9 +1846,9 @@
      ],
      "dev": "Lancarse",
      "pub": "Square Enix",
-     "meta": 86,
-     "meta_count": 58,
-     "user": 9,
+     "meta": 85,
+     "meta_count": 60,
+     "user": 8.9,
      "user_count": 64,
      "scores": {}
     },
@@ -1934,7 +2016,7 @@
  "sig": {
   "the-legend-of-zelda-ocarina-of-time-2026": [
    96,
-   87,
+   88,
    null
   ],
   "resident-evil-2-deluxe-edition": [
@@ -1944,18 +2026,13 @@
   ],
   "resident-evil-4-gold-edition": [
    90,
-   15,
-   8.9
+   16,
+   9
   ],
   "phantom-blade-zero": [
    88,
-   47,
-   8.8
-  ],
-  "star-wars-galactic-racer": [
-   88,
-   80,
-   8.2
+   52,
+   8.7
   ],
   "enshrouded": [
    88,
@@ -1967,20 +2044,15 @@
    24,
    8.4
   ],
-  "gears-of-war-e-day": [
-   87,
-   82,
-   8.6
-  ],
   "village-in-the-shade": [
    86,
    8,
    9
   ],
   "final-fantasy-resonance": [
-   86,
-   58,
-   9
+   85,
+   60,
+   8.9
   ],
   "the-wolf-among-us-remastered": [
    85,
@@ -1989,18 +2061,13 @@
   ],
   "call-of-duty-modern-warfare-4": [
    85,
-   49,
+   50,
    7.7
   ],
   "order-of-the-sinking-star": [
    84,
    21,
    7.7
-  ],
-  "ghost-of-yotei-echoes-of-sekigahara": [
-   84,
-   7,
-   null
   ],
   "planet-zoo-2": [
    84,
@@ -2014,7 +2081,7 @@
   ],
   "castlevania-belmonts-curse": [
    83,
-   71,
+   72,
    7.7
   ],
   "dragons-dogma-2-dark-arisen": [
@@ -2029,32 +2096,32 @@
   ],
   "warhammer-40000-boltgun-2": [
    81,
-   30,
+   31,
    6.3
-  ],
-  "stellar-blade-complete-edition": [
-   81,
-   15,
-   null
   ],
   "marvels-guardians-of-the-galaxy-encore-edition": [
    81,
    11,
    null
   ],
+  "stellar-blade-complete-edition": [
+   81,
+   20,
+   null
+  ],
   "tenebris-somnia": [
    81,
-   13,
-   8.9
+   14,
+   8.8
   ],
   "nintendo-switch-sports-resort": [
    79,
-   86,
+   88,
    8.4
   ],
   "virtue-and-a-sledgehammer": [
    78,
-   22,
+   23,
    5.9
   ],
   "blueys-happy-snaps": [
@@ -2062,9 +2129,14 @@
    10,
    7.6
   ],
+  "lightyear-frontier": [
+   78,
+   10,
+   null
+  ],
   "valor-mortis": [
    77,
-   55,
+   56,
    7.5
   ],
   "disney-pixar-toy-story-retro-roundup": [
@@ -2074,17 +2146,17 @@
   ],
   "tales-of-eternia-remastered": [
    76,
-   25,
+   26,
    7.5
+  ],
+  "remothered-red-nuns-legacy": [
+   76,
+   10,
+   7.4
   ],
   "just-dance-decades-of-hits": [
    76,
    12,
-   7.9
-  ],
-  "remothered-red-nuns-legacy": [
-   76,
-   9,
    7.9
   ],
   "ratatan": [
@@ -2095,7 +2167,7 @@
   "godzilla-destroy-all-monsters-melee-remastered": [
    75,
    12,
-   null
+   8.8
   ],
   "over-the-hill": [
    75,
@@ -2124,7 +2196,7 @@
   ],
   "croc-2-kingdom-of-the-gobbos": [
    71,
-   9,
+   10,
    null
   ],
   "we-were-here-tomorrow": [
@@ -2145,7 +2217,7 @@
   "anomalith": [
    69,
    7,
-   null
+   8
   ],
   "truckful": [
    68,
