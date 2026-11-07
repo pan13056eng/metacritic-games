@@ -1,57 +1,36 @@
 {
- "updated": "2026-11-06 09:24",
+ "updated": "2026-11-07 08:47",
  "window": [
-  "2026-10-07",
-  "2026-11-06"
+  "2026-10-08",
+  "2026-11-07"
  ],
- "total": 44,
+ "total": 46,
  "released": [
   {
-   "slug": "resident-evil-4-gold-edition",
-   "title": "Resident Evil 4: Gold Edition",
-   "date": "2026-10-16",
-   "url": "https://www.metacritic.com/game/resident-evil-4-gold-edition/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1282314-52.jpg",
+   "slug": "the-legend-of-zelda-ocarina-of-time-2026",
+   "title": "The Legend of Zelda: Ocarina of Time",
+   "date": "2026-11-05",
+   "url": "https://www.metacritic.com/game/the-legend-of-zelda-ocarina-of-time-2026/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1788926816.jpg",
    "plats": [
     {
-     "n": "PS5",
-     "s": null,
-     "c": 0,
-     "d": "2024-02-09"
-    },
-    {
-     "n": "PC",
-     "s": null,
-     "c": 0,
-     "d": "2024-02-09"
-    },
-    {
-     "n": "PS4",
-     "s": null,
-     "c": 0,
-     "d": "2024-02-09"
-    },
-    {
-     "n": "XSX",
-     "s": null,
-     "c": 0,
-     "d": "2024-02-09"
-    },
-    {
      "n": "NS2",
-     "s": 90,
-     "c": 8,
-     "d": "2026-10-16"
+     "s": 96,
+     "c": 87,
+     "d": "2026-11-05"
     }
    ],
-   "dev": "Capcom",
-   "pub": "Capcom",
-   "meta": 90,
-   "meta_count": 16,
-   "user": 9,
-   "user_count": 5,
+   "dev": "Nintendo",
+   "pub": "Nintendo",
+   "meta": 96,
+   "meta_count": 90,
+   "user": 9.7,
+   "user_count": 1,
    "scores": {
-    "Nintendo Life": 90
+    "Eurogamer": 100,
+    "GameSpot": 90,
+    "Nintendo Life": 90,
+    "IGN": 90
    }
   },
   {
@@ -96,7 +75,7 @@
    "pub": "Square Enix",
    "meta": 85,
    "meta_count": 60,
-   "user": 8.9,
+   "user": 9,
    "user_count": 64,
    "scores": {
     "Push Square": 80
@@ -149,7 +128,7 @@
    "dev": "S-Game",
    "pub": "S-Game",
    "meta": 88,
-   "meta_count": 52,
+   "meta_count": 53,
    "user": 8.7,
    "user_count": 285,
    "scores": {
@@ -264,8 +243,8 @@
    "dev": "Nintendo",
    "pub": "Nintendo",
    "meta": 79,
-   "meta_count": 88,
-   "user": 8.4,
+   "meta_count": 90,
+   "user": 8.5,
    "user_count": 26,
    "scores": {
     "Nintendo Life": 90,
@@ -352,7 +331,7 @@
    "dev": "Infinity Ward",
    "pub": "Activision",
    "meta": 85,
-   "meta_count": 50,
+   "meta_count": 51,
    "user": 7.7,
    "user_count": 159,
    "scores": {
@@ -512,36 +491,55 @@
     "Push Square": 70,
     "GameSpot": 60
    }
-  },
-  {
-   "slug": "the-legend-of-zelda-ocarina-of-time-2026",
-   "title": "The Legend of Zelda: Ocarina of Time",
-   "date": "2026-11-05",
-   "url": "https://www.metacritic.com/game/the-legend-of-zelda-ocarina-of-time-2026/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1788926816.jpg",
-   "plats": [
-    {
-     "n": "NS2",
-     "s": 96,
-     "c": 87,
-     "d": "2026-11-05"
-    }
-   ],
-   "dev": "Nintendo",
-   "pub": "Nintendo",
-   "meta": 96,
-   "meta_count": 88,
-   "user": null,
-   "user_count": 1,
-   "scores": {
-    "Eurogamer": 100,
-    "GameSpot": 90,
-    "Nintendo Life": 90,
-    "IGN": 90
-   }
   }
  ],
  "watch": [
+  {
+   "slug": "resident-evil-4-gold-edition",
+   "title": "Resident Evil 4: Gold Edition",
+   "date": "2026-10-16",
+   "url": "https://www.metacritic.com/game/resident-evil-4-gold-edition/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1282314-52.jpg",
+   "plats": [
+    {
+     "n": "PS5",
+     "s": null,
+     "c": 0,
+     "d": "2024-02-09"
+    },
+    {
+     "n": "PC",
+     "s": null,
+     "c": 0,
+     "d": "2024-02-09"
+    },
+    {
+     "n": "PS4",
+     "s": null,
+     "c": 0,
+     "d": "2024-02-09"
+    },
+    {
+     "n": "XSX",
+     "s": null,
+     "c": 0,
+     "d": "2024-02-09"
+    },
+    {
+     "n": "NS2",
+     "s": 90,
+     "c": 8,
+     "d": "2026-10-16"
+    }
+   ],
+   "dev": "Capcom",
+   "pub": "Capcom",
+   "meta": 89,
+   "meta_count": 17,
+   "user": 9,
+   "user_count": 5,
+   "scores": {}
+  },
   {
    "slug": "tenebris-somnia",
    "title": "Tenebris Somnia",
@@ -629,7 +627,7 @@
    "dev": "Pipeworks Software, Inc.",
    "pub": "Atari",
    "meta": 75,
-   "meta_count": 12,
+   "meta_count": 13,
    "user": 8.8,
    "user_count": 0,
    "scores": {}
@@ -1319,7 +1317,7 @@
    "dev": "Eidos Montreal",
    "pub": "Square Enix",
    "meta": 81,
-   "meta_count": 11,
+   "meta_count": 12,
    "user": null,
    "user_count": 0,
    "scores": {}
@@ -1421,13 +1419,32 @@
    "dev": "Titanium Studios",
    "pub": "Argonaut Games",
    "meta": 71,
-   "meta_count": 10,
+   "meta_count": 11,
    "user": null,
    "user_count": 0,
    "scores": {}
   }
  ],
- "upcoming": [],
+ "upcoming": [
+  {
+   "slug": "football-manager-27",
+   "title": "Football Manager 27",
+   "date": "2026-11-10",
+   "url": "https://www.metacritic.com/game/football-manager-27/",
+   "meta": 82,
+   "plats": [
+    {
+     "n": "PC",
+     "s": 82,
+     "c": 7,
+     "d": "2026-11-10"
+    }
+   ],
+   "dev": "Sports Interactive",
+   "pub": "Sega",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1793819120.jpg"
+  }
+ ],
  "annual": [
   {
    "year": 2026,
@@ -1665,7 +1682,7 @@
      "dev": "S-Game",
      "pub": "S-Game",
      "meta": 88,
-     "meta_count": 52,
+     "meta_count": 53,
      "user": 8.7,
      "user_count": 285,
      "scores": {}
@@ -1741,7 +1758,7 @@
      "meta": 88,
      "meta_count": 80,
      "user": 8.2,
-     "user_count": 46,
+     "user_count": 48,
      "scores": {}
     },
     {
@@ -1775,7 +1792,7 @@
      "meta": 87,
      "meta_count": 76,
      "user": 8.7,
-     "user_count": 48,
+     "user_count": 53,
      "scores": {}
     },
     {
@@ -1801,8 +1818,8 @@
      "dev": "The Coalition",
      "pub": "Xbox Game Studios",
      "meta": 87,
-     "meta_count": 82,
-     "user": 8.6,
+     "meta_count": 83,
+     "user": 8.5,
      "user_count": 739,
      "scores": {}
     },
@@ -1848,7 +1865,7 @@
      "pub": "Square Enix",
      "meta": 85,
      "meta_count": 60,
-     "user": 8.9,
+     "user": 9,
      "user_count": 64,
      "scores": {}
     },
@@ -1963,7 +1980,7 @@
      "meta": 83,
      "meta_count": 90,
      "user": 8.8,
-     "user_count": 225,
+     "user_count": 240,
      "scores": {}
     },
     {
@@ -2016,8 +2033,8 @@
  "sig": {
   "the-legend-of-zelda-ocarina-of-time-2026": [
    96,
-   88,
-   null
+   90,
+   9.7
   ],
   "resident-evil-2-deluxe-edition": [
    93,
@@ -2025,13 +2042,13 @@
    8.7
   ],
   "resident-evil-4-gold-edition": [
-   90,
-   16,
+   89,
+   17,
    9
   ],
   "phantom-blade-zero": [
    88,
-   52,
+   53,
    8.7
   ],
   "enshrouded": [
@@ -2044,15 +2061,10 @@
    24,
    8.4
   ],
-  "village-in-the-shade": [
-   86,
-   8,
-   9
-  ],
   "final-fantasy-resonance": [
    85,
    60,
-   8.9
+   9
   ],
   "the-wolf-among-us-remastered": [
    85,
@@ -2061,13 +2073,18 @@
   ],
   "call-of-duty-modern-warfare-4": [
    85,
-   50,
+   51,
    7.7
   ],
   "order-of-the-sinking-star": [
    84,
    21,
    7.7
+  ],
+  "village-in-the-shade": [
+   84,
+   9,
+   9
   ],
   "planet-zoo-2": [
    84,
@@ -2101,7 +2118,7 @@
   ],
   "marvels-guardians-of-the-galaxy-encore-edition": [
    81,
-   11,
+   12,
    null
   ],
   "stellar-blade-complete-edition": [
@@ -2116,8 +2133,13 @@
   ],
   "nintendo-switch-sports-resort": [
    79,
-   88,
-   8.4
+   90,
+   8.5
+  ],
+  "chivalware": [
+   79,
+   7,
+   null
   ],
   "virtue-and-a-sledgehammer": [
    78,
@@ -2166,7 +2188,7 @@
   ],
   "godzilla-destroy-all-monsters-melee-remastered": [
    75,
-   12,
+   13,
    8.8
   ],
   "over-the-hill": [
@@ -2184,6 +2206,11 @@
    8,
    null
   ],
+  "joe-and-mac-retro-collection": [
+   72,
+   7,
+   null
+  ],
   "penguin-colony": [
    72,
    11,
@@ -2196,7 +2223,7 @@
   ],
   "croc-2-kingdom-of-the-gobbos": [
    71,
-   10,
+   11,
    null
   ],
   "we-were-here-tomorrow": [
