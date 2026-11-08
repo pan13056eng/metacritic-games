@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-07 08:47",
+ "updated": "2026-11-08 08:59",
  "window": [
-  "2026-10-08",
-  "2026-11-07"
+  "2026-10-09",
+  "2026-11-08"
  ],
- "total": 46,
+ "total": 42,
  "released": [
   {
    "slug": "the-legend-of-zelda-ocarina-of-time-2026",
@@ -24,7 +24,7 @@
    "pub": "Nintendo",
    "meta": 96,
    "meta_count": 90,
-   "user": 9.7,
+   "user": 9.6,
    "user_count": 1,
    "scores": {
     "Eurogamer": 100,
@@ -79,30 +79,6 @@
    "user_count": 64,
    "scores": {
     "Push Square": 80
-   }
-  },
-  {
-   "slug": "resident-evil-2-deluxe-edition",
-   "title": "Resident Evil 2: Deluxe Edition",
-   "date": "2026-10-16",
-   "url": "https://www.metacritic.com/game/resident-evil-2-deluxe-edition/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1282312-52.jpg",
-   "plats": [
-    {
-     "n": "NS2",
-     "s": 93,
-     "c": 8,
-     "d": "2026-10-16"
-    }
-   ],
-   "dev": "Capcom",
-   "pub": "Capcom",
-   "meta": 93,
-   "meta_count": 16,
-   "user": 8.7,
-   "user_count": 9,
-   "scores": {
-    "Nintendo Life": 90
    }
   },
   {
@@ -181,50 +157,28 @@
    }
   },
   {
-   "slug": "silver-pines",
-   "title": "Silver Pines",
-   "date": "2026-10-08",
-   "url": "https://www.metacritic.com/game/silver-pines/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1791257353.jpg",
+   "slug": "resident-evil-2-deluxe-edition",
+   "title": "Resident Evil 2: Deluxe Edition",
+   "date": "2026-10-16",
+   "url": "https://www.metacritic.com/game/resident-evil-2-deluxe-edition/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1282312-52.jpg",
    "plats": [
     {
-     "n": "PC",
-     "s": 85,
-     "c": 14,
-     "d": "2026-10-08"
-    },
-    {
-     "n": "NS",
-     "s": null,
-     "c": 0,
-     "d": "2026-10-08"
-    },
-    {
-     "n": "XSX",
-     "s": null,
-     "c": 1,
-     "d": "2026-10-08"
-    },
-    {
-     "n": "PS5",
-     "s": 91,
-     "c": 6,
-     "d": "2026-10-08"
-    },
-    {
      "n": "NS2",
-     "s": null,
-     "c": 2,
-     "d": "2026-10-08"
+     "s": 93,
+     "c": 8,
+     "d": "2026-10-16"
     }
    ],
-   "dev": "Wych Elm",
-   "pub": "Team17",
-   "meta": 83,
-   "meta_count": 27,
+   "dev": "Capcom",
+   "pub": "Capcom",
+   "meta": 93,
+   "meta_count": 16,
    "user": 8.6,
-   "user_count": 27,
-   "scores": {}
+   "user_count": 9,
+   "scores": {
+    "Nintendo Life": 90
+   }
   },
   {
    "slug": "nintendo-switch-sports-resort",
@@ -251,49 +205,6 @@
     "GameSpot": 90,
     "Eurogamer": 80,
     "IGN": 70
-   }
-  },
-  {
-   "slug": "clive-barkers-hellraiser-revival",
-   "title": "Clive Barker's Hellraiser: Revival",
-   "date": "2026-10-08",
-   "url": "https://www.metacritic.com/game/clive-barkers-hellraiser-revival/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1791426867.jpg",
-   "plats": [
-    {
-     "n": "PS5",
-     "s": 69,
-     "c": 33,
-     "d": "2026-10-08"
-    },
-    {
-     "n": "PC",
-     "s": 75,
-     "c": 22,
-     "d": "2026-10-08"
-    },
-    {
-     "n": "XSX",
-     "s": 74,
-     "c": 6,
-     "d": "2026-10-08"
-    },
-    {
-     "n": "NS2",
-     "s": null,
-     "c": 1,
-     "d": "2026-10-08"
-    }
-   ],
-   "dev": "Saber Interactive",
-   "pub": "Saber Interactive",
-   "meta": 69,
-   "meta_count": 44,
-   "user": 8.3,
-   "user_count": 75,
-   "scores": {
-    "IGN": 60,
-    "Push Square": 50
    }
   },
   {
@@ -411,11 +322,42 @@
    "pub": "Lyrical Games",
    "meta": 77,
    "meta_count": 56,
-   "user": 7.5,
+   "user": 7.4,
    "user_count": 50,
    "scores": {
     "Eurogamer": 80,
     "IGN": 70,
+    "GameSpot": 60
+   }
+  },
+  {
+   "slug": "stupid-never-dies",
+   "title": "Stupid Never Dies",
+   "date": "2026-10-21",
+   "url": "https://www.metacritic.com/game/stupid-never-dies/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1792342907.jpg",
+   "plats": [
+    {
+     "n": "PC",
+     "s": 66,
+     "c": 10,
+     "d": "2026-10-21"
+    },
+    {
+     "n": "PS5",
+     "s": 65,
+     "c": 23,
+     "d": "2026-10-21"
+    }
+   ],
+   "dev": "GPTRACK50",
+   "pub": "GPTRACK50",
+   "meta": 66,
+   "meta_count": 39,
+   "user": 6.3,
+   "user_count": 2,
+   "scores": {
+    "Push Square": 70,
     "GameSpot": 60
    }
   },
@@ -455,41 +397,10 @@
    "pub": "Big Fan Games",
    "meta": 81,
    "meta_count": 31,
-   "user": 6.3,
+   "user": 6.1,
    "user_count": 4,
    "scores": {
     "IGN": 80
-   }
-  },
-  {
-   "slug": "stupid-never-dies",
-   "title": "Stupid Never Dies",
-   "date": "2026-10-21",
-   "url": "https://www.metacritic.com/game/stupid-never-dies/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1792342907.jpg",
-   "plats": [
-    {
-     "n": "PC",
-     "s": 66,
-     "c": 10,
-     "d": "2026-10-21"
-    },
-    {
-     "n": "PS5",
-     "s": 65,
-     "c": 23,
-     "d": "2026-10-21"
-    }
-   ],
-   "dev": "GPTRACK50",
-   "pub": "GPTRACK50",
-   "meta": 66,
-   "meta_count": 39,
-   "user": 6.3,
-   "user_count": 2,
-   "scores": {
-    "Push Square": 70,
-    "GameSpot": 60
    }
   }
  ],
@@ -536,7 +447,7 @@
    "pub": "Capcom",
    "meta": 89,
    "meta_count": 17,
-   "user": 9,
+   "user": 9.1,
    "user_count": 5,
    "scores": {}
   },
@@ -626,44 +537,32 @@
    ],
    "dev": "Pipeworks Software, Inc.",
    "pub": "Atari",
-   "meta": 75,
-   "meta_count": 13,
+   "meta": 74,
+   "meta_count": 14,
    "user": 8.8,
    "user_count": 0,
    "scores": {}
   },
   {
-   "slug": "kingdom-hearts-collection-i-iii",
-   "title": "Kingdom Hearts Collection I ~ III",
-   "date": "2026-10-08",
-   "url": "https://www.metacritic.com/game/kingdom-hearts-collection-i-iii/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1791168642.jpg",
+   "slug": "stellar-blade-complete-edition",
+   "title": "Stellar Blade: Complete Edition",
+   "date": "2026-11-05",
+   "url": "https://www.metacritic.com/game/stellar-blade-complete-edition/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1793661090.jpg",
    "plats": [
     {
      "n": "NS2",
-     "s": 89,
-     "c": 13,
-     "d": "2026-10-08"
-    },
-    {
-     "n": "PS5",
-     "s": 79,
-     "c": 6,
-     "d": "2026-10-06"
-    },
-    {
-     "n": "XSX",
-     "s": null,
-     "c": 0,
-     "d": "2026-10-08"
+     "s": 81,
+     "c": 7,
+     "d": "2026-11-05"
     }
    ],
-   "dev": "Square Enix",
-   "pub": "Square Enix",
-   "meta": 88,
-   "meta_count": 24,
-   "user": 8.4,
-   "user_count": 2,
+   "dev": "SHIFT UP Corporation",
+   "pub": "SHIFT UP Corporation",
+   "meta": 81,
+   "meta_count": 20,
+   "user": 8.6,
+   "user_count": 1,
    "scores": {}
   },
   {
@@ -702,7 +601,7 @@
    "pub": "Ubisoft",
    "meta": 76,
    "meta_count": 12,
-   "user": 7.9,
+   "user": 8.1,
    "user_count": 3,
    "scores": {}
   },
@@ -748,42 +647,8 @@
    "pub": "Telltale Games",
    "meta": 85,
    "meta_count": 11,
-   "user": 7.7,
+   "user": 7.6,
    "user_count": 7,
-   "scores": {}
-  },
-  {
-   "slug": "order-of-the-sinking-star",
-   "title": "Order of the Sinking Star",
-   "date": "2026-10-08",
-   "url": "https://www.metacritic.com/game/order-of-the-sinking-star/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1791232616.jpg",
-   "plats": [
-    {
-     "n": "PC",
-     "s": 87,
-     "c": 11,
-     "d": "2026-10-08"
-    },
-    {
-     "n": "NS2",
-     "s": 85,
-     "c": 5,
-     "d": "2026-10-08"
-    },
-    {
-     "n": "PS5",
-     "s": 86,
-     "c": 9,
-     "d": null
-    }
-   ],
-   "dev": "Thekla, Inc",
-   "pub": "Arc Games",
-   "meta": 84,
-   "meta_count": 21,
-   "user": 7.7,
-   "user_count": 18,
    "scores": {}
   },
   {
@@ -845,40 +710,6 @@
    "scores": {}
   },
   {
-   "slug": "enshrouded",
-   "title": "Enshrouded",
-   "date": "2026-10-15",
-   "url": "https://www.metacritic.com/game/enshrouded/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1792084682.jpg",
-   "plats": [
-    {
-     "n": "PC",
-     "s": 89,
-     "c": 10,
-     "d": "2026-10-15"
-    },
-    {
-     "n": "XSX",
-     "s": null,
-     "c": 0,
-     "d": null
-    },
-    {
-     "n": "PS5",
-     "s": null,
-     "c": 3,
-     "d": "2026-10-15"
-    }
-   ],
-   "dev": "Keen Games",
-   "pub": "Keen Games",
-   "meta": 88,
-   "meta_count": 15,
-   "user": 7.5,
-   "user_count": 10,
-   "scores": {}
-  },
-  {
    "slug": "tales-of-eternia-remastered",
    "title": "Tales of Eternia Remastered",
    "date": "2026-10-16",
@@ -931,6 +762,40 @@
    "scores": {}
   },
   {
+   "slug": "enshrouded",
+   "title": "Enshrouded",
+   "date": "2026-10-15",
+   "url": "https://www.metacritic.com/game/enshrouded/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1792084682.jpg",
+   "plats": [
+    {
+     "n": "PC",
+     "s": 89,
+     "c": 10,
+     "d": "2026-10-15"
+    },
+    {
+     "n": "XSX",
+     "s": null,
+     "c": 0,
+     "d": null
+    },
+    {
+     "n": "PS5",
+     "s": null,
+     "c": 3,
+     "d": "2026-10-15"
+    }
+   ],
+   "dev": "Keen Games",
+   "pub": "Keen Games",
+   "meta": 88,
+   "meta_count": 15,
+   "user": 7.4,
+   "user_count": 12,
+   "scores": {}
+  },
+  {
    "slug": "remothered-red-nuns-legacy",
    "title": "Remothered: Red Nun's Legacy",
    "date": "2026-10-27",
@@ -968,46 +833,6 @@
    "meta_count": 10,
    "user": 7.4,
    "user_count": 0,
-   "scores": {}
-  },
-  {
-   "slug": "forever-ago",
-   "title": "Forever Ago",
-   "date": "2026-10-08",
-   "url": "https://www.metacritic.com/game/forever-ago/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1791317775.jpg",
-   "plats": [
-    {
-     "n": "PC",
-     "s": 75,
-     "c": 8,
-     "d": "2026-10-08"
-    },
-    {
-     "n": "NS2",
-     "s": null,
-     "c": 1,
-     "d": "2026-10-08"
-    },
-    {
-     "n": "XSX",
-     "s": null,
-     "c": 3,
-     "d": "2026-10-08"
-    },
-    {
-     "n": "PS5",
-     "s": 73,
-     "c": 10,
-     "d": "2026-10-08"
-    }
-   ],
-   "dev": "Third Shift",
-   "pub": "Annapurna Interactive",
-   "meta": 75,
-   "meta_count": 19,
-   "user": 7.4,
-   "user_count": 2,
    "scores": {}
   },
   {
@@ -1323,28 +1148,6 @@
    "scores": {}
   },
   {
-   "slug": "stellar-blade-complete-edition",
-   "title": "Stellar Blade: Complete Edition",
-   "date": "2026-11-05",
-   "url": "https://www.metacritic.com/game/stellar-blade-complete-edition/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1793661090.jpg",
-   "plats": [
-    {
-     "n": "NS2",
-     "s": 81,
-     "c": 7,
-     "d": "2026-11-05"
-    }
-   ],
-   "dev": "SHIFT UP Corporation",
-   "pub": "SHIFT UP Corporation",
-   "meta": 81,
-   "meta_count": 20,
-   "user": null,
-   "user_count": 1,
-   "scores": {}
-  },
-  {
    "slug": "lightyear-frontier",
    "title": "Lightyear Frontier",
    "date": "2026-11-04",
@@ -1655,7 +1458,7 @@
      "pub": "Square Enix",
      "meta": 89,
      "meta_count": 58,
-     "user": 8.4,
+     "user": 8.3,
      "user_count": 42,
      "scores": {}
     },
@@ -1979,7 +1782,7 @@
      "pub": "Remedy Entertainment",
      "meta": 83,
      "meta_count": 90,
-     "user": 8.8,
+     "user": 8.7,
      "user_count": 240,
      "scores": {}
     },
@@ -2001,7 +1804,7 @@
      "pub": "Nintendo",
      "meta": 82,
      "meta_count": 124,
-     "user": 9.3,
+     "user": 9.2,
      "user_count": 773,
      "scores": {}
     },
@@ -2034,17 +1837,17 @@
   "the-legend-of-zelda-ocarina-of-time-2026": [
    96,
    90,
-   9.7
+   9.6
   ],
   "resident-evil-2-deluxe-edition": [
    93,
    16,
-   8.7
+   8.6
   ],
   "resident-evil-4-gold-edition": [
    89,
    17,
-   9
+   9.1
   ],
   "phantom-blade-zero": [
    88,
@@ -2054,12 +1857,7 @@
   "enshrouded": [
    88,
    15,
-   7.5
-  ],
-  "kingdom-hearts-collection-i-iii": [
-   88,
-   24,
-   8.4
+   7.4
   ],
   "final-fantasy-resonance": [
    85,
@@ -2069,32 +1867,22 @@
   "the-wolf-among-us-remastered": [
    85,
    11,
-   7.7
+   7.6
   ],
   "call-of-duty-modern-warfare-4": [
    85,
    51,
    7.7
   ],
-  "order-of-the-sinking-star": [
-   84,
-   21,
-   7.7
-  ],
   "village-in-the-shade": [
    84,
    9,
-   9
+   9.2
   ],
   "planet-zoo-2": [
    84,
    22,
    5.1
-  ],
-  "silver-pines": [
-   83,
-   27,
-   8.6
   ],
   "castlevania-belmonts-curse": [
    83,
@@ -2114,7 +1902,7 @@
   "warhammer-40000-boltgun-2": [
    81,
    31,
-   6.3
+   6.1
   ],
   "marvels-guardians-of-the-galaxy-encore-edition": [
    81,
@@ -2124,7 +1912,7 @@
   "stellar-blade-complete-edition": [
    81,
    20,
-   null
+   8.6
   ],
   "tenebris-somnia": [
    81,
@@ -2146,20 +1934,20 @@
    23,
    5.9
   ],
-  "blueys-happy-snaps": [
-   78,
-   10,
-   7.6
-  ],
   "lightyear-frontier": [
    78,
    10,
    null
   ],
+  "blueys-happy-snaps": [
+   78,
+   10,
+   7.6
+  ],
   "valor-mortis": [
    77,
    56,
-   7.5
+   7.4
   ],
   "disney-pixar-toy-story-retro-roundup": [
    77,
@@ -2179,27 +1967,22 @@
   "just-dance-decades-of-hits": [
    76,
    12,
-   7.9
+   8.1
   ],
   "ratatan": [
    75,
    16,
    6.9
   ],
-  "godzilla-destroy-all-monsters-melee-remastered": [
-   75,
-   13,
-   8.8
-  ],
   "over-the-hill": [
    75,
    26,
    6.6
   ],
-  "forever-ago": [
-   75,
-   19,
-   7.4
+  "godzilla-destroy-all-monsters-melee-remastered": [
+   74,
+   14,
+   8.8
   ],
   "the-jackbox-party-pack-12": [
    74,
@@ -2229,22 +2012,17 @@
   "we-were-here-tomorrow": [
    71,
    7,
-   8.9
+   8.6
   ],
   "one-piece-grand-gourmet": [
    70,
    27,
    5.9
   ],
-  "clive-barkers-hellraiser-revival": [
-   69,
-   44,
-   8.3
-  ],
   "anomalith": [
    69,
    7,
-   8
+   7.7
   ],
   "truckful": [
    68,
@@ -2259,6 +2037,11 @@
   "hunters-moon": [
    63,
    7,
+   null
+  ],
+  "where-the-light-sleeps": [
+   70,
+   4,
    null
   ]
  }
