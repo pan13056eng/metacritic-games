@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-08 08:59",
+ "updated": "2026-11-09 09:48",
  "window": [
-  "2026-10-09",
-  "2026-11-08"
+  "2026-10-10",
+  "2026-11-09"
  ],
- "total": 42,
+ "total": 39,
  "released": [
   {
    "slug": "the-legend-of-zelda-ocarina-of-time-2026",
@@ -111,49 +111,6 @@
     "IGN": 90,
     "GameSpot": 80,
     "Eurogamer": 60
-   }
-  },
-  {
-   "slug": "dragons-dogma-2-dark-arisen",
-   "title": "Dragon's Dogma 2: Dark Arisen",
-   "date": "2026-10-09",
-   "url": "https://www.metacritic.com/game/dragons-dogma-2-dark-arisen/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1791167231.jpg",
-   "plats": [
-    {
-     "n": "NS2",
-     "s": 88,
-     "c": 5,
-     "d": "2026-10-09"
-    },
-    {
-     "n": "XSX",
-     "s": null,
-     "c": 2,
-     "d": "2026-10-09"
-    },
-    {
-     "n": "PS5",
-     "s": 84,
-     "c": 20,
-     "d": "2026-10-09"
-    },
-    {
-     "n": "PC",
-     "s": 88,
-     "c": 12,
-     "d": "2026-10-08"
-    }
-   ],
-   "dev": "Capcom",
-   "pub": "Capcom",
-   "meta": 83,
-   "meta_count": 34,
-   "user": 8.7,
-   "user_count": 15,
-   "scores": {
-    "Push Square": 90,
-    "IGN": 80
    }
   },
   {
@@ -1058,7 +1015,7 @@
    "dev": "Kairosoft Co. Ltd",
    "pub": "Bandai Namco Games",
    "meta": 70,
-   "meta_count": 27,
+   "meta_count": 28,
    "user": 5.9,
    "user_count": 0,
    "scores": {}
@@ -1221,8 +1178,8 @@
    ],
    "dev": "Titanium Studios",
    "pub": "Argonaut Games",
-   "meta": 71,
-   "meta_count": 11,
+   "meta": 68,
+   "meta_count": 12,
    "user": null,
    "user_count": 0,
    "scores": {}
@@ -1889,11 +1846,6 @@
    72,
    7.7
   ],
-  "dragons-dogma-2-dark-arisen": [
-   83,
-   34,
-   8.7
-  ],
   "mycopunk": [
    83,
    10,
@@ -2004,11 +1956,6 @@
    7,
    null
   ],
-  "croc-2-kingdom-of-the-gobbos": [
-   71,
-   11,
-   null
-  ],
   "we-were-here-tomorrow": [
    71,
    7,
@@ -2016,7 +1963,7 @@
   ],
   "one-piece-grand-gourmet": [
    70,
-   27,
+   28,
    5.9
   ],
   "anomalith": [
@@ -2024,9 +1971,9 @@
    7,
    7.7
   ],
-  "truckful": [
+  "croc-2-kingdom-of-the-gobbos": [
    68,
-   7,
+   12,
    null
   ],
   "stupid-never-dies": [
@@ -2037,11 +1984,6 @@
   "hunters-moon": [
    63,
    7,
-   null
-  ],
-  "where-the-light-sleeps": [
-   70,
-   4,
    null
   ]
  }
