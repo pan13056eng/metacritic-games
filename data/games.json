@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-09 09:48",
+ "updated": "2026-11-10 09:50",
  "window": [
-  "2026-10-10",
-  "2026-11-09"
+  "2026-10-11",
+  "2026-11-10"
  ],
- "total": 39,
+ "total": 43,
  "released": [
   {
    "slug": "the-legend-of-zelda-ocarina-of-time-2026",
@@ -23,7 +23,7 @@
    "dev": "Nintendo",
    "pub": "Nintendo",
    "meta": 96,
-   "meta_count": 90,
+   "meta_count": 97,
    "user": 9.6,
    "user_count": 1,
    "scores": {
@@ -32,6 +32,28 @@
     "Nintendo Life": 90,
     "IGN": 90
    }
+  },
+  {
+   "slug": "probably-stolen-cyberpunk-pawnshop-simulator",
+   "title": "Probably Stolen - Cyberpunk Pawnshop Simulator",
+   "date": "2026-10-28",
+   "url": "https://www.metacritic.com/game/probably-stolen-cyberpunk-pawnshop-simulator/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1262614-52.jpg",
+   "plats": [
+    {
+     "n": "PC",
+     "s": 73,
+     "c": 7,
+     "d": "2026-10-28"
+    }
+   ],
+   "dev": "Questing Goose Studio",
+   "pub": "tinyBuild",
+   "meta": 73,
+   "meta_count": 7,
+   "user": 9,
+   "user_count": 74,
+   "scores": {}
   },
   {
    "slug": "final-fantasy-resonance",
@@ -74,43 +96,11 @@
    "dev": "Lancarse",
    "pub": "Square Enix",
    "meta": 85,
-   "meta_count": 60,
-   "user": 9,
+   "meta_count": 62,
+   "user": 8.9,
    "user_count": 64,
    "scores": {
     "Push Square": 80
-   }
-  },
-  {
-   "slug": "phantom-blade-zero",
-   "title": "Phantom Blade Zero",
-   "date": "2026-10-29",
-   "url": "https://www.metacritic.com/game/phantom-blade-zero/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1792649966.jpg",
-   "plats": [
-    {
-     "n": "PS5",
-     "s": 88,
-     "c": 25,
-     "d": "2026-10-29"
-    },
-    {
-     "n": "PC",
-     "s": 88,
-     "c": 33,
-     "d": "2026-10-29"
-    }
-   ],
-   "dev": "S-Game",
-   "pub": "S-Game",
-   "meta": 88,
-   "meta_count": 53,
-   "user": 8.7,
-   "user_count": 285,
-   "scores": {
-    "IGN": 90,
-    "GameSpot": 80,
-    "Eurogamer": 60
    }
   },
   {
@@ -138,6 +128,38 @@
    }
   },
   {
+   "slug": "phantom-blade-zero",
+   "title": "Phantom Blade Zero",
+   "date": "2026-10-29",
+   "url": "https://www.metacritic.com/game/phantom-blade-zero/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1792649966.jpg",
+   "plats": [
+    {
+     "n": "PS5",
+     "s": 88,
+     "c": 25,
+     "d": "2026-10-29"
+    },
+    {
+     "n": "PC",
+     "s": 88,
+     "c": 33,
+     "d": "2026-10-29"
+    }
+   ],
+   "dev": "S-Game",
+   "pub": "S-Game",
+   "meta": 88,
+   "meta_count": 54,
+   "user": 8.6,
+   "user_count": 285,
+   "scores": {
+    "IGN": 90,
+    "GameSpot": 80,
+    "Eurogamer": 60
+   }
+  },
+  {
    "slug": "nintendo-switch-sports-resort",
    "title": "Nintendo Switch Sports Resort",
    "date": "2026-10-22",
@@ -162,48 +184,6 @@
     "GameSpot": 90,
     "Eurogamer": 80,
     "IGN": 70
-   }
-  },
-  {
-   "slug": "call-of-duty-modern-warfare-4",
-   "title": "Call of Duty: Modern Warfare 4",
-   "date": "2026-10-23",
-   "url": "https://www.metacritic.com/game/call-of-duty-modern-warfare-4/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1792136722.jpg",
-   "plats": [
-    {
-     "n": "XSX",
-     "s": null,
-     "c": 0,
-     "d": "2026-10-23"
-    },
-    {
-     "n": "PS5",
-     "s": null,
-     "c": 1,
-     "d": "2026-10-23"
-    },
-    {
-     "n": "NS2",
-     "s": null,
-     "c": 1,
-     "d": "2026-10-23"
-    },
-    {
-     "n": "PC",
-     "s": null,
-     "c": 10,
-     "d": "2026-10-23"
-    }
-   ],
-   "dev": "Infinity Ward",
-   "pub": "Activision",
-   "meta": 85,
-   "meta_count": 51,
-   "user": 7.7,
-   "user_count": 159,
-   "scores": {
-    "GameSpot": 80
    }
   },
   {
@@ -247,6 +227,48 @@
    "scores": {
     "IGN": 80,
     "Push Square": 70
+   }
+  },
+  {
+   "slug": "call-of-duty-modern-warfare-4",
+   "title": "Call of Duty: Modern Warfare 4",
+   "date": "2026-10-23",
+   "url": "https://www.metacritic.com/game/call-of-duty-modern-warfare-4/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1792136722.jpg",
+   "plats": [
+    {
+     "n": "XSX",
+     "s": null,
+     "c": 0,
+     "d": "2026-10-23"
+    },
+    {
+     "n": "PS5",
+     "s": null,
+     "c": 1,
+     "d": "2026-10-23"
+    },
+    {
+     "n": "NS2",
+     "s": null,
+     "c": 1,
+     "d": "2026-10-23"
+    },
+    {
+     "n": "PC",
+     "s": null,
+     "c": 10,
+     "d": "2026-10-23"
+    }
+   ],
+   "dev": "Infinity Ward",
+   "pub": "Activision",
+   "meta": 85,
+   "meta_count": 52,
+   "user": 7.6,
+   "user_count": 159,
+   "scores": {
+    "GameSpot": 80
    }
   },
   {
@@ -352,8 +374,8 @@
    ],
    "dev": "Auroch Digital",
    "pub": "Big Fan Games",
-   "meta": 81,
-   "meta_count": 31,
+   "meta": 82,
+   "meta_count": 33,
    "user": 6.1,
    "user_count": 4,
    "scores": {
@@ -409,6 +431,28 @@
    "scores": {}
   },
   {
+   "slug": "stellar-blade-complete-edition",
+   "title": "Stellar Blade: Complete Edition",
+   "date": "2026-11-05",
+   "url": "https://www.metacritic.com/game/stellar-blade-complete-edition/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1793661090.jpg",
+   "plats": [
+    {
+     "n": "NS2",
+     "s": 81,
+     "c": 7,
+     "d": "2026-11-05"
+    }
+   ],
+   "dev": "SHIFT UP Corporation",
+   "pub": "SHIFT UP Corporation",
+   "meta": 81,
+   "meta_count": 20,
+   "user": 9,
+   "user_count": 1,
+   "scores": {}
+  },
+  {
    "slug": "tenebris-somnia",
    "title": "Tenebris Somnia",
    "date": "2026-10-16",
@@ -449,9 +493,71 @@
    "dev": "Saibot Studios",
    "pub": "New Blood Interactive",
    "meta": 81,
-   "meta_count": 14,
+   "meta_count": 15,
    "user": 8.8,
    "user_count": 1,
+   "scores": {}
+  },
+  {
+   "slug": "marvels-guardians-of-the-galaxy-encore-edition",
+   "title": "Marvel's Guardians of the Galaxy: Encore Edition",
+   "date": "2026-11-05",
+   "url": "https://www.metacritic.com/game/marvels-guardians-of-the-galaxy-encore-edition/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1793640532.jpg",
+   "plats": [
+    {
+     "n": "NS2",
+     "s": 82,
+     "c": 8,
+     "d": "2026-11-05"
+    }
+   ],
+   "dev": "Eidos Montreal",
+   "pub": "Square Enix",
+   "meta": 81,
+   "meta_count": 12,
+   "user": 8.6,
+   "user_count": 0,
+   "scores": {}
+  },
+  {
+   "slug": "just-dance-decades-of-hits",
+   "title": "Just Dance: Decades of Hits",
+   "date": "2026-10-13",
+   "url": "https://www.metacritic.com/game/just-dance-decades-of-hits/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/3/6-1-1256680-13.jpg",
+   "plats": [
+    {
+     "n": "NS",
+     "s": 76,
+     "c": 12,
+     "d": "2026-10-13"
+    },
+    {
+     "n": "PS5",
+     "s": 78,
+     "c": 6,
+     "d": "2026-10-13"
+    },
+    {
+     "n": "XSX",
+     "s": null,
+     "c": 3,
+     "d": "2026-10-13"
+    },
+    {
+     "n": "NS2",
+     "s": null,
+     "c": 0,
+     "d": "2026-11-10"
+    }
+   ],
+   "dev": "Ubisoft",
+   "pub": "Ubisoft",
+   "meta": 76,
+   "meta_count": 12,
+   "user": 8.1,
+   "user_count": 4,
    "scores": {}
   },
   {
@@ -494,72 +600,10 @@
    ],
    "dev": "Pipeworks Software, Inc.",
    "pub": "Atari",
-   "meta": 74,
-   "meta_count": 14,
-   "user": 8.8,
-   "user_count": 0,
-   "scores": {}
-  },
-  {
-   "slug": "stellar-blade-complete-edition",
-   "title": "Stellar Blade: Complete Edition",
-   "date": "2026-11-05",
-   "url": "https://www.metacritic.com/game/stellar-blade-complete-edition/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1793661090.jpg",
-   "plats": [
-    {
-     "n": "NS2",
-     "s": 81,
-     "c": 7,
-     "d": "2026-11-05"
-    }
-   ],
-   "dev": "SHIFT UP Corporation",
-   "pub": "SHIFT UP Corporation",
-   "meta": 81,
-   "meta_count": 20,
-   "user": 8.6,
-   "user_count": 1,
-   "scores": {}
-  },
-  {
-   "slug": "just-dance-decades-of-hits",
-   "title": "Just Dance: Decades of Hits",
-   "date": "2026-10-13",
-   "url": "https://www.metacritic.com/game/just-dance-decades-of-hits/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/3/6-1-1256680-13.jpg",
-   "plats": [
-    {
-     "n": "NS",
-     "s": 76,
-     "c": 12,
-     "d": "2026-10-13"
-    },
-    {
-     "n": "PS5",
-     "s": 78,
-     "c": 6,
-     "d": "2026-10-13"
-    },
-    {
-     "n": "XSX",
-     "s": null,
-     "c": 3,
-     "d": "2026-10-13"
-    },
-    {
-     "n": "NS2",
-     "s": null,
-     "c": 0,
-     "d": "2026-11-10"
-    }
-   ],
-   "dev": "Ubisoft",
-   "pub": "Ubisoft",
-   "meta": 76,
-   "meta_count": 12,
+   "meta": 75,
+   "meta_count": 15,
    "user": 8.1,
-   "user_count": 3,
+   "user_count": 0,
    "scores": {}
   },
   {
@@ -603,7 +647,7 @@
    "dev": "Telltale Games",
    "pub": "Telltale Games",
    "meta": 85,
-   "meta_count": 11,
+   "meta_count": 12,
    "user": 7.6,
    "user_count": 7,
    "scores": {}
@@ -719,40 +763,6 @@
    "scores": {}
   },
   {
-   "slug": "enshrouded",
-   "title": "Enshrouded",
-   "date": "2026-10-15",
-   "url": "https://www.metacritic.com/game/enshrouded/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1792084682.jpg",
-   "plats": [
-    {
-     "n": "PC",
-     "s": 89,
-     "c": 10,
-     "d": "2026-10-15"
-    },
-    {
-     "n": "XSX",
-     "s": null,
-     "c": 0,
-     "d": null
-    },
-    {
-     "n": "PS5",
-     "s": null,
-     "c": 3,
-     "d": "2026-10-15"
-    }
-   ],
-   "dev": "Keen Games",
-   "pub": "Keen Games",
-   "meta": 88,
-   "meta_count": 15,
-   "user": 7.4,
-   "user_count": 12,
-   "scores": {}
-  },
-  {
    "slug": "remothered-red-nuns-legacy",
    "title": "Remothered: Red Nun's Legacy",
    "date": "2026-10-27",
@@ -786,10 +796,44 @@
    ],
    "dev": "Stormind Games",
    "pub": "Stormind Games",
-   "meta": 76,
-   "meta_count": 10,
-   "user": 7.4,
+   "meta": 75,
+   "meta_count": 11,
+   "user": 7.5,
    "user_count": 0,
+   "scores": {}
+  },
+  {
+   "slug": "enshrouded",
+   "title": "Enshrouded",
+   "date": "2026-10-15",
+   "url": "https://www.metacritic.com/game/enshrouded/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1792084682.jpg",
+   "plats": [
+    {
+     "n": "PC",
+     "s": 89,
+     "c": 10,
+     "d": "2026-10-15"
+    },
+    {
+     "n": "XSX",
+     "s": null,
+     "c": 0,
+     "d": null
+    },
+    {
+     "n": "PS5",
+     "s": null,
+     "c": 3,
+     "d": "2026-10-15"
+    }
+   ],
+   "dev": "Keen Games",
+   "pub": "Keen Games",
+   "meta": 88,
+   "meta_count": 15,
+   "user": 7.4,
+   "user_count": 12,
    "scores": {}
   },
   {
@@ -975,7 +1019,7 @@
    "dev": "Deconstructeam",
    "pub": "Devolver Digital",
    "meta": 78,
-   "meta_count": 23,
+   "meta_count": 25,
    "user": 5.9,
    "user_count": 3,
    "scores": {}
@@ -1083,28 +1127,6 @@
    "scores": {}
   },
   {
-   "slug": "marvels-guardians-of-the-galaxy-encore-edition",
-   "title": "Marvel's Guardians of the Galaxy: Encore Edition",
-   "date": "2026-11-05",
-   "url": "https://www.metacritic.com/game/marvels-guardians-of-the-galaxy-encore-edition/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1793640532.jpg",
-   "plats": [
-    {
-     "n": "NS2",
-     "s": 82,
-     "c": 8,
-     "d": "2026-11-05"
-    }
-   ],
-   "dev": "Eidos Montreal",
-   "pub": "Square Enix",
-   "meta": 81,
-   "meta_count": 12,
-   "user": null,
-   "user_count": 0,
-   "scores": {}
-  },
-  {
    "slug": "lightyear-frontier",
    "title": "Lightyear Frontier",
    "date": "2026-11-04",
@@ -1185,26 +1207,7 @@
    "scores": {}
   }
  ],
- "upcoming": [
-  {
-   "slug": "football-manager-27",
-   "title": "Football Manager 27",
-   "date": "2026-11-10",
-   "url": "https://www.metacritic.com/game/football-manager-27/",
-   "meta": 82,
-   "plats": [
-    {
-     "n": "PC",
-     "s": 82,
-     "c": 7,
-     "d": "2026-11-10"
-    }
-   ],
-   "dev": "Sports Interactive",
-   "pub": "Sega",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1793819120.jpg"
-  }
- ],
+ "upcoming": [],
  "annual": [
   {
    "year": 2026,
@@ -1240,7 +1243,7 @@
      "meta": 90,
      "meta_count": 83,
      "user": 8.2,
-     "user_count": 224,
+     "user_count": 225,
      "scores": {}
     },
     {
@@ -1332,7 +1335,7 @@
      "meta": 89,
      "meta_count": 141,
      "user": 9.3,
-     "user_count": 4091,
+     "user_count": 4108,
      "scores": {}
     },
     {
@@ -1354,7 +1357,7 @@
      "meta": 89,
      "meta_count": 121,
      "user": 8.6,
-     "user_count": 573,
+     "user_count": 583,
      "scores": {}
     },
     {
@@ -1416,7 +1419,7 @@
      "meta": 89,
      "meta_count": 58,
      "user": 8.3,
-     "user_count": 42,
+     "user_count": 49,
      "scores": {}
     },
     {
@@ -1442,8 +1445,8 @@
      "dev": "S-Game",
      "pub": "S-Game",
      "meta": 88,
-     "meta_count": 53,
-     "user": 8.7,
+     "meta_count": 54,
+     "user": 8.6,
      "user_count": 285,
      "scores": {}
     },
@@ -1624,8 +1627,8 @@
      "dev": "Lancarse",
      "pub": "Square Enix",
      "meta": 85,
-     "meta_count": 60,
-     "user": 9,
+     "meta_count": 62,
+     "user": 8.9,
      "user_count": 64,
      "scores": {}
     },
@@ -1666,7 +1669,7 @@
      "meta": 85,
      "meta_count": 110,
      "user": 8.7,
-     "user_count": 487,
+     "user_count": 493,
      "scores": {}
     },
     {
@@ -1706,7 +1709,7 @@
      "meta": 85,
      "meta_count": 107,
      "user": 8.5,
-     "user_count": 219,
+     "user_count": 227,
      "scores": {}
     },
     {
@@ -1762,7 +1765,7 @@
      "meta": 82,
      "meta_count": 124,
      "user": 9.2,
-     "user_count": 773,
+     "user_count": 788,
      "scores": {}
     },
     {
@@ -1784,7 +1787,7 @@
      "meta": 82,
      "meta_count": 104,
      "user": 8.5,
-     "user_count": 49,
+     "user_count": 52,
      "scores": {}
     }
    ]
@@ -1793,7 +1796,7 @@
  "sig": {
   "the-legend-of-zelda-ocarina-of-time-2026": [
    96,
-   90,
+   97,
    9.6
   ],
   "resident-evil-2-deluxe-edition": [
@@ -1808,8 +1811,8 @@
   ],
   "phantom-blade-zero": [
    88,
-   53,
-   8.7
+   54,
+   8.6
   ],
   "enshrouded": [
    88,
@@ -1818,18 +1821,18 @@
   ],
   "final-fantasy-resonance": [
    85,
-   60,
-   9
-  ],
-  "the-wolf-among-us-remastered": [
-   85,
-   11,
-   7.6
+   62,
+   8.9
   ],
   "call-of-duty-modern-warfare-4": [
    85,
-   51,
-   7.7
+   52,
+   7.6
+  ],
+  "the-wolf-among-us-remastered": [
+   85,
+   12,
+   7.6
   ],
   "village-in-the-shade": [
    84,
@@ -1851,25 +1854,30 @@
    10,
    null
   ],
+  "football-manager-27": [
+   82,
+   7,
+   null
+  ],
   "warhammer-40000-boltgun-2": [
-   81,
-   31,
+   82,
+   33,
    6.1
+  ],
+  "tenebris-somnia": [
+   81,
+   15,
+   8.8
   ],
   "marvels-guardians-of-the-galaxy-encore-edition": [
    81,
    12,
-   null
+   8.6
   ],
   "stellar-blade-complete-edition": [
    81,
    20,
-   8.6
-  ],
-  "tenebris-somnia": [
-   81,
-   14,
-   8.8
+   9
   ],
   "nintendo-switch-sports-resort": [
    79,
@@ -1881,20 +1889,25 @@
    7,
    null
   ],
+  "akiba-lost": [
+   79,
+   8,
+   null
+  ],
   "virtue-and-a-sledgehammer": [
    78,
-   23,
+   25,
    5.9
-  ],
-  "lightyear-frontier": [
-   78,
-   10,
-   null
   ],
   "blueys-happy-snaps": [
    78,
    10,
    7.6
+  ],
+  "lightyear-frontier": [
+   78,
+   10,
+   null
   ],
   "valor-mortis": [
    77,
@@ -1911,20 +1924,25 @@
    26,
    7.5
   ],
-  "remothered-red-nuns-legacy": [
-   76,
-   10,
-   7.4
-  ],
   "just-dance-decades-of-hits": [
    76,
    12,
    8.1
   ],
+  "remothered-red-nuns-legacy": [
+   75,
+   11,
+   7.5
+  ],
   "ratatan": [
    75,
    16,
    6.9
+  ],
+  "cozy-game-restoration": [
+   75,
+   7,
+   null
   ],
   "over-the-hill": [
    75,
@@ -1932,14 +1950,19 @@
    6.6
   ],
   "godzilla-destroy-all-monsters-melee-remastered": [
-   74,
-   14,
-   8.8
+   75,
+   15,
+   8.1
   ],
   "the-jackbox-party-pack-12": [
    74,
    8,
    null
+  ],
+  "probably-stolen-cyberpunk-pawnshop-simulator": [
+   73,
+   7,
+   9
   ],
   "joe-and-mac-retro-collection": [
    72,
@@ -1958,7 +1981,7 @@
   ],
   "we-were-here-tomorrow": [
    71,
-   7,
+   8,
    8.6
   ],
   "one-piece-grand-gourmet": [
