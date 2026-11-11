@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-10 09:50",
+ "updated": "2026-11-11 09:25",
  "window": [
-  "2026-10-11",
-  "2026-11-10"
+  "2026-10-12",
+  "2026-11-11"
  ],
- "total": 43,
+ "total": 47,
  "released": [
   {
    "slug": "the-legend-of-zelda-ocarina-of-time-2026",
@@ -23,7 +23,7 @@
    "dev": "Nintendo",
    "pub": "Nintendo",
    "meta": 96,
-   "meta_count": 97,
+   "meta_count": 102,
    "user": 9.6,
    "user_count": 1,
    "scores": {
@@ -176,8 +176,8 @@
    "dev": "Nintendo",
    "pub": "Nintendo",
    "meta": 79,
-   "meta_count": 90,
-   "user": 8.5,
+   "meta_count": 91,
+   "user": 8.6,
    "user_count": 26,
    "scores": {
     "Nintendo Life": 90,
@@ -223,7 +223,7 @@
    "meta": 83,
    "meta_count": 72,
    "user": 7.7,
-   "user_count": 118,
+   "user_count": 130,
    "scores": {
     "IGN": 80,
     "Push Square": 70
@@ -332,7 +332,7 @@
    "dev": "GPTRACK50",
    "pub": "GPTRACK50",
    "meta": 66,
-   "meta_count": 39,
+   "meta_count": 40,
    "user": 6.3,
    "user_count": 2,
    "scores": {
@@ -385,6 +385,46 @@
  ],
  "watch": [
   {
+   "slug": "village-in-the-shade",
+   "title": "Village in the Shade",
+   "date": "2026-10-27",
+   "url": "https://www.metacritic.com/game/village-in-the-shade/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1792722773.jpg",
+   "plats": [
+    {
+     "n": "PS5",
+     "s": 84,
+     "c": 4,
+     "d": "2026-10-27"
+    },
+    {
+     "n": "PC",
+     "s": 87,
+     "c": 6,
+     "d": "2026-07-29"
+    },
+    {
+     "n": "NS2",
+     "s": 85,
+     "c": 11,
+     "d": "2026-10-27"
+    },
+    {
+     "n": "NS",
+     "s": null,
+     "c": 0,
+     "d": "2026-10-27"
+    }
+   ],
+   "dev": "Nippon Ichi Software",
+   "pub": "NIS America",
+   "meta": 85,
+   "meta_count": 11,
+   "user": 9.2,
+   "user_count": 2,
+   "scores": {}
+  },
+  {
    "slug": "resident-evil-4-gold-edition",
    "title": "Resident Evil 4: Gold Edition",
    "date": "2026-10-16",
@@ -431,28 +471,6 @@
    "scores": {}
   },
   {
-   "slug": "stellar-blade-complete-edition",
-   "title": "Stellar Blade: Complete Edition",
-   "date": "2026-11-05",
-   "url": "https://www.metacritic.com/game/stellar-blade-complete-edition/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1793661090.jpg",
-   "plats": [
-    {
-     "n": "NS2",
-     "s": 81,
-     "c": 7,
-     "d": "2026-11-05"
-    }
-   ],
-   "dev": "SHIFT UP Corporation",
-   "pub": "SHIFT UP Corporation",
-   "meta": 81,
-   "meta_count": 20,
-   "user": 9,
-   "user_count": 1,
-   "scores": {}
-  },
-  {
    "slug": "tenebris-somnia",
    "title": "Tenebris Somnia",
    "date": "2026-10-16",
@@ -494,6 +512,28 @@
    "pub": "New Blood Interactive",
    "meta": 81,
    "meta_count": 15,
+   "user": 8.8,
+   "user_count": 1,
+   "scores": {}
+  },
+  {
+   "slug": "stellar-blade-complete-edition",
+   "title": "Stellar Blade: Complete Edition",
+   "date": "2026-11-05",
+   "url": "https://www.metacritic.com/game/stellar-blade-complete-edition/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1793661090.jpg",
+   "plats": [
+    {
+     "n": "NS2",
+     "s": 81,
+     "c": 7,
+     "d": "2026-11-05"
+    }
+   ],
+   "dev": "SHIFT UP Corporation",
+   "pub": "SHIFT UP Corporation",
+   "meta": 81,
+   "meta_count": 20,
    "user": 8.8,
    "user_count": 1,
    "scores": {}
@@ -603,7 +643,7 @@
    "meta": 75,
    "meta_count": 15,
    "user": 8.1,
-   "user_count": 0,
+   "user_count": 3,
    "scores": {}
   },
   {
@@ -650,6 +690,40 @@
    "meta_count": 12,
    "user": 7.6,
    "user_count": 7,
+   "scores": {}
+  },
+  {
+   "slug": "crimson-desert-charting-the-unknown",
+   "title": "Crimson Desert: Charting the Unknown",
+   "date": "2026-10-15",
+   "url": "https://www.metacritic.com/game/crimson-desert-charting-the-unknown/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1280269-59.jpg",
+   "plats": [
+    {
+     "n": "PS5",
+     "s": null,
+     "c": 0,
+     "d": "2026-10-15"
+    },
+    {
+     "n": "PC",
+     "s": 83,
+     "c": 7,
+     "d": "2026-10-15"
+    },
+    {
+     "n": "XSX",
+     "s": null,
+     "c": 0,
+     "d": "2026-10-15"
+    }
+   ],
+   "dev": "Pearl Abyss",
+   "pub": "Pearl Abyss",
+   "meta": 83,
+   "meta_count": 7,
+   "user": 7.6,
+   "user_count": 26,
    "scores": {}
   },
   {
@@ -1127,6 +1201,74 @@
    "scores": {}
   },
   {
+   "slug": "football-manager-27",
+   "title": "Football Manager 27",
+   "date": "2026-11-10",
+   "url": "https://www.metacritic.com/game/football-manager-27/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1793819120.jpg",
+   "plats": [
+    {
+     "n": "PC",
+     "s": 81,
+     "c": 13,
+     "d": "2026-11-10"
+    }
+   ],
+   "dev": "Sports Interactive",
+   "pub": "Sega",
+   "meta": 81,
+   "meta_count": 13,
+   "user": null,
+   "user_count": 0,
+   "scores": {}
+  },
+  {
+   "slug": "warhammer-survivors",
+   "title": "Warhammer Survivors",
+   "date": "2026-11-10",
+   "url": "https://www.metacritic.com/game/warhammer-survivors/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1177155-52.jpg",
+   "plats": [
+    {
+     "n": "PC",
+     "s": 79,
+     "c": 12,
+     "d": "2026-11-10"
+    },
+    {
+     "n": "NS2",
+     "s": null,
+     "c": 1,
+     "d": "2026-11-10"
+    },
+    {
+     "n": "NS",
+     "s": null,
+     "c": 1,
+     "d": "2026-11-10"
+    },
+    {
+     "n": "XSX",
+     "s": null,
+     "c": 3,
+     "d": "2026-11-10"
+    },
+    {
+     "n": "PS5",
+     "s": 76,
+     "c": 8,
+     "d": "2026-11-10"
+    }
+   ],
+   "dev": "Auroch Digital",
+   "pub": "Auroch Digital",
+   "meta": 79,
+   "meta_count": 12,
+   "user": null,
+   "user_count": 0,
+   "scores": {}
+  },
+  {
    "slug": "lightyear-frontier",
    "title": "Lightyear Frontier",
    "date": "2026-11-04",
@@ -1148,8 +1290,8 @@
    ],
    "dev": "Frame Break",
    "pub": "Frame Break",
-   "meta": 78,
-   "meta_count": 10,
+   "meta": 76,
+   "meta_count": 11,
    "user": null,
    "user_count": 1,
    "scores": {}
@@ -1207,7 +1349,26 @@
    "scores": {}
   }
  ],
- "upcoming": [],
+ "upcoming": [
+  {
+   "slug": "pikmin-4-nintendo-switch-2-edition-plus-dandori",
+   "title": "Pikmin 4: Nintendo Switch 2 Edition + Dandori Academy",
+   "date": "2026-11-12",
+   "url": "https://www.metacritic.com/game/pikmin-4-nintendo-switch-2-edition-plus-dandori/",
+   "meta": 84,
+   "plats": [
+    {
+     "n": "NS2",
+     "s": 84,
+     "c": 22,
+     "d": "2026-11-12"
+    }
+   ],
+   "dev": "Nintendo",
+   "pub": "Nintendo",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1282297-52.jpg"
+  }
+ ],
  "annual": [
   {
    "year": 2026,
@@ -1796,7 +1957,7 @@
  "sig": {
   "the-legend-of-zelda-ocarina-of-time-2026": [
    96,
-   97,
+   102,
    9.6
   ],
   "resident-evil-2-deluxe-edition": [
@@ -1824,6 +1985,11 @@
    62,
    8.9
   ],
+  "village-in-the-shade": [
+   85,
+   11,
+   9.2
+  ],
   "call-of-duty-modern-warfare-4": [
    85,
    52,
@@ -1834,15 +2000,15 @@
    12,
    7.6
   ],
-  "village-in-the-shade": [
-   84,
-   9,
-   9.2
-  ],
   "planet-zoo-2": [
    84,
    22,
    5.1
+  ],
+  "crimson-desert-charting-the-unknown": [
+   83,
+   7,
+   7.6
   ],
   "castlevania-belmonts-curse": [
    83,
@@ -1854,15 +2020,15 @@
    10,
    null
   ],
-  "football-manager-27": [
-   82,
-   7,
-   null
-  ],
   "warhammer-40000-boltgun-2": [
    82,
    33,
    6.1
+  ],
+  "football-manager-27": [
+   81,
+   13,
+   null
   ],
   "tenebris-somnia": [
    81,
@@ -1877,21 +2043,26 @@
   "stellar-blade-complete-edition": [
    81,
    20,
-   9
-  ],
-  "nintendo-switch-sports-resort": [
-   79,
-   90,
-   8.5
+   8.8
   ],
   "chivalware": [
    79,
    7,
    null
   ],
+  "nintendo-switch-sports-resort": [
+   79,
+   91,
+   8.6
+  ],
   "akiba-lost": [
    79,
    8,
+   null
+  ],
+  "warhammer-survivors": [
+   79,
+   12,
    null
   ],
   "virtue-and-a-sledgehammer": [
@@ -1904,11 +2075,6 @@
    10,
    7.6
   ],
-  "lightyear-frontier": [
-   78,
-   10,
-   null
-  ],
   "valor-mortis": [
    77,
    56,
@@ -1919,10 +2085,20 @@
    11,
    6.5
   ],
+  "disney-pixar-toy-story-3-complete-edition": [
+   77,
+   7,
+   7.6
+  ],
   "tales-of-eternia-remastered": [
    76,
    26,
    7.5
+  ],
+  "lightyear-frontier": [
+   76,
+   11,
+   null
   ],
   "just-dance-decades-of-hits": [
    76,
@@ -1956,7 +2132,7 @@
   ],
   "the-jackbox-party-pack-12": [
    74,
-   8,
+   9,
    null
   ],
   "probably-stolen-cyberpunk-pawnshop-simulator": [
@@ -1974,11 +2150,6 @@
    11,
    6.8
   ],
-  "disney-pixar-toy-story-3-complete-edition": [
-   71,
-   7,
-   null
-  ],
   "we-were-here-tomorrow": [
    71,
    8,
@@ -1994,6 +2165,11 @@
    7,
    7.7
   ],
+  "hello-kitty-party-land": [
+   69,
+   8,
+   8.1
+  ],
   "croc-2-kingdom-of-the-gobbos": [
    68,
    12,
@@ -2001,12 +2177,17 @@
   ],
   "stupid-never-dies": [
    66,
-   39,
+   40,
    6.3
   ],
   "hunters-moon": [
    63,
    7,
+   null
+  ],
+  "prinny-party-going-overboard": [
+   69,
+   4,
    null
   ]
  }
