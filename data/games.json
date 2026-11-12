@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-11 09:25",
+ "updated": "2026-11-12 09:50",
  "window": [
-  "2026-10-12",
-  "2026-11-11"
+  "2026-10-13",
+  "2026-11-12"
  ],
  "total": 47,
  "released": [
@@ -23,9 +23,9 @@
    "dev": "Nintendo",
    "pub": "Nintendo",
    "meta": 96,
-   "meta_count": 102,
+   "meta_count": 105,
    "user": 9.6,
-   "user_count": 1,
+   "user_count": 4835,
    "scores": {
     "Eurogamer": 100,
     "GameSpot": 90,
@@ -98,7 +98,7 @@
    "meta": 85,
    "meta_count": 62,
    "user": 8.9,
-   "user_count": 64,
+   "user_count": 76,
    "scores": {
     "Push Square": 80
    }
@@ -152,7 +152,7 @@
    "meta": 88,
    "meta_count": 54,
    "user": 8.6,
-   "user_count": 285,
+   "user_count": 372,
    "scores": {
     "IGN": 90,
     "GameSpot": 80,
@@ -178,7 +178,7 @@
    "meta": 79,
    "meta_count": 91,
    "user": 8.6,
-   "user_count": 26,
+   "user_count": 31,
    "scores": {
     "Nintendo Life": 90,
     "GameSpot": 90,
@@ -377,7 +377,7 @@
    "meta": 82,
    "meta_count": 33,
    "user": 6.1,
-   "user_count": 4,
+   "user_count": 5,
    "scores": {
     "IGN": 80
    }
@@ -535,7 +535,7 @@
    "meta": 81,
    "meta_count": 20,
    "user": 8.8,
-   "user_count": 1,
+   "user_count": 5,
    "scores": {}
   },
   {
@@ -557,7 +557,7 @@
    "meta": 81,
    "meta_count": 12,
    "user": 8.6,
-   "user_count": 0,
+   "user_count": 2,
    "scores": {}
   },
   {
@@ -871,7 +871,7 @@
    "dev": "Stormind Games",
    "pub": "Stormind Games",
    "meta": 75,
-   "meta_count": 11,
+   "meta_count": 12,
    "user": 7.5,
    "user_count": 0,
    "scores": {}
@@ -1015,7 +1015,7 @@
    "meta": 75,
    "meta_count": 26,
    "user": 6.6,
-   "user_count": 2,
+   "user_count": 3,
    "scores": {}
   },
   {
@@ -1073,7 +1073,7 @@
    "meta": 77,
    "meta_count": 11,
    "user": 6.5,
-   "user_count": 1,
+   "user_count": 2,
    "scores": {}
   },
   {
@@ -1173,6 +1173,28 @@
    "scores": {}
   },
   {
+   "slug": "pikmin-4-nintendo-switch-2-edition-plus-dandori",
+   "title": "Pikmin 4: Nintendo Switch 2 Edition + Dandori Academy",
+   "date": "2026-11-12",
+   "url": "https://www.metacritic.com/game/pikmin-4-nintendo-switch-2-edition-plus-dandori/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1282297-52.jpg",
+   "plats": [
+    {
+     "n": "NS2",
+     "s": 84,
+     "c": 22,
+     "d": "2026-11-12"
+    }
+   ],
+   "dev": "Nintendo",
+   "pub": "Nintendo",
+   "meta": 84,
+   "meta_count": 22,
+   "user": null,
+   "user_count": 0,
+   "scores": {}
+  },
+  {
    "slug": "mycopunk",
    "title": "Mycopunk",
    "date": "2026-10-20",
@@ -1262,8 +1284,8 @@
    ],
    "dev": "Auroch Digital",
    "pub": "Auroch Digital",
-   "meta": 79,
-   "meta_count": 12,
+   "meta": 78,
+   "meta_count": 14,
    "user": null,
    "user_count": 0,
    "scores": {}
@@ -1349,30 +1371,33 @@
    "scores": {}
   }
  ],
- "upcoming": [
-  {
-   "slug": "pikmin-4-nintendo-switch-2-edition-plus-dandori",
-   "title": "Pikmin 4: Nintendo Switch 2 Edition + Dandori Academy",
-   "date": "2026-11-12",
-   "url": "https://www.metacritic.com/game/pikmin-4-nintendo-switch-2-edition-plus-dandori/",
-   "meta": 84,
-   "plats": [
-    {
-     "n": "NS2",
-     "s": 84,
-     "c": 22,
-     "d": "2026-11-12"
-    }
-   ],
-   "dev": "Nintendo",
-   "pub": "Nintendo",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1282297-52.jpg"
-  }
- ],
+ "upcoming": [],
  "annual": [
   {
    "year": 2026,
    "games": [
+    {
+     "slug": "the-legend-of-zelda-ocarina-of-time-2026",
+     "title": "The Legend of Zelda: Ocarina of Time",
+     "date": "2026-11-05",
+     "url": "https://www.metacritic.com/game/the-legend-of-zelda-ocarina-of-time-2026/",
+     "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1788926816.jpg",
+     "plats": [
+      {
+       "n": "NS2",
+       "s": 96,
+       "c": 87,
+       "d": "2026-11-05"
+      }
+     ],
+     "dev": "Nintendo",
+     "pub": "Nintendo",
+     "meta": 96,
+     "meta_count": 105,
+     "user": 9.6,
+     "user_count": 4835,
+     "scores": {}
+    },
     {
      "slug": "forza-horizon-6",
      "title": "Forza Horizon 6",
@@ -1540,7 +1565,7 @@
      "meta": 89,
      "meta_count": 111,
      "user": 8.5,
-     "user_count": 307,
+     "user_count": 332,
      "scores": {}
     },
     {
@@ -1608,7 +1633,7 @@
      "meta": 88,
      "meta_count": 54,
      "user": 8.6,
-     "user_count": 285,
+     "user_count": 372,
      "scores": {}
     },
     {
@@ -1790,7 +1815,7 @@
      "meta": 85,
      "meta_count": 62,
      "user": 8.9,
-     "user_count": 64,
+     "user_count": 76,
      "scores": {}
     },
     {
@@ -1957,7 +1982,7 @@
  "sig": {
   "the-legend-of-zelda-ocarina-of-time-2026": [
    96,
-   102,
+   105,
    9.6
   ],
   "resident-evil-2-deluxe-edition": [
@@ -1999,6 +2024,11 @@
    85,
    12,
    7.6
+  ],
+  "pikmin-4-nintendo-switch-2-edition-plus-dandori": [
+   84,
+   22,
+   null
   ],
   "planet-zoo-2": [
    84,
@@ -2061,8 +2091,8 @@
    null
   ],
   "warhammer-survivors": [
-   79,
-   12,
+   78,
+   14,
    null
   ],
   "virtue-and-a-sledgehammer": [
@@ -2105,11 +2135,6 @@
    12,
    8.1
   ],
-  "remothered-red-nuns-legacy": [
-   75,
-   11,
-   7.5
-  ],
   "ratatan": [
    75,
    16,
@@ -2124,6 +2149,11 @@
    75,
    26,
    6.6
+  ],
+  "remothered-red-nuns-legacy": [
+   75,
+   12,
+   7.5
   ],
   "godzilla-destroy-all-monsters-melee-remastered": [
    75,
@@ -2183,11 +2213,6 @@
   "hunters-moon": [
    63,
    7,
-   null
-  ],
-  "prinny-party-going-overboard": [
-   69,
-   4,
    null
   ]
  }
