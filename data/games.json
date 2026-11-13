@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-12 09:50",
+ "updated": "2026-11-13 09:31",
  "window": [
-  "2026-10-13",
-  "2026-11-12"
+  "2026-10-14",
+  "2026-11-13"
  ],
  "total": 47,
  "released": [
@@ -23,7 +23,7 @@
    "dev": "Nintendo",
    "pub": "Nintendo",
    "meta": 96,
-   "meta_count": 105,
+   "meta_count": 107,
    "user": 9.6,
    "user_count": 4835,
    "scores": {
@@ -96,35 +96,11 @@
    "dev": "Lancarse",
    "pub": "Square Enix",
    "meta": 85,
-   "meta_count": 62,
+   "meta_count": 63,
    "user": 8.9,
    "user_count": 76,
    "scores": {
     "Push Square": 80
-   }
-  },
-  {
-   "slug": "resident-evil-2-deluxe-edition",
-   "title": "Resident Evil 2: Deluxe Edition",
-   "date": "2026-10-16",
-   "url": "https://www.metacritic.com/game/resident-evil-2-deluxe-edition/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1282312-52.jpg",
-   "plats": [
-    {
-     "n": "NS2",
-     "s": 93,
-     "c": 8,
-     "d": "2026-10-16"
-    }
-   ],
-   "dev": "Capcom",
-   "pub": "Capcom",
-   "meta": 93,
-   "meta_count": 16,
-   "user": 8.6,
-   "user_count": 9,
-   "scores": {
-    "Nintendo Life": 90
    }
   },
   {
@@ -150,7 +126,7 @@
    "dev": "S-Game",
    "pub": "S-Game",
    "meta": 88,
-   "meta_count": 54,
+   "meta_count": 55,
    "user": 8.6,
    "user_count": 372,
    "scores": {
@@ -176,7 +152,7 @@
    "dev": "Nintendo",
    "pub": "Nintendo",
    "meta": 79,
-   "meta_count": 91,
+   "meta_count": 93,
    "user": 8.6,
    "user_count": 31,
    "scores": {
@@ -184,6 +160,30 @@
     "GameSpot": 90,
     "Eurogamer": 80,
     "IGN": 70
+   }
+  },
+  {
+   "slug": "resident-evil-2-deluxe-edition",
+   "title": "Resident Evil 2: Deluxe Edition",
+   "date": "2026-10-16",
+   "url": "https://www.metacritic.com/game/resident-evil-2-deluxe-edition/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1282312-52.jpg",
+   "plats": [
+    {
+     "n": "NS2",
+     "s": 93,
+     "c": 8,
+     "d": "2026-10-16"
+    }
+   ],
+   "dev": "Capcom",
+   "pub": "Capcom",
+   "meta": 93,
+   "meta_count": 17,
+   "user": 8.4,
+   "user_count": 10,
+   "scores": {
+    "Nintendo Life": 90
    }
   },
   {
@@ -266,47 +266,9 @@
    "meta": 85,
    "meta_count": 52,
    "user": 7.6,
-   "user_count": 159,
+   "user_count": 185,
    "scores": {
     "GameSpot": 80
-   }
-  },
-  {
-   "slug": "valor-mortis",
-   "title": "Valor Mortis",
-   "date": "2026-10-13",
-   "url": "https://www.metacritic.com/game/valor-mortis/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1791784978.jpg",
-   "plats": [
-    {
-     "n": "PS5",
-     "s": 81,
-     "c": 10,
-     "d": "2026-10-13"
-    },
-    {
-     "n": "XSX",
-     "s": null,
-     "c": 0,
-     "d": "2026-10-13"
-    },
-    {
-     "n": "PC",
-     "s": 77,
-     "c": 40,
-     "d": "2026-10-13"
-    }
-   ],
-   "dev": "ONE MORE LEVEL",
-   "pub": "Lyrical Games",
-   "meta": 77,
-   "meta_count": 56,
-   "user": 7.4,
-   "user_count": 50,
-   "scores": {
-    "Eurogamer": 80,
-    "IGN": 70,
-    "GameSpot": 60
    }
   },
   {
@@ -385,46 +347,6 @@
  ],
  "watch": [
   {
-   "slug": "village-in-the-shade",
-   "title": "Village in the Shade",
-   "date": "2026-10-27",
-   "url": "https://www.metacritic.com/game/village-in-the-shade/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1792722773.jpg",
-   "plats": [
-    {
-     "n": "PS5",
-     "s": 84,
-     "c": 4,
-     "d": "2026-10-27"
-    },
-    {
-     "n": "PC",
-     "s": 87,
-     "c": 6,
-     "d": "2026-07-29"
-    },
-    {
-     "n": "NS2",
-     "s": 85,
-     "c": 11,
-     "d": "2026-10-27"
-    },
-    {
-     "n": "NS",
-     "s": null,
-     "c": 0,
-     "d": "2026-10-27"
-    }
-   ],
-   "dev": "Nippon Ichi Software",
-   "pub": "NIS America",
-   "meta": 85,
-   "meta_count": 11,
-   "user": 9.2,
-   "user_count": 2,
-   "scores": {}
-  },
-  {
    "slug": "resident-evil-4-gold-edition",
    "title": "Resident Evil 4: Gold Edition",
    "date": "2026-10-16",
@@ -465,9 +387,49 @@
    "dev": "Capcom",
    "pub": "Capcom",
    "meta": 89,
-   "meta_count": 17,
-   "user": 9.1,
+   "meta_count": 18,
+   "user": 9.2,
    "user_count": 5,
+   "scores": {}
+  },
+  {
+   "slug": "village-in-the-shade",
+   "title": "Village in the Shade",
+   "date": "2026-10-27",
+   "url": "https://www.metacritic.com/game/village-in-the-shade/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1792722773.jpg",
+   "plats": [
+    {
+     "n": "PS5",
+     "s": 84,
+     "c": 4,
+     "d": "2026-10-27"
+    },
+    {
+     "n": "PC",
+     "s": 87,
+     "c": 6,
+     "d": "2026-07-29"
+    },
+    {
+     "n": "NS2",
+     "s": 85,
+     "c": 11,
+     "d": "2026-10-27"
+    },
+    {
+     "n": "NS",
+     "s": null,
+     "c": 0,
+     "d": "2026-10-27"
+    }
+   ],
+   "dev": "Nippon Ichi Software",
+   "pub": "NIS America",
+   "meta": 85,
+   "meta_count": 11,
+   "user": 9.2,
+   "user_count": 2,
    "scores": {}
   },
   {
@@ -555,49 +517,9 @@
    "dev": "Eidos Montreal",
    "pub": "Square Enix",
    "meta": 81,
-   "meta_count": 12,
-   "user": 8.6,
+   "meta_count": 13,
+   "user": 8.5,
    "user_count": 2,
-   "scores": {}
-  },
-  {
-   "slug": "just-dance-decades-of-hits",
-   "title": "Just Dance: Decades of Hits",
-   "date": "2026-10-13",
-   "url": "https://www.metacritic.com/game/just-dance-decades-of-hits/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/3/6-1-1256680-13.jpg",
-   "plats": [
-    {
-     "n": "NS",
-     "s": 76,
-     "c": 12,
-     "d": "2026-10-13"
-    },
-    {
-     "n": "PS5",
-     "s": 78,
-     "c": 6,
-     "d": "2026-10-13"
-    },
-    {
-     "n": "XSX",
-     "s": null,
-     "c": 3,
-     "d": "2026-10-13"
-    },
-    {
-     "n": "NS2",
-     "s": null,
-     "c": 0,
-     "d": "2026-11-10"
-    }
-   ],
-   "dev": "Ubisoft",
-   "pub": "Ubisoft",
-   "meta": 76,
-   "meta_count": 12,
-   "user": 8.1,
-   "user_count": 4,
    "scores": {}
   },
   {
@@ -640,9 +562,9 @@
    ],
    "dev": "Pipeworks Software, Inc.",
    "pub": "Atari",
-   "meta": 75,
-   "meta_count": 15,
-   "user": 8.1,
+   "meta": 74,
+   "meta_count": 16,
+   "user": 8.2,
    "user_count": 3,
    "scores": {}
   },
@@ -689,7 +611,7 @@
    "meta": 85,
    "meta_count": 12,
    "user": 7.6,
-   "user_count": 7,
+   "user_count": 8,
    "scores": {}
   },
   {
@@ -721,7 +643,7 @@
    "dev": "Pearl Abyss",
    "pub": "Pearl Abyss",
    "meta": 83,
-   "meta_count": 7,
+   "meta_count": 8,
    "user": 7.6,
    "user_count": 26,
    "scores": {}
@@ -871,7 +793,7 @@
    "dev": "Stormind Games",
    "pub": "Stormind Games",
    "meta": 75,
-   "meta_count": 12,
+   "meta_count": 13,
    "user": 7.5,
    "user_count": 0,
    "scores": {}
@@ -975,6 +897,28 @@
    "meta": 72,
    "meta_count": 11,
    "user": 6.8,
+   "user_count": 0,
+   "scores": {}
+  },
+  {
+   "slug": "football-manager-27",
+   "title": "Football Manager 27",
+   "date": "2026-11-10",
+   "url": "https://www.metacritic.com/game/football-manager-27/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1793819120.jpg",
+   "plats": [
+    {
+     "n": "PC",
+     "s": 81,
+     "c": 13,
+     "d": "2026-11-10"
+    }
+   ],
+   "dev": "Sports Interactive",
+   "pub": "Sega",
+   "meta": 81,
+   "meta_count": 19,
+   "user": 6.6,
    "user_count": 0,
    "scores": {}
   },
@@ -1139,40 +1083,6 @@
    "scores": {}
   },
   {
-   "slug": "planet-zoo-2",
-   "title": "Planet Zoo 2",
-   "date": "2026-10-13",
-   "url": "https://www.metacritic.com/game/planet-zoo-2/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1791918063.jpg",
-   "plats": [
-    {
-     "n": "XSX",
-     "s": null,
-     "c": 1,
-     "d": "2026-10-13"
-    },
-    {
-     "n": "PS5",
-     "s": null,
-     "c": 3,
-     "d": "2026-10-13"
-    },
-    {
-     "n": "PC",
-     "s": 85,
-     "c": 15,
-     "d": "2026-10-13"
-    }
-   ],
-   "dev": "Frontier Developments",
-   "pub": "Frontier Developments",
-   "meta": 84,
-   "meta_count": 22,
-   "user": 5.1,
-   "user_count": 3,
-   "scores": {}
-  },
-  {
    "slug": "pikmin-4-nintendo-switch-2-edition-plus-dandori",
    "title": "Pikmin 4: Nintendo Switch 2 Edition + Dandori Academy",
    "date": "2026-11-12",
@@ -1189,7 +1099,7 @@
    "dev": "Nintendo",
    "pub": "Nintendo",
    "meta": 84,
-   "meta_count": 22,
+   "meta_count": 24,
    "user": null,
    "user_count": 0,
    "scores": {}
@@ -1218,28 +1128,6 @@
    "pub": "Devolver Digital",
    "meta": 83,
    "meta_count": 10,
-   "user": null,
-   "user_count": 0,
-   "scores": {}
-  },
-  {
-   "slug": "football-manager-27",
-   "title": "Football Manager 27",
-   "date": "2026-11-10",
-   "url": "https://www.metacritic.com/game/football-manager-27/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1793819120.jpg",
-   "plats": [
-    {
-     "n": "PC",
-     "s": 81,
-     "c": 13,
-     "d": "2026-11-10"
-    }
-   ],
-   "dev": "Sports Interactive",
-   "pub": "Sega",
-   "meta": 81,
-   "meta_count": 13,
    "user": null,
    "user_count": 0,
    "scores": {}
@@ -1393,7 +1281,7 @@
      "dev": "Nintendo",
      "pub": "Nintendo",
      "meta": 96,
-     "meta_count": 105,
+     "meta_count": 107,
      "user": 9.6,
      "user_count": 4835,
      "scores": {}
@@ -1631,7 +1519,7 @@
      "dev": "S-Game",
      "pub": "S-Game",
      "meta": 88,
-     "meta_count": 54,
+     "meta_count": 55,
      "user": 8.6,
      "user_count": 372,
      "scores": {}
@@ -1769,7 +1657,7 @@
      "meta": 87,
      "meta_count": 83,
      "user": 8.5,
-     "user_count": 739,
+     "user_count": 765,
      "scores": {}
     },
     {
@@ -1813,7 +1701,7 @@
      "dev": "Lancarse",
      "pub": "Square Enix",
      "meta": 85,
-     "meta_count": 62,
+     "meta_count": 63,
      "user": 8.9,
      "user_count": 76,
      "scores": {}
@@ -1982,22 +1870,22 @@
  "sig": {
   "the-legend-of-zelda-ocarina-of-time-2026": [
    96,
-   105,
+   107,
    9.6
   ],
   "resident-evil-2-deluxe-edition": [
    93,
-   16,
-   8.6
+   17,
+   8.4
   ],
   "resident-evil-4-gold-edition": [
    89,
-   17,
-   9.1
+   18,
+   9.2
   ],
   "phantom-blade-zero": [
    88,
-   54,
+   55,
    8.6
   ],
   "enshrouded": [
@@ -2007,7 +1895,7 @@
   ],
   "final-fantasy-resonance": [
    85,
-   62,
+   63,
    8.9
   ],
   "village-in-the-shade": [
@@ -2027,17 +1915,12 @@
   ],
   "pikmin-4-nintendo-switch-2-edition-plus-dandori": [
    84,
-   22,
+   24,
    null
-  ],
-  "planet-zoo-2": [
-   84,
-   22,
-   5.1
   ],
   "crimson-desert-charting-the-unknown": [
    83,
-   7,
+   8,
    7.6
   ],
   "castlevania-belmonts-curse": [
@@ -2057,8 +1940,8 @@
   ],
   "football-manager-27": [
    81,
-   13,
-   null
+   19,
+   6.6
   ],
   "tenebris-somnia": [
    81,
@@ -2067,23 +1950,23 @@
   ],
   "marvels-guardians-of-the-galaxy-encore-edition": [
    81,
-   12,
-   8.6
+   13,
+   8.5
   ],
   "stellar-blade-complete-edition": [
    81,
    20,
    8.8
   ],
+  "nintendo-switch-sports-resort": [
+   79,
+   93,
+   8.6
+  ],
   "chivalware": [
    79,
    7,
    null
-  ],
-  "nintendo-switch-sports-resort": [
-   79,
-   91,
-   8.6
   ],
   "akiba-lost": [
    79,
@@ -2100,20 +1983,25 @@
    25,
    5.9
   ],
+  "sonic-pico-park": [
+   78,
+   7,
+   null
+  ],
   "blueys-happy-snaps": [
    78,
    10,
    7.6
   ],
-  "valor-mortis": [
-   77,
-   56,
-   7.4
-  ],
   "disney-pixar-toy-story-retro-roundup": [
    77,
    11,
    6.5
+  ],
+  "tanuki-pons-summer": [
+   77,
+   7,
+   null
   ],
   "disney-pixar-toy-story-3-complete-edition": [
    77,
@@ -2130,11 +2018,6 @@
    11,
    null
   ],
-  "just-dance-decades-of-hits": [
-   76,
-   12,
-   8.1
-  ],
   "ratatan": [
    75,
    16,
@@ -2145,30 +2028,35 @@
    7,
    null
   ],
+  "remothered-red-nuns-legacy": [
+   75,
+   13,
+   7.5
+  ],
   "over-the-hill": [
    75,
    26,
    6.6
-  ],
-  "remothered-red-nuns-legacy": [
-   75,
-   12,
-   7.5
-  ],
-  "godzilla-destroy-all-monsters-melee-remastered": [
-   75,
-   15,
-   8.1
   ],
   "the-jackbox-party-pack-12": [
    74,
    9,
    null
   ],
+  "godzilla-destroy-all-monsters-melee-remastered": [
+   74,
+   16,
+   8.2
+  ],
   "probably-stolen-cyberpunk-pawnshop-simulator": [
    73,
    7,
    9
+  ],
+  "theos-cities-of-myth": [
+   72,
+   9,
+   null
   ],
   "joe-and-mac-retro-collection": [
    72,
