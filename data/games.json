@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-13 09:31",
+ "updated": "2026-11-14 08:58",
  "window": [
-  "2026-10-14",
-  "2026-11-13"
+  "2026-10-15",
+  "2026-11-14"
  ],
- "total": 47,
+ "total": 51,
  "released": [
   {
    "slug": "the-legend-of-zelda-ocarina-of-time-2026",
@@ -23,7 +23,7 @@
    "dev": "Nintendo",
    "pub": "Nintendo",
    "meta": 96,
-   "meta_count": 107,
+   "meta_count": 116,
    "user": 9.6,
    "user_count": 4835,
    "scores": {
@@ -32,6 +32,46 @@
     "Nintendo Life": 90,
     "IGN": 90
    }
+  },
+  {
+   "slug": "queens-domain",
+   "title": "Queen's Domain",
+   "date": "2026-10-30",
+   "url": "https://www.metacritic.com/game/queens-domain/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-944627-52.jpg",
+   "plats": [
+    {
+     "n": "PC",
+     "s": 88,
+     "c": 8,
+     "d": "2026-10-30"
+    },
+    {
+     "n": "PS5",
+     "s": 92,
+     "c": 5,
+     "d": "2026-10-30"
+    },
+    {
+     "n": "XSX",
+     "s": null,
+     "c": 0,
+     "d": "2026-10-30"
+    },
+    {
+     "n": "NS2",
+     "s": 85,
+     "c": 4,
+     "d": "2026-10-30"
+    }
+   ],
+   "dev": "Freshly Baked Games",
+   "pub": "Future Friends Games",
+   "meta": 88,
+   "meta_count": 8,
+   "user": 9.2,
+   "user_count": 20,
+   "scores": {}
   },
   {
    "slug": "probably-stolen-cyberpunk-pawnshop-simulator",
@@ -49,8 +89,8 @@
    ],
    "dev": "Questing Goose Studio",
    "pub": "tinyBuild",
-   "meta": 73,
-   "meta_count": 7,
+   "meta": 74,
+   "meta_count": 8,
    "user": 9,
    "user_count": 74,
    "scores": {}
@@ -126,7 +166,7 @@
    "dev": "S-Game",
    "pub": "S-Game",
    "meta": 88,
-   "meta_count": 55,
+   "meta_count": 56,
    "user": 8.6,
    "user_count": 372,
    "scores": {
@@ -294,54 +334,12 @@
    "dev": "GPTRACK50",
    "pub": "GPTRACK50",
    "meta": 66,
-   "meta_count": 40,
+   "meta_count": 41,
    "user": 6.3,
    "user_count": 2,
    "scores": {
     "Push Square": 70,
     "GameSpot": 60
-   }
-  },
-  {
-   "slug": "warhammer-40000-boltgun-2",
-   "title": "Warhammer 40,000: Boltgun 2",
-   "date": "2026-10-14",
-   "url": "https://www.metacritic.com/game/warhammer-40000-boltgun-2/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1790043784.jpg",
-   "plats": [
-    {
-     "n": "PC",
-     "s": 81,
-     "c": 15,
-     "d": "2026-10-14"
-    },
-    {
-     "n": "PS5",
-     "s": 76,
-     "c": 4,
-     "d": "2026-10-14"
-    },
-    {
-     "n": "NS2",
-     "s": null,
-     "c": 0,
-     "d": null
-    },
-    {
-     "n": "XSX",
-     "s": null,
-     "c": 2,
-     "d": "2026-10-14"
-    }
-   ],
-   "dev": "Auroch Digital",
-   "pub": "Big Fan Games",
-   "meta": 82,
-   "meta_count": 33,
-   "user": 6.1,
-   "user_count": 5,
-   "scores": {
-    "IGN": 80
    }
   }
  ],
@@ -517,7 +515,7 @@
    "dev": "Eidos Montreal",
    "pub": "Square Enix",
    "meta": 81,
-   "meta_count": 13,
+   "meta_count": 14,
    "user": 8.5,
    "user_count": 2,
    "scores": {}
@@ -608,9 +606,9 @@
    ],
    "dev": "Telltale Games",
    "pub": "Telltale Games",
-   "meta": 85,
-   "meta_count": 12,
-   "user": 7.6,
+   "meta": 84,
+   "meta_count": 13,
+   "user": 7.7,
    "user_count": 8,
    "scores": {}
   },
@@ -833,6 +831,28 @@
    "scores": {}
   },
   {
+   "slug": "football-manager-27",
+   "title": "Football Manager 27",
+   "date": "2026-11-10",
+   "url": "https://www.metacritic.com/game/football-manager-27/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1793819120.jpg",
+   "plats": [
+    {
+     "n": "PC",
+     "s": 81,
+     "c": 13,
+     "d": "2026-11-10"
+    }
+   ],
+   "dev": "Sports Interactive",
+   "pub": "Sega",
+   "meta": 80,
+   "meta_count": 21,
+   "user": 7.1,
+   "user_count": 0,
+   "scores": {}
+  },
+  {
    "slug": "ratatan",
    "title": "RATATAN",
    "date": "2026-10-15",
@@ -898,68 +918,6 @@
    "meta_count": 11,
    "user": 6.8,
    "user_count": 0,
-   "scores": {}
-  },
-  {
-   "slug": "football-manager-27",
-   "title": "Football Manager 27",
-   "date": "2026-11-10",
-   "url": "https://www.metacritic.com/game/football-manager-27/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1793819120.jpg",
-   "plats": [
-    {
-     "n": "PC",
-     "s": 81,
-     "c": 13,
-     "d": "2026-11-10"
-    }
-   ],
-   "dev": "Sports Interactive",
-   "pub": "Sega",
-   "meta": 81,
-   "meta_count": 19,
-   "user": 6.6,
-   "user_count": 0,
-   "scores": {}
-  },
-  {
-   "slug": "over-the-hill",
-   "title": "over the hill",
-   "date": "2026-10-14",
-   "url": "https://www.metacritic.com/game/over-the-hill/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1792139150.jpg",
-   "plats": [
-    {
-     "n": "PC",
-     "s": 68,
-     "c": 10,
-     "d": "2026-10-14"
-    },
-    {
-     "n": "NS2",
-     "s": null,
-     "c": 0,
-     "d": null
-    },
-    {
-     "n": "PS5",
-     "s": null,
-     "c": 0,
-     "d": null
-    },
-    {
-     "n": "XSX",
-     "s": null,
-     "c": 0,
-     "d": null
-    }
-   ],
-   "dev": "Funselektor Labs Inc.",
-   "pub": "Funselektor Labs Inc.",
-   "meta": 75,
-   "meta_count": 26,
-   "user": 6.6,
-   "user_count": 3,
    "scores": {}
   },
   {
@@ -1037,7 +995,7 @@
    "dev": "Deconstructeam",
    "pub": "Devolver Digital",
    "meta": 78,
-   "meta_count": 25,
+   "meta_count": 26,
    "user": 5.9,
    "user_count": 3,
    "scores": {}
@@ -1098,8 +1056,8 @@
    ],
    "dev": "Nintendo",
    "pub": "Nintendo",
-   "meta": 84,
-   "meta_count": 24,
+   "meta": 83,
+   "meta_count": 25,
    "user": null,
    "user_count": 0,
    "scores": {}
@@ -1207,6 +1165,28 @@
    "scores": {}
   },
   {
+   "slug": "theos-cities-of-myth",
+   "title": "Theos: Cities of Myth",
+   "date": "2026-11-04",
+   "url": "https://www.metacritic.com/game/theos-cities-of-myth/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1242534-52.jpg",
+   "plats": [
+    {
+     "n": "PC",
+     "s": 71,
+     "c": 10,
+     "d": "2026-11-04"
+    }
+   ],
+   "dev": "Triskell Interactive",
+   "pub": "DotEmu",
+   "meta": 71,
+   "meta_count": 10,
+   "user": null,
+   "user_count": 0,
+   "scores": {}
+  },
+  {
    "slug": "croc-2-kingdom-of-the-gobbos",
    "title": "Croc 2 Kingdom of the Gobbos",
    "date": "2026-10-29",
@@ -1259,7 +1239,38 @@
    "scores": {}
   }
  ],
- "upcoming": [],
+ "upcoming": [
+  {
+   "slug": "the-binding-of-isaac-repentance-plus-online",
+   "title": "The Binding of Isaac: Repentance + Online",
+   "date": "2026-11-19",
+   "url": "https://www.metacritic.com/game/the-binding-of-isaac-repentance-plus-online/",
+   "meta": 89,
+   "plats": [
+    {
+     "n": "PS5",
+     "s": 88,
+     "c": 4,
+     "d": "2026-11-19"
+    },
+    {
+     "n": "XSX",
+     "s": null,
+     "c": 0,
+     "d": "2026-11-19"
+    },
+    {
+     "n": "NS2",
+     "s": 89,
+     "c": 9,
+     "d": "2026-11-19"
+    }
+   ],
+   "dev": "Nicalis",
+   "pub": "Nicalis",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1174557-17.jpg"
+  }
+ ],
  "annual": [
   {
    "year": 2026,
@@ -1281,7 +1292,7 @@
      "dev": "Nintendo",
      "pub": "Nintendo",
      "meta": 96,
-     "meta_count": 107,
+     "meta_count": 116,
      "user": 9.6,
      "user_count": 4835,
      "scores": {}
@@ -1451,7 +1462,7 @@
      "dev": "Nintendo",
      "pub": "Nintendo",
      "meta": 89,
-     "meta_count": 111,
+     "meta_count": 113,
      "user": 8.5,
      "user_count": 332,
      "scores": {}
@@ -1519,7 +1530,7 @@
      "dev": "S-Game",
      "pub": "S-Game",
      "meta": 88,
-     "meta_count": 55,
+     "meta_count": 56,
      "user": 8.6,
      "user_count": 372,
      "scores": {}
@@ -1593,9 +1604,9 @@
      "dev": "Fuse Games",
      "pub": "Secret Mode",
      "meta": 88,
-     "meta_count": 80,
-     "user": 8.2,
-     "user_count": 48,
+     "meta_count": 81,
+     "user": 8.1,
+     "user_count": 51,
      "scores": {}
     },
     {
@@ -1629,7 +1640,7 @@
      "meta": 87,
      "meta_count": 76,
      "user": 8.7,
-     "user_count": 53,
+     "user_count": 55,
      "scores": {}
     },
     {
@@ -1781,7 +1792,7 @@
      "dev": "Capcom",
      "pub": "Capcom",
      "meta": 85,
-     "meta_count": 107,
+     "meta_count": 108,
      "user": 8.5,
      "user_count": 227,
      "scores": {}
@@ -1817,7 +1828,7 @@
      "meta": 83,
      "meta_count": 90,
      "user": 8.7,
-     "user_count": 240,
+     "user_count": 250,
      "scores": {}
     },
     {
@@ -1870,7 +1881,7 @@
  "sig": {
   "the-legend-of-zelda-ocarina-of-time-2026": [
    96,
-   107,
+   116,
    9.6
   ],
   "resident-evil-2-deluxe-edition": [
@@ -1885,13 +1896,18 @@
   ],
   "phantom-blade-zero": [
    88,
-   55,
+   56,
    8.6
   ],
   "enshrouded": [
    88,
    15,
    7.4
+  ],
+  "queens-domain": [
+   88,
+   8,
+   9.2
   ],
   "final-fantasy-resonance": [
    85,
@@ -1909,13 +1925,13 @@
    7.6
   ],
   "the-wolf-among-us-remastered": [
-   85,
-   12,
-   7.6
+   84,
+   13,
+   7.7
   ],
   "pikmin-4-nintendo-switch-2-edition-plus-dandori": [
-   84,
-   24,
+   83,
+   25,
    null
   ],
   "crimson-desert-charting-the-unknown": [
@@ -1933,30 +1949,25 @@
    10,
    null
   ],
-  "warhammer-40000-boltgun-2": [
-   82,
-   33,
-   6.1
-  ],
-  "football-manager-27": [
+  "marvels-guardians-of-the-galaxy-encore-edition": [
    81,
-   19,
-   6.6
+   14,
+   8.5
   ],
   "tenebris-somnia": [
    81,
    15,
    8.8
   ],
-  "marvels-guardians-of-the-galaxy-encore-edition": [
-   81,
-   13,
-   8.5
-  ],
   "stellar-blade-complete-edition": [
    81,
    20,
    8.8
+  ],
+  "football-manager-27": [
+   80,
+   21,
+   7.1
   ],
   "nintendo-switch-sports-resort": [
    79,
@@ -1980,7 +1991,7 @@
   ],
   "virtue-and-a-sledgehammer": [
    78,
-   25,
+   26,
    5.9
   ],
   "sonic-pico-park": [
@@ -2018,6 +2029,11 @@
    11,
    null
   ],
+  "annihilated": [
+   76,
+   7,
+   null
+  ],
   "ratatan": [
    75,
    16,
@@ -2033,11 +2049,6 @@
    13,
    7.5
   ],
-  "over-the-hill": [
-   75,
-   26,
-   6.6
-  ],
   "the-jackbox-party-pack-12": [
    74,
    9,
@@ -2049,13 +2060,18 @@
    8.2
   ],
   "probably-stolen-cyberpunk-pawnshop-simulator": [
-   73,
-   7,
+   74,
+   8,
    9
   ],
-  "theos-cities-of-myth": [
-   72,
-   9,
+  "ashes-of-the-singularity-ii": [
+   73,
+   7,
+   null
+  ],
+  "australia-did-it-end-of-the-world-railway-defense": [
+   73,
+   7,
    null
   ],
   "joe-and-mac-retro-collection": [
@@ -2067,6 +2083,11 @@
    72,
    11,
    6.8
+  ],
+  "theos-cities-of-myth": [
+   71,
+   10,
+   null
   ],
   "we-were-here-tomorrow": [
    71,
@@ -2093,14 +2114,24 @@
    12,
    null
   ],
+  "moomin-midsummer-madness": [
+   67,
+   8,
+   null
+  ],
   "stupid-never-dies": [
    66,
-   40,
+   41,
    6.3
   ],
   "hunters-moon": [
    63,
    7,
+   null
+  ],
+  "derelikt": [
+   79,
+   5,
    null
   ]
  }
