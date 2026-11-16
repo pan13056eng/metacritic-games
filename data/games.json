@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-15 09:26",
+ "updated": "2026-11-16 09:43",
  "window": [
-  "2026-10-16",
-  "2026-11-15"
+  "2026-10-17",
+  "2026-11-16"
  ],
- "total": 43,
+ "total": 37,
  "released": [
   {
    "slug": "the-legend-of-zelda-ocarina-of-time-2026",
@@ -23,7 +23,7 @@
    "dev": "Nintendo",
    "pub": "Nintendo",
    "meta": 95,
-   "meta_count": 119,
+   "meta_count": 124,
    "user": 9.6,
    "user_count": 4835,
    "scores": {
@@ -68,8 +68,8 @@
    "dev": "Freshly Baked Games",
    "pub": "Future Friends Games",
    "meta": 88,
-   "meta_count": 8,
-   "user": 9.2,
+   "meta_count": 9,
+   "user": 9,
    "user_count": 20,
    "scores": {}
   },
@@ -166,7 +166,7 @@
    "dev": "S-Game",
    "pub": "S-Game",
    "meta": 88,
-   "meta_count": 56,
+   "meta_count": 57,
    "user": 8.6,
    "user_count": 372,
    "scores": {
@@ -200,30 +200,6 @@
     "GameSpot": 90,
     "Eurogamer": 80,
     "IGN": 70
-   }
-  },
-  {
-   "slug": "resident-evil-2-deluxe-edition",
-   "title": "Resident Evil 2: Deluxe Edition",
-   "date": "2026-10-16",
-   "url": "https://www.metacritic.com/game/resident-evil-2-deluxe-edition/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1282312-52.jpg",
-   "plats": [
-    {
-     "n": "NS2",
-     "s": 93,
-     "c": 8,
-     "d": "2026-10-16"
-    }
-   ],
-   "dev": "Capcom",
-   "pub": "Capcom",
-   "meta": 93,
-   "meta_count": 17,
-   "user": 8.5,
-   "user_count": 10,
-   "scores": {
-    "Nintendo Life": 90
    }
   },
   {
@@ -261,8 +237,8 @@
    "dev": "Infinity Ward",
    "pub": "Activision",
    "meta": 85,
-   "meta_count": 52,
-   "user": 7.6,
+   "meta_count": 53,
+   "user": 7.5,
    "user_count": 185,
    "scores": {
     "GameSpot": 80
@@ -302,52 +278,6 @@
  ],
  "watch": [
   {
-   "slug": "resident-evil-4-gold-edition",
-   "title": "Resident Evil 4: Gold Edition",
-   "date": "2026-10-16",
-   "url": "https://www.metacritic.com/game/resident-evil-4-gold-edition/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1282314-52.jpg",
-   "plats": [
-    {
-     "n": "PS5",
-     "s": null,
-     "c": 0,
-     "d": "2024-02-09"
-    },
-    {
-     "n": "PC",
-     "s": null,
-     "c": 0,
-     "d": "2024-02-09"
-    },
-    {
-     "n": "PS4",
-     "s": null,
-     "c": 0,
-     "d": "2024-02-09"
-    },
-    {
-     "n": "XSX",
-     "s": null,
-     "c": 0,
-     "d": "2024-02-09"
-    },
-    {
-     "n": "NS2",
-     "s": 90,
-     "c": 8,
-     "d": "2026-10-16"
-    }
-   ],
-   "dev": "Capcom",
-   "pub": "Capcom",
-   "meta": 89,
-   "meta_count": 18,
-   "user": 9.2,
-   "user_count": 5,
-   "scores": {}
-  },
-  {
    "slug": "village-in-the-shade",
    "title": "Village in the Shade",
    "date": "2026-10-27",
@@ -385,52 +315,6 @@
    "meta_count": 11,
    "user": 9.2,
    "user_count": 2,
-   "scores": {}
-  },
-  {
-   "slug": "tenebris-somnia",
-   "title": "Tenebris Somnia",
-   "date": "2026-10-16",
-   "url": "https://www.metacritic.com/game/tenebris-somnia/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1792083763.jpg",
-   "plats": [
-    {
-     "n": "PC",
-     "s": 82,
-     "c": 10,
-     "d": "2026-10-16"
-    },
-    {
-     "n": "NS",
-     "s": null,
-     "c": 1,
-     "d": "2026-10-16"
-    },
-    {
-     "n": "NS2",
-     "s": null,
-     "c": 0,
-     "d": "2026-10-16"
-    },
-    {
-     "n": "XSX",
-     "s": null,
-     "c": 0,
-     "d": "2026-10-16"
-    },
-    {
-     "n": "PS5",
-     "s": null,
-     "c": 2,
-     "d": "2026-10-16"
-    }
-   ],
-   "dev": "Saibot Studios",
-   "pub": "New Blood Interactive",
-   "meta": 81,
-   "meta_count": 15,
-   "user": 8.8,
-   "user_count": 1,
    "scores": {}
   },
   {
@@ -564,61 +448,9 @@
    "dev": "Telltale Games",
    "pub": "Telltale Games",
    "meta": 84,
-   "meta_count": 13,
+   "meta_count": 14,
    "user": 7.7,
    "user_count": 8,
-   "scores": {}
-  },
-  {
-   "slug": "tales-of-eternia-remastered",
-   "title": "Tales of Eternia Remastered",
-   "date": "2026-10-16",
-   "url": "https://www.metacritic.com/game/tales-of-eternia-remastered/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1791946499.jpg",
-   "plats": [
-    {
-     "n": "NS",
-     "s": null,
-     "c": 0,
-     "d": "2026-10-16"
-    },
-    {
-     "n": "NS2",
-     "s": null,
-     "c": 2,
-     "d": "2026-10-16"
-    },
-    {
-     "n": "PS4",
-     "s": null,
-     "c": 0,
-     "d": "2026-10-16"
-    },
-    {
-     "n": "PS5",
-     "s": 77,
-     "c": 11,
-     "d": "2026-10-16"
-    },
-    {
-     "n": "PC",
-     "s": null,
-     "c": 0,
-     "d": "2026-10-16"
-    },
-    {
-     "n": "XSX",
-     "s": null,
-     "c": 0,
-     "d": "2026-10-16"
-    }
-   ],
-   "dev": "TOSE",
-   "pub": "Bandai Namco Games",
-   "meta": 76,
-   "meta_count": 26,
-   "user": 7.5,
-   "user_count": 4,
    "scores": {}
   },
   {
@@ -678,36 +510,8 @@
    "dev": "Sports Interactive",
    "pub": "Sega",
    "meta": 80,
-   "meta_count": 21,
-   "user": 7.3,
-   "user_count": 0,
-   "scores": {}
-  },
-  {
-   "slug": "penguin-colony",
-   "title": "Penguin Colony",
-   "date": "2026-10-16",
-   "url": "https://www.metacritic.com/game/penguin-colony/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1127953-52.jpg",
-   "plats": [
-    {
-     "n": "PC",
-     "s": 76,
-     "c": 10,
-     "d": "2026-10-16"
-    },
-    {
-     "n": "NS2",
-     "s": null,
-     "c": 0,
-     "d": null
-    }
-   ],
-   "dev": "ORIGAME DIGITAL",
-   "pub": "Fellow Traveller",
-   "meta": 72,
-   "meta_count": 11,
-   "user": 6.8,
+   "meta_count": 22,
+   "user": 6.3,
    "user_count": 0,
    "scores": {}
   },
@@ -752,28 +556,6 @@
    "scores": {}
   },
   {
-   "slug": "virtue-and-a-sledgehammer",
-   "title": "Virtue and a Sledgehammer",
-   "date": "2026-10-27",
-   "url": "https://www.metacritic.com/game/virtue-and-a-sledgehammer/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1793116470.jpg",
-   "plats": [
-    {
-     "n": "PC",
-     "s": 79,
-     "c": 11,
-     "d": "2026-10-27"
-    }
-   ],
-   "dev": "Deconstructeam",
-   "pub": "Devolver Digital",
-   "meta": 78,
-   "meta_count": 26,
-   "user": 5.9,
-   "user_count": 3,
-   "scores": {}
-  },
-  {
    "slug": "warhammer-survivors",
    "title": "Warhammer Survivors",
    "date": "2026-11-10",
@@ -813,10 +595,32 @@
    ],
    "dev": "Auroch Digital",
    "pub": "Auroch Digital",
-   "meta": 78,
-   "meta_count": 14,
-   "user": 5.8,
+   "meta": 79,
+   "meta_count": 15,
+   "user": 5.9,
    "user_count": 0,
+   "scores": {}
+  },
+  {
+   "slug": "virtue-and-a-sledgehammer",
+   "title": "Virtue and a Sledgehammer",
+   "date": "2026-10-27",
+   "url": "https://www.metacritic.com/game/virtue-and-a-sledgehammer/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1793116470.jpg",
+   "plats": [
+    {
+     "n": "PC",
+     "s": 79,
+     "c": 11,
+     "d": "2026-10-27"
+    }
+   ],
+   "dev": "Deconstructeam",
+   "pub": "Devolver Digital",
+   "meta": 78,
+   "meta_count": 26,
+   "user": 5.9,
+   "user_count": 3,
    "scores": {}
   },
   {
@@ -1025,7 +829,7 @@
      "dev": "Nintendo",
      "pub": "Nintendo",
      "meta": 95,
-     "meta_count": 119,
+     "meta_count": 124,
      "user": 9.6,
      "user_count": 4835,
      "scores": {}
@@ -1263,7 +1067,7 @@
      "dev": "S-Game",
      "pub": "S-Game",
      "meta": 88,
-     "meta_count": 56,
+     "meta_count": 57,
      "user": 8.6,
      "user_count": 372,
      "scores": {}
@@ -1614,28 +1418,18 @@
  "sig": {
   "the-legend-of-zelda-ocarina-of-time-2026": [
    95,
-   119,
+   124,
    9.6
-  ],
-  "resident-evil-2-deluxe-edition": [
-   93,
-   17,
-   8.5
-  ],
-  "resident-evil-4-gold-edition": [
-   89,
-   18,
-   9.2
   ],
   "phantom-blade-zero": [
    88,
-   56,
+   57,
    8.6
   ],
   "queens-domain": [
    88,
-   8,
-   9.2
+   9,
+   9
   ],
   "final-fantasy-resonance": [
    85,
@@ -1649,12 +1443,12 @@
   ],
   "call-of-duty-modern-warfare-4": [
    85,
-   52,
-   7.6
+   53,
+   7.5
   ],
   "the-wolf-among-us-remastered": [
    84,
-   13,
+   14,
    7.7
   ],
   "pikmin-4-nintendo-switch-2-edition-plus-dandori": [
@@ -1672,11 +1466,6 @@
    14,
    8.5
   ],
-  "tenebris-somnia": [
-   81,
-   15,
-   8.8
-  ],
   "stellar-blade-complete-edition": [
    81,
    20,
@@ -1684,8 +1473,8 @@
   ],
   "football-manager-27": [
    80,
-   21,
-   7.3
+   22,
+   6.3
   ],
   "nintendo-switch-sports-resort": [
    79,
@@ -1703,9 +1492,9 @@
    null
   ],
   "warhammer-survivors": [
-   78,
-   14,
-   5.8
+   79,
+   15,
+   5.9
   ],
   "virtue-and-a-sledgehammer": [
    78,
@@ -1722,11 +1511,6 @@
    7,
    null
   ],
-  "tales-of-eternia-remastered": [
-   76,
-   26,
-   7.5
-  ],
   "lightyear-frontier": [
    76,
    11,
@@ -1737,15 +1521,15 @@
    7,
    null
   ],
-  "remothered-red-nuns-legacy": [
-   75,
-   13,
-   7.5
-  ],
   "cozy-game-restoration": [
    75,
    7,
    null
+  ],
+  "remothered-red-nuns-legacy": [
+   75,
+   13,
+   7.5
   ],
   "godzilla-destroy-all-monsters-melee-remastered": [
    74,
@@ -1771,11 +1555,6 @@
    72,
    7,
    null
-  ],
-  "penguin-colony": [
-   72,
-   11,
-   6.8
   ],
   "theos-cities-of-myth": [
    71,
@@ -1820,11 +1599,6 @@
   "hunters-moon": [
    63,
    7,
-   null
-  ],
-  "derelikt": [
-   79,
-   5,
    null
   ]
  }
