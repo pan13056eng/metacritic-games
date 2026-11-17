@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-16 09:43",
+ "updated": "2026-11-17 10:43",
  "window": [
-  "2026-10-17",
-  "2026-11-16"
+  "2026-10-18",
+  "2026-11-17"
  ],
- "total": 37,
+ "total": 40,
  "released": [
   {
    "slug": "the-legend-of-zelda-ocarina-of-time-2026",
@@ -22,8 +22,8 @@
    ],
    "dev": "Nintendo",
    "pub": "Nintendo",
-   "meta": 95,
-   "meta_count": 124,
+   "meta": 96,
+   "meta_count": 132,
    "user": 9.6,
    "user_count": 4835,
    "scores": {
@@ -92,7 +92,7 @@
    "meta": 74,
    "meta_count": 8,
    "user": 9,
-   "user_count": 74,
+   "user_count": 77,
    "scores": {}
   },
   {
@@ -166,7 +166,7 @@
    "dev": "S-Game",
    "pub": "S-Game",
    "meta": 88,
-   "meta_count": 57,
+   "meta_count": 59,
    "user": 8.6,
    "user_count": 372,
    "scores": {
@@ -192,7 +192,7 @@
    "dev": "Nintendo",
    "pub": "Nintendo",
    "meta": 79,
-   "meta_count": 93,
+   "meta_count": 94,
    "user": 8.6,
    "user_count": 31,
    "scores": {
@@ -267,7 +267,7 @@
    "dev": "GPTRACK50",
    "pub": "GPTRACK50",
    "meta": 66,
-   "meta_count": 41,
+   "meta_count": 42,
    "user": 6.4,
    "user_count": 2,
    "scores": {
@@ -334,7 +334,7 @@
    "dev": "SHIFT UP Corporation",
    "pub": "SHIFT UP Corporation",
    "meta": 81,
-   "meta_count": 20,
+   "meta_count": 22,
    "user": 8.7,
    "user_count": 5,
    "scores": {}
@@ -510,8 +510,8 @@
    "dev": "Sports Interactive",
    "pub": "Sega",
    "meta": 80,
-   "meta_count": 22,
-   "user": 6.3,
+   "meta_count": 24,
+   "user": 6.5,
    "user_count": 0,
    "scores": {}
   },
@@ -595,8 +595,8 @@
    ],
    "dev": "Auroch Digital",
    "pub": "Auroch Digital",
-   "meta": 79,
-   "meta_count": 15,
+   "meta": 78,
+   "meta_count": 16,
    "user": 5.9,
    "user_count": 0,
    "scores": {}
@@ -618,9 +618,31 @@
    "dev": "Deconstructeam",
    "pub": "Devolver Digital",
    "meta": 78,
-   "meta_count": 26,
+   "meta_count": 27,
    "user": 5.9,
    "user_count": 3,
+   "scores": {}
+  },
+  {
+   "slug": "world-of-warcraft-forever",
+   "title": "World of Warcraft: Forever",
+   "date": "2026-11-04",
+   "url": "https://www.metacritic.com/game/world-of-warcraft-forever/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1794591329.jpg",
+   "plats": [
+    {
+     "n": "PC",
+     "s": 84,
+     "c": 7,
+     "d": "2026-11-04"
+    }
+   ],
+   "dev": "Blizzard Entertainment",
+   "pub": "Blizzard Entertainment",
+   "meta": 84,
+   "meta_count": 7,
+   "user": 5.5,
+   "user_count": 21,
    "scores": {}
   },
   {
@@ -640,8 +662,8 @@
    "dev": "Nintendo",
    "pub": "Nintendo",
    "meta": 83,
-   "meta_count": 25,
-   "user": 0.5,
+   "meta_count": 26,
+   "user": 1.9,
    "user_count": 0,
    "scores": {}
   },
@@ -774,6 +796,28 @@
    "user": null,
    "user_count": 0,
    "scores": {}
+  },
+  {
+   "slug": "ashes-of-the-singularity-ii",
+   "title": "Ashes of the Singularity II",
+   "date": "2026-11-10",
+   "url": "https://www.metacritic.com/game/ashes-of-the-singularity-ii/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1794648944.jpg",
+   "plats": [
+    {
+     "n": "PC",
+     "s": 65,
+     "c": 10,
+     "d": "2026-11-10"
+    }
+   ],
+   "dev": "Oxide Games",
+   "pub": "Stardock",
+   "meta": 65,
+   "meta_count": 10,
+   "user": null,
+   "user_count": 1,
+   "scores": {}
   }
  ],
  "upcoming": [
@@ -828,8 +872,8 @@
      ],
      "dev": "Nintendo",
      "pub": "Nintendo",
-     "meta": 95,
-     "meta_count": 124,
+     "meta": 96,
+     "meta_count": 132,
      "user": 9.6,
      "user_count": 4835,
      "scores": {}
@@ -865,7 +909,7 @@
      "meta": 90,
      "meta_count": 83,
      "user": 8.2,
-     "user_count": 225,
+     "user_count": 227,
      "scores": {}
     },
     {
@@ -917,7 +961,7 @@
      "meta": 90,
      "meta_count": 74,
      "user": 8.1,
-     "user_count": 93,
+     "user_count": 94,
      "scores": {}
     },
     {
@@ -957,7 +1001,7 @@
      "meta": 89,
      "meta_count": 141,
      "user": 9.3,
-     "user_count": 4108,
+     "user_count": 4126,
      "scores": {}
     },
     {
@@ -979,7 +1023,7 @@
      "meta": 89,
      "meta_count": 121,
      "user": 8.6,
-     "user_count": 583,
+     "user_count": 590,
      "scores": {}
     },
     {
@@ -1041,7 +1085,7 @@
      "meta": 89,
      "meta_count": 58,
      "user": 8.3,
-     "user_count": 49,
+     "user_count": 53,
      "scores": {}
     },
     {
@@ -1067,7 +1111,7 @@
      "dev": "S-Game",
      "pub": "S-Game",
      "meta": 88,
-     "meta_count": 57,
+     "meta_count": 59,
      "user": 8.6,
      "user_count": 372,
      "scores": {}
@@ -1109,7 +1153,7 @@
      "meta": 88,
      "meta_count": 58,
      "user": 8.2,
-     "user_count": 87,
+     "user_count": 88,
      "scores": {}
     },
     {
@@ -1141,7 +1185,7 @@
      "dev": "Fuse Games",
      "pub": "Secret Mode",
      "meta": 88,
-     "meta_count": 81,
+     "meta_count": 82,
      "user": 8.2,
      "user_count": 51,
      "scores": {}
@@ -1291,7 +1335,7 @@
      "meta": 85,
      "meta_count": 110,
      "user": 8.7,
-     "user_count": 493,
+     "user_count": 497,
      "scores": {}
     },
     {
@@ -1331,7 +1375,7 @@
      "meta": 85,
      "meta_count": 108,
      "user": 8.5,
-     "user_count": 227,
+     "user_count": 234,
      "scores": {}
     },
     {
@@ -1387,7 +1431,7 @@
      "meta": 82,
      "meta_count": 124,
      "user": 9.2,
-     "user_count": 788,
+     "user_count": 796,
      "scores": {}
     },
     {
@@ -1409,7 +1453,7 @@
      "meta": 82,
      "meta_count": 104,
      "user": 8.5,
-     "user_count": 52,
+     "user_count": 53,
      "scores": {}
     }
    ]
@@ -1417,13 +1461,13 @@
  ],
  "sig": {
   "the-legend-of-zelda-ocarina-of-time-2026": [
-   95,
-   124,
+   96,
+   132,
    9.6
   ],
   "phantom-blade-zero": [
    88,
-   57,
+   59,
    8.6
   ],
   "queens-domain": [
@@ -1451,10 +1495,15 @@
    14,
    7.7
   ],
+  "world-of-warcraft-forever": [
+   84,
+   7,
+   5.5
+  ],
   "pikmin-4-nintendo-switch-2-edition-plus-dandori": [
    83,
-   25,
-   0.5
+   26,
+   1.9
   ],
   "mycopunk": [
    83,
@@ -1468,17 +1517,17 @@
   ],
   "stellar-blade-complete-edition": [
    81,
-   20,
+   22,
    8.7
   ],
   "football-manager-27": [
    80,
-   22,
-   6.3
+   24,
+   6.5
   ],
   "nintendo-switch-sports-resort": [
    79,
-   93,
+   94,
    8.6
   ],
   "chivalware": [
@@ -1492,19 +1541,19 @@
    null
   ],
   "warhammer-survivors": [
-   79,
-   15,
+   78,
+   16,
    5.9
   ],
   "virtue-and-a-sledgehammer": [
    78,
-   26,
+   27,
    5.9
   ],
   "sonic-pico-park": [
    78,
-   7,
-   null
+   9,
+   6.1
   ],
   "tanuki-pons-summer": [
    77,
@@ -1518,18 +1567,23 @@
   ],
   "annihilated": [
    76,
-   7,
+   9,
    null
   ],
   "cozy-game-restoration": [
    75,
-   7,
+   8,
    null
   ],
   "remothered-red-nuns-legacy": [
    75,
    13,
    7.5
+  ],
+  "hillthorn": [
+   75,
+   7,
+   null
   ],
   "godzilla-destroy-all-monsters-melee-remastered": [
    74,
@@ -1540,11 +1594,6 @@
    74,
    8,
    9
-  ],
-  "ashes-of-the-singularity-ii": [
-   73,
-   7,
-   null
   ],
   "australia-did-it-end-of-the-world-railway-defense": [
    73,
@@ -1571,15 +1620,15 @@
    28,
    6.3
   ],
+  "hello-kitty-party-land": [
+   70,
+   9,
+   8.1
+  ],
   "anomalith": [
    69,
    7,
    7.7
-  ],
-  "hello-kitty-party-land": [
-   69,
-   8,
-   8.1
   ],
   "croc-2-kingdom-of-the-gobbos": [
    68,
@@ -1593,12 +1642,22 @@
   ],
   "stupid-never-dies": [
    66,
-   41,
+   42,
    6.4
+  ],
+  "ashes-of-the-singularity-ii": [
+   65,
+   10,
+   null
   ],
   "hunters-moon": [
    63,
    7,
+   null
+  ],
+  "milki-delivery": [
+   82,
+   5,
    null
   ]
  }
