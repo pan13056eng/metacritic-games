@@ -1,8 +1,8 @@
 {
- "updated": "2026-11-17 10:43",
+ "updated": "2026-11-18 10:10",
  "window": [
-  "2026-10-18",
-  "2026-11-17"
+  "2026-10-19",
+  "2026-11-18"
  ],
  "total": 40,
  "released": [
@@ -67,8 +67,8 @@
    ],
    "dev": "Freshly Baked Games",
    "pub": "Future Friends Games",
-   "meta": 88,
-   "meta_count": 9,
+   "meta": 87,
+   "meta_count": 11,
    "user": 9,
    "user_count": 20,
    "scores": {}
@@ -269,7 +269,7 @@
    "meta": 66,
    "meta_count": 42,
    "user": 6.4,
-   "user_count": 2,
+   "user_count": 3,
    "scores": {
     "Push Square": 70,
     "GameSpot": 60
@@ -403,8 +403,8 @@
    "pub": "Atari",
    "meta": 74,
    "meta_count": 16,
-   "user": 8.2,
-   "user_count": 3,
+   "user": 8.3,
+   "user_count": 4,
    "scores": {}
   },
   {
@@ -494,6 +494,28 @@
    "scores": {}
   },
   {
+   "slug": "pikmin-4-nintendo-switch-2-edition-plus-dandori",
+   "title": "Pikmin 4: Nintendo Switch 2 Edition + Dandori Academy",
+   "date": "2026-11-12",
+   "url": "https://www.metacritic.com/game/pikmin-4-nintendo-switch-2-edition-plus-dandori/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1282297-52.jpg",
+   "plats": [
+    {
+     "n": "NS2",
+     "s": 84,
+     "c": 22,
+     "d": "2026-11-12"
+    }
+   ],
+   "dev": "Nintendo",
+   "pub": "Nintendo",
+   "meta": 83,
+   "meta_count": 29,
+   "user": 6.5,
+   "user_count": 0,
+   "scores": {}
+  },
+  {
    "slug": "football-manager-27",
    "title": "Football Manager 27",
    "date": "2026-11-10",
@@ -509,10 +531,10 @@
    ],
    "dev": "Sports Interactive",
    "pub": "Sega",
-   "meta": 80,
-   "meta_count": 24,
+   "meta": 81,
+   "meta_count": 26,
    "user": 6.5,
-   "user_count": 0,
+   "user_count": 4,
    "scores": {}
   },
   {
@@ -556,6 +578,28 @@
    "scores": {}
   },
   {
+   "slug": "virtue-and-a-sledgehammer",
+   "title": "Virtue and a Sledgehammer",
+   "date": "2026-10-27",
+   "url": "https://www.metacritic.com/game/virtue-and-a-sledgehammer/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1793116470.jpg",
+   "plats": [
+    {
+     "n": "PC",
+     "s": 79,
+     "c": 11,
+     "d": "2026-10-27"
+    }
+   ],
+   "dev": "Deconstructeam",
+   "pub": "Devolver Digital",
+   "meta": 79,
+   "meta_count": 28,
+   "user": 5.9,
+   "user_count": 3,
+   "scores": {}
+  },
+  {
    "slug": "warhammer-survivors",
    "title": "Warhammer Survivors",
    "date": "2026-11-10",
@@ -596,31 +640,9 @@
    "dev": "Auroch Digital",
    "pub": "Auroch Digital",
    "meta": 78,
-   "meta_count": 16,
+   "meta_count": 17,
    "user": 5.9,
-   "user_count": 0,
-   "scores": {}
-  },
-  {
-   "slug": "virtue-and-a-sledgehammer",
-   "title": "Virtue and a Sledgehammer",
-   "date": "2026-10-27",
-   "url": "https://www.metacritic.com/game/virtue-and-a-sledgehammer/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1793116470.jpg",
-   "plats": [
-    {
-     "n": "PC",
-     "s": 79,
-     "c": 11,
-     "d": "2026-10-27"
-    }
-   ],
-   "dev": "Deconstructeam",
-   "pub": "Devolver Digital",
-   "meta": 78,
-   "meta_count": 27,
-   "user": 5.9,
-   "user_count": 3,
+   "user_count": 4,
    "scores": {}
   },
   {
@@ -640,31 +662,9 @@
    "dev": "Blizzard Entertainment",
    "pub": "Blizzard Entertainment",
    "meta": 84,
-   "meta_count": 7,
+   "meta_count": 8,
    "user": 5.5,
    "user_count": 21,
-   "scores": {}
-  },
-  {
-   "slug": "pikmin-4-nintendo-switch-2-edition-plus-dandori",
-   "title": "Pikmin 4: Nintendo Switch 2 Edition + Dandori Academy",
-   "date": "2026-11-12",
-   "url": "https://www.metacritic.com/game/pikmin-4-nintendo-switch-2-edition-plus-dandori/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1282297-52.jpg",
-   "plats": [
-    {
-     "n": "NS2",
-     "s": 84,
-     "c": 22,
-     "d": "2026-11-12"
-    }
-   ],
-   "dev": "Nintendo",
-   "pub": "Nintendo",
-   "meta": 83,
-   "meta_count": 26,
-   "user": 1.9,
-   "user_count": 0,
    "scores": {}
   },
   {
@@ -690,6 +690,28 @@
    "dev": "Pigeons at Play",
    "pub": "Devolver Digital",
    "meta": 83,
+   "meta_count": 10,
+   "user": null,
+   "user_count": 0,
+   "scores": {}
+  },
+  {
+   "slug": "annihilated",
+   "title": "Annihilated",
+   "date": "2026-11-10",
+   "url": "https://www.metacritic.com/game/annihilated/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1794340417.jpg",
+   "plats": [
+    {
+     "n": "PC",
+     "s": 76,
+     "c": 10,
+     "d": "2026-11-10"
+    }
+   ],
+   "dev": "Death Union",
+   "pub": "Death Union",
+   "meta": 76,
    "meta_count": 10,
    "user": null,
    "user_count": 0,
@@ -813,8 +835,8 @@
    ],
    "dev": "Oxide Games",
    "pub": "Stardock",
-   "meta": 65,
-   "meta_count": 10,
+   "meta": 64,
+   "meta_count": 12,
    "user": null,
    "user_count": 1,
    "scores": {}
@@ -826,7 +848,7 @@
    "title": "The Binding of Isaac: Repentance + Online",
    "date": "2026-11-19",
    "url": "https://www.metacritic.com/game/the-binding-of-isaac-repentance-plus-online/",
-   "meta": 89,
+   "meta": 90,
    "plats": [
     {
      "n": "PS5",
@@ -1471,8 +1493,8 @@
    8.6
   ],
   "queens-domain": [
-   88,
-   9,
+   87,
+   11,
    9
   ],
   "final-fantasy-resonance": [
@@ -1490,20 +1512,20 @@
    53,
    7.5
   ],
+  "world-of-warcraft-forever": [
+   84,
+   8,
+   5.5
+  ],
   "the-wolf-among-us-remastered": [
    84,
    14,
    7.7
   ],
-  "world-of-warcraft-forever": [
-   84,
-   7,
-   5.5
-  ],
   "pikmin-4-nintendo-switch-2-edition-plus-dandori": [
    83,
-   26,
-   1.9
+   29,
+   6.5
   ],
   "mycopunk": [
    83,
@@ -1521,9 +1543,14 @@
    8.7
   ],
   "football-manager-27": [
-   80,
-   24,
+   81,
+   26,
    6.5
+  ],
+  "milki-delivery": [
+   80,
+   7,
+   null
   ],
   "nintendo-switch-sports-resort": [
    79,
@@ -1540,34 +1567,34 @@
    8,
    null
   ],
-  "warhammer-survivors": [
-   78,
-   16,
+  "virtue-and-a-sledgehammer": [
+   79,
+   28,
    5.9
   ],
-  "virtue-and-a-sledgehammer": [
+  "warhammer-survivors": [
    78,
-   27,
+   17,
    5.9
   ],
   "sonic-pico-park": [
    78,
    9,
-   6.1
+   7
   ],
   "tanuki-pons-summer": [
    77,
    7,
    null
   ],
+  "annihilated": [
+   76,
+   10,
+   null
+  ],
   "lightyear-frontier": [
    76,
    11,
-   null
-  ],
-  "annihilated": [
-   76,
-   9,
    null
   ],
   "cozy-game-restoration": [
@@ -1588,7 +1615,7 @@
   "godzilla-destroy-all-monsters-melee-remastered": [
    74,
    16,
-   8.2
+   8.3
   ],
   "probably-stolen-cyberpunk-pawnshop-simulator": [
    74,
@@ -1646,18 +1673,13 @@
    6.4
   ],
   "ashes-of-the-singularity-ii": [
-   65,
-   10,
+   64,
+   12,
    null
   ],
   "hunters-moon": [
    63,
    7,
-   null
-  ],
-  "milki-delivery": [
-   82,
-   5,
    null
   ]
  }
