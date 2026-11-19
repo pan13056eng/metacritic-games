@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-18 10:10",
+ "updated": "2026-11-19 10:20",
  "window": [
-  "2026-10-19",
-  "2026-11-18"
+  "2026-10-20",
+  "2026-11-19"
  ],
- "total": 40,
+ "total": 42,
  "released": [
   {
    "slug": "the-legend-of-zelda-ocarina-of-time-2026",
@@ -22,10 +22,10 @@
    ],
    "dev": "Nintendo",
    "pub": "Nintendo",
-   "meta": 96,
-   "meta_count": 132,
+   "meta": 95,
+   "meta_count": 134,
    "user": 9.6,
-   "user_count": 4835,
+   "user_count": 7349,
    "scores": {
     "Eurogamer": 100,
     "GameSpot": 90,
@@ -68,8 +68,8 @@
    "dev": "Freshly Baked Games",
    "pub": "Future Friends Games",
    "meta": 87,
-   "meta_count": 11,
-   "user": 9,
+   "meta_count": 12,
+   "user": 9.1,
    "user_count": 20,
    "scores": {}
   },
@@ -138,9 +138,42 @@
    "meta": 85,
    "meta_count": 63,
    "user": 8.9,
-   "user_count": 76,
+   "user_count": 80,
    "scores": {
     "Push Square": 80
+   }
+  },
+  {
+   "slug": "grand-theft-auto-vi",
+   "title": "Grand Theft Auto VI",
+   "date": "2026-11-19",
+   "url": "https://www.metacritic.com/game/grand-theft-auto-vi/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1781823122.jpg",
+   "plats": [
+    {
+     "n": "PS5",
+     "s": 99,
+     "c": 156,
+     "d": "2026-11-19"
+    },
+    {
+     "n": "XSX",
+     "s": 99,
+     "c": 14,
+     "d": "2026-11-19"
+    }
+   ],
+   "dev": "Rockstar Games",
+   "pub": "Rockstar Games",
+   "meta": 99,
+   "meta_count": 156,
+   "user": 8.7,
+   "user_count": 1,
+   "scores": {
+    "GameSpot": 100,
+    "Push Square": 100,
+    "IGN": 100,
+    "Eurogamer": 100
    }
   },
   {
@@ -166,9 +199,9 @@
    "dev": "S-Game",
    "pub": "S-Game",
    "meta": 88,
-   "meta_count": 59,
+   "meta_count": 60,
    "user": 8.6,
-   "user_count": 372,
+   "user_count": 416,
    "scores": {
     "IGN": 90,
     "GameSpot": 80,
@@ -194,7 +227,7 @@
    "meta": 79,
    "meta_count": 94,
    "user": 8.6,
-   "user_count": 31,
+   "user_count": 34,
    "scores": {
     "Nintendo Life": 90,
     "GameSpot": 90,
@@ -274,6 +307,40 @@
     "Push Square": 70,
     "GameSpot": 60
    }
+  },
+  {
+   "slug": "the-binding-of-isaac-repentance-plus-online",
+   "title": "The Binding of Isaac: Repentance + Online",
+   "date": "2026-11-19",
+   "url": "https://www.metacritic.com/game/the-binding-of-isaac-repentance-plus-online/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1174557-17.jpg",
+   "plats": [
+    {
+     "n": "PS5",
+     "s": 88,
+     "c": 4,
+     "d": "2026-11-19"
+    },
+    {
+     "n": "XSX",
+     "s": null,
+     "c": 0,
+     "d": "2026-11-19"
+    },
+    {
+     "n": "NS2",
+     "s": 89,
+     "c": 9,
+     "d": "2026-11-19"
+    }
+   ],
+   "dev": "Nicalis",
+   "pub": "Nicalis",
+   "meta": 90,
+   "meta_count": 10,
+   "user": null,
+   "user_count": 0,
+   "scores": {}
   }
  ],
  "watch": [
@@ -336,7 +403,7 @@
    "meta": 81,
    "meta_count": 22,
    "user": 8.7,
-   "user_count": 5,
+   "user_count": 6,
    "scores": {}
   },
   {
@@ -454,6 +521,58 @@
    "scores": {}
   },
   {
+   "slug": "sonic-pico-park",
+   "title": "Sonic Pico Park",
+   "date": "2026-11-12",
+   "url": "https://www.metacritic.com/game/sonic-pico-park/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1793899365.jpg",
+   "plats": [
+    {
+     "n": "PC",
+     "s": 83,
+     "c": 5,
+     "d": "2026-11-12"
+    },
+    {
+     "n": "NS",
+     "s": null,
+     "c": 1,
+     "d": "2026-11-12"
+    },
+    {
+     "n": "XB1",
+     "s": null,
+     "c": 0,
+     "d": "2026-11-12"
+    },
+    {
+     "n": "XSX",
+     "s": null,
+     "c": 0,
+     "d": "2026-11-12"
+    },
+    {
+     "n": "NS2",
+     "s": null,
+     "c": 0,
+     "d": "2026-11-12"
+    },
+    {
+     "n": "PS5",
+     "s": 78,
+     "c": 10,
+     "d": "2026-11-12"
+    }
+   ],
+   "dev": "TECOPARK",
+   "pub": "PICO PARK Inc.",
+   "meta": 78,
+   "meta_count": 10,
+   "user": 7.7,
+   "user_count": 3,
+   "scores": {}
+  },
+  {
    "slug": "remothered-red-nuns-legacy",
    "title": "Remothered: Red Nun's Legacy",
    "date": "2026-10-27",
@@ -512,28 +631,52 @@
    "meta": 83,
    "meta_count": 29,
    "user": 6.5,
-   "user_count": 0,
+   "user_count": 35,
    "scores": {}
   },
   {
-   "slug": "football-manager-27",
-   "title": "Football Manager 27",
+   "slug": "warhammer-survivors",
+   "title": "Warhammer Survivors",
    "date": "2026-11-10",
-   "url": "https://www.metacritic.com/game/football-manager-27/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1793819120.jpg",
+   "url": "https://www.metacritic.com/game/warhammer-survivors/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1177155-52.jpg",
    "plats": [
     {
      "n": "PC",
-     "s": 81,
-     "c": 13,
+     "s": 79,
+     "c": 12,
+     "d": "2026-11-10"
+    },
+    {
+     "n": "NS2",
+     "s": null,
+     "c": 1,
+     "d": "2026-11-10"
+    },
+    {
+     "n": "NS",
+     "s": null,
+     "c": 1,
+     "d": "2026-11-10"
+    },
+    {
+     "n": "XSX",
+     "s": null,
+     "c": 3,
+     "d": "2026-11-10"
+    },
+    {
+     "n": "PS5",
+     "s": 76,
+     "c": 8,
      "d": "2026-11-10"
     }
    ],
-   "dev": "Sports Interactive",
-   "pub": "Sega",
-   "meta": 81,
-   "meta_count": 26,
-   "user": 6.5,
+   "dev": "Auroch Digital",
+   "pub": "Auroch Digital",
+   "meta": 79,
+   "meta_count": 18,
+   "user": 6.3,
    "user_count": 4,
    "scores": {}
   },
@@ -578,6 +721,28 @@
    "scores": {}
   },
   {
+   "slug": "football-manager-27",
+   "title": "Football Manager 27",
+   "date": "2026-11-10",
+   "url": "https://www.metacritic.com/game/football-manager-27/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1793819120.jpg",
+   "plats": [
+    {
+     "n": "PC",
+     "s": 81,
+     "c": 13,
+     "d": "2026-11-10"
+    }
+   ],
+   "dev": "Sports Interactive",
+   "pub": "Sega",
+   "meta": 80,
+   "meta_count": 27,
+   "user": 6.1,
+   "user_count": 4,
+   "scores": {}
+  },
+  {
    "slug": "virtue-and-a-sledgehammer",
    "title": "Virtue and a Sledgehammer",
    "date": "2026-10-27",
@@ -597,52 +762,6 @@
    "meta_count": 28,
    "user": 5.9,
    "user_count": 3,
-   "scores": {}
-  },
-  {
-   "slug": "warhammer-survivors",
-   "title": "Warhammer Survivors",
-   "date": "2026-11-10",
-   "url": "https://www.metacritic.com/game/warhammer-survivors/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1177155-52.jpg",
-   "plats": [
-    {
-     "n": "PC",
-     "s": 79,
-     "c": 12,
-     "d": "2026-11-10"
-    },
-    {
-     "n": "NS2",
-     "s": null,
-     "c": 1,
-     "d": "2026-11-10"
-    },
-    {
-     "n": "NS",
-     "s": null,
-     "c": 1,
-     "d": "2026-11-10"
-    },
-    {
-     "n": "XSX",
-     "s": null,
-     "c": 3,
-     "d": "2026-11-10"
-    },
-    {
-     "n": "PS5",
-     "s": 76,
-     "c": 8,
-     "d": "2026-11-10"
-    }
-   ],
-   "dev": "Auroch Digital",
-   "pub": "Auroch Digital",
-   "meta": 78,
-   "meta_count": 17,
-   "user": 5.9,
-   "user_count": 4,
    "scores": {}
   },
   {
@@ -835,45 +954,14 @@
    ],
    "dev": "Oxide Games",
    "pub": "Stardock",
-   "meta": 64,
-   "meta_count": 12,
+   "meta": 65,
+   "meta_count": 14,
    "user": null,
    "user_count": 1,
    "scores": {}
   }
  ],
- "upcoming": [
-  {
-   "slug": "the-binding-of-isaac-repentance-plus-online",
-   "title": "The Binding of Isaac: Repentance + Online",
-   "date": "2026-11-19",
-   "url": "https://www.metacritic.com/game/the-binding-of-isaac-repentance-plus-online/",
-   "meta": 90,
-   "plats": [
-    {
-     "n": "PS5",
-     "s": 88,
-     "c": 4,
-     "d": "2026-11-19"
-    },
-    {
-     "n": "XSX",
-     "s": null,
-     "c": 0,
-     "d": "2026-11-19"
-    },
-    {
-     "n": "NS2",
-     "s": 89,
-     "c": 9,
-     "d": "2026-11-19"
-    }
-   ],
-   "dev": "Nicalis",
-   "pub": "Nicalis",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1174557-17.jpg"
-  }
- ],
+ "upcoming": [],
  "annual": [
   {
    "year": 2026,
@@ -894,10 +982,10 @@
      ],
      "dev": "Nintendo",
      "pub": "Nintendo",
-     "meta": 96,
-     "meta_count": 132,
+     "meta": 95,
+     "meta_count": 134,
      "user": 9.6,
-     "user_count": 4835,
+     "user_count": 7349,
      "scores": {}
     },
     {
@@ -1067,7 +1155,7 @@
      "meta": 89,
      "meta_count": 113,
      "user": 8.5,
-     "user_count": 332,
+     "user_count": 350,
      "scores": {}
     },
     {
@@ -1133,9 +1221,9 @@
      "dev": "S-Game",
      "pub": "S-Game",
      "meta": 88,
-     "meta_count": 59,
+     "meta_count": 60,
      "user": 8.6,
-     "user_count": 372,
+     "user_count": 416,
      "scores": {}
     },
     {
@@ -1317,7 +1405,7 @@
      "meta": 85,
      "meta_count": 63,
      "user": 8.9,
-     "user_count": 76,
+     "user_count": 80,
      "scores": {}
     },
     {
@@ -1482,20 +1570,30 @@
   }
  ],
  "sig": {
+  "grand-theft-auto-vi": [
+   99,
+   156,
+   8.7
+  ],
   "the-legend-of-zelda-ocarina-of-time-2026": [
-   96,
-   132,
+   95,
+   134,
    9.6
+  ],
+  "the-binding-of-isaac-repentance-plus-online": [
+   90,
+   10,
+   null
   ],
   "phantom-blade-zero": [
    88,
-   59,
+   60,
    8.6
   ],
   "queens-domain": [
    87,
-   11,
-   9
+   12,
+   9.1
   ],
   "final-fantasy-resonance": [
    85,
@@ -1542,15 +1640,15 @@
    22,
    8.7
   ],
-  "football-manager-27": [
-   81,
-   26,
-   6.5
-  ],
   "milki-delivery": [
    80,
    7,
    null
+  ],
+  "football-manager-27": [
+   80,
+   27,
+   6.1
   ],
   "nintendo-switch-sports-resort": [
    79,
@@ -1567,20 +1665,20 @@
    8,
    null
   ],
+  "warhammer-survivors": [
+   79,
+   18,
+   6.3
+  ],
   "virtue-and-a-sledgehammer": [
    79,
    28,
    5.9
   ],
-  "warhammer-survivors": [
-   78,
-   17,
-   5.9
-  ],
   "sonic-pico-park": [
    78,
-   9,
-   7
+   10,
+   7.7
   ],
   "tanuki-pons-summer": [
    77,
@@ -1627,11 +1725,6 @@
    7,
    null
   ],
-  "joe-and-mac-retro-collection": [
-   72,
-   7,
-   null
-  ],
   "theos-cities-of-myth": [
    71,
    10,
@@ -1641,6 +1734,11 @@
    71,
    8,
    8.6
+  ],
+  "joe-and-mac-retro-collection": [
+   71,
+   8,
+   null
   ],
   "one-piece-grand-gourmet": [
    70,
@@ -1673,8 +1771,8 @@
    6.4
   ],
   "ashes-of-the-singularity-ii": [
-   64,
-   12,
+   65,
+   14,
    null
   ],
   "hunters-moon": [
