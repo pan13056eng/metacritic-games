@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-19 10:20",
+ "updated": "2026-11-20 10:01",
  "window": [
-  "2026-10-20",
-  "2026-11-19"
+  "2026-10-21",
+  "2026-11-20"
  ],
- "total": 42,
+ "total": 40,
  "released": [
   {
    "slug": "the-legend-of-zelda-ocarina-of-time-2026",
@@ -68,7 +68,7 @@
    "dev": "Freshly Baked Games",
    "pub": "Future Friends Games",
    "meta": 87,
-   "meta_count": 12,
+   "meta_count": 13,
    "user": 9.1,
    "user_count": 20,
    "scores": {}
@@ -141,39 +141,6 @@
    "user_count": 80,
    "scores": {
     "Push Square": 80
-   }
-  },
-  {
-   "slug": "grand-theft-auto-vi",
-   "title": "Grand Theft Auto VI",
-   "date": "2026-11-19",
-   "url": "https://www.metacritic.com/game/grand-theft-auto-vi/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1781823122.jpg",
-   "plats": [
-    {
-     "n": "PS5",
-     "s": 99,
-     "c": 156,
-     "d": "2026-11-19"
-    },
-    {
-     "n": "XSX",
-     "s": 99,
-     "c": 14,
-     "d": "2026-11-19"
-    }
-   ],
-   "dev": "Rockstar Games",
-   "pub": "Rockstar Games",
-   "meta": 99,
-   "meta_count": 156,
-   "user": 8.7,
-   "user_count": 1,
-   "scores": {
-    "GameSpot": 100,
-    "Push Square": 100,
-    "IGN": 100,
-    "Eurogamer": 100
    }
   },
   {
@@ -270,11 +237,35 @@
    "dev": "Infinity Ward",
    "pub": "Activision",
    "meta": 85,
-   "meta_count": 53,
+   "meta_count": 54,
    "user": 7.5,
-   "user_count": 185,
+   "user_count": 208,
    "scores": {
     "GameSpot": 80
+   }
+  },
+  {
+   "slug": "pikmin-4-nintendo-switch-2-edition-plus-dandori",
+   "title": "Pikmin 4: Nintendo Switch 2 Edition + Dandori Academy",
+   "date": "2026-11-12",
+   "url": "https://www.metacritic.com/game/pikmin-4-nintendo-switch-2-edition-plus-dandori/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1282297-52.jpg",
+   "plats": [
+    {
+     "n": "NS2",
+     "s": 84,
+     "c": 22,
+     "d": "2026-11-12"
+    }
+   ],
+   "dev": "Nintendo",
+   "pub": "Nintendo",
+   "meta": 83,
+   "meta_count": 33,
+   "user": 6.4,
+   "user_count": 35,
+   "scores": {
+    "Nintendo Life": 70
    }
   },
   {
@@ -306,6 +297,39 @@
    "scores": {
     "Push Square": 70,
     "GameSpot": 60
+   }
+  },
+  {
+   "slug": "grand-theft-auto-vi",
+   "title": "Grand Theft Auto VI",
+   "date": "2026-11-19",
+   "url": "https://www.metacritic.com/game/grand-theft-auto-vi/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1781823122.jpg",
+   "plats": [
+    {
+     "n": "PS5",
+     "s": 99,
+     "c": 156,
+     "d": "2026-11-19"
+    },
+    {
+     "n": "XSX",
+     "s": 99,
+     "c": 14,
+     "d": "2026-11-19"
+    }
+   ],
+   "dev": "Rockstar Games",
+   "pub": "Rockstar Games",
+   "meta": 99,
+   "meta_count": 158,
+   "user": null,
+   "user_count": 1,
+   "scores": {
+    "GameSpot": 100,
+    "Push Square": 100,
+    "IGN": 100,
+    "Eurogamer": 100
    }
   },
   {
@@ -475,6 +499,74 @@
    "scores": {}
   },
   {
+   "slug": "hello-kitty-party-land",
+   "title": "Hello Kitty Party Land",
+   "date": "2026-10-29",
+   "url": "https://www.metacritic.com/game/hello-kitty-party-land/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1793332523.jpg",
+   "plats": [
+    {
+     "n": "NS",
+     "s": null,
+     "c": 1,
+     "d": "2026-10-29"
+    },
+    {
+     "n": "NS2",
+     "s": 70,
+     "c": 10,
+     "d": "2026-10-29"
+    }
+   ],
+   "dev": "Bandai Namco Games",
+   "pub": "Bandai Namco Games",
+   "meta": 70,
+   "meta_count": 10,
+   "user": 8.1,
+   "user_count": 1,
+   "scores": {}
+  },
+  {
+   "slug": "remothered-red-nuns-legacy",
+   "title": "Remothered: Red Nun's Legacy",
+   "date": "2026-10-27",
+   "url": "https://www.metacritic.com/game/remothered-red-nuns-legacy/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1793083817.jpg",
+   "plats": [
+    {
+     "n": "PC",
+     "s": 76,
+     "c": 10,
+     "d": "2026-10-27"
+    },
+    {
+     "n": "PS5",
+     "s": 73,
+     "c": 6,
+     "d": "2026-10-27"
+    },
+    {
+     "n": "NS2",
+     "s": null,
+     "c": 0,
+     "d": "2026-12-03"
+    },
+    {
+     "n": "XSX",
+     "s": null,
+     "c": 3,
+     "d": "2026-10-27"
+    }
+   ],
+   "dev": "Stormind Games",
+   "pub": "Stormind Games",
+   "meta": 76,
+   "meta_count": 12,
+   "user": 7.8,
+   "user_count": 0,
+   "scores": {}
+  },
+  {
    "slug": "the-wolf-among-us-remastered",
    "title": "The Wolf Among Us Remastered",
    "date": "2026-10-29",
@@ -573,68 +665,6 @@
    "scores": {}
   },
   {
-   "slug": "remothered-red-nuns-legacy",
-   "title": "Remothered: Red Nun's Legacy",
-   "date": "2026-10-27",
-   "url": "https://www.metacritic.com/game/remothered-red-nuns-legacy/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1793083817.jpg",
-   "plats": [
-    {
-     "n": "PC",
-     "s": 76,
-     "c": 10,
-     "d": "2026-10-27"
-    },
-    {
-     "n": "PS5",
-     "s": 73,
-     "c": 6,
-     "d": "2026-10-27"
-    },
-    {
-     "n": "NS2",
-     "s": null,
-     "c": 0,
-     "d": "2026-12-03"
-    },
-    {
-     "n": "XSX",
-     "s": null,
-     "c": 3,
-     "d": "2026-10-27"
-    }
-   ],
-   "dev": "Stormind Games",
-   "pub": "Stormind Games",
-   "meta": 75,
-   "meta_count": 13,
-   "user": 7.5,
-   "user_count": 0,
-   "scores": {}
-  },
-  {
-   "slug": "pikmin-4-nintendo-switch-2-edition-plus-dandori",
-   "title": "Pikmin 4: Nintendo Switch 2 Edition + Dandori Academy",
-   "date": "2026-11-12",
-   "url": "https://www.metacritic.com/game/pikmin-4-nintendo-switch-2-edition-plus-dandori/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1282297-52.jpg",
-   "plats": [
-    {
-     "n": "NS2",
-     "s": 84,
-     "c": 22,
-     "d": "2026-11-12"
-    }
-   ],
-   "dev": "Nintendo",
-   "pub": "Nintendo",
-   "meta": 83,
-   "meta_count": 29,
-   "user": 6.5,
-   "user_count": 35,
-   "scores": {}
-  },
-  {
    "slug": "warhammer-survivors",
    "title": "Warhammer Survivors",
    "date": "2026-11-10",
@@ -675,7 +705,7 @@
    "dev": "Auroch Digital",
    "pub": "Auroch Digital",
    "meta": 79,
-   "meta_count": 18,
+   "meta_count": 19,
    "user": 6.3,
    "user_count": 4,
    "scores": {}
@@ -737,8 +767,8 @@
    "dev": "Sports Interactive",
    "pub": "Sega",
    "meta": 80,
-   "meta_count": 27,
-   "user": 6.1,
+   "meta_count": 28,
+   "user": 5.9,
    "user_count": 4,
    "scores": {}
   },
@@ -787,34 +817,6 @@
    "scores": {}
   },
   {
-   "slug": "mycopunk",
-   "title": "Mycopunk",
-   "date": "2026-10-20",
-   "url": "https://www.metacritic.com/game/mycopunk/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1793332672.jpg",
-   "plats": [
-    {
-     "n": "PC",
-     "s": 83,
-     "c": 10,
-     "d": "2026-10-20"
-    },
-    {
-     "n": "PS5",
-     "s": null,
-     "c": 1,
-     "d": "2026-10-20"
-    }
-   ],
-   "dev": "Pigeons at Play",
-   "pub": "Devolver Digital",
-   "meta": 83,
-   "meta_count": 10,
-   "user": null,
-   "user_count": 0,
-   "scores": {}
-  },
-  {
    "slug": "annihilated",
    "title": "Annihilated",
    "date": "2026-11-10",
@@ -858,8 +860,8 @@
    ],
    "dev": "Frame Break",
    "pub": "Frame Break",
-   "meta": 76,
-   "meta_count": 11,
+   "meta": 75,
+   "meta_count": 12,
    "user": null,
    "user_count": 1,
    "scores": {}
@@ -1359,7 +1361,7 @@
      "meta": 87,
      "meta_count": 83,
      "user": 8.5,
-     "user_count": 765,
+     "user_count": 787,
      "scores": {}
     },
     {
@@ -1572,8 +1574,8 @@
  "sig": {
   "grand-theft-auto-vi": [
    99,
-   156,
-   8.7
+   158,
+   null
   ],
   "the-legend-of-zelda-ocarina-of-time-2026": [
    95,
@@ -1592,7 +1594,7 @@
   ],
   "queens-domain": [
    87,
-   12,
+   13,
    9.1
   ],
   "final-fantasy-resonance": [
@@ -1607,7 +1609,7 @@
   ],
   "call-of-duty-modern-warfare-4": [
    85,
-   53,
+   54,
    7.5
   ],
   "world-of-warcraft-forever": [
@@ -1622,13 +1624,8 @@
   ],
   "pikmin-4-nintendo-switch-2-edition-plus-dandori": [
    83,
-   29,
-   6.5
-  ],
-  "mycopunk": [
-   83,
-   10,
-   null
+   33,
+   6.4
   ],
   "marvels-guardians-of-the-galaxy-encore-edition": [
    81,
@@ -1647,8 +1644,8 @@
   ],
   "football-manager-27": [
    80,
-   27,
-   6.1
+   28,
+   5.9
   ],
   "nintendo-switch-sports-resort": [
    79,
@@ -1660,14 +1657,9 @@
    7,
    null
   ],
-  "akiba-lost": [
-   79,
-   8,
-   null
-  ],
   "warhammer-survivors": [
    79,
-   18,
+   19,
    6.3
   ],
   "virtue-and-a-sledgehammer": [
@@ -1680,6 +1672,11 @@
    10,
    7.7
   ],
+  "derelikt": [
+   78,
+   7,
+   7.6
+  ],
   "tanuki-pons-summer": [
    77,
    7,
@@ -1690,24 +1687,24 @@
    10,
    null
   ],
-  "lightyear-frontier": [
+  "remothered-red-nuns-legacy": [
    76,
-   11,
-   null
+   12,
+   7.8
   ],
   "cozy-game-restoration": [
    75,
    8,
    null
   ],
-  "remothered-red-nuns-legacy": [
-   75,
-   13,
-   7.5
-  ],
   "hillthorn": [
    75,
    7,
+   null
+  ],
+  "lightyear-frontier": [
+   75,
+   12,
    null
   ],
   "godzilla-destroy-all-monsters-melee-remastered": [
@@ -1730,11 +1727,6 @@
    10,
    null
   ],
-  "we-were-here-tomorrow": [
-   71,
-   8,
-   8.6
-  ],
   "joe-and-mac-retro-collection": [
    71,
    8,
@@ -1747,7 +1739,7 @@
   ],
   "hello-kitty-party-land": [
    70,
-   9,
+   10,
    8.1
   ],
   "anomalith": [
