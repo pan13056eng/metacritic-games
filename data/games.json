@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-20 10:01",
+ "updated": "2026-11-21 09:49",
  "window": [
-  "2026-10-21",
-  "2026-11-20"
+  "2026-10-22",
+  "2026-11-21"
  ],
- "total": 40,
+ "total": 39,
  "released": [
   {
    "slug": "the-legend-of-zelda-ocarina-of-time-2026",
@@ -23,7 +23,7 @@
    "dev": "Nintendo",
    "pub": "Nintendo",
    "meta": 95,
-   "meta_count": 134,
+   "meta_count": 135,
    "user": 9.6,
    "user_count": 7349,
    "scores": {
@@ -70,7 +70,7 @@
    "meta": 87,
    "meta_count": 13,
    "user": 9.1,
-   "user_count": 20,
+   "user_count": 28,
    "scores": {}
   },
   {
@@ -261,42 +261,11 @@
    "dev": "Nintendo",
    "pub": "Nintendo",
    "meta": 83,
-   "meta_count": 33,
-   "user": 6.4,
+   "meta_count": 34,
+   "user": 6.5,
    "user_count": 35,
    "scores": {
     "Nintendo Life": 70
-   }
-  },
-  {
-   "slug": "stupid-never-dies",
-   "title": "Stupid Never Dies",
-   "date": "2026-10-21",
-   "url": "https://www.metacritic.com/game/stupid-never-dies/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1792342907.jpg",
-   "plats": [
-    {
-     "n": "PC",
-     "s": 66,
-     "c": 10,
-     "d": "2026-10-21"
-    },
-    {
-     "n": "PS5",
-     "s": 65,
-     "c": 23,
-     "d": "2026-10-21"
-    }
-   ],
-   "dev": "GPTRACK50",
-   "pub": "GPTRACK50",
-   "meta": 66,
-   "meta_count": 42,
-   "user": 6.4,
-   "user_count": 3,
-   "scores": {
-    "Push Square": 70,
-    "GameSpot": 60
    }
   },
   {
@@ -323,7 +292,7 @@
    "pub": "Rockstar Games",
    "meta": 99,
    "meta_count": 158,
-   "user": null,
+   "user": 5.4,
    "user_count": 1,
    "scores": {
     "GameSpot": 100,
@@ -403,7 +372,7 @@
    "dev": "Nippon Ichi Software",
    "pub": "NIS America",
    "meta": 85,
-   "meta_count": 11,
+   "meta_count": 13,
    "user": 9.2,
    "user_count": 2,
    "scores": {}
@@ -425,8 +394,8 @@
    "dev": "SHIFT UP Corporation",
    "pub": "SHIFT UP Corporation",
    "meta": 81,
-   "meta_count": 22,
-   "user": 8.7,
+   "meta_count": 24,
+   "user": 8.8,
    "user_count": 6,
    "scores": {}
   },
@@ -985,7 +954,7 @@
      "dev": "Nintendo",
      "pub": "Nintendo",
      "meta": 95,
-     "meta_count": 134,
+     "meta_count": 135,
      "user": 9.6,
      "user_count": 7349,
      "scores": {}
@@ -1299,7 +1268,7 @@
      "meta": 88,
      "meta_count": 82,
      "user": 8.2,
-     "user_count": 51,
+     "user_count": 54,
      "scores": {}
     },
     {
@@ -1333,7 +1302,7 @@
      "meta": 87,
      "meta_count": 76,
      "user": 8.8,
-     "user_count": 55,
+     "user_count": 68,
      "scores": {}
     },
     {
@@ -1521,7 +1490,7 @@
      "meta": 83,
      "meta_count": 90,
      "user": 8.7,
-     "user_count": 250,
+     "user_count": 275,
      "scores": {}
     },
     {
@@ -1575,11 +1544,11 @@
   "grand-theft-auto-vi": [
    99,
    158,
-   null
+   5.4
   ],
   "the-legend-of-zelda-ocarina-of-time-2026": [
    95,
-   134,
+   135,
    9.6
   ],
   "the-binding-of-isaac-repentance-plus-online": [
@@ -1604,7 +1573,7 @@
   ],
   "village-in-the-shade": [
    85,
-   11,
+   13,
    9.2
   ],
   "call-of-duty-modern-warfare-4": [
@@ -1624,8 +1593,8 @@
   ],
   "pikmin-4-nintendo-switch-2-edition-plus-dandori": [
    83,
-   33,
-   6.4
+   34,
+   6.5
   ],
   "marvels-guardians-of-the-galaxy-encore-edition": [
    81,
@@ -1634,8 +1603,8 @@
   ],
   "stellar-blade-complete-edition": [
    81,
-   22,
-   8.7
+   24,
+   8.8
   ],
   "milki-delivery": [
    80,
@@ -1697,14 +1666,14 @@
    8,
    null
   ],
-  "hillthorn": [
-   75,
-   7,
-   null
-  ],
   "lightyear-frontier": [
    75,
    12,
+   null
+  ],
+  "hillthorn": [
+   75,
+   7,
    null
   ],
   "godzilla-destroy-all-monsters-melee-remastered": [
@@ -1756,11 +1725,6 @@
    67,
    8,
    null
-  ],
-  "stupid-never-dies": [
-   66,
-   42,
-   6.4
   ],
   "ashes-of-the-singularity-ii": [
    65,
