@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-22 09:46",
+ "updated": "2026-11-23 10:46",
  "window": [
-  "2026-10-23",
-  "2026-11-22"
+  "2026-10-24",
+  "2026-11-23"
  ],
- "total": 38,
+ "total": 35,
  "released": [
   {
    "slug": "queens-domain",
@@ -118,7 +118,7 @@
    "pub": "Nintendo",
    "meta": 95,
    "meta_count": 135,
-   "user": 8.6,
+   "user": 8.4,
    "user_count": 7349,
    "scores": {
     "Eurogamer": 100,
@@ -160,48 +160,6 @@
    "user": 8.4,
    "user_count": 0,
    "scores": {}
-  },
-  {
-   "slug": "call-of-duty-modern-warfare-4",
-   "title": "Call of Duty: Modern Warfare 4",
-   "date": "2026-10-23",
-   "url": "https://www.metacritic.com/game/call-of-duty-modern-warfare-4/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1792136722.jpg",
-   "plats": [
-    {
-     "n": "XSX",
-     "s": null,
-     "c": 0,
-     "d": "2026-10-23"
-    },
-    {
-     "n": "PS5",
-     "s": null,
-     "c": 1,
-     "d": "2026-10-23"
-    },
-    {
-     "n": "NS2",
-     "s": null,
-     "c": 1,
-     "d": "2026-10-23"
-    },
-    {
-     "n": "PC",
-     "s": null,
-     "c": 10,
-     "d": "2026-10-23"
-    }
-   ],
-   "dev": "Infinity Ward",
-   "pub": "Activision",
-   "meta": 85,
-   "meta_count": 54,
-   "user": 7.4,
-   "user_count": 208,
-   "scores": {
-    "GameSpot": 80
-   }
   },
   {
    "slug": "pikmin-4-nintendo-switch-2-edition-plus-dandori",
@@ -649,46 +607,6 @@
    "scores": {}
   },
   {
-   "slug": "one-piece-grand-gourmet",
-   "title": "ONE PIECE: Grand Gourmet",
-   "date": "2026-10-23",
-   "url": "https://www.metacritic.com/game/one-piece-grand-gourmet/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1249890-17.jpg",
-   "plats": [
-    {
-     "n": "NS2",
-     "s": 73,
-     "c": 9,
-     "d": "2026-10-23"
-    },
-    {
-     "n": "NS",
-     "s": null,
-     "c": 0,
-     "d": "2026-10-23"
-    },
-    {
-     "n": "PC",
-     "s": null,
-     "c": 3,
-     "d": "2026-10-23"
-    },
-    {
-     "n": "iOS",
-     "s": null,
-     "c": 0,
-     "d": "2026-10-23"
-    }
-   ],
-   "dev": "Kairosoft Co. Ltd",
-   "pub": "Bandai Namco Games",
-   "meta": 70,
-   "meta_count": 28,
-   "user": 6.6,
-   "user_count": 0,
-   "scores": {}
-  },
-  {
    "slug": "ashes-of-the-singularity-ii",
    "title": "Ashes of the Singularity II",
    "date": "2026-11-10",
@@ -727,7 +645,7 @@
    "dev": "Deconstructeam",
    "pub": "Devolver Digital",
    "meta": 79,
-   "meta_count": 28,
+   "meta_count": 29,
    "user": 5.9,
    "user_count": 3,
    "scores": {}
@@ -880,7 +798,7 @@
      "pub": "Nintendo",
      "meta": 95,
      "meta_count": 135,
-     "user": 8.6,
+     "user": 8.4,
      "user_count": 7349,
      "scores": {}
     },
@@ -1424,7 +1342,7 @@
   "the-legend-of-zelda-ocarina-of-time-2026": [
    95,
    135,
-   8.6
+   8.4
   ],
   "the-binding-of-isaac-repentance-plus-online": [
    90,
@@ -1445,11 +1363,6 @@
    85,
    13,
    9.1
-  ],
-  "call-of-duty-modern-warfare-4": [
-   85,
-   54,
-   7.4
   ],
   "world-of-warcraft-forever": [
    84,
@@ -1476,11 +1389,6 @@
    24,
    8.7
   ],
-  "milki-delivery": [
-   80,
-   7,
-   7.1
-  ],
   "football-manager-27": [
    80,
    28,
@@ -1488,7 +1396,7 @@
   ],
   "chivalware": [
    79,
-   7,
+   8,
    null
   ],
   "warhammer-survivors": [
@@ -1498,8 +1406,13 @@
   ],
   "virtue-and-a-sledgehammer": [
    79,
-   28,
+   29,
    5.9
+  ],
+  "milki-delivery": [
+   78,
+   9,
+   6.8
   ],
   "sonic-pico-park": [
    78,
@@ -1531,14 +1444,14 @@
    8,
    null
   ],
-  "lightyear-frontier": [
-   75,
-   12,
-   null
-  ],
   "hillthorn": [
    75,
    7,
+   null
+  ],
+  "lightyear-frontier": [
+   75,
+   12,
    null
   ],
   "godzilla-destroy-all-monsters-melee-remastered": [
@@ -1553,8 +1466,8 @@
   ],
   "australia-did-it-end-of-the-world-railway-defense": [
    73,
-   7,
-   6.8
+   8,
+   6.7
   ],
   "theos-cities-of-myth": [
    71,
@@ -1565,11 +1478,6 @@
    71,
    8,
    null
-  ],
-  "one-piece-grand-gourmet": [
-   70,
-   28,
-   6.6
   ],
   "hello-kitty-party-land": [
    70,
@@ -1600,11 +1508,6 @@
    63,
    7,
    null
-  ],
-  "volvys-adventure-reslimed": [
-   null,
-   0,
-   9.1
   ]
  }
 }
