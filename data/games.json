@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-23 10:46",
+ "updated": "2026-11-24 12:29",
  "window": [
-  "2026-10-24",
-  "2026-11-23"
+  "2026-10-25",
+  "2026-11-24"
  ],
- "total": 35,
+ "total": 36,
  "released": [
   {
    "slug": "queens-domain",
@@ -40,9 +40,9 @@
    ],
    "dev": "Freshly Baked Games",
    "pub": "Future Friends Games",
-   "meta": 87,
-   "meta_count": 13,
-   "user": 9,
+   "meta": 89,
+   "meta_count": 15,
+   "user": 9.1,
    "user_count": 28,
    "scores": {}
   },
@@ -65,7 +65,7 @@
    "meta": 74,
    "meta_count": 8,
    "user": 9,
-   "user_count": 77,
+   "user_count": 81,
    "scores": {}
   },
   {
@@ -117,8 +117,8 @@
    "dev": "Nintendo",
    "pub": "Nintendo",
    "meta": 95,
-   "meta_count": 135,
-   "user": 8.4,
+   "meta_count": 139,
+   "user": 8.3,
    "user_count": 7349,
    "scores": {
     "Eurogamer": 100,
@@ -156,8 +156,8 @@
    "dev": "Nicalis",
    "pub": "Nicalis",
    "meta": 90,
-   "meta_count": 10,
-   "user": 8.4,
+   "meta_count": 11,
+   "user": 8.2,
    "user_count": 0,
    "scores": {}
   },
@@ -179,7 +179,7 @@
    "pub": "Nintendo",
    "meta": 83,
    "meta_count": 34,
-   "user": 6.5,
+   "user": 6.3,
    "user_count": 35,
    "scores": {
     "Nintendo Life": 70
@@ -209,7 +209,7 @@
    "pub": "Rockstar Games",
    "meta": 99,
    "meta_count": 158,
-   "user": 5.6,
+   "user": 5.7,
    "user_count": 1,
    "scores": {
     "GameSpot": 100,
@@ -440,50 +440,10 @@
    ],
    "dev": "Telltale Games",
    "pub": "Telltale Games",
-   "meta": 84,
-   "meta_count": 14,
+   "meta": 82,
+   "meta_count": 15,
    "user": 7.9,
    "user_count": 8,
-   "scores": {}
-  },
-  {
-   "slug": "remothered-red-nuns-legacy",
-   "title": "Remothered: Red Nun's Legacy",
-   "date": "2026-10-27",
-   "url": "https://www.metacritic.com/game/remothered-red-nuns-legacy/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1793083817.jpg",
-   "plats": [
-    {
-     "n": "PC",
-     "s": 76,
-     "c": 10,
-     "d": "2026-10-27"
-    },
-    {
-     "n": "PS5",
-     "s": 73,
-     "c": 6,
-     "d": "2026-10-27"
-    },
-    {
-     "n": "NS2",
-     "s": null,
-     "c": 0,
-     "d": "2026-12-03"
-    },
-    {
-     "n": "XSX",
-     "s": null,
-     "c": 3,
-     "d": "2026-10-27"
-    }
-   ],
-   "dev": "Stormind Games",
-   "pub": "Stormind Games",
-   "meta": 76,
-   "meta_count": 12,
-   "user": 7.8,
-   "user_count": 0,
    "scores": {}
   },
   {
@@ -534,8 +494,70 @@
    "pub": "PICO PARK Inc.",
    "meta": 78,
    "meta_count": 10,
-   "user": 7.5,
+   "user": 7.6,
    "user_count": 3,
+   "scores": {}
+  },
+  {
+   "slug": "remothered-red-nuns-legacy",
+   "title": "Remothered: Red Nun's Legacy",
+   "date": "2026-10-27",
+   "url": "https://www.metacritic.com/game/remothered-red-nuns-legacy/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1793083817.jpg",
+   "plats": [
+    {
+     "n": "PC",
+     "s": 76,
+     "c": 10,
+     "d": "2026-10-27"
+    },
+    {
+     "n": "PS5",
+     "s": 73,
+     "c": 6,
+     "d": "2026-10-27"
+    },
+    {
+     "n": "NS2",
+     "s": null,
+     "c": 0,
+     "d": "2026-12-03"
+    },
+    {
+     "n": "XSX",
+     "s": null,
+     "c": 3,
+     "d": "2026-10-27"
+    }
+   ],
+   "dev": "Stormind Games",
+   "pub": "Stormind Games",
+   "meta": 76,
+   "meta_count": 12,
+   "user": 7.6,
+   "user_count": 0,
+   "scores": {}
+  },
+  {
+   "slug": "world-of-warcraft-forever",
+   "title": "World of Warcraft: Forever",
+   "date": "2026-11-04",
+   "url": "https://www.metacritic.com/game/world-of-warcraft-forever/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1794591329.jpg",
+   "plats": [
+    {
+     "n": "PC",
+     "s": 84,
+     "c": 7,
+     "d": "2026-11-04"
+    }
+   ],
+   "dev": "Blizzard Entertainment",
+   "pub": "Blizzard Entertainment",
+   "meta": 86,
+   "meta_count": 9,
+   "user": 6.9,
+   "user_count": 71,
    "scores": {}
   },
   {
@@ -585,25 +607,37 @@
    "scores": {}
   },
   {
-   "slug": "world-of-warcraft-forever",
-   "title": "World of Warcraft: Forever",
-   "date": "2026-11-04",
-   "url": "https://www.metacritic.com/game/world-of-warcraft-forever/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1794591329.jpg",
+   "slug": "anomalith",
+   "title": "ANOMALITH",
+   "date": "2026-10-29",
+   "url": "https://www.metacritic.com/game/anomalith/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1793202236.jpg",
    "plats": [
     {
+     "n": "NS2",
+     "s": null,
+     "c": 2,
+     "d": "2026-10-29"
+    },
+    {
+     "n": "PS5",
+     "s": 67,
+     "c": 4,
+     "d": "2026-10-29"
+    },
+    {
      "n": "PC",
-     "s": 84,
-     "c": 7,
-     "d": "2026-11-04"
+     "s": 70,
+     "c": 10,
+     "d": "2026-10-29"
     }
    ],
-   "dev": "Blizzard Entertainment",
-   "pub": "Blizzard Entertainment",
-   "meta": 84,
-   "meta_count": 8,
-   "user": 6.6,
-   "user_count": 21,
+   "dev": "FuRyu",
+   "pub": "FuRyu",
+   "meta": 70,
+   "meta_count": 10,
+   "user": 6.8,
+   "user_count": 0,
    "scores": {}
   },
   {
@@ -625,7 +659,7 @@
    "meta": 65,
    "meta_count": 14,
    "user": 6.5,
-   "user_count": 1,
+   "user_count": 3,
    "scores": {}
   },
   {
@@ -667,8 +701,8 @@
    "dev": "Sports Interactive",
    "pub": "Sega",
    "meta": 80,
-   "meta_count": 28,
-   "user": 5.5,
+   "meta_count": 29,
+   "user": 5.6,
    "user_count": 4,
    "scores": {}
   },
@@ -797,9 +831,31 @@
      "dev": "Nintendo",
      "pub": "Nintendo",
      "meta": 95,
-     "meta_count": 135,
-     "user": 8.4,
+     "meta_count": 139,
+     "user": 8.3,
      "user_count": 7349,
+     "scores": {}
+    },
+    {
+     "slug": "elden-ring-tarnished-edition",
+     "title": "Elden Ring: Tarnished Edition",
+     "date": "2026-08-28",
+     "url": "https://www.metacritic.com/game/elden-ring-tarnished-edition/",
+     "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1787423371.jpg",
+     "plats": [
+      {
+       "n": "NS2",
+       "s": 90,
+       "c": 53,
+       "d": null
+      }
+     ],
+     "dev": "From Software",
+     "pub": "Bandai Namco Games",
+     "meta": 90,
+     "meta_count": 57,
+     "user": 8.6,
+     "user_count": 50,
      "scores": {}
     },
     {
@@ -833,7 +889,7 @@
      "meta": 90,
      "meta_count": 83,
      "user": 8.2,
-     "user_count": 227,
+     "user_count": 267,
      "scores": {}
     },
     {
@@ -885,7 +941,7 @@
      "meta": 90,
      "meta_count": 74,
      "user": 8.2,
-     "user_count": 94,
+     "user_count": 102,
      "scores": {}
     },
     {
@@ -925,7 +981,7 @@
      "meta": 89,
      "meta_count": 141,
      "user": 9.3,
-     "user_count": 4126,
+     "user_count": 4698,
      "scores": {}
     },
     {
@@ -947,7 +1003,7 @@
      "meta": 89,
      "meta_count": 121,
      "user": 8.6,
-     "user_count": 590,
+     "user_count": 654,
      "scores": {}
     },
     {
@@ -1009,7 +1065,7 @@
      "meta": 89,
      "meta_count": 58,
      "user": 8.3,
-     "user_count": 53,
+     "user_count": 84,
      "scores": {}
     },
     {
@@ -1077,7 +1133,7 @@
      "meta": 88,
      "meta_count": 58,
      "user": 8.2,
-     "user_count": 88,
+     "user_count": 96,
      "scores": {}
     },
     {
@@ -1231,7 +1287,7 @@
      "meta": 85,
      "meta_count": 110,
      "user": 8.7,
-     "user_count": 497,
+     "user_count": 551,
      "scores": {}
     },
     {
@@ -1271,7 +1327,7 @@
      "meta": 85,
      "meta_count": 108,
      "user": 8.5,
-     "user_count": 234,
+     "user_count": 273,
      "scores": {}
     },
     {
@@ -1327,7 +1383,7 @@
      "meta": 82,
      "meta_count": 124,
      "user": 9.2,
-     "user_count": 796,
+     "user_count": 834,
      "scores": {}
     }
    ]
@@ -1337,47 +1393,47 @@
   "grand-theft-auto-vi": [
    99,
    158,
-   5.6
+   5.7
   ],
   "the-legend-of-zelda-ocarina-of-time-2026": [
    95,
-   135,
-   8.4
+   139,
+   8.3
   ],
   "the-binding-of-isaac-repentance-plus-online": [
    90,
-   10,
-   8.4
+   11,
+   8.2
+  ],
+  "queens-domain": [
+   89,
+   15,
+   9.1
   ],
   "phantom-blade-zero": [
    88,
    60,
    8.7
   ],
-  "queens-domain": [
-   87,
-   13,
-   9
+  "world-of-warcraft-forever": [
+   86,
+   9,
+   6.9
   ],
   "village-in-the-shade": [
    85,
    13,
    9.1
   ],
-  "world-of-warcraft-forever": [
-   84,
-   8,
-   6.6
-  ],
-  "the-wolf-among-us-remastered": [
-   84,
-   14,
-   7.9
-  ],
   "pikmin-4-nintendo-switch-2-edition-plus-dandori": [
    83,
    34,
-   6.5
+   6.3
+  ],
+  "the-wolf-among-us-remastered": [
+   82,
+   15,
+   7.9
   ],
   "marvels-guardians-of-the-galaxy-encore-edition": [
    81,
@@ -1391,8 +1447,8 @@
   ],
   "football-manager-27": [
    80,
-   28,
-   5.5
+   29,
+   5.6
   ],
   "chivalware": [
    79,
@@ -1417,17 +1473,17 @@
   "sonic-pico-park": [
    78,
    10,
-   7.5
-  ],
-  "derelikt": [
-   78,
-   7,
-   7.9
+   7.6
   ],
   "tanuki-pons-summer": [
    77,
    7,
    8
+  ],
+  "derelikt": [
+   77,
+   8,
+   7.5
   ],
   "annihilated": [
    76,
@@ -1437,21 +1493,26 @@
   "remothered-red-nuns-legacy": [
    76,
    12,
-   7.8
+   7.6
+  ],
+  "faraway": [
+   76,
+   7,
+   null
   ],
   "cozy-game-restoration": [
    75,
    8,
    null
   ],
-  "hillthorn": [
-   75,
-   7,
-   null
-  ],
   "lightyear-frontier": [
    75,
    12,
+   null
+  ],
+  "hillthorn": [
+   75,
+   7,
    null
   ],
   "godzilla-destroy-all-monsters-melee-remastered": [
@@ -1485,9 +1546,9 @@
    8.1
   ],
   "anomalith": [
-   69,
-   7,
-   7.7
+   70,
+   10,
+   6.8
   ],
   "croc-2-kingdom-of-the-gobbos": [
    68,
@@ -1497,7 +1558,7 @@
   "moomin-midsummer-madness": [
    67,
    8,
-   8
+   7.8
   ],
   "ashes-of-the-singularity-ii": [
    65,
