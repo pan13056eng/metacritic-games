@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-24 12:29",
+ "updated": "2026-11-25 11:17",
  "window": [
-  "2026-10-25",
-  "2026-11-24"
+  "2026-10-26",
+  "2026-11-25"
  ],
- "total": 36,
+ "total": 37,
  "released": [
   {
    "slug": "queens-domain",
@@ -40,8 +40,8 @@
    ],
    "dev": "Freshly Baked Games",
    "pub": "Future Friends Games",
-   "meta": 89,
-   "meta_count": 15,
+   "meta": 90,
+   "meta_count": 17,
    "user": 9.1,
    "user_count": 28,
    "scores": {}
@@ -101,6 +101,54 @@
    }
   },
   {
+   "slug": "godzilla-destroy-all-monsters-melee-remastered",
+   "title": "Godzilla: Destroy All Monsters Melee Remastered",
+   "date": "2026-11-03",
+   "url": "https://www.metacritic.com/game/godzilla-destroy-all-monsters-melee-remastered/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1790868499.jpg",
+   "plats": [
+    {
+     "n": "PS5",
+     "s": 76,
+     "c": 11,
+     "d": "2026-11-03"
+    },
+    {
+     "n": "XSX",
+     "s": null,
+     "c": 1,
+     "d": "2026-11-03"
+    },
+    {
+     "n": "PC",
+     "s": 70,
+     "c": 8,
+     "d": "2026-11-03"
+    },
+    {
+     "n": "NS2",
+     "s": 69,
+     "c": 9,
+     "d": "2026-11-03"
+    },
+    {
+     "n": "NS",
+     "s": null,
+     "c": 0,
+     "d": "2026-11-03"
+    }
+   ],
+   "dev": "Pipeworks Software, Inc.",
+   "pub": "Atari",
+   "meta": 74,
+   "meta_count": 16,
+   "user": 8.7,
+   "user_count": 13,
+   "scores": {
+    "Push Square": 70
+   }
+  },
+  {
    "slug": "the-legend-of-zelda-ocarina-of-time-2026",
    "title": "The Legend of Zelda: Ocarina of Time",
    "date": "2026-11-05",
@@ -157,7 +205,7 @@
    "pub": "Nicalis",
    "meta": 90,
    "meta_count": 11,
-   "user": 8.2,
+   "user": 8.1,
    "user_count": 0,
    "scores": {}
   },
@@ -255,9 +303,9 @@
    "dev": "Nippon Ichi Software",
    "pub": "NIS America",
    "meta": 85,
-   "meta_count": 13,
-   "user": 9.1,
-   "user_count": 2,
+   "meta_count": 14,
+   "user": 9.2,
+   "user_count": 4,
    "scores": {}
   },
   {
@@ -280,52 +328,6 @@
    "meta_count": 24,
    "user": 8.7,
    "user_count": 6,
-   "scores": {}
-  },
-  {
-   "slug": "godzilla-destroy-all-monsters-melee-remastered",
-   "title": "Godzilla: Destroy All Monsters Melee Remastered",
-   "date": "2026-11-03",
-   "url": "https://www.metacritic.com/game/godzilla-destroy-all-monsters-melee-remastered/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1790868499.jpg",
-   "plats": [
-    {
-     "n": "PS5",
-     "s": 76,
-     "c": 11,
-     "d": "2026-11-03"
-    },
-    {
-     "n": "XSX",
-     "s": null,
-     "c": 1,
-     "d": "2026-11-03"
-    },
-    {
-     "n": "PC",
-     "s": 70,
-     "c": 8,
-     "d": "2026-11-03"
-    },
-    {
-     "n": "NS2",
-     "s": 69,
-     "c": 9,
-     "d": "2026-11-03"
-    },
-    {
-     "n": "NS",
-     "s": null,
-     "c": 0,
-     "d": "2026-11-03"
-    }
-   ],
-   "dev": "Pipeworks Software, Inc.",
-   "pub": "Atari",
-   "meta": 74,
-   "meta_count": 16,
-   "user": 8.7,
-   "user_count": 4,
    "scores": {}
   },
   {
@@ -494,7 +496,7 @@
    "pub": "PICO PARK Inc.",
    "meta": 78,
    "meta_count": 10,
-   "user": 7.6,
+   "user": 7.7,
    "user_count": 3,
    "scores": {}
   },
@@ -536,6 +538,52 @@
    "meta_count": 12,
    "user": 7.6,
    "user_count": 0,
+   "scores": {}
+  },
+  {
+   "slug": "shrek-2-remastered",
+   "title": "Shrek 2 Remastered",
+   "date": "2026-11-10",
+   "url": "https://www.metacritic.com/game/shrek-2-remastered/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1301283-52.jpg",
+   "plats": [
+    {
+     "n": "XSX",
+     "s": null,
+     "c": 1,
+     "d": "2026-11-10"
+    },
+    {
+     "n": "PC",
+     "s": null,
+     "c": 2,
+     "d": "2026-11-10"
+    },
+    {
+     "n": "NS",
+     "s": null,
+     "c": 0,
+     "d": "2026-11-10"
+    },
+    {
+     "n": "NS2",
+     "s": null,
+     "c": 3,
+     "d": "2026-11-10"
+    },
+    {
+     "n": "PS5",
+     "s": 54,
+     "c": 7,
+     "d": "2026-11-10"
+    }
+   ],
+   "dev": "Aspyr",
+   "pub": "Aspyr",
+   "meta": 54,
+   "meta_count": 7,
+   "user": 7.6,
+   "user_count": 5,
    "scores": {}
   },
   {
@@ -603,7 +651,7 @@
    "meta": 79,
    "meta_count": 19,
    "user": 6.9,
-   "user_count": 4,
+   "user_count": 8,
    "scores": {}
   },
   {
@@ -663,6 +711,28 @@
    "scores": {}
   },
   {
+   "slug": "milki-delivery",
+   "title": "Milki Delivery",
+   "date": "2026-11-17",
+   "url": "https://www.metacritic.com/game/milki-delivery/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1794901919.jpg",
+   "plats": [
+    {
+     "n": "PC",
+     "s": 80,
+     "c": 10,
+     "d": "2026-11-17"
+    }
+   ],
+   "dev": "Doot",
+   "pub": "Doot Tiny Games",
+   "meta": 80,
+   "meta_count": 10,
+   "user": 6.3,
+   "user_count": 3,
+   "scores": {}
+  },
+  {
    "slug": "virtue-and-a-sledgehammer",
    "title": "Virtue and a Sledgehammer",
    "date": "2026-10-27",
@@ -703,7 +773,7 @@
    "meta": 80,
    "meta_count": 29,
    "user": 5.6,
-   "user_count": 4,
+   "user_count": 12,
    "scores": {}
   },
   {
@@ -1023,7 +1093,7 @@
      "dev": "Nintendo",
      "pub": "Nintendo",
      "meta": 89,
-     "meta_count": 113,
+     "meta_count": 115,
      "user": 8.5,
      "user_count": 350,
      "scores": {}
@@ -1165,7 +1235,7 @@
      "dev": "Fuse Games",
      "pub": "Secret Mode",
      "meta": 88,
-     "meta_count": 82,
+     "meta_count": 83,
      "user": 8.1,
      "user_count": 54,
      "scores": {}
@@ -1400,15 +1470,15 @@
    139,
    8.3
   ],
+  "queens-domain": [
+   90,
+   17,
+   9.1
+  ],
   "the-binding-of-isaac-repentance-plus-online": [
    90,
    11,
-   8.2
-  ],
-  "queens-domain": [
-   89,
-   15,
-   9.1
+   8.1
   ],
   "phantom-blade-zero": [
    88,
@@ -1422,8 +1492,8 @@
   ],
   "village-in-the-shade": [
    85,
-   13,
-   9.1
+   14,
+   9.2
   ],
   "pikmin-4-nintendo-switch-2-edition-plus-dandori": [
    83,
@@ -1445,6 +1515,11 @@
    24,
    8.7
   ],
+  "milki-delivery": [
+   80,
+   10,
+   6.3
+  ],
   "football-manager-27": [
    80,
    29,
@@ -1465,15 +1540,10 @@
    29,
    5.9
   ],
-  "milki-delivery": [
-   78,
-   9,
-   6.8
-  ],
   "sonic-pico-park": [
    78,
    10,
-   7.6
+   7.7
   ],
   "tanuki-pons-summer": [
    77,
@@ -1505,15 +1575,20 @@
    8,
    null
   ],
+  "hillthorn": [
+   75,
+   7,
+   null
+  ],
   "lightyear-frontier": [
    75,
    12,
    null
   ],
-  "hillthorn": [
-   75,
-   7,
-   null
+  "australia-did-it-end-of-the-world-railway-defense": [
+   74,
+   9,
+   6.7
   ],
   "godzilla-destroy-all-monsters-melee-remastered": [
    74,
@@ -1524,11 +1599,6 @@
    74,
    8,
    9
-  ],
-  "australia-did-it-end-of-the-world-railway-defense": [
-   73,
-   8,
-   6.7
   ],
   "theos-cities-of-myth": [
    71,
@@ -1550,15 +1620,15 @@
    10,
    6.8
   ],
+  "moomin-midsummer-madness": [
+   69,
+   9,
+   7.8
+  ],
   "croc-2-kingdom-of-the-gobbos": [
    68,
    12,
    null
-  ],
-  "moomin-midsummer-madness": [
-   67,
-   8,
-   7.8
   ],
   "ashes-of-the-singularity-ii": [
    65,
@@ -1569,6 +1639,11 @@
    63,
    7,
    null
+  ],
+  "shrek-2-remastered": [
+   54,
+   7,
+   7.6
   ]
  }
 }
