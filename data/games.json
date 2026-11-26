@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-25 11:17",
+ "updated": "2026-11-26 10:53",
  "window": [
-  "2026-10-26",
-  "2026-11-25"
+  "2026-10-27",
+  "2026-11-26"
  ],
- "total": 37,
+ "total": 38,
  "released": [
   {
    "slug": "queens-domain",
@@ -40,9 +40,9 @@
    ],
    "dev": "Freshly Baked Games",
    "pub": "Future Friends Games",
-   "meta": 90,
-   "meta_count": 17,
-   "user": 9.1,
+   "meta": 91,
+   "meta_count": 19,
+   "user": 9.2,
    "user_count": 28,
    "scores": {}
   },
@@ -93,11 +93,35 @@
    "meta": 88,
    "meta_count": 60,
    "user": 8.7,
-   "user_count": 416,
+   "user_count": 645,
    "scores": {
     "IGN": 90,
     "GameSpot": 80,
     "Eurogamer": 60
+   }
+  },
+  {
+   "slug": "stellar-blade-complete-edition",
+   "title": "Stellar Blade: Complete Edition",
+   "date": "2026-11-05",
+   "url": "https://www.metacritic.com/game/stellar-blade-complete-edition/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1793661090.jpg",
+   "plats": [
+    {
+     "n": "NS2",
+     "s": 81,
+     "c": 7,
+     "d": "2026-11-05"
+    }
+   ],
+   "dev": "SHIFT UP Corporation",
+   "pub": "SHIFT UP Corporation",
+   "meta": 81,
+   "meta_count": 24,
+   "user": 8.7,
+   "user_count": 17,
+   "scores": {
+    "Nintendo Life": 70
    }
   },
   {
@@ -167,7 +191,7 @@
    "meta": 95,
    "meta_count": 139,
    "user": 8.3,
-   "user_count": 7349,
+   "user_count": 10000,
    "scores": {
     "Eurogamer": 100,
     "GameSpot": 90,
@@ -206,7 +230,7 @@
    "meta": 90,
    "meta_count": 11,
    "user": 8.1,
-   "user_count": 0,
+   "user_count": 21,
    "scores": {}
   },
   {
@@ -226,9 +250,9 @@
    "dev": "Nintendo",
    "pub": "Nintendo",
    "meta": 83,
-   "meta_count": 34,
-   "user": 6.3,
-   "user_count": 35,
+   "meta_count": 35,
+   "user": 6.4,
+   "user_count": 54,
    "scores": {
     "Nintendo Life": 70
    }
@@ -258,7 +282,7 @@
    "meta": 99,
    "meta_count": 158,
    "user": 5.7,
-   "user_count": 1,
+   "user_count": 10000,
    "scores": {
     "GameSpot": 100,
     "Push Square": 100,
@@ -309,28 +333,6 @@
    "scores": {}
   },
   {
-   "slug": "stellar-blade-complete-edition",
-   "title": "Stellar Blade: Complete Edition",
-   "date": "2026-11-05",
-   "url": "https://www.metacritic.com/game/stellar-blade-complete-edition/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1793661090.jpg",
-   "plats": [
-    {
-     "n": "NS2",
-     "s": 81,
-     "c": 7,
-     "d": "2026-11-05"
-    }
-   ],
-   "dev": "SHIFT UP Corporation",
-   "pub": "SHIFT UP Corporation",
-   "meta": 81,
-   "meta_count": 24,
-   "user": 8.7,
-   "user_count": 6,
-   "scores": {}
-  },
-  {
    "slug": "marvels-guardians-of-the-galaxy-encore-edition",
    "title": "Marvel's Guardians of the Galaxy: Encore Edition",
    "date": "2026-11-05",
@@ -349,7 +351,7 @@
    "meta": 81,
    "meta_count": 14,
    "user": 8.3,
-   "user_count": 2,
+   "user_count": 6,
    "scores": {}
   },
   {
@@ -397,7 +399,7 @@
    "dev": "Bandai Namco Games",
    "pub": "Bandai Namco Games",
    "meta": 70,
-   "meta_count": 10,
+   "meta_count": 11,
    "user": 8.1,
    "user_count": 1,
    "scores": {}
@@ -495,9 +497,9 @@
    "dev": "TECOPARK",
    "pub": "PICO PARK Inc.",
    "meta": 78,
-   "meta_count": 10,
+   "meta_count": 11,
    "user": 7.7,
-   "user_count": 3,
+   "user_count": 10,
    "scores": {}
   },
   {
@@ -603,8 +605,8 @@
    "dev": "Blizzard Entertainment",
    "pub": "Blizzard Entertainment",
    "meta": 86,
-   "meta_count": 9,
-   "user": 6.9,
+   "meta_count": 11,
+   "user": 7,
    "user_count": 71,
    "scores": {}
   },
@@ -652,6 +654,28 @@
    "meta_count": 19,
    "user": 6.9,
    "user_count": 8,
+   "scores": {}
+  },
+  {
+   "slug": "australia-did-it-end-of-the-world-railway-defense",
+   "title": "Australia Did It: End-of-the-World Railway Defense Business",
+   "date": "2026-11-17",
+   "url": "https://www.metacritic.com/game/australia-did-it-end-of-the-world-railway-defense/",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1794339442.jpg",
+   "plats": [
+    {
+     "n": "PC",
+     "s": 75,
+     "c": 10,
+     "d": "2026-11-17"
+    }
+   ],
+   "dev": "Rami Ismail",
+   "pub": "Mystic Forge",
+   "meta": 75,
+   "meta_count": 10,
+   "user": 6.9,
+   "user_count": 0,
    "scores": {}
   },
   {
@@ -885,6 +909,34 @@
    "year": 2026,
    "games": [
     {
+     "slug": "grand-theft-auto-vi",
+     "title": "Grand Theft Auto VI",
+     "date": "2026-11-19",
+     "url": "https://www.metacritic.com/game/grand-theft-auto-vi/",
+     "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1781823122.jpg",
+     "plats": [
+      {
+       "n": "PS5",
+       "s": 99,
+       "c": 156,
+       "d": "2026-11-19"
+      },
+      {
+       "n": "XSX",
+       "s": 99,
+       "c": 14,
+       "d": "2026-11-19"
+      }
+     ],
+     "dev": "Rockstar Games",
+     "pub": "Rockstar Games",
+     "meta": 99,
+     "meta_count": 158,
+     "user": 5.7,
+     "user_count": 10000,
+     "scores": {}
+    },
+    {
      "slug": "the-legend-of-zelda-ocarina-of-time-2026",
      "title": "The Legend of Zelda: Ocarina of Time",
      "date": "2026-11-05",
@@ -903,7 +955,7 @@
      "meta": 95,
      "meta_count": 139,
      "user": 8.3,
-     "user_count": 7349,
+     "user_count": 10000,
      "scores": {}
     },
     {
@@ -1095,7 +1147,7 @@
      "meta": 89,
      "meta_count": 115,
      "user": 8.5,
-     "user_count": 350,
+     "user_count": 423,
      "scores": {}
     },
     {
@@ -1163,7 +1215,7 @@
      "meta": 88,
      "meta_count": 60,
      "user": 8.7,
-     "user_count": 416,
+     "user_count": 645,
      "scores": {}
     },
     {
@@ -1317,7 +1369,7 @@
      "meta": 85,
      "meta_count": 63,
      "user": 8.8,
-     "user_count": 80,
+     "user_count": 130,
      "scores": {}
     },
     {
@@ -1471,9 +1523,9 @@
    8.3
   ],
   "queens-domain": [
-   90,
-   17,
-   9.1
+   91,
+   19,
+   9.2
   ],
   "the-binding-of-isaac-repentance-plus-online": [
    90,
@@ -1487,8 +1539,8 @@
   ],
   "world-of-warcraft-forever": [
    86,
-   9,
-   6.9
+   11,
+   7
   ],
   "village-in-the-shade": [
    85,
@@ -1497,8 +1549,8 @@
   ],
   "pikmin-4-nintendo-switch-2-edition-plus-dandori": [
    83,
-   34,
-   6.3
+   35,
+   6.4
   ],
   "the-wolf-among-us-remastered": [
    82,
@@ -1542,8 +1594,13 @@
   ],
   "sonic-pico-park": [
    78,
-   10,
+   11,
    7.7
+  ],
+  "9-kings": [
+   78,
+   7,
+   8.3
   ],
   "tanuki-pons-summer": [
    77,
@@ -1575,20 +1632,20 @@
    8,
    null
   ],
-  "hillthorn": [
-   75,
-   7,
-   null
-  ],
   "lightyear-frontier": [
    75,
    12,
    null
   ],
+  "hillthorn": [
+   75,
+   7,
+   null
+  ],
   "australia-did-it-end-of-the-world-railway-defense": [
-   74,
-   9,
-   6.7
+   75,
+   10,
+   6.9
   ],
   "godzilla-destroy-all-monsters-melee-remastered": [
    74,
@@ -1610,15 +1667,15 @@
    8,
    null
   ],
-  "hello-kitty-party-land": [
-   70,
-   10,
-   8.1
-  ],
   "anomalith": [
    70,
    10,
    6.8
+  ],
+  "hello-kitty-party-land": [
+   70,
+   11,
+   8.1
   ],
   "moomin-midsummer-madness": [
    69,
@@ -1635,15 +1692,15 @@
    14,
    6.5
   ],
-  "hunters-moon": [
-   63,
-   7,
-   null
-  ],
   "shrek-2-remastered": [
    54,
    7,
    7.6
+  ],
+  "appulse": [
+   88,
+   4,
+   null
   ]
  }
 }
