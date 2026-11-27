@@ -1,17 +1,17 @@
 {
- "updated": "2026-11-26 10:53",
+ "updated": "2026-11-27 10:51",
  "window": [
-  "2026-10-27",
-  "2026-11-26"
+  "2026-10-28",
+  "2026-11-27"
  ],
- "total": 38,
+ "total": 34,
  "released": [
   {
    "slug": "queens-domain",
    "title": "Queen's Domain",
    "date": "2026-10-30",
    "url": "https://www.metacritic.com/game/queens-domain/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-944627-52.jpg",
+   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1795738010.jpg",
    "plats": [
     {
      "n": "PC",
@@ -42,7 +42,7 @@
    "pub": "Future Friends Games",
    "meta": 91,
    "meta_count": 19,
-   "user": 9.2,
+   "user": 9.1,
    "user_count": 28,
    "scores": {}
   },
@@ -280,7 +280,7 @@
    "dev": "Rockstar Games",
    "pub": "Rockstar Games",
    "meta": 99,
-   "meta_count": 158,
+   "meta_count": 161,
    "user": 5.7,
    "user_count": 10000,
    "scores": {
@@ -292,46 +292,6 @@
   }
  ],
  "watch": [
-  {
-   "slug": "village-in-the-shade",
-   "title": "Village in the Shade",
-   "date": "2026-10-27",
-   "url": "https://www.metacritic.com/game/village-in-the-shade/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1792722773.jpg",
-   "plats": [
-    {
-     "n": "PS5",
-     "s": 84,
-     "c": 4,
-     "d": "2026-10-27"
-    },
-    {
-     "n": "PC",
-     "s": 87,
-     "c": 6,
-     "d": "2026-07-29"
-    },
-    {
-     "n": "NS2",
-     "s": 85,
-     "c": 11,
-     "d": "2026-10-27"
-    },
-    {
-     "n": "NS",
-     "s": null,
-     "c": 0,
-     "d": "2026-10-27"
-    }
-   ],
-   "dev": "Nippon Ichi Software",
-   "pub": "NIS America",
-   "meta": 85,
-   "meta_count": 14,
-   "user": 9.2,
-   "user_count": 4,
-   "scores": {}
-  },
   {
    "slug": "marvels-guardians-of-the-galaxy-encore-edition",
    "title": "Marvel's Guardians of the Galaxy: Encore Edition",
@@ -500,46 +460,6 @@
    "meta_count": 11,
    "user": 7.7,
    "user_count": 10,
-   "scores": {}
-  },
-  {
-   "slug": "remothered-red-nuns-legacy",
-   "title": "Remothered: Red Nun's Legacy",
-   "date": "2026-10-27",
-   "url": "https://www.metacritic.com/game/remothered-red-nuns-legacy/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1793083817.jpg",
-   "plats": [
-    {
-     "n": "PC",
-     "s": 76,
-     "c": 10,
-     "d": "2026-10-27"
-    },
-    {
-     "n": "PS5",
-     "s": 73,
-     "c": 6,
-     "d": "2026-10-27"
-    },
-    {
-     "n": "NS2",
-     "s": null,
-     "c": 0,
-     "d": "2026-12-03"
-    },
-    {
-     "n": "XSX",
-     "s": null,
-     "c": 3,
-     "d": "2026-10-27"
-    }
-   ],
-   "dev": "Stormind Games",
-   "pub": "Stormind Games",
-   "meta": 76,
-   "meta_count": 12,
-   "user": 7.6,
-   "user_count": 0,
    "scores": {}
   },
   {
@@ -757,28 +677,6 @@
    "scores": {}
   },
   {
-   "slug": "virtue-and-a-sledgehammer",
-   "title": "Virtue and a Sledgehammer",
-   "date": "2026-10-27",
-   "url": "https://www.metacritic.com/game/virtue-and-a-sledgehammer/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/7/2/7-1793116470.jpg",
-   "plats": [
-    {
-     "n": "PC",
-     "s": 79,
-     "c": 11,
-     "d": "2026-10-27"
-    }
-   ],
-   "dev": "Deconstructeam",
-   "pub": "Devolver Digital",
-   "meta": 79,
-   "meta_count": 29,
-   "user": 5.9,
-   "user_count": 3,
-   "scores": {}
-  },
-  {
    "slug": "football-manager-27",
    "title": "Football Manager 27",
    "date": "2026-11-10",
@@ -931,7 +829,7 @@
      "dev": "Rockstar Games",
      "pub": "Rockstar Games",
      "meta": 99,
-     "meta_count": 158,
+     "meta_count": 161,
      "user": 5.7,
      "user_count": 10000,
      "scores": {}
@@ -1514,7 +1412,7 @@
  "sig": {
   "grand-theft-auto-vi": [
    99,
-   158,
+   161,
    5.7
   ],
   "the-legend-of-zelda-ocarina-of-time-2026": [
@@ -1525,7 +1423,7 @@
   "queens-domain": [
    91,
    19,
-   9.2
+   9.1
   ],
   "the-binding-of-isaac-repentance-plus-online": [
    90,
@@ -1541,11 +1439,6 @@
    86,
    11,
    7
-  ],
-  "village-in-the-shade": [
-   85,
-   14,
-   9.2
   ],
   "pikmin-4-nintendo-switch-2-edition-plus-dandori": [
    83,
@@ -1587,11 +1480,6 @@
    19,
    6.9
   ],
-  "virtue-and-a-sledgehammer": [
-   79,
-   29,
-   5.9
-  ],
   "sonic-pico-park": [
    78,
    11,
@@ -1616,11 +1504,6 @@
    76,
    10,
    8.1
-  ],
-  "remothered-red-nuns-legacy": [
-   76,
-   12,
-   7.6
   ],
   "faraway": [
    76,
@@ -1696,11 +1579,6 @@
    54,
    7,
    7.6
-  ],
-  "appulse": [
-   88,
-   4,
-   null
   ]
  }
 }
