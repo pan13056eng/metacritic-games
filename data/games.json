@@ -1,10 +1,10 @@
 {
- "updated": "2026-11-27 10:51",
+ "updated": "2026-11-28 10:27",
  "window": [
-  "2026-10-28",
-  "2026-11-27"
+  "2026-10-29",
+  "2026-11-28"
  ],
- "total": 34,
+ "total": 33,
  "released": [
   {
    "slug": "queens-domain",
@@ -43,29 +43,7 @@
    "meta": 91,
    "meta_count": 19,
    "user": 9.1,
-   "user_count": 28,
-   "scores": {}
-  },
-  {
-   "slug": "probably-stolen-cyberpunk-pawnshop-simulator",
-   "title": "Probably Stolen - Cyberpunk Pawnshop Simulator",
-   "date": "2026-10-28",
-   "url": "https://www.metacritic.com/game/probably-stolen-cyberpunk-pawnshop-simulator/",
-   "img": "https://www.metacritic.com/a/img/catalog/provider/6/12/6-1-1262614-52.jpg",
-   "plats": [
-    {
-     "n": "PC",
-     "s": 73,
-     "c": 7,
-     "d": "2026-10-28"
-    }
-   ],
-   "dev": "Questing Goose Studio",
-   "pub": "tinyBuild",
-   "meta": 74,
-   "meta_count": 8,
-   "user": 9,
-   "user_count": 81,
+   "user_count": 41,
    "scores": {}
   },
   {
@@ -189,7 +167,7 @@
    "dev": "Nintendo",
    "pub": "Nintendo",
    "meta": 95,
-   "meta_count": 139,
+   "meta_count": 140,
    "user": 8.3,
    "user_count": 10000,
    "scores": {
@@ -524,9 +502,9 @@
    ],
    "dev": "Blizzard Entertainment",
    "pub": "Blizzard Entertainment",
-   "meta": 86,
-   "meta_count": 11,
-   "user": 7,
+   "meta": 83,
+   "meta_count": 12,
+   "user": 6.9,
    "user_count": 71,
    "scores": {}
   },
@@ -592,8 +570,8 @@
    ],
    "dev": "Rami Ismail",
    "pub": "Mystic Forge",
-   "meta": 75,
-   "meta_count": 10,
+   "meta": 72,
+   "meta_count": 11,
    "user": 6.9,
    "user_count": 0,
    "scores": {}
@@ -851,7 +829,7 @@
      "dev": "Nintendo",
      "pub": "Nintendo",
      "meta": 95,
-     "meta_count": 139,
+     "meta_count": 140,
      "user": 8.3,
      "user_count": 10000,
      "scores": {}
@@ -1187,7 +1165,7 @@
      "meta": 88,
      "meta_count": 83,
      "user": 8.1,
-     "user_count": 54,
+     "user_count": 60,
      "scores": {}
     },
     {
@@ -1221,7 +1199,7 @@
      "meta": 87,
      "meta_count": 76,
      "user": 8.9,
-     "user_count": 68,
+     "user_count": 85,
      "scores": {}
     },
     {
@@ -1381,7 +1359,7 @@
      "meta": 83,
      "meta_count": 90,
      "user": 8.7,
-     "user_count": 275,
+     "user_count": 307,
      "scores": {}
     },
     {
@@ -1417,7 +1395,7 @@
   ],
   "the-legend-of-zelda-ocarina-of-time-2026": [
    95,
-   139,
+   140,
    8.3
   ],
   "queens-domain": [
@@ -1435,15 +1413,15 @@
    60,
    8.7
   ],
-  "world-of-warcraft-forever": [
-   86,
-   11,
-   7
-  ],
   "pikmin-4-nintendo-switch-2-edition-plus-dandori": [
    83,
    35,
    6.4
+  ],
+  "world-of-warcraft-forever": [
+   83,
+   12,
+   6.9
   ],
   "the-wolf-among-us-remastered": [
    82,
@@ -1525,20 +1503,15 @@
    7,
    null
   ],
-  "australia-did-it-end-of-the-world-railway-defense": [
-   75,
-   10,
-   6.9
-  ],
   "godzilla-destroy-all-monsters-melee-remastered": [
    74,
    16,
    8.7
   ],
-  "probably-stolen-cyberpunk-pawnshop-simulator": [
-   74,
-   8,
-   9
+  "australia-did-it-end-of-the-world-railway-defense": [
+   72,
+   11,
+   6.9
   ],
   "theos-cities-of-myth": [
    71,
